@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="icon_pack" translatable="false">
+
+        <item>acdisplay</item>
+        <item>adaway</item>
+        <item>adiutor</item>
+        <item>afwall</item>
+        <item>android</item>
+        <item>audiofx</item>
+        <item>browser</item>
+        <item>bubble</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>chrome</item>
+        <item>clock</item>
+        <item>contacts</item>
+        <item>downloads</item>
+        <item>dropbox</item>
+        <item>dsub</item>
+        <item>facebook</item>
+        <item>fdroid</item>
+        <item>files</item>
+        <item>firefox</item>
+        <item>fourchan</item>
+        <item>gallery</item>
+        <item>keychain</item>
+        <item>lightning</item>
+        <item>mail</item>
+        <item>map</item>
+        <item>messages</item>
+        <item>mifit</item>
+        <item>money</item>
+        <item>music</item>
+        <item>notes</item>
+        <item>notificationnotes</item>
+        <item>nova</item>
+        <item>overchan</item>
+        <item>owncloud</item>
+        <item>pairz</item>
+        <item>password</item>
+        <item>people</item>
+        <item>phone</item>
+        <item>radio</item>
+        <item>recorder</item>
+        <item>recurrence</item>
+        <item>screencast</item>
+        <item>settings</item>
+        <item>shell</item>
+        <item>sim</item>
+        <item>soundcloud</item>
+        <item>swiftkey</item>
+        <item>tasks</item>
+        <item>telegram</item>
+        <item>themes</item>
+        <item>torch</item>
+        <item>tumblr</item>
+        <item>unifiednlp</item>
+        <item>viper</item>
+        <item>vlc</item>
+        <item>whatsapp</item>
+        <item>wikipedia</item>
+        <item>youtube</item>
+
+    </string-array>
+
+</resources>

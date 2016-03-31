@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <version>1</version>
+
+    <item drawable="acdisplay" />
+    <item drawable="adaway" />
+    <item drawable="adiutor" />
+    <item drawable="afwall" />
+    <item drawable="android" />
+    <item drawable="audiofx" />
+    <item drawable="browser" />
+    <item drawable="bubble" />
+    <item drawable="calculator" />
+    <item drawable="calendar" />
+    <item drawable="camera" />
+    <item drawable="chrome" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="downloads" />
+    <item drawable="dropbox" />
+    <item drawable="dsub" />
+    <item drawable="facebook" />
+    <item drawable="fdroid" />
+    <item drawable="files" />
+    <item drawable="firefox" />
+    <item drawable="fourchan" />
+    <item drawable="gallery" />
+    <item drawable="keychain" />
+    <item drawable="lightning" />
+    <item drawable="mail" />
+    <item drawable="map" />
+    <item drawable="messages" />
+    <item drawable="mifit" />
+    <item drawable="money" />
+    <item drawable="music" />
+    <item drawable="notes" />
+    <item drawable="notificationnotes" />
+    <item drawable="nova" />
+    <item drawable="overchan" />
+    <item drawable="owncloud" />
+    <item drawable="pairz" />
+    <item drawable="password" />
+    <item drawable="people" />
+    <item drawable="phone" />
+    <item drawable="radio" />
+    <item drawable="recorder" />
+    <item drawable="recurrence" />
+    <item drawable="screencast" />
+    <item drawable="settings" />
+    <item drawable="shell" />
+    <item drawable="sim" />
+    <item drawable="soundcloud" />
+    <item drawable="swiftkey" />
+    <item drawable="tasks" />
+    <item drawable="telegram" />
+    <item drawable="themes" />
+    <item drawable="torch" />
+    <item drawable="tumblr" />
+    <item drawable="unifiednlp" />
+    <item drawable="viper" />
+    <item drawable="vlc" />
+    <item drawable="whatsapp" />
+    <item drawable="wikipedia" />
+    <item drawable="youtube" />
+
+</resources>
