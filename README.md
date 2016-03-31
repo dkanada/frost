@@ -1,2 +1,2 @@
 # ICEcons
-IC3 icon pack
+IC3 icon pack for nova launcher
