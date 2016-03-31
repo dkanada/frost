@@ -21,19 +21,8 @@
             </intent-filter>
 
             <intent-filter>
-                <action android:name="com.anddoes.launcher.THEME" />
-            </intent-filter>
-
-            <intent-filter>
-                <action android:name="com.gau.go.launcherex.theme" />
-            </intent-filter>
-
-            <intent-filter>
-                <action android:name="com.fede.launcher.THEME_ICONPACK" />
-            </intent-filter>
-
-            <intent-filter>
-                <action android:name="org.adw.launcher.THEMES" />
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.anddoes.launcher.THEME" />
             </intent-filter>
 
         </activity>

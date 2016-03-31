@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ICEcons</string>
+    <bool name="config_iconpack">true</bool>
 </resources>
+
