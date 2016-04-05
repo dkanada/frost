@@ -17,9 +17,11 @@
         <item>calculator</item>
         <item>calendar</item>
         <item>camera</item>
+        <item>casper</item>
         <item>chrome</item>
         <item>clock</item>
         <item>contacts</item>
+        <item>conversations</item>
         <item>downloads</item>
         <item>dropbox</item>
         <item>dsub</item>
@@ -30,7 +32,9 @@
         <item>firefox</item>
         <item>forecastie</item>
         <item>fourchan</item>
+        <item>gadgetbridge</item>
         <item>gallery</item>
+        <item>gasflow</item>
         <item>gcamera</item>
         <item>gdocs</item>
         <item>gdrive</item>
@@ -54,17 +58,21 @@
         <item>icecons</item>
         <item>instagram</item>
         <item>keychain</item>
+        <item>kiss</item>
         <item>lightning</item>
         <item>mail</item>
         <item>map</item>
         <item>messages</item>
         <item>messenger</item>
+        <item>microchip</item>
         <item>mifit</item>
         <item>money</item>
         <item>music</item>
+        <item>netguard</item>
         <item>notes</item>
         <item>notificationnotes</item>
         <item>nova</item>
+        <item>opencamera</item>
         <item>overchan</item>
         <item>owncloud</item>
         <item>pairz</item>
@@ -74,6 +82,7 @@
         <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
+        <item>redreader</item>
         <item>retrica</item>
         <item>screencast</item>
         <item>settings</item>
@@ -90,11 +99,14 @@
         <item>themes</item>
         <item>torch</item>
         <item>tumblr</item>
+        <item>twidere</item>
+        <item>twitter</item>
         <item>unifiednlp</item>
         <item>viber</item>
         <item>viper</item>
         <item>vlc</item>
         <item>whatsapp</item>
+        <item>weather</item>
         <item>wikipedia</item>
         <item>youtube</item>
 

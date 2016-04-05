@@ -18,9 +18,11 @@
     <item drawable="calculator" />
     <item drawable="calendar" />
     <item drawable="camera" />
+    <item drawable="casper" />
     <item drawable="chrome" />
     <item drawable="clock" />
     <item drawable="contacts" />
+    <item drawable="conversations" />
     <item drawable="downloads" />
     <item drawable="dropbox" />
     <item drawable="dsub" />
@@ -31,7 +33,9 @@
     <item drawable="firefox" />
     <item drawable="forecastie" />
     <item drawable="fourchan" />
+    <item drawable="gadgetbridge" />
     <item drawable="gallery" />
+    <item drawable="gasflow" />
     <item drawable="gcamera" />
     <item drawable="gdocs" />
     <item drawable="gdrive" />
@@ -55,17 +59,21 @@
     <item drawable="icecons" />
     <item drawable="instagram" />
     <item drawable="keychain" />
+    <item drawable="kiss" />
     <item drawable="lightning" />
     <item drawable="mail" />
     <item drawable="map" />
     <item drawable="messages" />
     <item drawable="messenger" />
+    <item drawable="microchip" />
     <item drawable="mifit" />
     <item drawable="money" />
     <item drawable="music" />
+    <item drawable="netguard" />
     <item drawable="notes" />
     <item drawable="notificationnotes" />
     <item drawable="nova" />
+    <item drawable="opencamera" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
     <item drawable="pairz" />
@@ -75,6 +83,7 @@
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
+    <item drawable="redreader" />
     <item drawable="retrica" />
     <item drawable="screencast" />
     <item drawable="settings" />
@@ -91,11 +100,14 @@
     <item drawable="themes" />
     <item drawable="torch" />
     <item drawable="tumblr" />
+    <item drawable="twidere" />
+    <item drawable="twitter" />
     <item drawable="unifiednlp" />
     <item drawable="viber" />
     <item drawable="viper" />
     <item drawable="vlc" />
     <item drawable="whatsapp" />
+    <item drawable="weather" />
     <item drawable="wikipedia" />
     <item drawable="youtube" />
 
