@@ -32,16 +32,22 @@
         <item>fourchan</item>
         <item>gallery</item>
         <item>gcamera</item>
+        <item>gdocs</item>
         <item>gdrive</item>
         <item>gkeep</item>
+        <item>gkeyboard</item>
         <item>gmail</item>
         <item>gmaps</item>
         <item>gmovies</item>
         <item>gmusic</item>
+        <item>gnewsstand</item>
+        <item>gnewsweather</item>
         <item>google</item>
         <item>gphotos</item>
         <item>gplay</item>
         <item>gplaystore</item>
+        <item>gsheets</item>
+        <item>gslides</item>
         <item>hangouts</item>
         <item>hearth</item>
         <item>holo</item>
@@ -75,6 +81,7 @@
         <item>shell</item>
         <item>sim</item>
         <item>skype</item>
+        <item>snapchat</item>
         <item>soundcloud</item>
         <item>spotify</item>
         <item>swiftkey</item>
