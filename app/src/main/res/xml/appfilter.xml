@@ -11,6 +11,9 @@
     <!-- AdAway -->
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway"/>
 
+    <!-- Adobe Acrobat -->
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat"/>
+
     <!-- AfWall -->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall"/>
 
@@ -25,6 +28,9 @@
 
     <!-- Blogger -->
     <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity}" drawable="blogger"/>
+
+    <!-- Blue Minimal -->
+    <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal"/>
 
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble"/>
@@ -61,6 +67,9 @@
 
     <!-- Conversations -->
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
+
+    <!-- Cpu-Z -->
+    <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
 
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
@@ -201,6 +210,9 @@
     <!-- Google Slides -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gslides" />
 
+    <!-- Google Translate -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="gtranslate" />
+
     <!-- Google YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
@@ -215,6 +227,9 @@
 
     <!-- Kernel Adiutor -->
 	<item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
+
+    <!-- Kik -->
+    <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
 
     <!-- Kiss Launcher -->
     <item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="kiss" />
@@ -246,6 +261,12 @@
 	<!-- NewPipe -->
 	<item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity}" drawable="youtube" />
 
+    <!-- Nfc Tasks -->
+    <item component="ComponentInfo{com.wakdev.nfctasks/com.wakdev.nfctasks.MainActivity}" drawable="nfctasks" />
+
+    <!-- Nfc Tools -->
+    <item component="ComponentInfo{com.wakdev.wdnfc/com.wakdev.nfctools.free.MainActivityFree}" drawable="nfctools" />
+
 	<!-- Notification Notes -->
 	<item component="ComponentInfo{com.khuttun.notificationnotes/com.khuttun.notificationnotes.MainActivity}" drawable="notificationnotes" />
 
@@ -274,11 +295,17 @@
 	<!-- Password Store -->
 	<item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password" />
 
+    <!-- Pixlr -->
+    <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
+
     <!-- Recurrence -->
-    <item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.ui.activities.MainActivity}" drawable="recurrence" />
+    <item component="ComponentInfo{com.bleyl.recurrence/com.bleyl.recurrence.activities.MainActivity}" drawable="recurrence" />
 
     <!-- RedReader -->
     <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="redreader" />
+
+    <!-- Retrica -->
+    <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
@@ -301,11 +328,17 @@
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
 
+    <!-- Snapseed -->
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed" />
+
 	<!-- Soundcloud -->
 	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
 
     <!-- Sound Recorder -->
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder" />
+
+    <!-- Speedtest -->
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest" />
 
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
@@ -367,6 +400,9 @@
     <!-- Viper -->
     <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.VIPER4Android}" drawable="viper" />
 
+    <!-- 9gag -->
+    <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag"/>
+
 
 
     <!-- Nova Launcher specific -->
@@ -380,5 +416,6 @@
     <item component=":GALLERY" drawable="gallery" />
     <item component=":PHONE" drawable="phone" />
     <item component=":SMS" drawable="messages" />
+    <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="drawer" />
 
 </resources>

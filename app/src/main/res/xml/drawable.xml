@@ -5,6 +5,7 @@
     <version>1</version>
 
     <item drawable="acdisplay" />
+    <item drawable="acrobat" />
     <item drawable="adaway" />
     <item drawable="adiutor" />
     <item drawable="afwall" />
@@ -12,6 +13,7 @@
     <item drawable="apex" />
     <item drawable="audiofx" />
     <item drawable="blogger" />
+    <item drawable="blueminimal" />
     <item drawable="book" />
     <item drawable="browser" />
     <item drawable="bubble" />
@@ -23,7 +25,9 @@
     <item drawable="clock" />
     <item drawable="contacts" />
     <item drawable="conversations" />
+    <item drawable="cpuz" />
     <item drawable="downloads" />
+    <item drawable="drawer" />
     <item drawable="dropbox" />
     <item drawable="dsub" />
     <item drawable="earth" />
@@ -34,6 +38,7 @@
     <item drawable="forecastie" />
     <item drawable="fourchan" />
     <item drawable="gadgetbridge" />
+    <item drawable="gag" />
     <item drawable="gallery" />
     <item drawable="gasflow" />
     <item drawable="gcamera" />
@@ -53,12 +58,14 @@
     <item drawable="gplaystore" />
     <item drawable="gsheets" />
     <item drawable="gslides" />
+    <item drawable="gtranslate" />
     <item drawable="hangouts" />
     <item drawable="hearth" />
     <item drawable="holo" />
     <item drawable="icecons" />
     <item drawable="instagram" />
     <item drawable="keychain" />
+    <item drawable="kik" />
     <item drawable="kiss" />
     <item drawable="lightning" />
     <item drawable="mail" />
@@ -71,6 +78,8 @@
     <item drawable="music" />
     <item drawable="netguard" />
     <item drawable="notes" />
+    <item drawable="nfctasks" />
+    <item drawable="nfctools" />
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="opencamera" />
@@ -80,6 +89,7 @@
     <item drawable="password" />
     <item drawable="people" />
     <item drawable="phone" />
+    <item drawable="pixlr" />
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
@@ -92,8 +102,10 @@
     <item drawable="sim" />
     <item drawable="skype" />
     <item drawable="snapchat" />
+    <item drawable="snapseed" />
     <item drawable="soundcloud" />
     <item drawable="spotify" />
+    <item drawable="speedtest" />
     <item drawable="swiftkey" />
     <item drawable="tasks" />
     <item drawable="telegram" />

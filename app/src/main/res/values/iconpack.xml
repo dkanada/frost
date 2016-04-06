@@ -4,6 +4,7 @@
     <string-array name="icon_pack" translatable="false">
 
         <item>acdisplay</item>
+        <item>acrobat</item>
         <item>adaway</item>
         <item>adiutor</item>
         <item>afwall</item>
@@ -11,6 +12,7 @@
         <item>apex</item>
         <item>audiofx</item>
         <item>blogger</item>
+        <item>blueminimal</item>
         <item>book</item>
         <item>browser</item>
         <item>bubble</item>
@@ -22,7 +24,9 @@
         <item>clock</item>
         <item>contacts</item>
         <item>conversations</item>
+        <item>cpuz</item>
         <item>downloads</item>
+        <item>drawer</item>
         <item>dropbox</item>
         <item>dsub</item>
         <item>earth</item>
@@ -33,6 +37,7 @@
         <item>forecastie</item>
         <item>fourchan</item>
         <item>gadgetbridge</item>
+        <item>gag</item>
         <item>gallery</item>
         <item>gasflow</item>
         <item>gcamera</item>
@@ -52,12 +57,14 @@
         <item>gplaystore</item>
         <item>gsheets</item>
         <item>gslides</item>
+        <item>gtranslate</item>
         <item>hangouts</item>
         <item>hearth</item>
         <item>holo</item>
         <item>icecons</item>
         <item>instagram</item>
         <item>keychain</item>
+        <item>kik</item>
         <item>kiss</item>
         <item>lightning</item>
         <item>mail</item>
@@ -69,6 +76,8 @@
         <item>money</item>
         <item>music</item>
         <item>netguard</item>
+        <item>nfctasks</item>
+        <item>nfctools</item>
         <item>notes</item>
         <item>notificationnotes</item>
         <item>nova</item>
@@ -79,6 +88,7 @@
         <item>password</item>
         <item>people</item>
         <item>phone</item>
+        <item>pixlr</item>
         <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
@@ -91,8 +101,10 @@
         <item>sim</item>
         <item>skype</item>
         <item>snapchat</item>
+        <item>snapseed</item>
         <item>soundcloud</item>
         <item>spotify</item>
+        <item>speedtest</item>
         <item>swiftkey</item>
         <item>tasks</item>
         <item>telegram</item>
