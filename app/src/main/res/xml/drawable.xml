@@ -20,6 +20,7 @@
     <item drawable="bubble" />
     <item drawable="calculator" />
     <item drawable="calendar" />
+    <item drawable="callrecorder" />
     <item drawable="camera" />
     <item drawable="casper" />
     <item drawable="chrome" />
@@ -32,6 +33,7 @@
     <item drawable="dropbox" />
     <item drawable="dsub" />
     <item drawable="earth" />
+    <item drawable="echo" />
     <item drawable="es" />
     <item drawable="facebook" />
     <item drawable="fdroid" />
@@ -140,6 +142,7 @@
     <item drawable="viper" />
     <item drawable="vine" />
     <item drawable="vlc" />
+    <item drawable="vsco" />
     <item drawable="whatsapp" />
     <item drawable="weather" />
     <item drawable="wikipedia" />
