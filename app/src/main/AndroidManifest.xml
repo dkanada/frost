@@ -3,6 +3,7 @@
     package="ovh.ice.icecons">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
 
     <application
         android:allowBackup="true"
