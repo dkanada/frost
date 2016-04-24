@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <version>1</version>
+
+    <item drawable="bush" />
+    <item drawable="clovers" />
+    <item drawable="daisy" />
+    <item drawable="ivy" />
+    <item drawable="rock" />
+    <item drawable="wall" />
+
+</resources>
