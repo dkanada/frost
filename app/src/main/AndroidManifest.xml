@@ -33,7 +33,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".WallpaperActivity" />
-        <activity android:name=".WallpaperSetActivity"></activity>
+        <activity android:name=".WallpaperSetActivity" />
+        <activity android:name=".LicenseActivity"></activity>
     </application>
 
 </manifest>

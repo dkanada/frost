@@ -1,15 +1,11 @@
 package ovh.ice.icecons;
 
 import android.app.WallpaperManager;
-import android.content.Context;
 import android.content.Intent;
-import android.content.res.Resources;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Display;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.ImageView;
@@ -21,9 +17,9 @@ import java.io.IOException;
 public class WallpaperSetActivity extends AppCompatActivity {
 
     private int imageId;
-    private boolean isPortrait;
     private int screenWidth;
     private int screenHeight;
+    float scale;
 
     Bitmap Wallpaper;
 
@@ -36,10 +32,10 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
         final Intent intent = getIntent();
         imageId = intent.getIntExtra( "image", 0 );
-        isPortrait = getResources().getDisplayMetrics().widthPixels < getResources().getDisplayMetrics().heightPixels;
-        screenWidth = isPortrait ? getResources().getDisplayMetrics().widthPixels : getResources().getDisplayMetrics().heightPixels;
-        screenHeight = isPortrait ? getResources().getDisplayMetrics().heightPixels : getResources().getDisplayMetrics().widthPixels;
-        Wallpaper =  decodeSampledBitmapFromResource( getApplicationContext().getResources(), imageId, screenWidth, screenHeight );
+        screenWidth = IceScreenUtils.width( getApplicationContext() );
+        screenHeight = IceScreenUtils.height( getApplicationContext() );
+        Wallpaper =  IceImageUtils.bitmapLoad( getApplicationContext().getResources(), imageId, screenWidth, screenHeight );
+        scale = IceScreenUtils.densityScale( getApplicationContext() );
 
         createLayout();
     }
@@ -60,14 +56,15 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
         LinearLayout buttonBar = new LinearLayout( this );
         buttonBar.setOrientation( LinearLayout.HORIZONTAL );
-        buttonBar.setLayoutParams( new LinearLayout.LayoutParams( LinearLayout.LayoutParams.MATCH_PARENT, 256 ) );
+        buttonBar.setLayoutParams( new LinearLayout.LayoutParams( LinearLayout.LayoutParams.MATCH_PARENT, Math.round( 96 * scale ) ) );
         baseLayout.setBackgroundColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimary ) );
         buttonBar.setGravity( Gravity.CENTER );
+        buttonBar.setBackgroundColor( 0xffffffff );
         baseLayout.addView( buttonBar );
 
         ImageView backButton = new ImageView( this );
-        backButton.setLayoutParams( new LinearLayout.LayoutParams( 0, 192, 1 ) );
-        backButton.setImageResource( R.drawable.ic_back );
+        backButton.setLayoutParams( new LinearLayout.LayoutParams( 0, Math.round( 72 * scale ), 1 ) );
+        backButton.setImageBitmap( IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_close, Math.round( 72 * scale ), Math.round( 72 * scale ) ) );
         buttonBar.addView( backButton );
         backButton.setOnClickListener( new View.OnClickListener() {
             @Override
@@ -77,8 +74,8 @@ public class WallpaperSetActivity extends AppCompatActivity {
         });
 
         ImageView applyButton = new ImageView( this );
-        applyButton.setLayoutParams( new LinearLayout.LayoutParams( 0, 192, 1 ) );
-        applyButton.setImageResource( R.drawable.ic_apply );
+        applyButton.setLayoutParams( new LinearLayout.LayoutParams( 0, Math.round( 72 * scale ), 1 ) );
+        applyButton.setImageBitmap( IceImageUtils.bitmapLoad( getApplicationContext().getResources(), R.drawable.ic_apply, Math.round( 72 * scale ), Math.round( 72 * scale ) ) );
         buttonBar.addView( applyButton );
         applyButton.setOnClickListener( new View.OnClickListener() {
             @Override
@@ -96,7 +93,7 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
             wallpaperManager.setBitmap( Wallpaper );
 
-            Toast toast = Toast.makeText( this, "Wallpaper Set", Toast.LENGTH_SHORT );
+            Toast toast = Toast.makeText( this, "Wallpaper set", Toast.LENGTH_SHORT );
             toast.setGravity( Gravity.CENTER, 0, 0 );
             toast.show();
 
@@ -104,44 +101,6 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
             e.printStackTrace();
         }
-    }
-
-    private int calculateInSampleSize( BitmapFactory.Options options, int reqWidth, int reqHeight ) {
-
-        // Raw height and width of image
-        final int height = options.outHeight;
-        final int width = options.outWidth;
-        int inSampleSize = 1;
-
-        if (height > reqHeight || width > reqWidth) {
-
-            final int halfHeight = height / 2;
-            final int halfWidth = width / 2;
-
-            // Calculate the largest inSampleSize value that is a power of 2 and keeps both
-            // height and width larger than the requested height and width.
-            while ((halfHeight / inSampleSize) > reqHeight
-                    && (halfWidth / inSampleSize) > reqWidth) {
-                inSampleSize *= 2;
-            }
-        }
-
-        return inSampleSize;
-    }
-
-    private Bitmap decodeSampledBitmapFromResource( Resources res, int resId, int reqWidth, int reqHeight ) {
-
-        // First decode with inJustDecodeBounds=true to check dimensions
-        final BitmapFactory.Options options = new BitmapFactory.Options();
-        options.inJustDecodeBounds = true;
-        BitmapFactory.decodeResource( res, resId, options );
-
-        // Calculate inSampleSize
-        options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
-
-        // Decode bitmap with inSampleSize set
-        options.inJustDecodeBounds = false;
-        return BitmapFactory.decodeResource( res, resId, options);
     }
 }
 
