@@ -9,8 +9,10 @@
     <item drawable="adaway" />
     <item drawable="adiutor" />
     <item drawable="afwall" />
+    <item drawable="aimsicd" />
     <item drawable="android" />
     <item drawable="apex" />
+    <item drawable="apktrack" />
     <item drawable="audiofx" />
     <item drawable="barcode" />
     <item drawable="blogger" />
@@ -99,6 +101,7 @@
     <item drawable="nova" />
     <item drawable="opencamera" />
     <item drawable="opera" />
+    <item drawable="orbot" />
     <item drawable="outlook" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
@@ -143,8 +146,9 @@
     <item drawable="vine" />
     <item drawable="vlc" />
     <item drawable="vsco" />
-    <item drawable="whatsapp" />
     <item drawable="weather" />
+    <item drawable="whatsapp" />
+    <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
     <item drawable="youtube" />
 

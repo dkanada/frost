@@ -8,10 +8,14 @@
 # Generated files
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
+gradle/
 build/
+gradlew
+gradlew.bat
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -27,3 +31,10 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Intellij
+*.iml
+.idea/
+
+# Keystore files
+*.jks

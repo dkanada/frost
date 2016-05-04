@@ -17,8 +17,14 @@
     <!-- AfWall -->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall"/>
 
+    <!-- AIMSICD -->
+    <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable="aimsicd"/>
+
     <!-- Apex Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex"/>
+
+    <!-- ApkTrack -->
+    <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack"/>
 
 	<!-- AudioFX -->
 	<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx"/>
@@ -335,6 +341,9 @@
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />
     <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera" />
 
+    <!-- Orbot -->
+    <item component="ComponentInfo{org.torproject.android/org.torproject.android.OrbotMainActivity}" drawable="orbot" />
+
 	<!-- OsmAnd -->
 	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="map" />
 
@@ -480,6 +489,9 @@
 
 	<!-- Whatsapp -->
 	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+
+    <!-- Wi-Fi Privacy Police -->
+    <item component="ComponentInfo{be.uhasselt.privacypolice/be.uhasselt.privacypolice.PreferencesActivity}" drawable="wifiprivacy" />
 
 	<!-- Wikipedia -->
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
