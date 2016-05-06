@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ovh.ice.icecons"
-    android:versionCode="5"
-    android:versionName="2.1"
     android:minSdkVersion="16"
-    android:targetSdkVersion="23" >
+    android:targetSdkVersion="23"
+    android:versionCode="6"
+    android:versionName="2.2">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
@@ -14,7 +14,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
+        android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,7 +38,8 @@
         </activity>
         <activity android:name=".WallpaperActivity" />
         <activity android:name=".WallpaperSetActivity" />
-        <activity android:name=".LicenseActivity"></activity>
+        <activity android:name=".LicenseActivity" />
+        <activity android:name=".IconActivity"></activity>
     </application>
 
 </manifest>

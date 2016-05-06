@@ -37,6 +37,7 @@ public class IceImageUtils {
         float xScale = (float) width / (float) resWidth;
         float yScale = (float) height / (float) resHeight;
         float scale = Math.max( xScale, yScale );
+        if( scale > 1 )
 
         if( width == 0 ) width = Math.round( resWidth / scale );
         else if( height == 0 ) height = Math.round( resHeight / scale );
