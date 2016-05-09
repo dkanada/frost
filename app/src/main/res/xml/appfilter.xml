@@ -41,6 +41,9 @@
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal"/>
 
+    <!-- BOINC -->
+    <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc"/>
+
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble"/>
 
@@ -92,6 +95,9 @@
     <!-- Dialer -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
 
+    <!-- Diaspora -->
+    <item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diaspora" />
+
 	<!-- Documents -->
 	<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="files" />
 
@@ -127,9 +133,9 @@
 
 	<!-- Fdroid -->
 	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
+
     <!-- Files -->
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files" />
-
 
 	<!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
@@ -148,7 +154,7 @@
     <!-- Forest -->
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
 
-    <!-- GadegetBridge -->
+    <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
 
 	<!-- Gallery -->
@@ -156,6 +162,12 @@
 
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
+
+    <!-- Geogebra -->
+    <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.SplashScreenActivity_}" drawable="geogebra" />
+
+    <!-- Google Authenticator -->
+    <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="g2step" />
 
     <!-- Google Calculator -->
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
@@ -261,6 +273,12 @@
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
 
+    <!-- K-9 Mail -->
+    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9" />
+
+    <!-- Keepass2Android -->
+    <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass2android" />
+
     <!-- Kernel Adiutor -->
 	<item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
 
@@ -334,6 +352,9 @@
     <!-- Open Camera -->
     <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera" />
 
+    <!-- Open Tasks -->
+    <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
+
 	<!-- Open Keychain -->
 	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
 
@@ -389,6 +410,9 @@
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
+
+    <!-- Seafile -->
+    <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
 
     <!-- Settings -->
 	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
@@ -447,6 +471,9 @@
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
 
+    <!-- Threema -->
+    <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
+
 	<!-- Torch -->
 	<item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
 
@@ -490,11 +517,18 @@
 	<!-- Whatsapp -->
 	<item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
 
+    <!-- Wi-Fi Analyzer -->
+    <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
+
     <!-- Wi-Fi Privacy Police -->
     <item component="ComponentInfo{be.uhasselt.privacypolice/be.uhasselt.privacypolice.PreferencesActivity}" drawable="wifiprivacy" />
 
 	<!-- Wikipedia -->
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
+
+    <!-- Xabber -->
+    <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+    <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag"/>

@@ -17,6 +17,7 @@
     <item drawable="barcode" />
     <item drawable="blogger" />
     <item drawable="blueminimal" />
+    <item drawable="boinc" />
     <item drawable="book" />
     <item drawable="browser" />
     <item drawable="bubble" />
@@ -30,6 +31,7 @@
     <item drawable="contacts" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
+    <item drawable="diaspora" />
     <item drawable="downloads" />
     <item drawable="drawer" />
     <item drawable="dropbox" />
@@ -45,6 +47,7 @@
     <item drawable="forecastie" />
     <item drawable="forest" />
     <item drawable="fourchan" />
+    <item drawable="g2step" />
     <item drawable="gadgetbridge" />
     <item drawable="gag" />
     <item drawable="gallery" />
@@ -52,6 +55,7 @@
     <item drawable="gcamera" />
     <item drawable="gdocs" />
     <item drawable="gdrive" />
+    <item drawable="geogebra" />
     <item drawable="gkeep" />
     <item drawable="gkeyboard" />
     <item drawable="gmail" />
@@ -73,6 +77,8 @@
     <item drawable="icecons" />
     <item drawable="imgur" />
     <item drawable="instagram" />
+    <item drawable="k9" />
+    <item drawable="keepass2android" />
     <item drawable="keychain" />
     <item drawable="kik" />
     <item drawable="kiss" />
@@ -100,6 +106,7 @@
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="opencamera" />
+    <item drawable="opentasks" />
     <item drawable="opera" />
     <item drawable="orbot" />
     <item drawable="outlook" />
@@ -120,6 +127,7 @@
     <item drawable="retrica" />
     <item drawable="ring" />
     <item drawable="screencast" />
+    <item drawable="seafile" />
     <item drawable="settings" />
     <item drawable="shazam" />
     <item drawable="shell" />
@@ -135,6 +143,8 @@
     <item drawable="tasks" />
     <item drawable="telegram" />
     <item drawable="themes" />
+    <item drawable="theswitch" />
+    <item drawable="threema" />
     <item drawable="torch" />
     <item drawable="trenord" />
     <item drawable="tumblr" />
@@ -148,8 +158,10 @@
     <item drawable="vsco" />
     <item drawable="weather" />
     <item drawable="whatsapp" />
+    <item drawable="wifianalyzer" />
     <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
+    <item drawable="xabber" />
     <item drawable="youtube" />
 
 </resources>

@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
         iconClickLayout.addView( iconButton );
 
         TextView iconText = new TextView( this );
-        iconText.setText( "icons" );
+        iconText.setText( "view icons" );
         iconText.setTextSize( 24 );
         iconText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         iconText.setPadding( 64, 64, 64, 64 );

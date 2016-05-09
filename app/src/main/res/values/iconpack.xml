@@ -16,6 +16,7 @@
         <item>barcode</item>
         <item>blogger</item>
         <item>blueminimal</item>
+        <item>boinc</item>
         <item>book</item>
         <item>browser</item>
         <item>bubble</item>
@@ -29,6 +30,7 @@
         <item>contacts</item>
         <item>conversations</item>
         <item>cpuz</item>
+        <item>diaspora</item>
         <item>downloads</item>
         <item>drawer</item>
         <item>dropbox</item>
@@ -44,6 +46,7 @@
         <item>forecastie</item>
         <item>forest</item>
         <item>fourchan</item>
+        <item>g2step</item>
         <item>gadgetbridge</item>
         <item>gag</item>
         <item>gallery</item>
@@ -51,6 +54,7 @@
         <item>gcamera</item>
         <item>gdocs</item>
         <item>gdrive</item>
+        <item>geogebra</item>
         <item>gkeep</item>
         <item>gkeyboard</item>
         <item>gmail</item>
@@ -72,6 +76,8 @@
         <item>icecons</item>
         <item>imgur</item>
         <item>instagram</item>
+        <item>k9</item>
+        <item>keepass2android</item>
         <item>keychain</item>
         <item>kik</item>
         <item>kiss</item>
@@ -99,6 +105,7 @@
         <item>notificationnotes</item>
         <item>nova</item>
         <item>opencamera</item>
+        <item>opentasks</item>
         <item>opera</item>
         <item>orbot</item>
         <item>outlook</item>
@@ -119,6 +126,7 @@
         <item>retrica</item>
         <item>ring</item>
         <item>screencast</item>
+        <item>seafile</item>
         <item>settings</item>
         <item>shazam</item>
         <item>shell</item>
@@ -134,6 +142,8 @@
         <item>tasks</item>
         <item>telegram</item>
         <item>themes</item>
+        <item>theswitch</item>
+        <item>threema</item>
         <item>torch</item>
         <item>trenord</item>
         <item>tumblr</item>
@@ -147,8 +157,9 @@
         <item>vsco</item>
         <item>weather</item>
         <item>whatsapp</item>
-        <item>wifiprivacy</item>
+        <item>wifianalyzer</item>
         <item>wikipedia</item>
+        <item>xabber</item>
         <item>youtube</item>
 
     </string-array>

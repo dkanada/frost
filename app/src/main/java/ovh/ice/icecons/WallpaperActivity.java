@@ -20,7 +20,9 @@ public class WallpaperActivity extends AppCompatActivity {
             R.drawable.wall_5, R.drawable.wall_6,
             R.drawable.wall_7, R.drawable.wall_8,
             R.drawable.wall_9, R.drawable.wall_10,
-            R.drawable.wall_11, R.drawable.wall_12
+            R.drawable.wall_11, R.drawable.wall_12,
+            R.drawable.wall_13, R.drawable.wall_14,
+            R.drawable.wall_15, R.drawable.wall_16
     };
 
     private ArrayList<LinearLayout> layoutList = new ArrayList<>();
@@ -34,7 +36,7 @@ public class WallpaperActivity extends AppCompatActivity {
         if( IceScreenUtils.isPortrait( getApplicationContext() ) )
             createLayout( 2 );
         else {
-            createLayout( 3 );
+            createLayout( 4 );
         }
     }
 
