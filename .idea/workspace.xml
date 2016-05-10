@@ -10,883 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="465ea6dc-8a6c-4c2f-9b3c-de0cba274c5a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/youtube.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/youtube.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/nodpi_youtube.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/youtube.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/youtube.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/acdisplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/acdisplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/acrobat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/acrobat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/adaway.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/adaway.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/adiutor.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/adiutor.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/afwall.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/afwall.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/aimsicd.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/aimsicd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/android.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/android.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/apex.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/apex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/apktrack.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/apktrack.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/audiofx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/audiofx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/barcode.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/barcode.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/blogger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/blogger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/blueminimal.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/blueminimal.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/book.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/book.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/browser.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/browser.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/bubble.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/bubble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/calculator.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/calculator.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/calendar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/callrecorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/callrecorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/camera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/camera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/casper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/casper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/chrome.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/chrome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/clock.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/clock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/conversations.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/conversations.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/cpuz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/cpuz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/downloads.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/downloads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/drawer.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/drawer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dropbox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dropbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dsub.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/dsub.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/earth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/earth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/echo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/echo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/es.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/es.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/facebook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/fdroid.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/fdroid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/files.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/files.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/firefox.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/firefox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/flipboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/flipboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/forecastie.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/forecastie.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/forest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/forest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/fourchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/fourchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gadgetbridge.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gadgetbridge.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gag.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gag.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gallery.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gallery.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gasflow.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gasflow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gcamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gcamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gdocs.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gdocs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gdrive.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gdrive.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gkeep.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gkeep.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gkeyboard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gkeyboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmaps.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmaps.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmovies.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmovies.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmusic.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gmusic.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gnewsstand.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gnewsstand.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gnewsweather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gnewsweather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/google.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/google.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gphotos.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gphotos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gplay.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gplay.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gplaystore.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gplaystore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gsheets.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gsheets.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gslides.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gslides.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gtranslate.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gtranslate.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/hangouts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/hangouts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/hearth.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/hearth.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/holo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/holo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icecons.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icecons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/imgur.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/imgur.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/instagram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/keychain.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/keychain.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kik.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kik.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kiss.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kiss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kodi.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/kodi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/lightning.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/lightning.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/loop.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/loop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mail.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mail.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/map.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mediafire.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mediafire.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mega.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mega.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/messages.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/messages.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/messenger.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/messenger.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/meteo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/meteo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/microchip.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/microchip.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mifit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mifit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/money.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mupdf.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mupdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/music.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/muzei.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/muzei.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mx.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/mx.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/netguard.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/netguard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nfctasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nfctasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nfctools.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nfctools.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/notes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/notes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/notificationnotes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/notificationnotes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nova.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/nova.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/opencamera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/opencamera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/opera.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/opera.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/orbot.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/orbot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/outlook.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/outlook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/overchan.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/overchan.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/owncloud.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/owncloud.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pairz.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pairz.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/password.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/password.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pb.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/phone.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/phonograph.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/phonograph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pixlr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/pixlr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/radio.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/radio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/recorder.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/recorder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/recurrence.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/recurrence.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/reddit.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/reddit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/redreader.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/redreader.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/retrica.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/retrica.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ring.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ring.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/screencast.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/screencast.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/settings.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/shazam.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/shazam.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/shell.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/shell.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sim.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/sim.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/skype.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/skype.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/snapchat.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/snapchat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/snapseed.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/snapseed.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/speedtest.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/speedtest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/spotify.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/spotify.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/su.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/su.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/swiftkey.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/swiftkey.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/tasks.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/tasks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/telegram.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/telegram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/themes.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/themes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/torch.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/torch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/trenord.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/trenord.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/tumblr.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/tumblr.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/twidere.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/twidere.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/twitter.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/unifiednlp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/unifiednlp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/viber.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/viber.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vine.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/viper.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/viper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vlc.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vlc.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vsco.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/vsco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/weather.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/weather.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/whatsapp.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/wifiprivacy.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/wifiprivacy.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/wikipedia.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/wikipedia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/youtube.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/youtube.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/IconActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/IconActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/WallpaperActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/WallpaperActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/iconpack.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/iconpack.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml" afterPath="$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/xml/drawable.xml" afterPath="$PROJECT_DIR$/app/src/main/res/xml/drawable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
     </list>
     <ignored path="ICEcons.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -934,11 +64,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.122727275">
-              <caret line="101" column="48" selection-start-line="101" selection-start-column="48" selection-end-line="101" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.923077">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12661196">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -947,7 +97,7 @@
       <file leaf-file-name="iconpack.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/iconpack.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.25926">
+            <state vertical-scroll-proportion="0.0">
               <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
               <folding />
             </state>
@@ -957,7 +107,7 @@
       <file leaf-file-name="drawable.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-44.25926">
+            <state vertical-scroll-proportion="0.0">
               <caret line="164" column="31" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
               <folding />
             </state>
@@ -967,7 +117,7 @@
       <file leaf-file-name="appfilter.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-54.925926">
+            <state vertical-scroll-proportion="0.0">
               <caret line="160" column="29" selection-start-line="160" selection-start-column="29" selection-end-line="160" selection-end-column="29" />
               <folding />
             </state>
@@ -2278,7 +1428,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4384143271168" />
+        <entry key="$PROJECT_DIR$" value="4384488733033" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2561,14 +1711,14 @@
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/LicenseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/WallpaperSetActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/IceImageUtils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/WallpaperActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/iconpack.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/xml/drawable.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/IconActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2608,6 +1758,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView">
@@ -2631,61 +1782,10 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ICEcons" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ICEcons" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icecons" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ICEcons" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3096,6 +2196,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="29" selection-start-line="160" selection-start-column="29" selection-end-line="160" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3362,14 +2470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3378,19 +2478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46424386">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/IceScreenUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3398,7 +2489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.020454545">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3412,7 +2502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/appfilter.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-54.925926">
+        <state vertical-scroll-proportion="0.0">
           <caret line="160" column="29" selection-start-line="160" selection-start-column="29" selection-end-line="160" selection-end-column="29" />
           <folding />
         </state>
@@ -3420,7 +2510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/iconpack.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.25926">
+        <state vertical-scroll-proportion="0.0">
           <caret line="161" column="20" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="20" />
           <folding />
         </state>
@@ -3428,7 +2518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/drawable.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-44.25926">
+        <state vertical-scroll-proportion="0.0">
           <caret line="164" column="31" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
           <folding />
         </state>
@@ -3444,8 +2534,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ovh/ice/icecons/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.122727275">
-          <caret line="101" column="48" selection-start-line="101" selection-start-column="48" selection-end-line="101" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12661196">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>
