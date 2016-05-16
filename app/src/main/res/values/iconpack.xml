@@ -9,27 +9,36 @@
         <item>adiutor</item>
         <item>afwall</item>
         <item>aimsicd</item>
+        <item>amaze</item>
         <item>android</item>
+        <item>ankidroid</item>
         <item>apex</item>
         <item>apktrack</item>
         <item>audiofx</item>
         <item>barcode</item>
+        <item>blablacar</item>
         <item>blogger</item>
         <item>blueminimal</item>
         <item>boinc</item>
         <item>book</item>
         <item>browser</item>
         <item>bubble</item>
+        <item>cabinet</item>
         <item>calculator</item>
+        <item>calendarcolor</item>
         <item>calendar</item>
         <item>callrecorder</item>
         <item>camera</item>
         <item>casper</item>
+        <item>cgeo</item>
+        <item>chefkoch</item>
         <item>chrome</item>
         <item>clock</item>
         <item>contacts</item>
         <item>conversations</item>
         <item>cpuz</item>
+        <item>daserste</item>
+        <item>davdroid</item>
         <item>diaspora</item>
         <item>downloads</item>
         <item>drawer</item>
@@ -38,13 +47,16 @@
         <item>earth</item>
         <item>echo</item>
         <item>es</item>
+        <item>etar</item>
         <item>facebook</item>
         <item>fdroid</item>
+        <item>fennec</item>
         <item>files</item>
         <item>firefox</item>
         <item>flipboard</item>
         <item>forecastie</item>
         <item>forest</item>
+        <item>forkhub</item>
         <item>fourchan</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
@@ -63,6 +75,7 @@
         <item>gmusic</item>
         <item>gnewsstand</item>
         <item>gnewsweather</item>
+        <item>googleapp</item>
         <item>google</item>
         <item>gphotos</item>
         <item>gplay</item>
@@ -73,15 +86,19 @@
         <item>hangouts</item>
         <item>hearth</item>
         <item>holo</item>
+        <item>icecat</item>
         <item>icecons</item>
         <item>imgur</item>
         <item>instagram</item>
         <item>k9</item>
         <item>keepass2android</item>
+        <item>keepassdroid</item>
         <item>keychain</item>
         <item>kik</item>
         <item>kiss</item>
         <item>kodi</item>
+        <item>kore</item>
+        <item>leafpic</item>
         <item>lightning</item>
         <item>loop</item>
         <item>mail</item>
@@ -106,6 +123,7 @@
         <item>nova</item>
         <item>opencamera</item>
         <item>opentasks</item>
+        <item>openvpn</item>
         <item>opera</item>
         <item>orbot</item>
         <item>outlook</item>
@@ -114,30 +132,37 @@
         <item>pairz</item>
         <item>password</item>
         <item>pb</item>
-        <item>people</item>
         <item>phone</item>
         <item>phonograph</item>
         <item>pixlr</item>
+        <item>privacybrowser</item>
+        <item>radiodroid</item>
         <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
         <item>reddit</item>
+        <item>redmoon</item>
         <item>redreader</item>
         <item>retrica</item>
         <item>ring</item>
+        <item>runnerup</item>
         <item>screencast</item>
         <item>seafile</item>
         <item>settings</item>
         <item>shazam</item>
         <item>shell</item>
+        <item>sieben</item>
+        <item>signal</item>
         <item>sim</item>
         <item>skype</item>
+        <item>slide</item>
+        <item>slidereddit</item>
         <item>snapchat</item>
         <item>snapseed</item>
-        <item>soundcloud</item>
+        <item>soundrecorder</item>
+        <item>speedtest</item>
         <item>spotify</item>
         <item>su</item>
-        <item>speedtest</item>
         <item>swiftkey</item>
         <item>tasks</item>
         <item>telegram</item>
@@ -147,20 +172,25 @@
         <item>torch</item>
         <item>trenord</item>
         <item>tumblr</item>
+        <item>turtl</item>
         <item>twidere</item>
         <item>twitter</item>
         <item>unifiednlp</item>
         <item>viber</item>
-        <item>viper</item>
         <item>vine</item>
+        <item>viper</item>
         <item>vlc</item>
         <item>vsco</item>
+        <item>waze</item>
         <item>weather</item>
         <item>whatsapp</item>
         <item>wifianalyzer</item>
+        <item>wifiprivacy</item>
         <item>wikipedia</item>
+        <item>wunderlist</item>
         <item>xabber</item>
         <item>youtube</item>
+
 
     </string-array>
 
