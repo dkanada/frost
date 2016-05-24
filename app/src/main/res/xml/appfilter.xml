@@ -21,7 +21,10 @@
     <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable="aimsicd"/>
 
     <!-- Amaze -->
-    <item component="ComponentInfo{com.amaze.filemanager/com.amaze.activities.MainActivity}" drawable="amaze"/>
+    <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze"/>
+
+    <!-- And Bible -->
+    <item component="ComponentInfo{net.bible.android.activity/net.bible.android.activity.StartupActivity}" drawable="bible"/>
 
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
@@ -88,6 +91,9 @@
 	<!-- Chromium -->
 	<item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+
+    <!-- Clash Royale -->
+    <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
 
     <!-- Clock -->
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
@@ -189,6 +195,9 @@
     <!-- Forkhub -->
     <item component="ComponentInfo{jp.forkhub/jp.forkhub.ui.user.HomeActivity}" drawable="forkhub" />
 
+    <!-- FreeOTP -->
+    <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
+
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
 
@@ -200,6 +209,9 @@
 
     <!-- Geogebra -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.SplashScreenActivity_}" drawable="geogebra" />
+
+    <!-- Gello -->
+    <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
     <!-- Google -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="googleapp"/>
@@ -493,6 +505,7 @@
 
     <!-- Signal -->
     <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal"/>
+    <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal"/>
 
     <!-- Sim Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
