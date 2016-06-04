@@ -35,14 +35,23 @@
     <!-- ApkTrack -->
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack"/>
 
+    <!-- Apps2Org -->
+    <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org"/>
+
 	<!-- AudioFX -->
 	<item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx"/>
 
     <!-- Aurora Firefox -->
     <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox" />
 
+    <!-- Bandcamp -->
+    <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp"/>
+
     <!-- Barcode Scanner -->
     <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode"/>
+
+    <!-- Birthday Adapter -->
+    <item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter"/>
 
     <!-- BlaBlaCar -->
     <item component="ComponentInfo{com.comuto/com.comuto.v3.activity.ProxyActivity}" drawable="blablacar"/>
@@ -106,8 +115,8 @@
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
 
     <!-- Contacts -->
-    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="people" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people" />
 
     <!-- Conversations -->
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
@@ -124,6 +133,9 @@
     <!-- DAVdroid -->
     <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davdroid"/>
 
+    <!-- Deutsche Bahn Navigator -->
+    <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="dbnavigator"/>
+
     <!-- Dialer -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
 
@@ -136,6 +148,9 @@
     <!-- Document Viewer -->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="book" />
 
+    <!-- Doodle -->
+    <item component="ComponentInfo{com.doodle.android/com.doodle.activites.SplashActivity}" drawable="doodle" />
+
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
 
@@ -144,6 +159,9 @@
 
 	<!-- Dsub -->
 	<item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
+
+    <!-- Duck Duck Go -->
+    <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
 
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
@@ -179,6 +197,9 @@
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
     <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
 
+    <!-- Flickr -->
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}" drawable="flickr" />
+
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
 
@@ -193,7 +214,7 @@
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
 
     <!-- Forkhub -->
-    <item component="ComponentInfo{jp.forkhub/jp.forkhub.ui.user.HomeActivity}" drawable="forkhub" />
+    <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
 
     <!-- FreeOTP -->
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
@@ -417,11 +438,17 @@
     <!-- Open Camera -->
     <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera" />
 
+    <!-- Open Connect -->
+    <item component="ComponentInfo{app.openconnect/app.openconnect.MainActivity}" drawable="openconnect" />
+
+    <!-- Open Keychain -->
+    <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
+
+    <!-- Open Mensa -->
+    <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
+
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
-
-	<!-- Open Keychain -->
-	<item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
 
     <!-- OpenVPN -->
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn" />
@@ -446,6 +473,9 @@
 	<item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
     <item component="ComponentInfo{com.owncloud.android.beta/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
 
+    <!-- Owncloud Notes -->
+    <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="owncloudnotes" />
+
 	<!-- Pairz -->
 	<item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
 
@@ -463,6 +493,12 @@
 
     <!-- Privacy Browser -->
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.MainWebViewActivity}" drawable="privacybrowser" />
+
+    <!-- QR Plugin for Keepass2android -->
+    <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
+
+    <!-- Quizlet -->
+    <item component="ComponentInfo{com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity}" drawable="quizlet" />
 
     <!-- Radiodroid -->
     <item component="ComponentInfo{net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.ActivityMain}" drawable="radiodroid" />
@@ -494,8 +530,14 @@
     <!-- Seafile -->
     <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
 
+    <!-- Sensor Readout -->
+    <item component="ComponentInfo{de.onyxbits.sensorreadout/de.onyxbits.sensorreadout.OverviewActivity}" drawable="sensorreadout" />
+
     <!-- Settings -->
 	<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+
+    <!-- Sgit -->
+    <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit"/>
 
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
@@ -536,6 +578,9 @@
 
     <!-- Sound Recorder (fdroid) -->
     <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="soundrecorder" />
+
+    <!-- SpaRSS -->
+    <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
 
     <!-- Speedtest -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest" />
@@ -613,6 +658,9 @@
     <!-- Weather -->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
 
+    <!-- WebOPAC -->
+    <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac" />
+
     <!-- WebTube -->
     <item component="ComponentInfo{cz.martykan.webtube/cz.martykan.webtube.MainActivity}" drawable="youtube" />
 
@@ -635,8 +683,14 @@
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 
+    <!-- /system/ App Mover -->
+    <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="gag"/>
+
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag"/>
+
+    <!-- 2048 -->
+    <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048"/>
 
 
 

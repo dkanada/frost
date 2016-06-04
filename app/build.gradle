@@ -8,8 +8,8 @@ android {
         applicationId "ovh.ice.icecons"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 10
-        versionName "2.6"
+        versionCode 11
+        versionName "2.7"
     }
     buildTypes {
         release {

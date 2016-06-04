@@ -4,7 +4,8 @@
 
     <version>1</version>
 
-    <item drawable="acdisplay" />
+    <item drawable="a2048" />
+	<item drawable="acdisplay" />
 	<item drawable="acrobat" />
 	<item drawable="adaway" />
 	<item drawable="adiutor" />
@@ -15,9 +16,12 @@
 	<item drawable="ankidroid" />
 	<item drawable="apex" />
 	<item drawable="apktrack" />
+	<item drawable="apps2org" />
 	<item drawable="audiofx" />
+	<item drawable="bandcamp" />
 	<item drawable="barcode" />
 	<item drawable="bible" />
+	<item drawable="birthdayadapter" />
 	<item drawable="blablacar" />
 	<item drawable="blogger" />
 	<item drawable="blueminimal" />
@@ -42,11 +46,14 @@
 	<item drawable="cpuz" />
 	<item drawable="daserste" />
 	<item drawable="davdroid" />
+	<item drawable="dbnavigator" />
 	<item drawable="diaspora" />
+	<item drawable="doodle" />
 	<item drawable="downloads" />
 	<item drawable="drawer" />
 	<item drawable="dropbox" />
 	<item drawable="dsub" />
+	<item drawable="duckduckgo" />
 	<item drawable="earth" />
 	<item drawable="echo" />
 	<item drawable="es" />
@@ -56,6 +63,7 @@
 	<item drawable="fennec" />
 	<item drawable="files" />
 	<item drawable="firefox" />
+	<item drawable="flickr" />
 	<item drawable="flipboard" />
 	<item drawable="forecastie" />
 	<item drawable="forest" />
@@ -126,12 +134,15 @@
 	<item drawable="notificationnotes" />
 	<item drawable="nova" />
 	<item drawable="opencamera" />
+	<item drawable="openconnect" />
+	<item drawable="openmensa" />
 	<item drawable="opentasks" />
 	<item drawable="openvpn" />
 	<item drawable="opera" />
 	<item drawable="orbot" />
 	<item drawable="outlook" />
 	<item drawable="overchan" />
+	<item drawable="owncloudnotes" />
 	<item drawable="owncloud" />
 	<item drawable="pairz" />
 	<item drawable="password" />
@@ -140,6 +151,8 @@
 	<item drawable="phonograph" />
 	<item drawable="pixlr" />
 	<item drawable="privacybrowser" />
+	<item drawable="qrforkeepass" />
+	<item drawable="quizlet" />
 	<item drawable="radiodroid" />
 	<item drawable="radio" />
 	<item drawable="recorder" />
@@ -152,7 +165,9 @@
 	<item drawable="runnerup" />
 	<item drawable="screencast" />
 	<item drawable="seafile" />
+	<item drawable="sensorreadout" />
 	<item drawable="settings" />
+	<item drawable="sgit" />
 	<item drawable="shazam" />
 	<item drawable="shell" />
 	<item drawable="sieben" />
@@ -164,10 +179,12 @@
 	<item drawable="snapchat" />
 	<item drawable="snapseed" />
 	<item drawable="soundrecorder" />
+	<item drawable="sparss" />
 	<item drawable="speedtest" />
 	<item drawable="spotify" />
 	<item drawable="su" />
 	<item drawable="swiftkey" />
+	<item drawable="systemappmover" />
 	<item drawable="tasks" />
 	<item drawable="telegram" />
 	<item drawable="themes" />
@@ -187,6 +204,7 @@
 	<item drawable="vsco" />
 	<item drawable="waze" />
 	<item drawable="weather" />
+	<item drawable="webopac" />
 	<item drawable="whatsapp" />
 	<item drawable="wifianalyzer" />
 	<item drawable="wifiprivacy" />

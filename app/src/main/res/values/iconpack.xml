@@ -3,7 +3,8 @@
 
     <string-array name="icon_pack" translatable="false">
 
-        <item>acdisplay</item>
+        <item>a2048</item>
+		<item>acdisplay</item>
 		<item>acrobat</item>
 		<item>adaway</item>
 		<item>adiutor</item>
@@ -14,9 +15,12 @@
 		<item>ankidroid</item>
 		<item>apex</item>
 		<item>apktrack</item>
+		<item>apps2org</item>
 		<item>audiofx</item>
+		<item>bandcamp</item>
 		<item>barcode</item>
 		<item>bible</item>
+		<item>birthdayadapter</item>
 		<item>blablacar</item>
 		<item>blogger</item>
 		<item>blueminimal</item>
@@ -41,11 +45,14 @@
 		<item>cpuz</item>
 		<item>daserste</item>
 		<item>davdroid</item>
+		<item>dbnavigator</item>
 		<item>diaspora</item>
+		<item>doodle</item>
 		<item>downloads</item>
 		<item>drawer</item>
 		<item>dropbox</item>
 		<item>dsub</item>
+		<item>duckduckgo</item>
 		<item>earth</item>
 		<item>echo</item>
 		<item>es</item>
@@ -55,6 +62,7 @@
 		<item>fennec</item>
 		<item>files</item>
 		<item>firefox</item>
+		<item>flickr</item>
 		<item>flipboard</item>
 		<item>forecastie</item>
 		<item>forest</item>
@@ -125,12 +133,15 @@
 		<item>notificationnotes</item>
 		<item>nova</item>
 		<item>opencamera</item>
+		<item>openconnect</item>
+		<item>openmensa</item>
 		<item>opentasks</item>
 		<item>openvpn</item>
 		<item>opera</item>
 		<item>orbot</item>
 		<item>outlook</item>
 		<item>overchan</item>
+		<item>owncloudnotes</item>
 		<item>owncloud</item>
 		<item>pairz</item>
 		<item>password</item>
@@ -139,6 +150,8 @@
 		<item>phonograph</item>
 		<item>pixlr</item>
 		<item>privacybrowser</item>
+		<item>qrforkeepass</item>
+		<item>quizlet</item>
 		<item>radiodroid</item>
 		<item>radio</item>
 		<item>recorder</item>
@@ -151,7 +164,9 @@
 		<item>runnerup</item>
 		<item>screencast</item>
 		<item>seafile</item>
+		<item>sensorreadout</item>
 		<item>settings</item>
+		<item>sgit</item>
 		<item>shazam</item>
 		<item>shell</item>
 		<item>sieben</item>
@@ -163,10 +178,12 @@
 		<item>snapchat</item>
 		<item>snapseed</item>
 		<item>soundrecorder</item>
+		<item>sparss</item>
 		<item>speedtest</item>
 		<item>spotify</item>
 		<item>su</item>
 		<item>swiftkey</item>
+		<item>systemappmover</item>
 		<item>tasks</item>
 		<item>telegram</item>
 		<item>themes</item>
@@ -186,6 +203,7 @@
 		<item>vsco</item>
 		<item>waze</item>
 		<item>weather</item>
+		<item>webopac</item>
 		<item>whatsapp</item>
 		<item>wifianalyzer</item>
 		<item>wifiprivacy</item>
