@@ -1,11 +1,14 @@
 package ovh.ice.icecons;
 
+import android.annotation.TargetApi;
 import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.transition.Fade;
+import android.transition.Transition;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
