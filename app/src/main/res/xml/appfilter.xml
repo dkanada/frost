@@ -174,7 +174,10 @@
     <!-- Etar -->
     <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar" />
 
-    <!-- Facebook -->
+<!-- FastHub -->
+<item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
+
+<!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
 
     <!-- Facebook Messenger -->
@@ -481,7 +484,10 @@
 	<!-- Password Store -->
 	<item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password" />
 
-    <!-- Pixlr -->
+<!-- Pixel Dungeon -->
+<item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon" />
+
+<!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
 
     <!-- Phonograph -->

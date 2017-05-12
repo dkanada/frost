@@ -55,6 +55,7 @@
 	<item drawable="echo" />
 	<item drawable="es" />
 	<item drawable="etar" />
+	<item drawable="fasthub" />
 	<item drawable="facebook" />
 	<item drawable="fdroid" />
 	<item drawable="fennec" />
@@ -146,6 +147,7 @@
 	<item drawable="pb" />
 	<item drawable="phone" />
 	<item drawable="phonograph" />
+	<item drawable="pixeldungeon" />
 	<item drawable="pixlr" />
 	<item drawable="privacybrowser" />
 	<item drawable="qrforkeepass" />
