@@ -1,7 +1,7 @@
 #! /bin/bash
 
 SIZES="48 72 96 144 384"
-DATADIR='../app/src/main/res'
+DIR='../app/src/main/res'
 
 for FILE in *.svg
 do
