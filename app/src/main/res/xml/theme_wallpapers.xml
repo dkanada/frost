@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-
     <version>1</version>
-
     <item drawable="wall_1" />
     <item drawable="wall_2" />
     <item drawable="wall_3" />
@@ -16,5 +13,4 @@
     <item drawable="wall_10" />
     <item drawable="wall_11" />
     <item drawable="wall_12" />
-
 </resources>

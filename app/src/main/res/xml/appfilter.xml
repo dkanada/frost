@@ -1,5 +1,4 @@
 <resources>
-
     <scale factor="1.0" />
 
     <!-- AcDisplay -->
@@ -558,7 +557,7 @@
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
 
-    <!-- Slide (reddit) -->
+    <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
 
     <!-- Snap -->
@@ -576,7 +575,7 @@
     <!-- Sound Recorder -->
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder" />
 
-    <!-- Sound Recorder (fdroid) -->
+    <!-- Sound Recorder -->
     <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="soundrecorder" />
 
     <!-- SpaRSS -->
@@ -692,8 +691,6 @@
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048"/>
 
-
-
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
@@ -706,5 +703,4 @@
     <item component=":PHONE" drawable="phone" />
     <item component=":SMS" drawable="messages" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="drawer" />
-
 </resources>

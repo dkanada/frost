@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-
     <version>1</version>
-
     <item drawable="a2048" />
 	<item drawable="acdisplay" />
 	<item drawable="acrobat" />
@@ -212,5 +209,4 @@
 	<item drawable="wunderlist" />
 	<item drawable="xabber" />
 	<item drawable="youtube" />
-
 </resources>

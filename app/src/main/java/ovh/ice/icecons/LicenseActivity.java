@@ -17,15 +17,11 @@ public class LicenseActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
-
         super.onCreate( savedInstanceState );
         createLayout();
     }
 
     private void createLayout() {
-
-        // main centered layout
-
         LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams( LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f );
         float scale = IceScreenUtils.densityScale( getApplicationContext() );
         int padding = Math.round( 64 * scale );
@@ -42,8 +38,7 @@ public class LicenseActivity extends AppCompatActivity {
         baseLayout.setGravity( Gravity.LEFT );
         frameLayout.addView( baseLayout );
 
-        // gpl button
-
+        // license button
         LinearLayout sourceLayout = new LinearLayout( this );
         sourceLayout.setOrientation( LinearLayout.HORIZONTAL );
         sourceLayout.setLayoutParams( smallLayoutParams );
@@ -70,7 +65,6 @@ public class LicenseActivity extends AppCompatActivity {
         sourceClickLayout.addView( sourceText );
 
         // cc button
-
         LinearLayout imgLayout = new LinearLayout( this );
         imgLayout.setOrientation( LinearLayout.HORIZONTAL );
         imgLayout.setLayoutParams( smallLayoutParams );
@@ -96,18 +90,15 @@ public class LicenseActivity extends AppCompatActivity {
         aboutText.setTextColor( 0xffffffff );
         aboutText.setPadding( padding, padding, padding, padding );
         imgClickLayout.addView( aboutText );
-
     }
 
     public void gplLink( View v ) {
-
         Uri uri = Uri.parse( "http://choosealicense.com/licenses/gpl-3.0/" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
 
     public void ccLink( View v ) {
-
         Uri uri = Uri.parse( "http://choosealicense.com/licenses/cc-by-sa-4.0/" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );

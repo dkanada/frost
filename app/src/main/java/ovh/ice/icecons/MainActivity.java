@@ -20,15 +20,11 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
-
         super.onCreate( savedInstanceState );
         createLayout();
     }
 
     private void createLayout() {
-
-        // main centered layout
-
         LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams( LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f );
         float scale = IceScreenUtils.densityScale( getApplicationContext() );
         ViewGroup.LayoutParams buttonParams = new ViewGroup.LayoutParams( Math.round( 48 * scale ), Math.round( 48 * scale ) );
@@ -46,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
         frameLayout.addView( baseLayout );
 
         // wallpaper button
-
         LinearLayout wallpaperLayout = new LinearLayout( this );
         wallpaperLayout.setOrientation( LinearLayout.HORIZONTAL );
         wallpaperLayout.setLayoutParams( smallLayoutParams );
@@ -78,7 +73,6 @@ public class MainActivity extends AppCompatActivity {
         wallpaperClickLayout.addView( wallpaperText );
 
         // icon view button
-
         LinearLayout iconLayout = new LinearLayout( this );
         iconLayout.setOrientation( LinearLayout.HORIZONTAL );
         iconLayout.setLayoutParams( smallLayoutParams );
@@ -110,7 +104,6 @@ public class MainActivity extends AppCompatActivity {
         iconClickLayout.addView( iconText );
 
         // source code button
-
         LinearLayout sourceLayout = new LinearLayout( this );
         sourceLayout.setOrientation( LinearLayout.HORIZONTAL );
         sourceLayout.setLayoutParams( smallLayoutParams );
@@ -142,7 +135,6 @@ public class MainActivity extends AppCompatActivity {
         sourceClickLayout.addView( sourceText );
 
         // license button
-
         LinearLayout aboutLayout = new LinearLayout( this );
         aboutLayout.setOrientation( LinearLayout.HORIZONTAL );
         aboutLayout.setLayoutParams( smallLayoutParams );
@@ -172,30 +164,25 @@ public class MainActivity extends AppCompatActivity {
         aboutText.setTextColor( ContextCompat.getColor( getApplicationContext(), R.color.colorPrimaryDark) );
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView( aboutText );
-
     }
 
     public void gitLink( View v ) {
-
         Uri uri = Uri.parse( "https://github.com/1C3/ICEcons" );
         Intent intent = new Intent( Intent.ACTION_VIEW, uri );
         startActivity( intent );
     }
 
     public void wallpaperPicker( View v ) {
-
         Intent intent = new Intent( this, WallpaperActivity.class );
         startActivity( intent );
     }
 
     public void iconView( View v ) {
-
         Intent intent = new Intent( this, IconActivity.class );
         startActivity( intent );
     }
 
     public void licenseShow( View v ) {
-
         Intent intent = new Intent( this, LicenseActivity.class );
         startActivity( intent );
     }

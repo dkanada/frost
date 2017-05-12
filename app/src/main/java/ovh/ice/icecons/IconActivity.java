@@ -231,18 +231,15 @@ public class IconActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
-
         super.onCreate( savedInstanceState );
-
-        if( IceScreenUtils.isPortrait( getApplicationContext() ) )
-            createLayout( 7 );
-        else {
+        if( IceScreenUtils.isPortrait( getApplicationContext() ) ) {
+			createLayout(7);
+		} else {
             createLayout( 12 );
         }
     }
 
     private void createLayout( int width ) {
-
         float scale = IceScreenUtils.densityScale( getApplicationContext() );
         int margin = 16 * Math.round( scale );
 
@@ -258,7 +255,6 @@ public class IconActivity extends AppCompatActivity {
         baseScroller.setVisibility( View.VISIBLE );
 
         // display width hack
-
         Rect windowRect = new Rect();
         baseScroller.getWindowVisibleDisplayFrame(windowRect);
         int windowWidth = windowRect.right - windowRect.left;
@@ -270,9 +266,7 @@ public class IconActivity extends AppCompatActivity {
         baseScroller.addView( baseLayout );
 
         for( int i =0; i < mImages.length; i++ ) {
-
             if( ( i%width ) == 0 ) {
-
                 layoutList.add((i / width), new LinearLayout(this));
                 layoutList.get(i / width).setOrientation(LinearLayout.HORIZONTAL);
                 layoutList.get(i / width).setGravity(Gravity.LEFT);
@@ -280,7 +274,6 @@ public class IconActivity extends AppCompatActivity {
 
                 baseLayout.addView(layoutList.get(i / width));
             }
-
             imageList.add( i, new ImageView( this ) );
             imageList.get(i).setLayoutParams( imageParams );
             imageList.get(i).setScaleType( ImageView.ScaleType.FIT_XY );

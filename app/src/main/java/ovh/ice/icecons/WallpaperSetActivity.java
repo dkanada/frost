@@ -23,13 +23,9 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
     Bitmap Wallpaper;
 
-    //Resources res = getResources();
-
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
-
         super.onCreate( savedInstanceState );
-
         final Intent intent = getIntent();
         imageId = intent.getIntExtra( "image", 0 );
         screenWidth = IceScreenUtils.width( getApplicationContext() );
@@ -41,7 +37,6 @@ public class WallpaperSetActivity extends AppCompatActivity {
     }
 
     private void createLayout() {
-
         LinearLayout baseLayout = new LinearLayout( this );
         baseLayout.setOrientation( LinearLayout.VERTICAL );
         baseLayout.setLayoutParams( new LinearLayout.LayoutParams( LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT ) );
@@ -86,21 +81,14 @@ public class WallpaperSetActivity extends AppCompatActivity {
     }
 
     public void setWallpaper( View v ) {
-
         WallpaperManager wallpaperManager = WallpaperManager.getInstance( getApplicationContext() );
-
         try {
-
             wallpaperManager.setBitmap( Wallpaper );
-
             Toast toast = Toast.makeText( this, "Wallpaper set", Toast.LENGTH_SHORT );
             toast.setGravity( Gravity.CENTER, 0, 0 );
             toast.show();
-
         } catch ( IOException e ) {
-
             e.printStackTrace();
         }
     }
 }
-

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string-array name="icon_pack" translatable="false">
-
         <item>a2048</item>
 		<item>acdisplay</item>
 		<item>acrobat</item>
@@ -211,7 +209,5 @@
 		<item>wunderlist</item>
 		<item>xabber</item>
 		<item>youtube</item>
-
     </string-array>
-
 </resources>
