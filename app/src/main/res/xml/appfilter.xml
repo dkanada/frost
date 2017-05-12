@@ -611,6 +611,9 @@
     <!-- Swiftnotes -->
     <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="notes"/>
 
+    <!-- Tachiyomi -->
+    <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi"/>
+
     <!-- Tasks -->
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks"/>
 
@@ -625,6 +628,9 @@
 
     <!-- Threema -->
     <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema"/>
+
+    <!-- Timber -->
+    <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber"/>
 
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch"/>
