@@ -437,6 +437,9 @@
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova"/>
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova"/>
 
+    <!-- OpenAPK -->
+    <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk"/>
+
     <!-- Open Camera -->
     <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera"/>
 
@@ -445,6 +448,9 @@
 
     <!-- Open Keychain -->
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain"/>
+
+    <!-- OpenLauncher -->
+    <item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.InitActivity}" drawable="openlauncher"/>
 
     <!-- Open Mensa -->
     <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa"/>

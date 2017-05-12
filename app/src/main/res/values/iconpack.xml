@@ -130,9 +130,11 @@
         <item>nfctools</item>
         <item>notes</item>
         <item>notificationnotes</item>
-        <item>nova</item>
+	<item>nova</item>
+	<item>openapk</item>
         <item>opencamera</item>
-        <item>openconnect</item>
+	<item>openconnect</item>
+	<item>openlauncher</item>
         <item>openmensa</item>
         <item>opentasks</item>
         <item>openvpn</item>

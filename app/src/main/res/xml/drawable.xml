@@ -131,8 +131,10 @@
     <item drawable="notes"/>
     <item drawable="notificationnotes"/>
     <item drawable="nova"/>
+    <item drawable="openapk"/>
     <item drawable="opencamera"/>
     <item drawable="openconnect"/>
+    <item drawable="openlauncher"/>
     <item drawable="openmensa"/>
     <item drawable="opentasks"/>
     <item drawable="openvpn"/>
