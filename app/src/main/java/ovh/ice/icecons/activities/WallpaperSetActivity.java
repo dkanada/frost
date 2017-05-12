@@ -1,4 +1,4 @@
-package ovh.ice.icecons;
+package ovh.ice.icecons.activities;
 
 import android.app.WallpaperManager;
 import android.content.Intent;
@@ -13,6 +13,10 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import java.io.IOException;
+
+import ovh.ice.icecons.utils.IceImageUtils;
+import ovh.ice.icecons.utils.IceScreenUtils;
+import ovh.ice.icecons.R;
 
 public class WallpaperSetActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package ovh.ice.icecons;
+package ovh.ice.icecons.async;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -8,11 +8,13 @@ import android.widget.ImageView;
 
 import java.lang.ref.WeakReference;
 
+import ovh.ice.icecons.utils.IceImageUtils;
+
 /**
  * Created by kanadill on 5/11/2017.
  */
 
-class BitmapWorkerTask extends AsyncTask< Integer, Void, Bitmap > {
+public class BitmapWorkerTask extends AsyncTask< Integer, Void, Bitmap > {
 
     private WeakReference< ImageView > imageViewReference;
     public Resources res;

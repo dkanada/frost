@@ -1,4 +1,4 @@
-package ovh.ice.icecons;
+package ovh.ice.icecons.activities;
 
 import android.content.Intent;
 import android.graphics.Rect;
@@ -11,6 +11,10 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 
 import java.util.ArrayList;
+
+import ovh.ice.icecons.utils.IceImageUtils;
+import ovh.ice.icecons.utils.IceScreenUtils;
+import ovh.ice.icecons.R;
 
 public class WallpaperActivity extends AppCompatActivity {
 

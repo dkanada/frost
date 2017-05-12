@@ -1,17 +1,17 @@
-package ovh.ice.icecons;
+package ovh.ice.icecons.activities;
 
 import android.content.Intent;
-import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import ovh.ice.icecons.utils.IceScreenUtils;
+import ovh.ice.icecons.R;
 
 public class LicenseActivity extends AppCompatActivity {
 

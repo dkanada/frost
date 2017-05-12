@@ -1,13 +1,11 @@
-package ovh.ice.icecons;
+package ovh.ice.icecons.utils;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.os.AsyncTask;
-import android.view.View;
 import android.widget.ImageView;
 
-import java.lang.ref.WeakReference;
+import ovh.ice.icecons.async.BitmapWorkerTask;
 
 public class IceImageUtils {
 
