@@ -1,5 +1,10 @@
 #! /bin/bash
 
+DRAWABLE='../app/src/main/res/xml/drawable.xml'
+ICONPACK='../app/src/main/res/values/iconpack.xml'
+STRING="    <item drawable=${FILE}/>"
+STRING="        <item>${FILE}</item>"
+
 SIZES="48 72 96 144 384"
 DIR='../app/src/main/res'
 
