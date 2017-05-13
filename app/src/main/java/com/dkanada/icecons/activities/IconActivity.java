@@ -1,4 +1,4 @@
-package ovh.ice.icecons.activities;
+package com.dkanada.icecons.activities;
 
 import android.graphics.Rect;
 import android.support.v7.app.AppCompatActivity;
@@ -11,9 +11,9 @@ import android.widget.ScrollView;
 
 import java.util.ArrayList;
 
-import ovh.ice.icecons.utils.IceImageUtils;
-import ovh.ice.icecons.utils.IceScreenUtils;
-import ovh.ice.icecons.R;
+import com.dkanada.icecons.utils.IceImageUtils;
+import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.R;
 
 public class IconActivity extends AppCompatActivity {
 

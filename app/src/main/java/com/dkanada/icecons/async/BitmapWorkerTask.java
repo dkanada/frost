@@ -1,4 +1,4 @@
-package ovh.ice.icecons.async;
+package com.dkanada.icecons.async;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -8,7 +8,7 @@ import android.widget.ImageView;
 
 import java.lang.ref.WeakReference;
 
-import ovh.ice.icecons.utils.IceImageUtils;
+import com.dkanada.icecons.utils.IceImageUtils;
 
 /**
  * Created by kanadill on 5/11/2017.

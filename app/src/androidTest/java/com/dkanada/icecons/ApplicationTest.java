@@ -1,4 +1,4 @@
-package ovh.ice.icecons;
+package com.dkanada.icecons;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

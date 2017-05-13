@@ -338,7 +338,7 @@
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat"/>
 
     <!-- ICEcons -->
-    <item component="ComponentInfo{ovh.ice.icecons/ovh.ice.icecons.MainActivity}" drawable="icecons"/>
+    <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.MainActivity}" drawable="icecons"/>
 
     <!-- Il Meteo -->
     <item component="ComponentInfo{com.ilmeteo.android.ilmeteo/com.ilmeteo.android.ilmeteo.SplashActivity}" drawable="meteo"/>

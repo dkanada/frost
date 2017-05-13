@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ovh.ice.icecons">
+    package="com.dkanada.icecons">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <uses-permission android:name="android.permission.SET_WALLPAPER_HINTS" />
@@ -11,7 +11,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.MainActivity">
+        <activity android:name="com.dkanada.icecons.activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -32,10 +32,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity android:name=".activities.WallpaperActivity" />
-        <activity android:name=".activities.WallpaperSetActivity" />
-        <activity android:name=".activities.LicenseActivity" />
-        <activity android:name=".activities.IconActivity" />
+        <activity android:name="com.dkanada.icecons.activities.WallpaperActivity" />
+        <activity android:name="com.dkanada.icecons.activities.WallpaperSetActivity" />
+        <activity android:name="com.dkanada.icecons.activities.LicenseActivity" />
+        <activity android:name="com.dkanada.icecons.activities.IconActivity" />
     </application>
 
 </manifest>

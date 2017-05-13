@@ -1,4 +1,4 @@
-package ovh.ice.icecons.utils;
+package com.dkanada.icecons.utils;
 
 import android.content.Context;
 
