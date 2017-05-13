@@ -1,10 +1,17 @@
 # ICEcons
-IC3 icon pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers, includes 4k wallpapers too
+
+This is a fork of the ICEcons icon pack for trebuchet, kiss, nova, apex, holo, \\
+asus, adw and many more launchers. There are over 300 icons and a few wallpapers included as \\
+well. This is my first project with Inkscape but I will add icons when I have the \\
+time, submitting icon requests helps a lot.
+
+## Icon Requests
+
+I am working on some scripts that will scrape the issues page for icon \\
+requests so please use the following format. Label the issue **Icon Request** and use \\
+the app Turtl on F-Droid to create a zip file with every app you would like an icon for.
 
 
-![Alt text](/screenshots/iconpack.jpg?raw=true "Optional Title")
+## Screenshots
 
-
-ICEcons is available on F-Droid.
-
-[![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons)
+<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/screenshots/iconpack.jpg'/>
