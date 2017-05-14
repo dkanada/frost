@@ -496,6 +496,9 @@
     <!-- Password Store -->
     <item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password"/>
 
+    <!-- Pilot -->
+    <item component="ComponentInfo{com.dnielfe.manager/com.dnielfe.manager.activities.BrowserActivity}" drawable="pilot"/>
+
     <!-- Pixel Dungeon -->
     <item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon"/>
 
@@ -589,6 +592,9 @@
 
     <!-- Snapseed -->
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed"/>
+
+    <!-- Solid Explorer -->
+    <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solidexplorer"/>
 
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud"/>

@@ -152,7 +152,8 @@
         <item>pb</item>
         <item>phone</item>
         <item>phonograph</item>
-        <item>pixeldungeon</item>
+	<item>pilot</item>
+	<item>pixeldungeon</item>
         <item>pixlr</item>
         <item>privacybrowser</item>
         <item>qrforkeepass</item>
@@ -182,7 +183,8 @@
         <item>slidereddit</item>
         <item>snapchat</item>
         <item>snapseed</item>
-        <item>soundrecorder</item>
+	<item>solidexplorer</item>
+	<item>soundrecorder</item>
         <item>sparss</item>
         <item>speedtest</item>
         <item>spotify</item>

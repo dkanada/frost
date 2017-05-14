@@ -152,6 +152,7 @@
     <item drawable="pb"/>
     <item drawable="phone"/>
     <item drawable="phonograph"/>
+    <item drawable="pilot"/>
     <item drawable="pixeldungeon"/>
     <item drawable="pixlr"/>
     <item drawable="privacybrowser"/>
@@ -182,6 +183,7 @@
     <item drawable="slidereddit"/>
     <item drawable="snapchat"/>
     <item drawable="snapseed"/>
+    <item drawable="solidexplorer"/>
     <item drawable="soundrecorder"/>
     <item drawable="sparss"/>
     <item drawable="speedtest"/>

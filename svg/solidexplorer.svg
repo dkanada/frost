@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 72 72"
+   height="72"
+   width="72"
+   id="svg5881"
+   version="1.1">
+  <metadata
+     id="metadata5887">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5885" />
+  <path
+     id="rect6434"
+     d="M 6.8339844 8.9746094 C 4.8000342 8.9746094 3.1621094 10.612533 3.1621094 12.646484 L 3.1621094 23.251953 L 68.837891 23.251953 L 68.837891 18.662109 C 68.837891 16.62816 67.199965 14.992186 65.166016 14.992188 L 48.646484 14.992188 C 45.340785 14.811904 42.884766 14.107422 42.884766 14.107422 C 42.884766 14.107422 31.52039 11.311855 27.537109 9.9941406 C 24.470659 8.9797236 23.970384 8.9746094 23.511719 8.9746094 L 22.945312 8.9746094 L 19.789062 8.9746094 L 6.8339844 8.9746094 z M 3.1621094 29.064453 L 3.1621094 39.058594 L 3.1621094 56.294922 C 3.1621093 58.328871 4.8000358 59.966797 6.8339844 59.966797 L 65.166016 59.966797 C 67.199965 59.966797 68.837891 58.328871 68.837891 56.294922 L 68.837891 29.064453 L 3.1621094 29.064453 z M 47.878906 32.886719 A 8.4135981 8.4135981 0 0 1 55.171875 37.126953 L 51.320312 40.978516 A 8.4135981 8.4135981 0 0 1 55.171875 48.037109 A 8.4135981 8.4135981 0 0 1 46.759766 56.451172 A 8.4135981 8.4135981 0 0 1 39.466797 52.210938 L 43.318359 48.359375 A 8.4135981 8.4135981 0 0 1 39.466797 41.300781 A 8.4135981 8.4135981 0 0 1 47.878906 32.886719 z "
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+</svg>
