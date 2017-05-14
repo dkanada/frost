@@ -111,6 +111,7 @@
     <item drawable="kore"/>
     <item drawable="leafpic"/>
     <item drawable="lightning"/>
+    <item drawable="lineagerec"/>
     <item drawable="loop"/>
     <item drawable="mail"/>
     <item drawable="map"/>
@@ -127,6 +128,7 @@
     <item drawable="muzei"/>
     <item drawable="mx"/>
     <item drawable="netguard"/>
+    <item drawable="neewpipe"/>
     <item drawable="nfctasks"/>
     <item drawable="nfctools"/>
     <item drawable="notes"/>

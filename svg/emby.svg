@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 192 192"
-   height="192"
-   width="192"
+   version="1.1"
    id="svg4667"
-   version="1.1">
+   width="192"
+   height="192"
+   viewBox="0 0 192 192">
   <metadata
      id="metadata4673">
     <rdf:RDF>
@@ -25,11 +25,11 @@
   <defs
      id="defs4671" />
   <g
-     style="display:inline"
-     id="layer1">
+     id="layer1"
+     style="display:inline;fill:#ffffff;stroke:none">
     <path
-       id="rect4679"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.81206465;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        d="m 87.921875,1.3613281 -51.357422,51.3593749 8.078125,8.078125 -43.2812499,43.279292 51.3593749,51.35743 8.078125,-8.07813 43.279292,43.28125 51.35743,-51.35937 -8.07813,-8.07813 43.28125,-43.279295 -51.35937,-51.357422 -8.07813,8.078125 z M 74.173828,60.480469 105.82227,78.240234 137.46875,96 105.82227,113.75977 74.173828,131.51953 V 96 Z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.81206465;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       id="rect4679" />
   </g>
 </svg>

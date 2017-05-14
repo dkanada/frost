@@ -111,7 +111,8 @@
         <item>kore</item>
         <item>leafpic</item>
         <item>lightning</item>
-        <item>loop</item>
+	<item>linreagerec</item>
+	<item>loop</item>
         <item>mail</item>
         <item>map</item>
         <item>mediafire</item>
@@ -127,7 +128,8 @@
         <item>muzei</item>
         <item>mx</item>
         <item>netguard</item>
-        <item>nfctasks</item>
+	<item>newpipe</item>
+	<item>nfctasks</item>
         <item>nfctools</item>
         <item>notes</item>
         <item>notificationnotes</item>

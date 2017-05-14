@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 192 192"
-   height="192"
-   width="192"
+   version="1.1"
    id="svg5038"
-   version="1.1">
+   width="192"
+   height="192"
+   viewBox="0 0 192 192">
   <metadata
      id="metadata5044">
     <rdf:RDF>
@@ -25,11 +25,11 @@
   <defs
      id="defs5042" />
   <g
-     style="display:inline"
-     id="layer4">
+     id="layer4"
+     style="display:inline;stroke:none;stroke-opacity:1;fill:#ffffff;fill-opacity:1">
     <path
-       id="rect5591"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:9.8039217;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke:none;stroke-opacity:1"
        d="m 36.703125,21.21289 c -7.695498,0 -13.890625,6.195127 -13.890625,13.890625 V 156.89648 c 0,7.6955 6.195127,13.89063 13.890625,13.89063 H 155.29688 c 7.69549,0 13.89062,-6.19513 13.89062,-13.89063 V 35.103515 c 0,-7.695498 -6.19513,-13.890625 -13.89062,-13.890625 H 129.99414 62.005859 Z m 25.302734,8.533203 h 67.988281 v 56.462891 l -8.49805,-8.123047 -8.49804,8.123047 -8.5,-8.123047 L 96,86.208984 l -8.498047,-8.123047 -8.5,8.123047 -8.498047,-8.123047 -8.498047,8.123047 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:9.8039217;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers" />
+       id="rect5591" />
   </g>
 </svg>
