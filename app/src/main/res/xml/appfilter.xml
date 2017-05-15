@@ -37,6 +37,9 @@
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org"/>
 
+    <!-- Audinaut -->
+    <item component="ComponentInfo{net.nullsum.audinaut/net.nullsum.audinaut.activity.SubsonicFragmentActivity}" drawable="audinaut"/>
+
     <!-- AudioFX -->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx"/>
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
