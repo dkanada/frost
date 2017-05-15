@@ -14,8 +14,8 @@
         <item>apex</item>
         <item>apktrack</item>
         <item>apps2org</item>
-	<item>audinaut</item>
-	<item>audiofx</item>
+        <item>audinaut</item>
+        <item>audiofx</item>
         <item>bandcamp</item>
         <item>barcode</item>
         <item>bible</item>
@@ -120,7 +120,8 @@
         <item>mediafire</item>
         <item>mega</item>
         <item>messages</item>
-        <item>messenger</item>
+	<item>messaging</item>
+	<item>messenger</item>
         <item>meteo</item>
         <item>microchip</item>
         <item>mifit</item>
