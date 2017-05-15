@@ -108,8 +108,8 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock"/>
 
     <!-- Clover -->
-    <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="fourchan"/>
-    <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="fourchan"/>
+    <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover"/>
+    <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover"/>
 
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell"/>
@@ -497,7 +497,7 @@
     <item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password"/>
 
     <!-- Pilot -->
-    <item component="ComponentInfo{com.dnielfe.manager/com.dnielfe.manager.activities.BrowserActivity}" drawable="pilot"/>
+    <item component="ComponentInfo{com.dkanada.pilot/com.dkanada.pilot.activities.BrowserActivity}" drawable="pilot"/>
 
     <!-- Pixel Dungeon -->
     <item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon"/>
@@ -574,6 +574,9 @@
 
     <!-- Sim Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim"/>
+
+    <!-- Simple Explorer -->
+    <item component="ComponentInfo{com.dnielfe.manager/com.dnielfe.manager.activities.BrowserActivity}" drawable="pilot"/>
 
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype"/>
