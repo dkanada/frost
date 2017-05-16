@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 192 192"
+   height="192"
+   width="192"
+   id="svg10168"
+   version="1.1">
+  <metadata
+     id="metadata10174">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10172" />
+  <g
+     style="display:inline"
+     id="layer1">
+    <path
+       id="rect10740"
+       d="m 27.921867,19.521481 c -4.654456,0 -8.400391,3.745935 -8.400391,8.400391 v 51.646484 c 0,4.654456 3.745935,8.400391 8.400391,8.400391 h 51.646484 c 4.654456,0 8.400391,-3.745935 8.400391,-8.400391 V 27.921872 c 0,-4.654456 -3.745935,-8.400391 -8.400391,-8.400391 z M 47.746086,31.87695 h 12 v 15.869141 h 15.867187 v 12 H 59.746086 v 15.867187 h -12 V 59.746091 H 31.876945 v -12 h 15.869141 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       ry="8.4015446"
+       y="19.521225"
+       x="104.03088"
+       height="68.447884"
+       width="68.447884"
+       id="rect10740-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       id="rect10740-0-9"
+       d="m 112.43163,104.03125 c -4.65446,0 -8.40039,3.74593 -8.40039,8.40039 v 51.64648 c 0,4.65446 3.74593,8.4004 8.40039,8.4004 h 51.64648 c 4.65446,0 8.4004,-3.74594 8.4004,-8.4004 v -51.64648 c 0,-4.65446 -3.74594,-8.40039 -8.4004,-8.40039 z m 3.95508,16.36133 h 43.73633 v 12 h -43.73633 z m 0,23.72265 h 43.73633 v 12 h -43.73633 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <rect
+       ry="8.4015446"
+       y="104.03089"
+       x="19.521233"
+       height="68.447884"
+       width="68.447884"
+       id="rect10740-0-9-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  </g>
+</svg>

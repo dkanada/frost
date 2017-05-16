@@ -79,6 +79,7 @@
 
     <!-- Calculator -->
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}" drawable="calculator"/>
 
     <!-- Calendar -->
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
@@ -363,7 +364,7 @@
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor"/>
 
     <!-- K-9 Mail -->
-    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9"/>
+    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9mail"/>
 
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail"/>
@@ -508,11 +509,17 @@
     <!-- Password Store -->
     <item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password"/>
 
+    <!-- People -->
+    <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts"/>
+
     <!-- Pixel Dungeon -->
     <item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon"/>
 
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr"/>
+
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone"/>
 
     <!-- Phonograph -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph"/>
@@ -593,7 +600,7 @@
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide"/>
 
-    <!-- Slide -->
+    <!-- Slide (Reddit) -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit"/>
 
     <!-- Snap -->

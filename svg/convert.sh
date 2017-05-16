@@ -29,7 +29,7 @@ do
         ;;
       384)
         cp ${DIR%.*}.png ${EXPORT}/drawable-xxxhdpi/
-        mv ${DIR%.*}.png ${EXPORT}/drawable-nodpi/nodpi-${FILE%.*}.png
+        mv ${DIR%.*}.png ${EXPORT}/drawable-nodpi/nodpi_${FILE%.*}.png
         ;;
     esac
   done
