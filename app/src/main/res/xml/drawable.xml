@@ -18,6 +18,7 @@
     <item drawable="audiofx"/>
     <item drawable="bandcamp"/>
     <item drawable="barcode"/>
+    <item drawable="battery"/>
     <item drawable="bible"/>
     <item drawable="birthdayadapter"/>
     <item drawable="blablacar"/>
@@ -35,6 +36,7 @@
     <item drawable="camera"/>
     <item drawable="casper"/>
     <item drawable="cgeo"/>
+    <item drawable="chanu"/>
     <item drawable="chefkoch"/>
     <item drawable="chrome"/>
     <item drawable="clashroyale"/>
@@ -69,7 +71,6 @@
     <item drawable="forecastie"/>
     <item drawable="forest"/>
     <item drawable="forkhub"/>
-    <item drawable="fourchan"/>
     <item drawable="freeotp"/>
     <item drawable="g2step"/>
     <item drawable="gadgetbridge"/>
@@ -104,6 +105,7 @@
     <item drawable="imgur"/>
     <item drawable="instagram"/>
     <item drawable="k9"/>
+    <item drawable="k9mail"/>
     <item drawable="keepass2android"/>
     <item drawable="keepassdroid"/>
     <item drawable="keychain"/>
@@ -111,6 +113,7 @@
     <item drawable="kiss"/>
     <item drawable="kodi"/>
     <item drawable="kore"/>
+    <item drawable="labcoat"/>
     <item drawable="leafpic"/>
     <item drawable="lightning"/>
     <item drawable="lineagerec"/>
@@ -155,7 +158,6 @@
     <item drawable="pb"/>
     <item drawable="phone"/>
     <item drawable="phonograph"/>
-    <item drawable="pilot"/>
     <item drawable="pixeldungeon"/>
     <item drawable="pixlr"/>
     <item drawable="privacybrowser"/>
@@ -181,6 +183,7 @@
     <item drawable="sieben"/>
     <item drawable="signal"/>
     <item drawable="sim"/>
+    <item drawable="simexplorer"/>
     <item drawable="skype"/>
     <item drawable="slide"/>
     <item drawable="slidereddit"/>

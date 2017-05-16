@@ -18,7 +18,8 @@
         <item>audiofx</item>
         <item>bandcamp</item>
         <item>barcode</item>
-        <item>bible</item>
+	<item>battery</item>
+	<item>bible</item>
         <item>birthdayadapter</item>
         <item>blablacar</item>
         <item>blogger</item>
@@ -35,6 +36,7 @@
         <item>camera</item>
         <item>casper</item>
         <item>cgeo</item>
+        <item>chanu</item>
         <item>chefkoch</item>
         <item>chrome</item>
         <item>clashroyale</item>
@@ -69,7 +71,6 @@
         <item>forecastie</item>
         <item>forest</item>
         <item>forkhub</item>
-        <item>fourchan</item>
         <item>freeotp</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
@@ -104,6 +105,7 @@
         <item>imgur</item>
         <item>instagram</item>
         <item>k9</item>
+        <item>k9mail</item>
         <item>keepass2android</item>
         <item>keepassdroid</item>
         <item>keychain</item>
@@ -111,6 +113,7 @@
         <item>kiss</item>
         <item>kodi</item>
         <item>kore</item>
+        <item>labcoat</item>
         <item>leafpic</item>
         <item>lightning</item>
 	<item>linreagerec</item>
@@ -155,7 +158,6 @@
         <item>pb</item>
         <item>phone</item>
         <item>phonograph</item>
-	<item>pilot</item>
 	<item>pixeldungeon</item>
         <item>pixlr</item>
         <item>privacybrowser</item>
@@ -181,6 +183,7 @@
         <item>sieben</item>
         <item>signal</item>
         <item>sim</item>
+	<item>simexplorer</item>
         <item>skype</item>
         <item>slide</item>
         <item>slidereddit</item>

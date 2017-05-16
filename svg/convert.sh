@@ -28,7 +28,7 @@ do
         ;;
       384)
         cp ${FILE%.*}.png ${DIR}/drawable-xxxhdpi/
-        mv ${FILE%.*}.png ${DIR}/drawable-nodpi/
+        mv ${FILE%.*}.png ${DIR}/drawable-nodpi/nodpi-${FILE%.*}.png
         ;;
     esac
   done
