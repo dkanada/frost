@@ -6,29 +6,30 @@ STRING="    <item drawable=${FILE}/>"
 STRING="        <item>${FILE}</item>"
 
 SIZES="48 72 96 144 384"
-DIR='../app/src/main/res'
+EXPORT='../app/src/main/res'
 
-for FILE in *.svg
+for DIR in $(find -name "*.svg")
 do
+  FILE=${DIR##*/}
   for SIZE in $SIZES
   do
-    inkscape --export-png=${FILE%.*}.png --export-width=$SIZE --export-height=$SIZE $FILE
+    inkscape --export-png=${DIR%.*}.png --export-width=$SIZE --export-height=$SIZE $DIR
     case $SIZE in
       48)
-        mv ${FILE%.*}.png ${DIR}/drawable-mdpi/
+        mv ${DIR%.*}.png ${EXPORT}/drawable-mdpi/
         ;;
       72)
-        mv ${FILE%.*}.png ${DIR}/drawable-hdpi/
+        mv ${DIR%.*}.png ${EXPORT}/drawable-hdpi/
         ;;
       96)
-        mv ${FILE%.*}.png ${DIR}/drawable-xhdpi/
+        mv ${DIR%.*}.png ${EXPORT}/drawable-xhdpi/
         ;;
       144)
-        mv ${FILE%.*}.png ${DIR}/drawable-xxhdpi/
+        mv ${DIR%.*}.png ${EXPORT}/drawable-xxhdpi/
         ;;
       384)
-        cp ${FILE%.*}.png ${DIR}/drawable-xxxhdpi/
-        mv ${FILE%.*}.png ${DIR}/drawable-nodpi/nodpi-${FILE%.*}.png
+        cp ${DIR%.*}.png ${EXPORT}/drawable-xxxhdpi/
+        mv ${DIR%.*}.png ${EXPORT}/drawable-nodpi/nodpi-${FILE%.*}.png
         ;;
     esac
   done

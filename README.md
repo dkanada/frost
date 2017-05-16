@@ -8,4 +8,4 @@ I am working on some scripts that will scrape the issues page for icon requests 
 
 ## Screenshots
 
-<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/screenshots/iconpack.jpg'/>
+<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/iconpack.jpg'/>
