@@ -1,35 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 192 192"
-   height="192"
-   width="192"
-   id="svg4696"
-   version="1.1">
-  <metadata
-     id="metadata4702">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4700" />
-  <path
-     id="path4706"
-     d="M 96 12.138672 A 83.861618 83.861618 0 0 0 12.138672 96 A 83.861618 83.861618 0 0 0 96 179.86133 A 83.861618 83.861618 0 0 0 179.86133 96 A 83.861618 83.861618 0 0 0 96 12.138672 z M 59.765625 57.917969 L 132.23438 57.917969 C 139.1986 57.917969 144.80469 63.524052 144.80469 70.488281 L 144.80469 121.51172 C 144.80469 128.47595 139.1986 134.08203 132.23438 134.08203 L 59.765625 134.08203 C 52.801396 134.08203 47.195312 128.47595 47.195312 121.51172 L 47.195312 70.488281 C 47.195312 63.524052 52.801396 57.917969 59.765625 57.917969 z "
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.27477372;stroke-opacity:1" />
-  <path
-     id="rect4710"
-     d="M 57.44922,69.932103 V 81.383274 L 96.000001,103.64108 134.55078,81.383274 V 69.932103 L 96.000001,92.187962 Z"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06778896;stroke-opacity:1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" height="192" width="192">
+    <path d="M96 12.14A83.862 83.862 0 0 0 12.14 96 83.862 83.862 0 0 0 96 179.86 83.862 83.862 0 0 0 179.86 96 83.862 83.862 0 0 0 96 12.14zM59.766 57.917h72.468c6.965 0 12.57 5.606 12.57 12.57v51.024a12.54 12.54 0 0 1-12.57 12.57H59.766a12.542 12.542 0 0 1-12.57-12.57V70.49c0-6.964 5.605-12.57 12.57-12.57z" fill="#fff"/>
+    <path d="M57.45 69.932v11.45L96 103.642l38.55-22.26v-11.45L96 92.19z" fill="#fff"/>
 </svg>
