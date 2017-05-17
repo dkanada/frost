@@ -10,6 +10,8 @@ EXPORT='../app/src/main/res'
 
 for DIR in $(find -name "*.svg")
 do
+  scour --remove-descriptive-elements --enable-id-stripping --nindent=4 $DIR > tmp.svg
+  mv tmp.svg $DIR
   FILE=${DIR##*/}
   for SIZE in $SIZES
   do

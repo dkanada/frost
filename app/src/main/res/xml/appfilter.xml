@@ -600,7 +600,7 @@
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide"/>
 
-    <!-- Slide (Reddit) -->
+    <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit"/>
 
     <!-- Snap -->
