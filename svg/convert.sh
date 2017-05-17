@@ -1,17 +1,10 @@
 #! /bin/bash
 
-DRAWABLE='../app/src/main/res/xml/drawable.xml'
-ICONPACK='../app/src/main/res/values/iconpack.xml'
-STRING="    <item drawable=${FILE}/>"
-STRING="        <item>${FILE}</item>"
-
 SIZES="48 72 96 144 384"
-EXPORT='../app/src/main/res'
+EXPORT="../app/src/main/res"
 
 for DIR in $(find -name "*.svg")
 do
-  scour --remove-descriptive-elements --enable-id-stripping --nindent=4 $DIR > tmp.svg
-  mv tmp.svg $DIR
   FILE=${DIR##*/}
   for SIZE in $SIZES
   do
