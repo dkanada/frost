@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect4630" x="3.5" y="14" width="25" height="17" ry="2" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
+ <path id="rect4632" d="m5.5 4.5c-1.1079 0-2 0.89212-2 2v4.5c0 1.1079 0.89212 2 2 2h21c1.1079 0 2-0.89212 2-2v-4.5c0-1.1079-0.89212-2-2-2h-21zm4 2.5a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2zm13 0a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
+ <rect id="rect4749" transform="rotate(37.577)" x="24.386" y="-17.492" width="1.93" height="7" ry=".965" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
+ <rect id="rect4749-3" transform="matrix(-.79254 .60982 .60982 .79254 1.1937e-7 -4.3985e-8)" x="-.97575" y="2.0222" width="1.93" height="7" ry=".965" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
+</svg>
