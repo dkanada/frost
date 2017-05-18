@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.4666659 8.4666659" height="32" width="32">
-    <path d="M.794.66v7.144c0 .265.133.397.397.397h5.03c.265 0 .398-.13.398-.394v-2.25h-.53v1.59H1.323V1.322h4.762v.53h.53V.66c0-.262-.133-.395-.397-.395H1.19C.927.265.795.397.795.66z" fill="#00bbd5" paint-order="markers fill stroke"/>
-    <circle r="1.323" cy="3.709" cx="6.35" fill="#00bbd5" paint-order="markers fill stroke"/>
-    <path d="M5.027 5.03V3.705L6.35 5.03z" fill="#00bbd5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 8.4666659 8.4666659">
+    <path d="M1 .874V7.59c0 .25.125.373.374.373h4.728c.25 0 .374-.122.374-.37V5.478h-.498v1.494h-4.48V1.497h4.476v.498h.498V.875c0-.247-.125-.372-.373-.372H1.37C1.125.503 1 .627 1 .873z" fill="#00bbd5" paint-order="markers fill stroke"/>
+    <circle cx="6.223" cy="3.74" r="1.244" fill="#00bbd5" paint-order="markers fill stroke"/>
+    <path d="M4.98 4.982V3.737l1.243 1.245z" fill="#00bbd5"/>
 </svg>
