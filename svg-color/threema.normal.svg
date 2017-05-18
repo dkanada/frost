@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2" width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path id="path4535" d="m16 4.5a11 8.5 0 0 0 -11 8.5 11 8.5 0 0 0 3.0449 5.8652l-2.0859 4.0059 6.1504-1.9316a11 8.5 0 0 0 3.8906 0.56055 11 8.5 0 0 0 11 -8.5 11 8.5 0 0 0 -11 -8.5zm0 2.5a3 3 0 0 1 3 3v2.5039h1v5.4961h-8v-5.4961h1v-2.5039a3 3 0 0 1 3 -3zm0 1a2 2 0 0 0 -2 2v2.5039h4v-2.5039a2 2 0 0 0 -2 -2z" fill="#4b4b4b" fill-rule="evenodd"/>
- <circle id="path4553" cx="9.75" cy="26.25" r="1.75" fill="#4b4b4b" style="paint-order:markers fill stroke"/>
- <circle id="path4553-3" cx="16" cy="26.25" r="1.75" fill="#4b4b4b" style="paint-order:markers fill stroke"/>
- <circle id="path4553-6" cx="22.25" cy="26.25" r="1.75" fill="#4b4b4b" style="paint-order:markers fill stroke"/>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M16 4.5A11 8.5 0 0 0 5 13a11 8.5 0 0 0 3.045 5.865L5.96 22.87l6.15-1.93a11 8.5 0 0 0 3.89.56A11 8.5 0 0 0 27 13a11 8.5 0 0 0-11-8.5zM16 7a3 3 0 0 1 3 3v2.504h1V18h-8v-5.496h1V10a3 3 0 0 1 3-3zm0 1a2 2 0 0 0-2 2v2.504h4V10a2 2 0 0 0-2-2z" fill="#4b4b4b" fill-rule="evenodd"/>
+    <circle cx="9.75" cy="26.25" r="1.75" fill="#4b4b4b" paint-order="markers fill stroke"/>
+    <circle cx="16" cy="26.25" r="1.75" fill="#4b4b4b" paint-order="markers fill stroke"/>
+    <circle cx="22.25" cy="26.25" r="1.75" fill="#4b4b4b" paint-order="markers fill stroke"/>
 </svg>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <g fill="#f80" fill-rule="evenodd" stroke-width=".16956">
-  <path d="m3.3491 31h25.302l-2.9518-7h-19.397z"/>
-  <path d="m7.3563 21.5h17.289l-2.741-6.5h-11.806z"/>
-  <path d="m11.153 12.5h9.697l-4.247-10.071-0.60265-1.4291-0.60265 1.4291z"/>
- </g>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#f80" fill-rule="evenodd" stroke-width=".17">
+        <path d="M3.35 31h25.3l-2.95-7H6.3zM7.356 21.5h17.29L21.903 15H10.098zM11.153 12.5h9.697L16.603 2.43 16 1l-.602 1.43z"/>
+    </g>
 </svg>

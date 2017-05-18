@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg2" width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <rect id="rect4630" x="3.5" y="14" width="25" height="17" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
- <path id="rect4632" d="m3.5 4.5v8.5h25v-8.5h-25zm6 2.5a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2zm13 0a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2 -2 2 2 0 0 1 2 -2z" fill="#b4ec13" stroke-width="0" style="paint-order:markers fill stroke"/>
- <path id="path4664" d="M 0.47692174,2.1846171 5,8 6.3750015,6.6249985 2,1 Z" fill="#b4ec13" fill-rule="evenodd" stroke-width="0"/>
- <path id="path4666" d="m30 1 1.5231 1.1846-4.5231 5.8154-1.375-1.375z" fill="#b4ec13" fill-rule="evenodd" stroke-width="0"/>
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#b4ec13" paint-order="markers fill stroke" d="M3.5 14h25v17h-25zM3.5 4.5V13h25V4.5h-25zm6 2.5a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm13 0a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/>
+    <path d="M.477 2.185L5 8l1.375-1.375L2 1zM30 1l1.523 1.185L27 8l-1.375-1.375z" fill="#b4ec13" fill-rule="evenodd"/>
 </svg>
