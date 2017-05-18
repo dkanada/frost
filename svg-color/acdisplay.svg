@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.4666659 8.4666659" height="32" width="32">
+    <path d="M.794.66v7.144c0 .265.133.397.397.397h5.03c.265 0 .398-.13.398-.394v-2.25h-.53v1.59H1.323V1.322h4.762v.53h.53V.66c0-.262-.133-.395-.397-.395H1.19C.927.265.795.397.795.66z" fill="#00bbd5" paint-order="markers fill stroke"/>
+    <circle r="1.323" cy="3.709" cx="6.35" fill="#00bbd5" paint-order="markers fill stroke"/>
+    <path d="M5.027 5.03V3.705L6.35 5.03z" fill="#00bbd5"/>
+</svg>

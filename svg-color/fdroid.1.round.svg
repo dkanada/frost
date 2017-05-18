@@ -1,6 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <rect x="3.5" y="14" width="25" height="17" ry="2" fill="#b4ec13" paint-order="markers fill stroke"/>
-    <path d="M5.5 4.5c-1.108 0-2 .892-2 2V11c0 1.108.892 2 2 2h21c1.108 0 2-.892 2-2V6.5c0-1.108-.892-2-2-2h-21zm4 2.5a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm13 0a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#b4ec13" paint-order="markers fill stroke"/>
-    <rect transform="rotate(37.577)" x="24.386" y="-17.492" width="1.93" height="7" ry=".965" fill="#b4ec13" paint-order="markers fill stroke"/>
-    <rect transform="rotate(142.424 0 0)" x="-.976" y="2.022" width="1.93" height="7" ry=".965" fill="#b4ec13" paint-order="markers fill stroke"/>
-</svg>

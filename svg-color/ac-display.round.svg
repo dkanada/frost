@@ -1,7 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 8.4666659 8.4666659" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(0 -288.53)" fill="#00bbd5" stroke-width="0">
-        <path d="M1.323 289.19v7.145c0 .265.133.397.397.397h5.027c.264 0 .397-.132.397-.397v-2.25h-.53v1.59H1.852v-5.822h4.762v.53h.53v-1.192c0-.262-.133-.395-.397-.395H1.72c-.265 0-.397.132-.397.396z" paint-order="markers fill stroke"/>
-        <circle cx="6.879" cy="292.24" r="1.323" paint-order="markers fill stroke"/>
-        <path d="M5.556 293.56v-1.323l1.323 1.323z" fill-rule="evenodd"/>
-    </g>
-</svg>

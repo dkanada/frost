@@ -1,4 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#b4ec13" paint-order="markers fill stroke" d="M3.5 14h25v17h-25zM3.5 4.5V13h25V4.5h-25zm6 2.5a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2zm13 0a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/>
-    <path d="M.477 2.185L5 8l1.375-1.375L2 1zM30 1l1.523 1.185L27 8l-1.375-1.375z" fill="#b4ec13" fill-rule="evenodd"/>
-</svg>

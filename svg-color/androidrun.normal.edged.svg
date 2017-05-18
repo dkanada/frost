@@ -1,7 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 8.4666665 8.4666669" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(0 -288.53)">
-        <path fill="none" stroke="#dafc1f" stroke-width=".265" d="M.132 288.67h8.202v8.202H.132z"/>
-        <path d="M3.95 290.44a.2.2 0 0 0-.156.073l-.97 1.182a.2.2 0 0 0 .033.288l.112.084a.2.2 0 0 0 .275-.033l.87-1.058h.595l-1.97 2.385-1.377-.016a.2.2 0 0 0-.204.195l-.01.31a.2.2 0 0 0 .2.207l1.802.003a.2.2 0 0 0 .155-.072l.786-.95.934.934-.385 1.774a.2.2 0 0 0 .145.237l.248.065a.2.2 0 0 0 .248-.152l.5-2.368a.2.2 0 0 0-.055-.183l-.826-.83.86-1.033.647.658a.2.2 0 0 0 .297-.013L7.632 291a.2.2 0 0 0-.03-.285l-.133-.103a.2.2 0 0 0-.28.03l-.668.813-.962-.955a.2.2 0 0 0-.142-.06z" color="#000" fill="#dafc1f" fill-rule="evenodd" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
-        <circle cx="6.069" cy="289.92" r=".595" fill="#dafc1f" paint-order="markers stroke fill"/>
-    </g>
-</svg>
