@@ -8,9 +8,14 @@
         <item>adiutor</item>
         <item>afwall</item>
         <item>aimsicd</item>
+        <item>alarmklock</item>
         <item>amaze</item>
+        <item>an2linux</item>
         <item>android</item>
-        <item>ankidroid</item>
+        <item>androidrun</item>
+	<item>ankidroid</item>
+	<item>antox</item>
+        <item>aospkeyboard</item>
         <item>apex</item>
         <item>apktrack</item>
         <item>apps2org</item>
@@ -148,6 +153,7 @@
         <item>openvpn</item>
         <item>opera</item>
         <item>orbot</item>
+        <item>osmand</item>
         <item>outlook</item>
         <item>overchan</item>
         <item>owncloudnotes</item>
@@ -196,6 +202,7 @@
         <item>su</item>
         <item>swiftkey</item>
         <item>systemappmover</item>
+        <item>syncthing</item>
 	<item>tachiyomi</item>
 	<item>tasks</item>
         <item>telegram</item>

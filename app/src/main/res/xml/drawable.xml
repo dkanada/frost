@@ -7,10 +7,15 @@
     <item drawable="adaway"/>
     <item drawable="adiutor"/>
     <item drawable="afwall"/>
-    <item drawable="aimsicd"/>
+    <item drawable="aimsicd"/> 
+    <item drawable="alarmklock"/>
     <item drawable="amaze"/>
+    <item drawable="an2linux"/>
     <item drawable="android"/>
+    <item drawable="androidrun"/>
     <item drawable="ankidroid"/>
+    <item drawable="antox"/>
+    <item drawable="aospkeyboard"/>
     <item drawable="apex"/>
     <item drawable="apktrack"/>
     <item drawable="apps2org"/>
@@ -148,6 +153,7 @@
     <item drawable="openvpn"/>
     <item drawable="opera"/>
     <item drawable="orbot"/>
+    <item drawable="osmand"/>
     <item drawable="outlook"/>
     <item drawable="overchan"/>
     <item drawable="owncloudnotes"/>
@@ -195,6 +201,7 @@
     <item drawable="spotify"/>
     <item drawable="su"/>
     <item drawable="swiftkey"/>
+    <item drawable="syncthing"/>
     <item drawable="systemappmover"/>
     <item drawable="tachoyomi"/>
     <item drawable="tasks"/>
