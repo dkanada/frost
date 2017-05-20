@@ -3,28 +3,29 @@
 SIZES="48 72 96 144 384"
 EXPORT="../app/src/main/res"
 
-for DIR in $(find -name "*.svg")
+for FILE in *.svgo
 do
-  FILE=${DIR##*/}
+  NAME=${FILE%.*}
+  mv ${NAME}.svgo ${NAME}.svg
   for SIZE in $SIZES
   do
-    inkscape --export-png=${DIR%.*}.png --export-width=$SIZE --export-height=$SIZE $DIR
+    inkscape --export-png=${NAME}.png --export-width=$SIZE --export-height=$SIZE ${NAME}.svg
     case $SIZE in
       48)
-        mv ${DIR%.*}.png ${EXPORT}/drawable-mdpi/
+        mv ${NAME}.png ${EXPORT}/drawable-mdpi/
         ;;
       72)
-        mv ${DIR%.*}.png ${EXPORT}/drawable-hdpi/
+        mv ${NAME}.png ${EXPORT}/drawable-hdpi/
         ;;
       96)
-        mv ${DIR%.*}.png ${EXPORT}/drawable-xhdpi/
+        mv ${NAME}.png ${EXPORT}/drawable-xhdpi/
         ;;
       144)
-        mv ${DIR%.*}.png ${EXPORT}/drawable-xxhdpi/
+        mv ${NAME}.png ${EXPORT}/drawable-xxhdpi/
         ;;
       384)
-        cp ${DIR%.*}.png ${EXPORT}/drawable-xxxhdpi/
-        mv ${DIR%.*}.png ${EXPORT}/drawable-nodpi/nodpi_${FILE%.*}.png
+        cp ${NAME}.png ${EXPORT}/drawable-xxxhdpi/
+        mv ${NAME}.png ${EXPORT}/drawable-nodpi/nodpi_${NAME}.png
         ;;
     esac
   done
