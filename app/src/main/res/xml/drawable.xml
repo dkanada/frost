@@ -121,7 +121,8 @@
     <item drawable="leafpic"/>
     <item drawable="lightning"/>
     <item drawable="lineagerec"/>
-    <item drawable="loop"/>
+    <item drawable="loop"/> 
+    <item drawable="magisk"/>
     <item drawable="mail"/>
     <item drawable="map"/>
     <item drawable="mediafire"/>
@@ -143,7 +144,8 @@
     <item drawable="nfctools"/>
     <item drawable="notes"/>
     <item drawable="notificationnotes"/>
-    <item drawable="nova"/>
+    <item drawable="nova"/> 
+    <item drawable="odyssey"/>
     <item drawable="openapk"/>
     <item drawable="opencamera"/>
     <item drawable="openconnect"/>
@@ -166,6 +168,7 @@
     <item drawable="pixeldungeon"/>
     <item drawable="pixlr"/>
     <item drawable="privacybrowser"/>
+    <item drawable="qksms"/>
     <item drawable="qrforkeepass"/>
     <item drawable="quizlet"/>
     <item drawable="radiodroid"/>
@@ -206,6 +209,7 @@
     <item drawable="tachoyomi"/>
     <item drawable="tasks"/>
     <item drawable="telegram"/>
+    <item drawable="terminal"/>
     <item drawable="themes"/>
     <item drawable="theswitch"/>
     <item drawable="threema"/>

@@ -121,8 +121,9 @@
         <item>leafpic</item>
         <item>lightning</item>
 	<item>linreagerec</item>
-	<item>loop</item>
-        <item>mail</item>
+	<item>loop</item>	
+	<item>magisk</item>
+	<item>mail</item>
         <item>map</item>
         <item>mediafire</item>
         <item>mega</item>
@@ -144,6 +145,7 @@
         <item>notes</item>
         <item>notificationnotes</item>
 	<item>nova</item>
+	<item>odyssey</item>
 	<item>openapk</item>
         <item>opencamera</item>
 	<item>openconnect</item>
@@ -166,7 +168,8 @@
 	<item>pixeldungeon</item>
         <item>pixlr</item>
         <item>privacybrowser</item>
-        <item>qrforkeepass</item>
+	<item>qksms</item>
+	<item>qrforkeepass</item>
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
@@ -205,8 +208,9 @@
         <item>syncthing</item>
 	<item>tachiyomi</item>
 	<item>tasks</item>
-        <item>telegram</item>
-        <item>themes</item>
+        <item>telegram</item>	
+	<item>terminal</item>
+	<item>themes</item>
         <item>theswitch</item>
 	<item>threema</item>
 	<item>timber</item>
