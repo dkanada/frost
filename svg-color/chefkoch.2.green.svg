@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   sodipodi:docname="chefkoch.2.round.green.svg"
+   inkscape:version="0.92+devel unknown">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#202020"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="8"
+     inkscape:cx="6.7398398"
+     inkscape:cy="16.418014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4271" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g10"
+     transform="translate(0,-352)">
+    <path
+       style="fill:#618f30;fill-opacity:1;stroke:#618f30;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 10 2 C 8 2 5 2.4279845 5 5 L 5 7 L 5 10 L 5 21.25 C 5 22.2195 5.7805003 23 6.75 23 L 8.5 23 L 8.5 21.25 L 8.5 10.5 A 1.5 1.5 0 0 1 10 9 A 1.5 1.5 0 0 1 11.5 10.5 L 11.5 23 L 14.5 23 L 14.5 9.5 A 1.5 1.5 0 0 1 16 8 A 1.5 1.5 0 0 1 17.5 9.5 L 17.5 23 L 20.5 23 L 20.5 11 A 1.5 1.5 0 0 1 22 9.5 A 1.5 1.5 0 0 1 23.5 11 L 23.5 21.25 L 23.5 23 L 25.25 23 C 26.2195 23 27 22.2195 27 21.25 L 27 8.75 L 27 7 L 27 6 C 27 4 25 2.65625 23.423828 2.65625 C 21.847656 2.65625 20.797931 3.96018 18.492188 4 C 15.376592 3.8746421 12 2 10 2 z M 6.5 25 C 5.669 25 5 25.669 5 26.5 L 5 29.5 C 5 30.331 5.669 31 6.5 31 L 25.5 31 C 26.331 31 27 30.331 27 29.5 L 27 26.5 C 27 25.669 26.331 25 25.5 25 L 6.5 25 z "
+       transform="translate(0,352)"
+       id="rect5071-5" />
+  </g>
+</svg>
