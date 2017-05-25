@@ -71,6 +71,7 @@
     <item drawable="fennec"/>
     <item drawable="files"/>
     <item drawable="firefox"/>
+    <item drawable="flatastic"/>
     <item drawable="flickr"/>
     <item drawable="flipboard"/>
     <item drawable="forecastie"/>
@@ -215,6 +216,7 @@
     <item drawable="threema"/>
     <item drawable="timber"/>
     <item drawable="torch"/>
+    <item drawable="transportr"/>
     <item drawable="trenord"/>
     <item drawable="tumblr"/>
     <item drawable="turtl"/>
