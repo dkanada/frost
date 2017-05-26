@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(0,-352)">
-  <path transform="translate(0,352)" d="m3.01 0c-1.667 0-3.01 1.342-3.01 3.01v25.98c0 1.667 1.342 3.01 3.01 3.01h10.99v-11h-4v-5h4v-4a6 6 0 0 1 6 -6h3v5h-3a1 1 0 0 0 -1 1v4h4v5h-4v11h9.99c1.667 0 3.01-1.342 3.01-3.01v-25.98c0-1.667-1.342-3.01-3.01-3.01h-25.98z" fill="#3f5d9a" stroke-width="0" style="paint-order:markers fill stroke"/>
- </g>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.01 0A3.003 3.003 0 0 0 0 3.01v25.98A3.003 3.003 0 0 0 3.01 32H14V21h-4v-5h4v-4a6 6 0 0 1 6-6h3v5h-3a1 1 0 0 0-1 1v4h4v5h-4v11h9.99A3.003 3.003 0 0 0 32 28.99V3.01A3.003 3.003 0 0 0 28.99 0H3.01z" fill="#3f5d9a" paint-order="markers fill stroke"/>
 </svg>

@@ -3,10 +3,9 @@
 SIZES="48 72 96 144 384"
 EXPORT="../app/src/main/res"
 
-for FILE in *.svgo
+for FILE in *.svg
 do
   NAME=${FILE%.*}
-  mv ${NAME}.svgo ${NAME}.svg
   for SIZE in $SIZES
   do
     inkscape --export-png=${NAME}.png --export-width=$SIZE --export-height=$SIZE ${NAME}.svg
