@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
-    <path d="M16 4.5A11 8.5 0 0 0 5 13a11 8.5 0 0 0 3.045 5.865L5.96 22.87l6.15-1.93a11 8.5 0 0 0 3.89.56A11 8.5 0 0 0 27 13a11 8.5 0 0 0-11-8.5zM16 7a3 3 0 0 1 3 3v2.5h.426c.318 0 .574.256.574.574v4.352a.573.573 0 0 1-.574.574h-6.852a.573.573 0 0 1-.574-.574v-4.352c0-.318.256-.574.574-.574H13V10a3 3 0 0 1 3-3zm0 1a2 2 0 0 0-2 2v2.5h4V10a2 2 0 0 0-2-2z" fill="#4b4b4b"/>
-    <circle paint-order="markers fill stroke" fill="#4b4b4b" r="1.75" cy="26.25" cx="9.75"/>
-    <circle paint-order="markers fill stroke" fill="#4b4b4b" r="1.75" cy="26.25" cx="16"/>
-    <circle paint-order="markers fill stroke" fill="#4b4b4b" r="1.75" cy="26.25" cx="22.25"/>
-</svg>

@@ -1,6 +1,6 @@
 # ICEcons
 
-This is a fork of the ICEcons icon pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers. There are over 300 icons and a few wallpapers included as well. This is my first project with Inkscape but I will add icons when I have the time, submitting icon requests helps a lot.
+This is a fork of the ICEcons icon pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers. There are over 200 icons and a few wallpapers included as well. This is my first project with Inkscape but I will add icons when I have the time, submitting icon requests helps a lot.
 
 ## Icon Requests
 
@@ -12,4 +12,4 @@ If you know how to create vectors and have some spare time feel free to help me 
 
 ## Screenshots
 
-<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/iconpack.jpg'/>
+<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/screenshots/iconpack.jpg'/>
