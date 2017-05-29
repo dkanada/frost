@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-    <item drawable="wall_1"/>
-    <item drawable="wall_2"/>
-    <item drawable="wall_3"/>
-    <item drawable="wall_4"/>
-    <item drawable="wall_5"/>
-    <item drawable="wall_6"/>
-    <item drawable="wall_7"/>
-    <item drawable="wall_8"/>
-    <item drawable="wall_9"/>
-    <item drawable="wall_10"/>
-    <item drawable="wall_11"/>
-    <item drawable="wall_12"/>
+    <item drawable="wall_1" />
+    <item drawable="wall_2" />
+    <item drawable="wall_3" />
+    <item drawable="wall_4" />
+    <item drawable="wall_5" />
+    <item drawable="wall_6" />
+    <item drawable="wall_7" />
+    <item drawable="wall_8" />
+    <item drawable="wall_9" />
+    <item drawable="wall_10" />
+    <item drawable="wall_11" />
+    <item drawable="wall_12" />
 </resources>

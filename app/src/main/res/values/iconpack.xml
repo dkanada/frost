@@ -13,8 +13,8 @@
         <item>an2linux</item>
         <item>android</item>
         <item>androidrun</item>
-	<item>ankidroid</item>
-	<item>antox</item>
+        <item>ankidroid</item>
+        <item>antox</item>
         <item>aospkeyboard</item>
         <item>apex</item>
         <item>apktrack</item>
@@ -23,8 +23,8 @@
         <item>audiofx</item>
         <item>bandcamp</item>
         <item>barcode</item>
-	<item>battery</item>
-	<item>bible</item>
+        <item>battery</item>
+        <item>bible</item>
         <item>birthdayadapter</item>
         <item>blablacar</item>
         <item>blogger</item>
@@ -46,8 +46,8 @@
         <item>chrome</item>
         <item>clashroyale</item>
         <item>clock</item>
-	<item>clover</item>
-	<item>contacts</item>
+        <item>clover</item>
+        <item>contacts</item>
         <item>conversations</item>
         <item>cpuz</item>
         <item>daserste</item>
@@ -62,8 +62,8 @@
         <item>duckduckgo</item>
         <item>earth</item>
         <item>echo</item>
-	<item>emby</item>
-	<item>es</item>
+        <item>emby</item>
+        <item>es</item>
         <item>etar</item>
         <item>facebook</item>
         <item>fasthub</item>
@@ -71,7 +71,7 @@
         <item>fennec</item>
         <item>files</item>
         <item>firefox</item>
-	<item>flatastic</item>
+        <item>flatastic</item>
         <item>flickr</item>
         <item>flipboard</item>
         <item>forecastie</item>
@@ -121,16 +121,16 @@
         <item>labcoat</item>
         <item>leafpic</item>
         <item>lightning</item>
-	<item>linreagerec</item>
-	<item>loop</item>	
-	<item>magisk</item>
-	<item>mail</item>
+        <item>linreagerec</item>
+        <item>loop</item>
+        <item>magisk</item>
+        <item>mail</item>
         <item>map</item>
         <item>mediafire</item>
         <item>mega</item>
         <item>messages</item>
-	<item>messaging</item>
-	<item>messenger</item>
+        <item>messaging</item>
+        <item>messenger</item>
         <item>meteo</item>
         <item>microchip</item>
         <item>mifit</item>
@@ -140,17 +140,17 @@
         <item>muzei</item>
         <item>mx</item>
         <item>netguard</item>
-	<item>newpipe</item>
-	<item>nfctasks</item>
+        <item>newpipe</item>
+        <item>nfctasks</item>
         <item>nfctools</item>
         <item>notes</item>
         <item>notificationnotes</item>
-	<item>nova</item>
-	<item>odyssey</item>
-	<item>openapk</item>
+        <item>nova</item>
+        <item>odyssey</item>
+        <item>openapk</item>
         <item>opencamera</item>
-	<item>openconnect</item>
-	<item>openlauncher</item>
+        <item>openconnect</item>
+        <item>openlauncher</item>
         <item>openmensa</item>
         <item>opentasks</item>
         <item>openvpn</item>
@@ -166,11 +166,11 @@
         <item>pb</item>
         <item>phone</item>
         <item>phonograph</item>
-	<item>pixeldungeon</item>
+        <item>pixeldungeon</item>
         <item>pixlr</item>
         <item>privacybrowser</item>
-	<item>qksms</item>
-	<item>qrforkeepass</item>
+        <item>qksms</item>
+        <item>qrforkeepass</item>
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
@@ -192,14 +192,14 @@
         <item>sieben</item>
         <item>signal</item>
         <item>sim</item>
-	<item>simexplorer</item>
+        <item>simexplorer</item>
         <item>skype</item>
         <item>slide</item>
         <item>slidereddit</item>
         <item>snapchat</item>
         <item>snapseed</item>
-	<item>solidexplorer</item>
-	<item>soundrecorder</item>
+        <item>solidexplorer</item>
+        <item>soundrecorder</item>
         <item>sparss</item>
         <item>speedtest</item>
         <item>spotify</item>
@@ -207,16 +207,16 @@
         <item>swiftkey</item>
         <item>systemappmover</item>
         <item>syncthing</item>
-	<item>tachiyomi</item>
-	<item>tasks</item>
-        <item>telegram</item>	
-	<item>terminal</item>
-	<item>themes</item>
+        <item>tachiyomi</item>
+        <item>tasks</item>
+        <item>telegram</item>
+        <item>terminal</item>
+        <item>themes</item>
         <item>theswitch</item>
-	<item>threema</item>
-	<item>timber</item>
+        <item>threema</item>
+        <item>timber</item>
         <item>torch</item>
-	<item>transportr</item>
+        <item>transportr</item>
         <item>trenord</item>
         <item>tumblr</item>
         <item>turtl</item>
