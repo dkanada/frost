@@ -2,11 +2,13 @@
 
 SIZES="48 72 96 144 384"
 EXPORT="../app/src/main/res"
+ICON="../icons"
 
 for DIR in $(find -name "*.svg")
 do
   FILE=${DIR##*/}
   NAME=${FILE%.*}
+  cp -f $FILE ${ICON}/$FILE
   for SIZE in $SIZES
   do
     inkscape --export-png=${NAME}.png --export-width=$SIZE --export-height=$SIZE ${NAME}.svg

@@ -5,11 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg4526"
-   version="1.1"
-   viewBox="0 0 48 48"
+   width="48"
    height="48"
-   width="48">
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4526">
   <metadata
      id="metadata4532">
     <rdf:RDF>
@@ -25,23 +25,53 @@
   <defs
      id="defs4530" />
   <path
-     id="path4601-3-6-7-5-3"
+     style="fill:#ffffff;stroke-width:0.24588224;image-rendering:auto"
      d="M 7 5 C 5.892 5 5 5.892 5 7 L 5 7.96875 L 5 8 L 5 17.849609 L 5 23.636719 L 5 40.033203 L 5 41 C 5 42.108 5.892 43 7 43 L 7.96875 43 L 8 43 L 17.849609 43 L 23.636719 43 L 40.033203 43 L 41 43 C 42.108 43 43 42.108 43 41 L 43 40 L 43 7 C 43 5.892 42.108 5 41 5 L 7 5 z M 8 8 L 17.849609 8 L 23.636719 8 L 40 8 L 40 17.849609 L 40 23.636719 L 40 40 L 8 40 L 8 8 z "
-     style="fill:#ffffff;stroke-width:0.24588224;image-rendering:auto" />
+     id="path4601-3-6-7-5-3" />
   <path
-     id="path4793"
-     d="m 6.4375,22 v 4 H 9.9751088 19.95802 v -4 z"
-     style="fill:#ffffff;stroke-width:0.31004968" />
+     style="fill:#ffffff;stroke-width:0.31004968"
+     d="m 6.4375,24.487638 v 4 H 9.9751088 19.95802 v -4 z"
+     id="path4793" />
   <path
-     id="path4601-3-6-5"
-     d="m 29.745645,22 v 4 h 8.723708 3.092171 V 24.1875 22 Z"
-     style="fill:#ffffff;stroke-width:0.28987321" />
+     style="fill:#ffffff;stroke-width:0.28987321"
+     d="m 29.745645,24.487638 v 4 h 8.723708 3.092171 v -1.8125 -2.1875 z"
+     id="path4601-3-6-5" />
   <path
-     id="path4601-3-6-5-6"
-     d="m 22,6.4375 v 2.9680224 9.8891796 0.109928 h 4 V 6.4375 Z"
-     style="fill:#ffffff;stroke-width:0.28399453" />
+     style="fill:#ffffff;stroke-width:0.3081618"
+     d="m 22,6.4375 v 3.4946591 11.6438849 0.129433 h 4 V 6.4375 Z"
+     id="path4601-3-6-5-6" />
   <path
-     id="path4601-3-6-5-6-2"
-     d="m 16.916992,16.916992 v 1.105468 0.707032 2.1875 0.791015 2.15625 3.21875 1.8125 1.082033 1.105467 h 10.166016 4 v -1.10742 -2.89258 -0.791015 -2.15625 -3.21875 -2.894532 -1.105468 h -1.107422 -2.892578 -0.791016 -2.158203 -3.216797 -2.894531 z m 4,4 h 6.166016 v 6.166015 h -0.791016 -2.158203 -3.216797 z"
-     style="fill:#ffffff;stroke-width:0.17335115" />
+     style="fill:#ffffff;stroke-width:0.17335115"
+     d="m 16.916992,19.40463 v 1.105468 0.707032 2.1875 0.791015 2.15625 3.21875 1.8125 1.082033 1.105467 h 10.166016 4 v -1.10742 -2.89258 -0.791015 -2.15625 -3.21875 -2.894532 -1.105468 h -1.107422 -2.892578 -0.791016 -2.158203 -3.216797 -2.894531 z m 4,4 h 6.166016 v 6.166015 h -0.791016 -2.158203 -3.216797 z"
+     id="path4601-3-6-5-6-2" />
+  <rect
+     y="7.6885605"
+     x="5"
+     height="32.622879"
+     width="4"
+     id="rect5152"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.00968564" />
+  <rect
+     y="7.6885605"
+     x="39"
+     height="32.622879"
+     width="4"
+     id="rect5152-3"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.00968564" />
+  <rect
+     transform="rotate(90)"
+     y="-39.63559"
+     x="5"
+     height="32.622879"
+     width="4"
+     id="rect5152-6"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.00968564" />
+  <rect
+     transform="rotate(90)"
+     y="-40.31144"
+     x="39"
+     height="32.622879"
+     width="4"
+     id="rect5152-6-7"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.00968564" />
 </svg>
