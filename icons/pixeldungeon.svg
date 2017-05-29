@@ -1,3 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" height="192" width="192">
-    <path d="M11.936 18.29v155.42h168.128V18.29H18.574zM24.07 30.423H84V73.49H60.04v23.99H24.07zm83.93 0h59.93V97.48h-35.97V73.492H108zm-23.965 67.15h23.654v23.65H84.03zm-59.965 23.58h35.97v23.876h71.92v-23.88h35.97v40.422H24.07z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg4526"
+   version="1.1"
+   viewBox="0 0 48 48"
+   height="48"
+   width="48">
+  <metadata
+     id="metadata4532">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4530" />
+  <path
+     id="path4601-3-6-7-5-3"
+     d="M 7 5 C 5.892 5 5 5.892 5 7 L 5 7.96875 L 5 8 L 5 17.849609 L 5 23.636719 L 5 40.033203 L 5 41 C 5 42.108 5.892 43 7 43 L 7.96875 43 L 8 43 L 17.849609 43 L 23.636719 43 L 40.033203 43 L 41 43 C 42.108 43 43 42.108 43 41 L 43 40 L 43 7 C 43 5.892 42.108 5 41 5 L 7 5 z M 8 8 L 17.849609 8 L 23.636719 8 L 40 8 L 40 17.849609 L 40 23.636719 L 40 40 L 8 40 L 8 8 z "
+     style="fill:#ffffff;stroke-width:0.24588224;image-rendering:auto" />
+  <path
+     id="path4793"
+     d="m 6.4375,22 v 4 H 9.9751088 19.95802 v -4 z"
+     style="fill:#ffffff;stroke-width:0.31004968" />
+  <path
+     id="path4601-3-6-5"
+     d="m 29.745645,22 v 4 h 8.723708 3.092171 V 24.1875 22 Z"
+     style="fill:#ffffff;stroke-width:0.28987321" />
+  <path
+     id="path4601-3-6-5-6"
+     d="m 22,6.4375 v 2.9680224 9.8891796 0.109928 h 4 V 6.4375 Z"
+     style="fill:#ffffff;stroke-width:0.28399453" />
+  <path
+     id="path4601-3-6-5-6-2"
+     d="m 16.916992,16.916992 v 1.105468 0.707032 2.1875 0.791015 2.15625 3.21875 1.8125 1.082033 1.105467 h 10.166016 4 v -1.10742 -2.89258 -0.791015 -2.15625 -3.21875 -2.894532 -1.105468 h -1.107422 -2.892578 -0.791016 -2.158203 -3.216797 -2.894531 z m 4,4 h 6.166016 v 6.166015 h -0.791016 -2.158203 -3.216797 z"
+     style="fill:#ffffff;stroke-width:0.17335115" />
 </svg>
