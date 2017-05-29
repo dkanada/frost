@@ -169,6 +169,7 @@
 
     <!-- Documents -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="files" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
 
     <!-- Document Viewer -->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="book" />
@@ -178,7 +179,6 @@
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
-    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="downloads" />
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />

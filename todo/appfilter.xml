@@ -1,13 +1,5 @@
 <!-- AntennaPod -->
 <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="de_danoeh_antennapod_de_danoeh_antennapod_activity_MainActivity"/>
-<!-- Audio Recorder -->
-<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="com_github_axet_audiorecorder_com_github_axet_audiorecorder_activities_MainActivity"/>
-<!-- BetterBatteryStats -->
-<item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="com_asksven_betterbatterystats_xdaedition_com_asksven_betterbatterystats_StatsActivity"/>
-<!-- Birthday Adapter -->
-<item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="org_birthdayadapter_org_birthdayadapter_ui_BaseActivity"/>
-<!-- Calculator -->
-<item component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}" drawable="com_xlythe_calculator_material_com_xlythe_calculator_material_Calculator"/>
 <!-- Calendar Import-Export -->
 <item component="ComponentInfo{org.sufficientlysecure.ical/org.sufficientlysecure.ical.ui.MainActivity}" drawable="org_sufficientlysecure_ical_org_sufficientlysecure_ical_ui_MainActivity"/>
 <!-- Chess -->
@@ -42,18 +34,10 @@
 <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="at_bitfire_icsdroid_at_bitfire_icsdroid_ui_CalendarListActivity"/>
 <!-- Jamendo -->
 <item component="ComponentInfo{com.teleca.jamendo/com.teleca.jamendo.activity.SplashscreenActivity}" drawable="com_teleca_jamendo_com_teleca_jamendo_activity_SplashscreenActivity"/>
-<!-- K9 Material (unofficial) -->
-<item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="com_fsck_k9_material_com_fsck_k9_activity_Accounts"/>
-<!-- KISS launcher -->
-<item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="fr_neamar_kiss_fr_neamar_kiss_MainActivity"/>
-<!-- LabCoat -->
-<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="com_commit451_gitlab_com_commit451_gitlab_activity_LaunchActivity"/>
 <!-- LibreOffice Viewer -->
 <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="org_documentfoundation_libreoffice_org_libreoffice_ui_LibreOfficeUIActivity"/>
 <!-- Liquid Wars OS -->
 <item component="ComponentInfo{com.xenris.liquidwarsos/com.xenris.liquidwarsos.MainMenuActivity}" drawable="com_xenris_liquidwarsos_com_xenris_liquidwarsos_MainMenuActivity"/>
-<!-- Magisk Manager -->
-<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="com_topjohnwu_magisk_com_topjohnwu_magisk_SplashActivity"/>
 <!-- Micopi+ -->
 <item component="ComponentInfo{com.easytarget.micopi/org.eztarget.micopi.ui.WelcomeActivity}" drawable="com_easytarget_micopi_org_eztarget_micopi_ui_WelcomeActivity"/>
 <!-- Minetest -->
@@ -64,10 +48,6 @@
 <item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="com_projectsexception_myapplist_open_com_projectsexception_myapplist_MainActivity"/>
 <!-- Padland -->
 <item component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}" drawable="com_mikifus_padland_com_mikifus_padland_SplashActivity"/>
-<!-- People -->
-<item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="com_htc_contacts_com_htc_contacts_BrowseLayerCarouselActivity"/>
-<!-- Phone -->
-<item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="com_android_incallui_com_android_incallui_DialerLauncher"/>
 <!-- Practice Hub -->
 <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="com_proch_practicehub_com_proch_practicehub_MainActivity"/>
 <!-- Quick Dice Roller -->
