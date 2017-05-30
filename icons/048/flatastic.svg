@@ -1,3 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-    <path d="M8.562 5A3.555 3.555 0 0 0 5 8.562v30.876A3.555 3.555 0 0 0 8.562 43h30.876A3.555 3.555 0 0 0 43 39.437V8.563A3.555 3.555 0 0 0 39.437 5zm13.894 6.472c.51.006 1.03.04 1.55.095l7.125.748v6.34h3.563v2.376H31.13v10.095c0 2.375 1.188 2.375 2.376 2.375h1.187v2.97h-2.375c-2.375 0-5.343-.595-5.343-5.345V14.5h-2.97c-3.562 0-4.155 0-4.155 4.156h4.156v2.375H19.85v15.44h-4.157V21.03h-2.968v-2.374h2.968v-1.78c0-4.157 3.183-5.44 6.763-5.404z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg5104"
+   version="1.1"
+   viewBox="0 0 48 48"
+   height="48"
+   width="48"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flatastic.svg">
+  <sodipodi:namedview
+     pagecolor="#404040"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="5.0103688"
+     inkscape:cy="25.341273"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5104">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4134" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5108" />
+  <path
+     style="fill:#ffffff;stroke-width:1.0;paint-order:markers fill stroke"
+     d="M 8.5,5.0 C 6.5,5.0 5,6.5 5.0,8.5 l 0,31 c 0,2.0 1.5,3.5 3.5,3.5 l 31,0 c 2.0,0 3.5,-1.5 3.5,-3.5 l 0,-31 C 43,6.5 41.5,5.0 39.5,5.0 Z M 22.5,11.5 c 0.5,0.0 0.75,-0.025 1.5,0 0.75,0.25 7,0.5 7,0.5 l 0,6.5 3.5,0 0,2.5 -3.5,0 0,10 c 0,2.375 1.3125,2.5 2.5,2.5 l 1,0 0,3 -2.5,0 c -2.375,0 -5,-0.75 -5,-5.5 l 0,-16.5 -3,0 c -3.5,0 -4,-0.15625 -4,4 l 4,0 0,2.5 -4,0 0,15.5 -4.25,0 0,-15.5 -3,0 0,-2.5 3,0 0,-1.625 c 0,-4.15625 3.169688,-5.410625 6.75,-5.375 z"
+     id="path5822"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssssczcccccssccsscsccccccccccsc" />
 </svg>
