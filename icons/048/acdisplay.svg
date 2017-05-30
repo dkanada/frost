@@ -1,5 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-    <path d="M5.763 5.056v37.878c0 1.41.705 2.104 2.11 2.104h26.666c1.41 0 2.108-.69 2.108-2.085V31.02H33.84v8.43H8.57V8.57h25.246v2.807h2.808V5.062c0-1.395-.705-2.1-2.104-2.1H7.85c-1.38 0-2.086.7-2.086 2.085z" fill="#fff"/>
-    <circle r="7.016" cy="21.22" cx="35.221" fill="#fff"/>
-    <path d="M28.21 28.225v-7.02l7.01 7.02z" fill="#fff"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 48 48"><g fill="#fff"><path d="m10 4c-1.108 0-2 0.892-2 2v36c0 1.11 0.892 2 2 2h28c1.11 0 2-0.89 2-2v-11h-3v8h-26v-30h26v2h3v-5c0-1.108-0.89-2-2-2h-28z"/><circle cx="38" cy="21" r="7" style="paint-order:markers fill stroke"/><path d="m31 27.99v-7l7 7z"/></g></svg>
