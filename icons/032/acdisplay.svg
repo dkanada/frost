@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
-    <path d="M3.842 3.37v25.252c0 .94.47 1.403 1.406 1.403h17.778c.94 0 1.406-.46 1.406-1.39V20.68H22.56v5.62H5.714V5.712h16.83v1.872h1.872v-4.21c0-.93-.47-1.4-1.403-1.4H5.233c-.92 0-1.39.466-1.39 1.39z" fill="#fff" paint-order="markers fill stroke"/>
-    <circle r="4.677" cy="14.146" cx="23.481" fill="#fff" paint-order="markers fill stroke"/>
-    <path d="M18.807 18.816v-4.68l4.674 4.68z" fill="#fff"/>
-</svg>

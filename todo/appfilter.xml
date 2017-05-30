@@ -80,8 +80,6 @@
 <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="be_brunoparmentier_wifikeyshare_be_brunoparmentier_wifikeyshare_ui_activities_WifiListActivity"/>
 <!-- YAAB -->
 <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="biz_gyrus_yaab_biz_gyrus_yaab_MainActivity"/>
-<!-- Yalp Store -->
-<item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="com_github_yeriomin_yalpstore_com_github_yeriomin_yalpstore_UpdatableAppsActivity"/>
 
 <!-- Bitcoin -->
 <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="com_btcontract_wallet_com_btcontract_wallet_MainActivity"/>
