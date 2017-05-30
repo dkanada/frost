@@ -5,15 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 48 48"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="facebook.svg">
+   id="svg2"
+   viewBox="0 0 48 48"
+   height="48"
+   width="48">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -28,32 +24,8 @@
   </metadata>
   <defs
      id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#404040"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     id="namedview6"
-     showgrid="true"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="1.4531334"
-     inkscape:cy="41.879667"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4138" />
-  </sodipodi:namedview>
   <path
-     d="M 7 5 C 5.892 5 5 5.892 5 7 L 5 41 C 5 42.108 5.892 43 7 43 L 21.5 43 L 21.5 30 L 17 30 L 17 24 L 21.5 24 L 21.5 19.25 C 21.5 15.25 24.75 12 28.75 12 L 32.5 12 L 32.5 18 L 28.75 18 C 28.1 18 27.5 18.6 27.5 19.25 L 27.5 24 L 32.5 24 L 32.5 30 L 27.5 30 L 27.5 43 L 39.5 43 C 39.672497 43 39.835583 42.974795 40 42.953125 L 40 43 L 41 43 C 42.108 43 43 42.108 43 41 L 43 7 C 43 5.892 42.108 5 41 5 L 7 5 z "
+     style="fill:#ffffff;fill-opacity:1"
      id="rect4"
-     style="fill:#ffffff;fill-opacity:1" />
+     d="M 7 5 C 5.892 5 5 5.892 5 7 L 5 41 C 5 42.108 5.892 43 7 43 L 21.5 43 L 21.5 30 L 17 30 L 17 24 L 21.5 24 L 21.5 19.25 C 21.5 15.25 24.75 12 28.75 12 L 32.5 12 L 32.5 18 L 28.75 18 C 28.1 18 27.5 18.6 27.5 19.25 L 27.5 24 L 32.5 24 L 32.5 30 L 27.5 30 L 27.5 43 L 39.5 43 C 39.672497 43 39.835583 42.974795 40 42.953125 L 40 43 L 41 43 C 42.108 43 43 42.108 43 41 L 43 7 C 43 5.892 42.108 5 41 5 L 7 5 z " />
 </svg>
