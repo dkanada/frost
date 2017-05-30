@@ -237,5 +237,6 @@
     <item drawable="wikipedia" />
     <item drawable="wunderlist" />
     <item drawable="xabber" />
+    <item drawable="yalp" />
     <item drawable="youtube" />
 </resources>

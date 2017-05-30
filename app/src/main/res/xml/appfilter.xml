@@ -451,6 +451,7 @@
 
     <!-- Mu Pdf Viewer -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
+    <item component="ComponentInfo{de.baumann.pdfview/file_manager.Activity_files}" drawable="mupdf" />
 
     <!-- Music -->
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
@@ -773,6 +774,9 @@
     <!-- Xabber -->
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+
+    <!-- Yalp Store -->
+    <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalp" />
 
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />

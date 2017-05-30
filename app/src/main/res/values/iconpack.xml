@@ -236,7 +236,8 @@
         <item>wifiprivacy</item>
         <item>wikipedia</item>
         <item>wunderlist</item>
-        <item>xabber</item>
+	<item>xabber</item>
+        <item>yalp</item>
         <item>youtube</item>
     </string-array>
 </resources>
