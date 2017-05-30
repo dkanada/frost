@@ -7,13 +7,27 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg5104"
-   version="1.1"
-   viewBox="0 0 48 48"
-   height="48"
    width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="flatastic.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#404040"
      bordercolor="#666666"
@@ -26,36 +40,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="704"
      id="namedview6"
-     showgrid="true"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="5.0103688"
-     inkscape:cy="25.341273"
+     showgrid="false"
+     inkscape:zoom="6.9532166"
+     inkscape:cx="-1.1230421"
+     inkscape:cy="40.706245"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5104">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4134" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5110">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5108" />
+     inkscape:current-layer="svg2" />
   <path
-     style="fill:#ffffff;stroke-width:1.0;paint-order:markers fill stroke"
-     d="M 8.5,5.0 C 6.5,5.0 5,6.5 5.0,8.5 l 0,31 c 0,2.0 1.5,3.5 3.5,3.5 l 31,0 c 2.0,0 3.5,-1.5 3.5,-3.5 l 0,-31 C 43,6.5 41.5,5.0 39.5,5.0 Z M 22.5,11.5 c 0.5,0.0 0.75,-0.025 1.5,0 0.75,0.25 7,0.5 7,0.5 l 0,6.5 3.5,0 0,2.5 -3.5,0 0,10 c 0,2.375 1.3125,2.5 2.5,2.5 l 1,0 0,3 -2.5,0 c -2.375,0 -5,-0.75 -5,-5.5 l 0,-16.5 -3,0 c -3.5,0 -4,-0.15625 -4,4 l 4,0 0,2.5 -4,0 0,15.5 -4.25,0 0,-15.5 -3,0 0,-2.5 3,0 0,-1.625 c 0,-4.15625 3.169688,-5.410625 6.75,-5.375 z"
-     id="path5822"
+     d="M 7,5 C 5.892,5 5,5.892 5,7 l 0,34 c 0,1.108 0.892,2 2,2 l 34,0 c 1.108,0 2,-0.892 2,-2 L 43,7 C 43,5.892 42.108,5 41,5 Z m 15.5,6.5 c 0.5,0 0.719666,0.01387 1.517977,0.04045 C 24.816288,11.567032 31,12 31,12 l 0,6.5 3.5,0 0,2.5 -3.5,0 0,10 c 0,2.375 1.3125,2.5 2.5,2.5 l 1,0 0,3 -2.5,0 c -2.375,0 -5,-0.75 -5,-5.5 l 0,-16.5 -3,0 c -3.5,0 -4,-0.15625 -4,4 l 4,0 0,2.5 -4,0 0,15.5 -4.25,0 0,-15.5 -3,0 0,-2.5 3,0 0,-1.625 c 0,-4.15625 3.169688,-5.41062 6.75,-5.375 z"
+     id="rect4"
+     style="fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssssczcccccssccsscsccccccccccsc" />
 </svg>
