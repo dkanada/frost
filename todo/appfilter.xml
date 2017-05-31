@@ -18,8 +18,6 @@
 <item component="ComponentInfo{pk.contender.earmouse/pk.contender.earmouse.Main}" drawable="pk_contender_earmouse_pk_contender_earmouse_Main"/>
 <!-- Easy Dice -->
 <item component="ComponentInfo{net.pejici.easydice/net.pejici.easydice.DiceRollerActivity}" drawable="net_pejici_easydice_net_pejici_easydice_DiceRollerActivity"/>
-<!-- Export Contacts -->
-<item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="am_ed_exportcontacts_am_ed_exportcontacts_Intro"/>
 <!-- Fate Sheets -->
 <item component="ComponentInfo{link.standen.michael.fatesheets/link.standen.michael.fatesheets.activity.CharacterListActivity}" drawable="link_standen_michael_fatesheets_link_standen_michael_fatesheets_activity_CharacterListActivity"/>
 <!-- Feeder -->

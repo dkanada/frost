@@ -1,3 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" viewBox="0 0 48 48.000001"><g transform="translate(0 -1004)"><path fill="#fff" d="m7 1009c-1.108 0-2 0.892-2 2v34c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892 2-2v-34c0-1.108-0.892-2-2-2h-34zm17 6 11.26 6.5v13l-11.26 6.5-11.26-6.5v-13l11.26-6.5zm0 2-8.525 4.922l8.52 5 8.53-5-8.53-5zm-9.525 6.654v9.846l8.525 4.922v-9.844l-8.525-4.924zm19.05 0-8.525 4.924v9.844l8.525-4.922v-9.846z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path d="M7 5c-1.108 0-2 .892-2 2v34c0 1.108.892 2 2 2h34c1.108 0 2-.892 2-2V7c0-1.108-.892-2-2-2zm17 6l11.26 6.5v13L24 37l-11.26-6.5v-13zm0 2l-8.525 4.922 8.52 5 8.53-5-8.53-5zm-9.525 6.654V29.5L23 34.422v-9.844zm19.05 0L25 24.578v9.844l8.525-4.922z" fill="#fff"/>
+</svg>
