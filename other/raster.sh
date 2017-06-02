@@ -8,7 +8,7 @@ for DIR in $(find -name "*.svg")
 do
   FILE=${DIR##*/}
   NAME=${FILE%.*}
-  cp -f $FILE ${ICON}/048/$FILE
+  cp -f $FILE ${ICON}/$FILE
   for SIZE in $SIZES
   do
     inkscape --export-png=${NAME}.png --export-width=$SIZE --export-height=$SIZE ${NAME}.svg
