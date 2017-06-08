@@ -66,8 +66,8 @@
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="exportcontacts" />
-    <item drawable="fasthub" />
     <item drawable="facebook" />
+    <item drawable="fasthub" />
     <item drawable="fdroid" />
     <item drawable="fennec" />
     <item drawable="files" />
@@ -109,6 +109,7 @@
     <item drawable="holo" />
     <item drawable="icecat" />
     <item drawable="icecons" />
+    <item drawable="icsdroid" />
     <item drawable="imgur" />
     <item drawable="instagram" />
     <item drawable="k9mail" />
@@ -215,6 +216,7 @@
     <item drawable="themes" />
     <item drawable="theswitch" />
     <item drawable="threema" />
+    <item drawable="tidal" />
     <item drawable="timber" />
     <item drawable="torch" />
     <item drawable="transportr" />
@@ -236,6 +238,7 @@
     <item drawable="wifianalyzer" />
     <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
+    <item drawable="wire" />
     <item drawable="wunderlist" />
     <item drawable="xabber" />
     <item drawable="yalp" />

@@ -4,14 +4,8 @@
 <item component="ComponentInfo{org.sufficientlysecure.ical/org.sufficientlysecure.ical.ui.MainActivity}" drawable="org_sufficientlysecure_ical_org_sufficientlysecure_ical_ui_MainActivity"/>
 <!-- Chess -->
 <item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="jwtc_android_chess_jwtc_android_chess_start"/>
-<!-- Clock+ -->
-<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="com_philliphsu_clock2_com_philliphsu_clock2_MainActivity"/>
-<!-- Dialer2 -->
-<item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="org_dnaq_dialer2_org_dnaq_dialer2_DialerActivity"/>
 <!-- DiskUsage -->
 <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="com_google_android_diskusage_com_google_android_diskusage_SelectActivity"/>
-<!-- Downloads -->
-<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="com_android_documentsui_com_android_documentsui_LauncherActivity"/>
 <!-- Draw -->
 <item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}" drawable="com_simplemobiletools_draw_com_simplemobiletools_draw_activities_SplashActivity"/>
 <!-- Earmouse -->
@@ -28,8 +22,6 @@
 <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="com_simplemobiletools_gallery_com_simplemobiletools_gallery_activities_SplashActivity"/>
 <!-- Headphone detector for Vanilla Music -->
 <item component="ComponentInfo{ch.blinkenlights.android.vanillaplug/ch.blinkenlights.android.vanillaplug.VPlug}" drawable="ch_blinkenlights_android_vanillaplug_ch_blinkenlights_android_vanillaplug_VPlug"/>
-<!-- ICSdroid -->
-<item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="at_bitfire_icsdroid_at_bitfire_icsdroid_ui_CalendarListActivity"/>
 <!-- Jamendo -->
 <item component="ComponentInfo{com.teleca.jamendo/com.teleca.jamendo.activity.SplashscreenActivity}" drawable="com_teleca_jamendo_com_teleca_jamendo_activity_SplashscreenActivity"/>
 <!-- LibreOffice Viewer -->
@@ -66,8 +58,6 @@
 <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="de_westnordost_streetcomplete_de_westnordost_streetcomplete_MainActivity"/>
 <!-- Terminal Emulator -->
 <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="jackpal_androidterm_jackpal_androidterm_Term"/>
-<!-- Transportr -->
-<item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="de_grobox_liberario_de_grobox_liberario_activities_MainActivity"/>
 <!-- Type and Speak -->
 <item component="ComponentInfo{com.googamaphone.typeandspeak/com.googamaphone.typeandspeak.TypeAndSpeak}" drawable="com_googamaphone_typeandspeak_com_googamaphone_typeandspeak_TypeAndSpeak"/>
 <!-- USB Mountr -->
@@ -105,7 +95,3 @@
 <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="com_urbandroid_sleep_com_urbandroid_sleep_alarmclock_AlarmClock"/>
 <!-- Sleep Cycle -->
 <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="com_northcube_sleepcycle_com_northcube_sleepcycle_LauncherActivity"/>
-<!-- TIDAL -->
-<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="com_aspiro_tidal_com_aspiro_wamp_LoginFragmentActivity"/>
-<!-- Wire -->
-<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="com_wire_com_waz_zclient_LaunchActivity"/>

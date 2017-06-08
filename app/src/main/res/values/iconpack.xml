@@ -66,8 +66,8 @@
         <item>es</item>
         <item>etar</item>
         <item>exportcontacts</item>
-        <item>fasthub</item>
         <item>facebook</item>
+        <item>fasthub</item>
         <item>fdroid</item>
         <item>fennec</item>
         <item>files</item>
@@ -109,6 +109,7 @@
         <item>holo</item>
         <item>icecat</item>
         <item>icecons</item>
+        <item>icsdroid</item>
         <item>imgur</item>
         <item>instagram</item>
         <item>k9mail</item>
@@ -215,6 +216,7 @@
         <item>themes</item>
         <item>theswitch</item>
         <item>threema</item>
+        <item>tidal</item>
         <item>timber</item>
         <item>torch</item>
         <item>transportr</item>
@@ -236,6 +238,7 @@
         <item>wifianalyzer</item>
         <item>wifiprivacy</item>
         <item>wikipedia</item>
+        <item>wire</item>
         <item>wunderlist</item>
 	<item>xabber</item>
         <item>yalp</item>
