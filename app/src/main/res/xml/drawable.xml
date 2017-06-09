@@ -107,6 +107,7 @@
     <item drawable="hangouts" />
     <item drawable="hearth" />
     <item drawable="holo" />
+	<item drawable="hp-printer-aio"/>
     <item drawable="icecat" />
     <item drawable="icecons" />
     <item drawable="icsdroid" />
