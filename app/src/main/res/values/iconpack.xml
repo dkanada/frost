@@ -119,6 +119,7 @@
         <item>keychain</item>
         <item>kik</item>
         <item>kiss</item>
+        <item>kiwix</item>
         <item>kodi</item>
         <item>kore</item>
         <item>labcoat</item>
@@ -150,6 +151,9 @@
         <item>notificationnotes</item>
         <item>nova</item>
         <item>odyssey</item>
+	<item>oeffi-directions</item>
+	<item>oeffi-plans</item>
+	<item>oeffi-stations</item>
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>
