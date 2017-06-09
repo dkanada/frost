@@ -150,6 +150,9 @@
         <item>notificationnotes</item>
         <item>nova</item>
         <item>odyssey</item>
+	<item>oeffi-directions</item>
+	<item>oeffi-plans</item>
+	<item>oeffi-stations</item>
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>

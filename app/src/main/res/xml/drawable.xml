@@ -150,6 +150,9 @@
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="odyssey" />
+	<item drawable="oeffi-directions" />
+	<item drawable="oeffi-plans" />
+	<item drawable="oeffi-stations" />
     <item drawable="openapk" />
     <item drawable="opencamera" />
     <item drawable="openconnect" />

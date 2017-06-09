@@ -501,6 +501,15 @@
     <!-- Odyssey -->
     <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey" />
 
+	<!-- Oeffi Directions -->
+	<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}" drawable="oeffi-directions"/>
+
+	<!-- Oeffi Plans -->
+	<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffi-plans"/>
+
+	<!-- Oeffi Stations -->	
+	<item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffi-stations"/>
+
     <!-- OpenAPK -->
     <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" />
 
