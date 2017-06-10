@@ -107,7 +107,7 @@
     <item drawable="hangouts" />
     <item drawable="hearth" />
     <item drawable="holo" />
-    <item drawable="hp-printer-aio"/>
+    <item drawable="hpprinteraio"/>
     <item drawable="icecat" />
     <item drawable="icecons" />
     <item drawable="icsdroid" />
@@ -151,9 +151,9 @@
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="odyssey" />
-    <item drawable="oeffi-directions" />
-    <item drawable="oeffi-plans" />
-    <item drawable="oeffi-stations" />
+    <item drawable="oeffidirections" />
+    <item drawable="oeffiplans" />
+    <item drawable="oeffistations" />
     <item drawable="openapk" />
     <item drawable="opencamera" />
     <item drawable="openconnect" />
