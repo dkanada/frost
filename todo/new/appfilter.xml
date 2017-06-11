@@ -36,6 +36,8 @@
 <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="org_mozilla_mozstumbler_org_mozilla_mozstumbler_client_navdrawer_MainDrawerActivity"/>
 <!-- My App List -->
 <item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="com_projectsexception_myapplist_open_com_projectsexception_myapplist_MainActivity"/>
+<!-- Notes -->
+<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="it_niedermann_owncloud_notes_it_niedermann_owncloud_notes_android_activity_SplashscreenActivity"/>
 <!-- Padland -->
 <item component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}" drawable="com_mikifus_padland_com_mikifus_padland_SplashActivity"/>
 <!-- Practice Hub -->
