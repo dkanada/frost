@@ -182,3 +182,10 @@
 <!-- Vespucci (F-Droid) -->	<item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
 <!-- VuDroid -->		<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"/>
 <!-- Zapp -->			<item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp"/>
+
+<!-- Files -->
+<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="com_android_documentsui_com_android_documentsui_LauncherActivity"/>
+<!-- TIDAL -->
+<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="com_aspiro_tidal_com_aspiro_wamp_LoginFragmentActivity"/>
+<!-- Wire -->
+<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="com_wire_com_waz_zclient_LaunchActivity"/>
