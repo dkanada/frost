@@ -97,3 +97,47 @@
 <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="com_urbandroid_sleep_com_urbandroid_sleep_alarmclock_AlarmClock"/>
 <!-- Sleep Cycle -->
 <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="com_northcube_sleepcycle_com_northcube_sleepcycle_LauncherActivity"/>
+<!-- AnySoftKeyboard -->
+<item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="com_menny_android_anysoftkeyboard_com_menny_android_anysoftkeyboard_LauncherSettingsActivity"/>
+<!-- APKUpdater -->
+<item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="com_apkupdater_com_apkupdater_activity_MainActivity_"/>
+<!-- Auto Updater for Chromium -->
+<item component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}" drawable="com_dosse_chromiumautoupdater_com_dosse_chromiumautoupdater_MainActivity"/>
+<!-- Drinks -->
+<item component="ComponentInfo{fr.masciulli.drinks/fr.masciulli.drinks.ui.activity.MainActivity}" drawable="fr_masciulli_drinks_fr_masciulli_drinks_ui_activity_MainActivity"/>
+<!-- Gadgetbridge -->
+<item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="nodomain_freeyourgadget_gadgetbridge_nodomain_freeyourgadget_gadgetbridge_activities_ControlCenterv2"/>
+<!-- LibreTorrent -->
+<item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="org_proninyaroslav_libretorrent_org_proninyaroslav_libretorrent_MainActivity"/>
+<!-- Markers -->
+<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="org_dsandler_apps_markers_com_google_android_apps_markers_MarkersActivity"/>
+<!-- Material Player -->
+<item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.coldStart.SplashActivity}" drawable="de_ph1b_audiobook_de_ph1b_audiobook_features_coldStart_SplashActivity"/>
+<!-- Metrodroid -->
+<item component="ComponentInfo{au.id.micolous.farebot/com.codebutler.farebot.activity.MainActivity}" drawable="au_id_micolous_farebot_com_codebutler_farebot_activity_MainActivity"/>
+<!-- MinMinGuard -->
+<item component="ComponentInfo{tw.fatminmin.xposed.minminguard/tw.fatminmin.xposed.minminguard.ui.MainActivity-Alias}" drawable="tw_fatminmin_xposed_minminguard_tw_fatminmin_xposed_minminguard_ui_MainActivity-Alias"/>
+<!-- Notepad -->
+<item component="ComponentInfo{bander.notepad/bander.notepad.NoteList}" drawable="bander_notepad_bander_notepad_NoteList"/>
+<!-- Offline Calendar -->
+<item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="org_sufficientlysecure_localcalendar_org_sufficientlysecure_localcalendar_ui_MainActivity"/>
+<!-- Orgzly -->
+<item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="com_orgzly_com_orgzly_android_ui_MainActivity"/>
+<!-- PPSSPP -->
+<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="org_ppsspp_ppsspp_org_ppsspp_ppsspp_PpssppActivity"/>
+<!-- SkyTube -->
+<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="free_rm_skytube_oss_free_rm_skytube_gui_activities_MainActivity"/>
+<!-- Steam -->
+<item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="com_valvesoftware_android_steam_community_com_valvesoftware_android_steam_community_activity_MainActivity"/>
+<!-- Survival Manual -->
+<item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="org_ligi_survivalmanual_org_ligi_survivalmanual_ui_MainActivity"/>
+<!-- TV KILL -->
+<item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="com_redirectapps_tvkill_com_redirectapps_tvkill_MainActivity"/>
+<!-- Wire -->
+<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="com_wire_com_waz_zclient_LaunchActivity"/>
+<!-- XDA Labs -->
+<item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="com_xda_labs_com_xda_labs_LabsLauncher"/>
+<!-- Xposed Installer -->
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="de_robv_android_xposed_installer_de_robv_android_xposed_installer_WelcomeActivity"/>
+<!-- XPrivacy -->
+<item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="biz_bokhorst_xprivacy_biz_bokhorst_xprivacy_ActivityMain"/>
