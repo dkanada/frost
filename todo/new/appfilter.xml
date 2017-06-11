@@ -46,8 +46,7 @@
 <item component="ComponentInfo{ohm.quickdice/ohm.quickdice.activity.QuickDiceActivity}" drawable="ohm_quickdice_ohm_quickdice_activity_QuickDiceActivity"/>
 <!-- QuickDic -->
 <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="de_reimardoeffinger_quickdic_com_hughes_android_dictionary_DictionaryManagerActivity"/>
-<!-- Riot -->
-<item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="im_vector_alpha_im_vector_activity_LoginActivity"/>
+<!-- Riot --><item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot"/>
 <!-- SatStat -->
 <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="com_vonglasow_michael_satstat_com_vonglasow_michael_satstat_ui_MainActivity"/>
 <!-- Silence -->
@@ -70,7 +69,6 @@
 <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="be_brunoparmentier_wifikeyshare_be_brunoparmentier_wifikeyshare_ui_activities_WifiListActivity"/>
 <!-- YAAB -->
 <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="biz_gyrus_yaab_biz_gyrus_yaab_MainActivity"/>
-
 <!-- Bitcoin -->
 <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="com_btcontract_wallet_com_btcontract_wallet_MainActivity"/>
 <!-- Browser -->
@@ -141,3 +139,46 @@
 <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="de_robv_android_xposed_installer_de_robv_android_xposed_installer_WelcomeActivity"/>
 <!-- XPrivacy -->
 <item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="biz_bokhorst_xprivacy_biz_bokhorst_xprivacy_ActivityMain"/>
+<!-- Applications Info -->	<item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="app-info"/>
+<!-- APV PDF Viewer -->		<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdf-viewer"/>
+<!-- Atomic -->			<item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic"/>
+<!-- Automate -->		<item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
+<!-- Blockinger -->		<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
+<!-- Blue Minimal -->		<item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blue-minimal"/>
+<!-- CAdroid -->		<item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid"/>
+<!-- Charmap -->		<item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="charmap"/>
+<!-- Configure Autologin -->	<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" 
+				drawable="capt-portal-login"/>
+<!-- DAVdroid JB Workaround -->	<item component="ComponentInfo{at.bitfire.davdroid.jbworkaround/at.bitfire.davdroid.jbworkaround.MainActivity}" drawable="davdroid-workaround"/>
+<!-- Dicer -->			<item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer"/>
+<!-- dict.cc plus -->		<item component="ComponentInfo{cc.dict.dictccplus/cc.dict.dictccplus.DictCcPlusActivity}" drawable="dictcc-plus"/>
+<!-- DictionaryForMIDs -->	<item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dict-for-mids"/>
+<!-- ElectroDroid -->		<item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
+<!-- Forecastie -->		<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
+<!-- Hacker's Keyboard -->	<item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers-pc-keyboard"/>
+<!-- komoot -->			<item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot"/>
+<!-- Linphone -->		<item component="ComponentInfo{org.linphone/org.linphone.LinphoneLauncherActivity}" drawable="linphone"/>
+<!-- Logical Defense -->	<item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logical-defence"/>
+<!-- Lyrically -->		<item component="ComponentInfo{com.shkmishra.lyrically/com.shkmishra.lyrically.MainActivity}" drawable="lyrically"/>
+<!-- Memento -->		<item component="ComponentInfo{github.yaa110.memento/github.yaa110.memento.activity.MainActivity}" drawable="memento"/>
+<!-- MGit -->			<item component="ComponentInfo{com.manichord.mgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit"/>
+<!-- MinTube -->		<item component="ComponentInfo{com.shapps.mintubeapp/com.shapps.mintubeapp.YTubeView}" drawable="mintube"/>
+<!-- My Expenses -->		<item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="my-expenses"/>
+<!-- OI Notepad -->		<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="oi-notepad"/>
+<!-- Open Beauty -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openbeauty"/>
+<!-- Open Food -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openfood"/>
+<!-- Oscilloscope -->		<item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope"/>
+<!-- Password Generator -->	<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" 
+				drawable="pwd-gen"/>
+<!-- PayPal -->			<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+<!-- PDF Creator -->		<item component="ComponentInfo{de.baumann.pdfcreator/de.baumann.pdfcreator.Activity_Main}" drawable="pdfcreator"/>
+<!-- QuickLyric -->		<item component="ComponentInfo{com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity}" drawable="quicklyric"/>
+<!-- Sky Map -->		<item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="google-skymap"/>
+<!-- Slack -->			<item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+<!-- Stellarium Mobile -->	<item component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}" drawable="stellarium"/>
+<!-- Strobe Light -->		<item component="ComponentInfo{com.stwalkerster.android.apps.strobelight/com.stwalkerster.android.apps.strobelight.StrobeLightConfig}" drawable="strobelight"/>
+<!-- Stud.IP mobil -->		<item component="ComponentInfo{de.elanev.studip.android.app/de.elanev.studip.android.app.StartupActivity}" drawable="studip"/>
+<!-- Termux:Float -->		<item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termux-float"/>
+<!-- Vespucci (F-Droid) -->	<item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
+<!-- VuDroid -->		<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"/>
+<!-- Zapp -->			<item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp"/>
