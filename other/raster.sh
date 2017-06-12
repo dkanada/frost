@@ -34,4 +34,5 @@ do
         ;;
     esac
   done
+  rm ${FILE}
 done

@@ -107,7 +107,7 @@
         <item>hangouts</item>
         <item>hearth</item>
         <item>holo</item>
-	<item>hp-printer-aio</item>
+	    <item>hpprinteraio</item>
         <item>icecat</item>
         <item>icecons</item>
         <item>icsdroid</item>
@@ -151,9 +151,9 @@
         <item>notificationnotes</item>
         <item>nova</item>
         <item>odyssey</item>
-	<item>oeffi-directions</item>
-	<item>oeffi-plans</item>
-	<item>oeffi-stations</item>
+	    <item>oeffidirections</item>
+	    <item>oeffiplans</item>
+	    <item>oeffistations</item>
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>
@@ -245,7 +245,7 @@
         <item>wikipedia</item>
         <item>wire</item>
         <item>wunderlist</item>
-	<item>xabber</item>
+	    <item>xabber</item>
         <item>yalp</item>
         <item>youtube</item>
     </string-array>
