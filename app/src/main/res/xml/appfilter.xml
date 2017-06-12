@@ -172,6 +172,7 @@
 
     <!-- Diaspora -->
     <item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diaspora" />
+    <item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.MainActivity}" drawable="diaspora" />
 
     <!-- Documents -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="files" />
