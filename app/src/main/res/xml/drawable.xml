@@ -188,6 +188,7 @@
     <item drawable="redreader" />
     <item drawable="retrica" />
     <item drawable="ring" />
+    <item drawable="riot" />
     <item drawable="runnerup" />
     <item drawable="screencast" />
     <item drawable="seafile" />
@@ -241,6 +242,7 @@
     <item drawable="webopac" />
     <item drawable="whatsapp" />
     <item drawable="wifianalyzer" />
+    <item drawable="wifikeyshare" />
     <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
     <item drawable="wire" />
