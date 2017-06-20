@@ -621,6 +621,9 @@
     <!-- Ring -->
     <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring" />
 
+    <!-- Riot -->
+    <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
+
     <!-- RunnerUp -->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
 
@@ -794,6 +797,9 @@
 
     <!-- Wi-Fi Analyzer -->
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
+
+    <!-- WiFiKeyShare -->
+    <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare" />
 
     <!-- Wi-Fi Privacy Police -->
     <item component="ComponentInfo{be.uhasselt.privacypolice/be.uhasselt.privacypolice.PreferencesActivity}" drawable="wifiprivacy" />
