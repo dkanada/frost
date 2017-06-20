@@ -88,7 +88,7 @@ public class WallpaperSetActivity extends AppCompatActivity {
         WallpaperManager wallpaperManager = WallpaperManager.getInstance(getApplicationContext());
         try {
             wallpaperManager.setBitmap(Wallpaper);
-            Toast toast = Toast.makeText(this, "Wallpaper set", Toast.LENGTH_SHORT);
+            Toast toast = Toast.makeText(this, "wallpaper set", Toast.LENGTH_SHORT);
             toast.setGravity(Gravity.CENTER, 0, 0);
             toast.show();
         } catch (IOException e) {
