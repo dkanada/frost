@@ -38,7 +38,7 @@ public class LicenseActivity extends AppCompatActivity {
         baseLayout.setGravity(Gravity.LEFT);
         frameLayout.addView(baseLayout);
 
-        // license button
+        // code
         LinearLayout sourceLayout = new LinearLayout(this);
         sourceLayout.setOrientation(LinearLayout.HORIZONTAL);
         sourceLayout.setLayoutParams(smallLayoutParams);
@@ -64,7 +64,7 @@ public class LicenseActivity extends AppCompatActivity {
         sourceText.setPadding(padding, padding, padding, padding);
         sourceClickLayout.addView(sourceText);
 
-        // cc button
+        // images
         LinearLayout imgLayout = new LinearLayout(this);
         imgLayout.setOrientation(LinearLayout.HORIZONTAL);
         imgLayout.setLayoutParams(smallLayoutParams);

@@ -250,4 +250,18 @@
     <item drawable="xabber" />
     <item drawable="yalp" />
     <item drawable="youtube" />
+
+    <item drawable="atomic" />
+    <item drawable="dicer" />
+    <item drawable="foobar2000" />
+    <item drawable="komoot" />
+    <item drawable="meinvodaphone" />
+    <item drawable="mgit" />
+    <item drawable="oscilloscope" />
+    <item drawable="practicehub" />
+    <item drawable="protonmail" />
+    <item drawable="steam" />
+    <item drawable="streetcomplete" />
+    <item drawable="termuxfloat" />
+    <item drawable="zapp" />
 </resources>

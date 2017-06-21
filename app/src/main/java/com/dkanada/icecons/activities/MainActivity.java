@@ -42,7 +42,38 @@ public class MainActivity extends AppCompatActivity {
         baseLayout.setGravity(Gravity.LEFT);
         frameLayout.addView(baseLayout);
 
-        // wallpaper button
+        // icons
+        LinearLayout iconLayout = new LinearLayout(this);
+        iconLayout.setOrientation(LinearLayout.HORIZONTAL);
+        iconLayout.setLayoutParams(smallLayoutParams);
+        iconLayout.setGravity(Gravity.CENTER_VERTICAL);
+        baseLayout.addView(iconLayout);
+
+        LinearLayout iconClickLayout = new LinearLayout(this);
+        iconClickLayout.setOrientation(LinearLayout.HORIZONTAL);
+        iconClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
+        iconClickLayout.setGravity(Gravity.CENTER);
+        iconLayout.addView(iconClickLayout);
+        iconClickLayout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                iconActivity(v);
+            }
+        });
+
+        Button iconButton = new Button(this);
+        iconButton.setLayoutParams(buttonParams);
+        iconButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round(48 * scale), Math.round(48 * scale))));
+        iconClickLayout.addView(iconButton);
+
+        TextView iconText = new TextView(this);
+        iconText.setText("icons");
+        iconText.setTextSize(24);
+        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        iconText.setPadding(64, 64, 64, 64);
+        iconClickLayout.addView(iconText);
+
+        // wallpapers
         LinearLayout wallpaperLayout = new LinearLayout(this);
         wallpaperLayout.setOrientation(LinearLayout.HORIZONTAL);
         wallpaperLayout.setLayoutParams(smallLayoutParams);
@@ -57,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
         wallpaperClickLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                wallpaperPicker(v);
+                wallpaperActivity(v);
             }
         });
 
@@ -73,38 +104,7 @@ public class MainActivity extends AppCompatActivity {
         wallpaperText.setPadding(64, 64, 64, 64);
         wallpaperClickLayout.addView(wallpaperText);
 
-        // icon view button
-        LinearLayout iconLayout = new LinearLayout(this);
-        iconLayout.setOrientation(LinearLayout.HORIZONTAL);
-        iconLayout.setLayoutParams(smallLayoutParams);
-        iconLayout.setGravity(Gravity.CENTER_VERTICAL);
-        baseLayout.addView(iconLayout);
-
-        LinearLayout iconClickLayout = new LinearLayout(this);
-        iconClickLayout.setOrientation(LinearLayout.HORIZONTAL);
-        iconClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
-        iconClickLayout.setGravity(Gravity.CENTER);
-        iconLayout.addView(iconClickLayout);
-        iconClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                iconView(v);
-            }
-        });
-
-        Button iconButton = new Button(this);
-        iconButton.setLayoutParams(buttonParams);
-        iconButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round(48 * scale), Math.round(48 * scale))));
-        iconClickLayout.addView(iconButton);
-
-        TextView iconText = new TextView(this);
-        iconText.setText("view icons");
-        iconText.setTextSize(24);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
-        iconText.setPadding(64, 64, 64, 64);
-        iconClickLayout.addView(iconText);
-
-        // source code button
+        // source
         LinearLayout sourceLayout = new LinearLayout(this);
         sourceLayout.setOrientation(LinearLayout.HORIZONTAL);
         sourceLayout.setLayoutParams(smallLayoutParams);
@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
         sourceClickLayout.addView(sourceButton);
 
         TextView sourceText = new TextView(this);
-        sourceText.setText("source code");
+        sourceText.setText("source");
         sourceText.setTextSize(24);
         sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
         sourceText.setPadding(64, 64, 64, 64);
@@ -150,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
         aboutClickLayout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                licenseShow(v);
+                licenseActivity(v);
             }
         });
 
@@ -168,22 +168,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gitLink(View v) {
-        Uri uri = Uri.parse("https://github.com/1C3/ICEcons");
+        Uri uri = Uri.parse("https://github.com/dkanada/ICEcons");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
 
-    public void wallpaperPicker(View v) {
+    public void wallpaperActivity(View v) {
         Intent intent = new Intent(this, WallpaperActivity.class);
         startActivity(intent);
     }
 
-    public void iconView(View v) {
+    public void iconActivity(View v) {
         Intent intent = new Intent(this, IconActivity.class);
         startActivity(intent);
     }
 
-    public void licenseShow(View v) {
+    public void licenseActivity(View v) {
         Intent intent = new Intent(this, LicenseActivity.class);
         startActivity(intent);
     }

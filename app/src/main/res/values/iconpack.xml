@@ -250,5 +250,19 @@
         <item>xabber</item>
         <item>yalp</item>
         <item>youtube</item>
+
+        <item>atomic</item>
+        <item>dicer</item>
+        <item>foobar2000</item>
+        <item>komoot</item>
+        <item>meinvodaphone</item>
+        <item>mgit</item>
+        <item>oscilloscope</item>
+        <item>practicehub</item>
+        <item>protonmail</item>
+        <item>steam</item>
+        <item>streetcomplete</item>
+        <item>termuxfloat</item>
+        <item>zapp</item>
     </string-array>
 </resources>
