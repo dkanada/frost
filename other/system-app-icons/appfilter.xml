@@ -1,0 +1,24 @@
+<resources>
+    <scale factor="1.0" />
+
+    <!-- ANT Hal service -->
+    <item component="ComponentInfo{com.dsi.ant.server/}" drawable="AntHalService" />
+
+    <!-- Bluetooth Extension -->
+    <item component="ComponentInfo{org.codeaurora.bluetooth/org.coreaurora.bluetooth.ftp.BluetoothFtpActivity}" drawable="Bluetooth" />
+
+    <!-- Bluetooth Share -->
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="Bluetooth" />
+
+    <!-- CM Audio Service -->
+    <item component="ComponentInfo{org.cyanogenmod.cmaudio.service/}" drawable="CMServiceAudio" />
+
+    <!-- CM Live Lockscreen Service -->
+    <item component="ComponentInfo{org.cyanogenmod.livelockscreen.service}" drawable="CMServiceLiveLockscreen" />
+
+    <!-- CM Themes Service -->
+    <item component="ComponentInfo{org.cyanogenmod.themeservice}" drawable="CMServiceThemes" />
+
+    <!-- CM Weather Service -->
+    <item component="ComponentInfo{org.cyanogenmod.weatherservice}" drawable="CMServiceWeather" />
+</resources>
