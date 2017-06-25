@@ -87,7 +87,6 @@
 <!-- Logical Defense -->	<item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logical-defence"/>
 <!-- Lyrically -->		<item component="ComponentInfo{com.shkmishra.lyrically/com.shkmishra.lyrically.MainActivity}" drawable="lyrically"/>
 <!-- Memento -->		<item component="ComponentInfo{github.yaa110.memento/github.yaa110.memento.activity.MainActivity}" drawable="memento"/>
-<!-- MGit -->			<item component="ComponentInfo{com.manichord.mgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit"/>
 <!-- MinTube -->		<item component="ComponentInfo{com.shapps.mintubeapp/com.shapps.mintubeapp.YTubeView}" drawable="mintube"/>
 <!-- My Expenses -->		<item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="my-expenses"/>
 <!-- OI Notepad -->		<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="oi-notepad"/>
