@@ -21,4 +21,7 @@
 
     <!-- CM Weather Service -->
     <item component="ComponentInfo{org.cyanogenmod.weatherservice}" drawable="CMServiceWeather" />
+
+    <!-- Applications Info -->
+    <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="ApplicationsInfo"/>
 </resources>
