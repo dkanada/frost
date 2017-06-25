@@ -19,7 +19,6 @@
 <!-- My App List -->		<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist"/>
 <!-- Notes -->			<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="owncloud-notes"/>
 <!-- Padland -->		<item component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}" drawable="padland"/>
-<!-- Practice Hub -->		<item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practice-hub"/>
 <!-- Quick Dice Roller -->	<item component="ComponentInfo{ohm.quickdice/ohm.quickdice.activity.QuickDiceActivity}" drawable="quickdice"/>
 <!-- QuickDic -->		<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
 <!-- Riot -->			<item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot"/>
