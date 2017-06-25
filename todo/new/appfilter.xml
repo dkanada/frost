@@ -78,7 +78,6 @@
 <!-- Configure Autologin -->	<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" 
 				drawable="capt-portal-login"/>
 <!-- DAVdroid JB Workaround -->	<item component="ComponentInfo{at.bitfire.davdroid.jbworkaround/at.bitfire.davdroid.jbworkaround.MainActivity}" drawable="davdroid-workaround"/>
-<!-- Dicer -->			<item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer"/>
 <!-- dict.cc plus -->		<item component="ComponentInfo{cc.dict.dictccplus/cc.dict.dictccplus.DictCcPlusActivity}" drawable="dictcc-plus"/>
 <!-- DictionaryForMIDs -->	<item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dict-for-mids"/>
 <!-- ElectroDroid -->		<item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
