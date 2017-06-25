@@ -21,7 +21,6 @@
 <!-- Padland -->		<item component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}" drawable="padland"/>
 <!-- Quick Dice Roller -->	<item component="ComponentInfo{ohm.quickdice/ohm.quickdice.activity.QuickDiceActivity}" drawable="quickdice"/>
 <!-- QuickDic -->		<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
-<!-- Riot -->			<item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot"/>
 <!-- SatStat -->		<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
 <!-- Silence -->		<item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="smssecure"/>
 <!-- Slide -->			<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideBlueGrey}" drawable="redditslide"/>
