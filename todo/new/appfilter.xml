@@ -117,7 +117,6 @@
 <!-- Dialer2 -->		<item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="dnaq-dialer2"/>
 <!-- K9 Material (unofficial)--><item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9-material-unofficial"/>
 <!-- LabCoat -->		<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat"/>
-<!-- Magisk Manager -->		<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk"/>
 <!-- People -->			<item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts-htc"/>
 <!-- Phone -->			<item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="incallui-dialer"/>
 <!-- Terminal Emulator -->	<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm"/>
