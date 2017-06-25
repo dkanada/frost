@@ -59,7 +59,6 @@
 <!-- Orgzly -->			<item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly"/>
 <!-- PPSSPP -->			<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp"/>
 <!-- SkyTube -->		<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube"/>
-<!-- Steam -->			<item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
 <!-- Survival Manual -->	<item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survival-manual"/>
 <!-- TV KILL -->		<item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="tvkill"/>
 <!-- Wire -->			<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire"/>
