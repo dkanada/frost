@@ -97,7 +97,6 @@
 <!-- Stellarium Mobile -->	<item component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}" drawable="stellarium"/>
 <!-- Strobe Light -->		<item component="ComponentInfo{com.stwalkerster.android.apps.strobelight/com.stwalkerster.android.apps.strobelight.StrobeLightConfig}" drawable="strobelight"/>
 <!-- Stud.IP mobil -->		<item component="ComponentInfo{de.elanev.studip.android.app/de.elanev.studip.android.app.StartupActivity}" drawable="studip"/>
-<!-- Termux:Float -->		<item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termux-float"/>
 <!-- Vespucci (F-Droid) -->	<item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
 <!-- VuDroid -->		<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"/>
 <!-- Zapp -->			<item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp"/>
