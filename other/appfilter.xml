@@ -24,4 +24,7 @@
 
     <!-- Applications Info -->
     <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="ApplicationsInfo"/>
+
+    <!-- Urbandroid Sleep -->
+    <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="Urbandroid"/>
 </resources>
