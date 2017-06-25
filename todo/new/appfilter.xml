@@ -38,7 +38,6 @@
 <!-- oandbackup -->		<item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup"/>
 <!-- Omni Notes FOSS -->	<item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
 <!-- Simple Weather -->		<item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.activity.GlobalActivity}" drawable="simple-weather"/>
-<!-- Sleep -->			<item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid-sleep"/>
 <!-- Sleep Cycle -->		<item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleep-cycle"/>
 <!-- AnySoftKeyboard -->	<item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard"/>
 <!-- APKUpdater -->		<item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="apkupdater"/>
