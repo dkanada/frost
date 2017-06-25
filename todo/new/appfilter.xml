@@ -33,8 +33,7 @@
 <!-- Citymapper -->		<item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper"/>
 <!-- DNS66 -->			<item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
 <!-- Good Weather -->		<item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather"/>
-<!-- Meditation Assistant -->	<item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" 
-				drawable="meditation-assistant"/>
+<!-- Meditation Assistant -->	<item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" drawable="meditation-assistant"/>
 <!-- N26 -->			<item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.SplashActivity}" drawable="number26"/>
 <!-- oandbackup -->		<item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup"/>
 <!-- Omni Notes FOSS -->	<item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
@@ -67,8 +66,7 @@
 <!-- Blockinger -->		<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
 <!-- CAdroid -->		<item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid"/>
 <!-- Charmap -->		<item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="charmap"/>
-<!-- Configure Autologin -->	<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" 
-				drawable="capt-portal-login"/>
+<!-- Configure Autologin -->	<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" drawable="capt-portal-login"/>
 <!-- DAVdroid JB Workaround -->	<item component="ComponentInfo{at.bitfire.davdroid.jbworkaround/at.bitfire.davdroid.jbworkaround.MainActivity}" drawable="davdroid-workaround"/>
 <!-- dict.cc plus -->		<item component="ComponentInfo{cc.dict.dictccplus/cc.dict.dictccplus.DictCcPlusActivity}" drawable="dictcc-plus"/>
 <!-- DictionaryForMIDs -->	<item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dict-for-mids"/>
@@ -85,8 +83,7 @@
 <!-- OI Notepad -->		<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="oi-notepad"/>
 <!-- Open Beauty -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openbeauty"/>
 <!-- Open Food -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openfood"/>
-<!-- Password Generator -->	<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" 
-				drawable="pwd-gen"/>
+<!-- Password Generator -->	<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" drawable="pwd-gen"/>
 <!-- PayPal -->			<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
 <!-- PDF Creator -->		<item component="ComponentInfo{de.baumann.pdfcreator/de.baumann.pdfcreator.Activity_Main}" drawable="pdfcreator"/>
 <!-- QuickLyric -->		<item component="ComponentInfo{com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity}" drawable="quicklyric"/>
