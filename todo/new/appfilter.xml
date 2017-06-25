@@ -28,7 +28,6 @@
 <!-- Type and Speak -->		<item component="ComponentInfo{com.googamaphone.typeandspeak/com.googamaphone.typeandspeak.TypeAndSpeak}" drawable="type-and-speak"/>
 <!-- USB Mountr -->		<item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr"/>
 <!-- Vanilla Music -->		<item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanilla-music-player"/>
-<!-- WiFiKeyShare -->		<item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare"/>
 <!-- YAAB -->			<item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab"/>
 <!-- Bitcoin -->		<item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin"/>
 <!-- Browser -->		<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="lineageos-browser"/>
