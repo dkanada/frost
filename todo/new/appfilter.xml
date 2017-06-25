@@ -92,7 +92,6 @@
 <!-- OI Notepad -->		<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="oi-notepad"/>
 <!-- Open Beauty -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openbeauty"/>
 <!-- Open Food -->		<item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openfood"/>
-<!-- Oscilloscope -->		<item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope"/>
 <!-- Password Generator -->	<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" 
 				drawable="pwd-gen"/>
 <!-- PayPal -->			<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
