@@ -99,7 +99,6 @@
 <!-- Vespucci (F-Droid) -->	<item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
 <!-- VuDroid -->		<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"/>
 <!-- Files -->			<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="documentsui"/>
-<!-- TIDAL -->			<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>
 <!-- Audio Recorder -->		<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="axet-audiorecorder"/>
 <!-- BetterBatteryStats -->	<item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats"/>
 <!-- Clock+ -->			<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2"/>
