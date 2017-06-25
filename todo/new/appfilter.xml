@@ -115,7 +115,6 @@
 <!-- BetterBatteryStats -->	<item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats"/>
 <!-- Clock+ -->			<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2"/>
 <!-- Dialer2 -->		<item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="dnaq-dialer2"/>
-<!-- ICSdroid -->		<item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="icsdroid"/>
 <!-- K9 Material (unofficial)--><item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9-material-unofficial"/>
 <!-- KISS launcher -->		<item component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" drawable="kiss-launcher"/>
 <!-- LabCoat -->		<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat"/>
