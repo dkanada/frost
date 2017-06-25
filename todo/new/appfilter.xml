@@ -70,7 +70,6 @@
 <!-- XDA Labs -->		<item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xda-labs"/>
 <!-- Xposed Installer -->	<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed-installer"/>
 <!-- XPrivacy -->		<item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="xprivacy"/>
-<!-- Applications Info -->	<item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="app-info"/>
 <!-- APV PDF Viewer -->		<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdf-viewer"/>
 <!-- Atomic -->			<item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic"/>
 <!-- Automate -->		<item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
