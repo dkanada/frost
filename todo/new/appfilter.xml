@@ -23,7 +23,6 @@
 <!-- QuickDic -->		<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
 <!-- SatStat -->		<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
 <!-- Silence -->		<item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="smssecure"/>
-<!-- Slide -->			<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideBlueGrey}" drawable="redditslide"/>
 <!-- Son of Hunky Punk -->	<item component="ComponentInfo{org.andglkmod.hunkypunk/org.andglkmod.hunkypunk.GamesList}" drawable="hunkypunk"/>
 <!-- Street­Complete -->		<item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete"/>
 <!-- Terminal Emulator -->	<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="jackpal_androidterm_jackpal_androidterm_Term"/>
