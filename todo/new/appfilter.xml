@@ -73,7 +73,6 @@
 <!-- APV PDF Viewer -->		<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdf-viewer"/>
 <!-- Automate -->		<item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
 <!-- Blockinger -->		<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
-<!-- Blue Minimal -->		<item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blue-minimal"/>
 <!-- CAdroid -->		<item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid"/>
 <!-- Charmap -->		<item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="charmap"/>
 <!-- Configure Autologin -->	<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" 
