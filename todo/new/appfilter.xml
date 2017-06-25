@@ -24,7 +24,6 @@
 <!-- SatStat -->		<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
 <!-- Silence -->		<item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="smssecure"/>
 <!-- Son of Hunky Punk -->	<item component="ComponentInfo{org.andglkmod.hunkypunk/org.andglkmod.hunkypunk.GamesList}" drawable="hunkypunk"/>
-<!-- Street­Complete -->		<item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete"/>
 <!-- Terminal Emulator -->	<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="jackpal_androidterm_jackpal_androidterm_Term"/>
 <!-- Type and Speak -->		<item component="ComponentInfo{com.googamaphone.typeandspeak/com.googamaphone.typeandspeak.TypeAndSpeak}" drawable="type-and-speak"/>
 <!-- USB Mountr -->		<item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr"/>
