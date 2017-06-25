@@ -115,7 +115,6 @@
 <!-- TIDAL -->			<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>
 <!-- Audio Recorder -->		<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="axet-audiorecorder"/>
 <!-- BetterBatteryStats -->	<item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats"/>
-<!-- Birthday Adapter -->	<item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter"/>
 <!-- Clock+ -->			<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2"/>
 <!-- Dialer2 -->		<item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="dnaq-dialer2"/>
 <!-- Export Contacts -->	<item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="export-contacts"/>
