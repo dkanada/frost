@@ -27,4 +27,7 @@
 
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="Urbandroid"/>
+
+    <!-- Gadgetbridge -->
+    <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="FreeYourGadget"/>
 </resources>
