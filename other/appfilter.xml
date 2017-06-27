@@ -1,0 +1,33 @@
+<resources>
+    <scale factor="1.0" />
+
+    <!-- ANT Hal service -->
+    <item component="ComponentInfo{com.dsi.ant.server/}" drawable="anthalservice" />
+
+    <!-- Bluetooth Extension -->
+    <item component="ComponentInfo{org.codeaurora.bluetooth/org.coreaurora.bluetooth.ftp.BluetoothFtpActivity}" drawable="bluetooth" />
+
+    <!-- Bluetooth Share -->
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="bluetooth" />
+
+    <!-- CM Audio Service -->
+    <item component="ComponentInfo{org.cyanogenmod.cmaudio.service/}" drawable="cmserviceaudio" />
+
+    <!-- CM Live Lockscreen Service -->
+    <item component="ComponentInfo{org.cyanogenmod.livelockscreen.service}" drawable="cmservicelivelockscreen" />
+
+    <!-- CM Themes Service -->
+    <item component="ComponentInfo{org.cyanogenmod.themeservice}" drawable="cmservicethemes" />
+
+    <!-- CM Weather Service -->
+    <item component="ComponentInfo{org.cyanogenmod.weatherservice}" drawable="cmserviceweather" />
+
+    <!-- Applications Info -->
+    <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo"/>
+
+    <!-- Urbandroid Sleep -->
+    <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
+
+    <!-- Gadgetbridge -->
+    <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="freeyourgadget"/>
+</resources>
