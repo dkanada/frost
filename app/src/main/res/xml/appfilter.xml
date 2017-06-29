@@ -50,7 +50,11 @@
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
     <!-- Apps2Org -->
+    <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
+    <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
+    <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
+
 
     <!-- Atomic -->
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
