@@ -651,6 +651,7 @@
 
     <!-- Riot -->
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
+    <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
 
     <!-- RunnerUp -->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
