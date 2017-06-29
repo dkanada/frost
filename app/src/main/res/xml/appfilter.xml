@@ -264,6 +264,7 @@
 
     <!-- Forecastie -->
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.MainActivity}" drawable="forecastie" />
+    <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
 
     <!-- Forest -->
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
