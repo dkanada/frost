@@ -50,7 +50,11 @@
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
     <!-- Apps2Org -->
+    <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
+    <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
+    <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
+
 
     <!-- Atomic -->
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
@@ -88,6 +92,7 @@
 
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
+    <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blueminimal" />
 
     <!-- BOINC -->
     <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc" />
@@ -234,6 +239,7 @@
 
     <!-- Fdroid -->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
 
     <!-- Fennec F-Droid -->
     <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec" />
@@ -263,6 +269,7 @@
 
     <!-- Forecastie -->
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.MainActivity}" drawable="forecastie" />
+    <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
 
     <!-- Forest -->
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
@@ -650,6 +657,7 @@
 
     <!-- Riot -->
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
+    <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
 
     <!-- RunnerUp -->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
