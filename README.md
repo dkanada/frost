@@ -12,4 +12,4 @@ If you know how to create vectors and have some spare time feel free to help me 
 
 ## Screenshots
 
-<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/screenshots/icons.jpg'/>
+<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/icons.jpg'/>

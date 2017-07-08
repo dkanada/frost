@@ -1,0 +1,311 @@
+<!-- AntennaPod -->
+<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="antennapod"/>
+
+<!-- Calendar Import-Export -->
+<item component="ComponentInfo{org.sufficientlysecure.ical/org.sufficientlysecure.ical.ui.MainActivity}" drawable="calen-exp-imp.png"/>
+
+<!-- Chess -->
+<item component="ComponentInfo{jwtc.android.chess/jwtc.android.chess.start}" drawable="chess"/>
+
+<!-- DiskUsage -->
+<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
+
+<!-- Draw -->
+<item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}" drawable="simple-draw"/>
+
+<!-- Earmouse -->
+<item component="ComponentInfo{pk.contender.earmouse/pk.contender.earmouse.Main}" drawable="earmouse"/>
+
+<!-- Easy Dice -->
+<item component="ComponentInfo{net.pejici.easydice/net.pejici.easydice.DiceRollerActivity}" drawable="easy-dice"/>
+
+<!-- Fate Sheets -->
+<item component="ComponentInfo{link.standen.michael.fatesheets/link.standen.michael.fatesheets.activity.CharacterListActivity}" drawable="fate-sheets"/>
+
+<!-- Feeder -->
+<item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder"/>
+
+<!-- FFUpdater -->
+<item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater"/>
+
+<!-- Gallery -->
+<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="simple-gallery"/>
+
+<!-- Headp. det. for Vanilla -->
+<item component="ComponentInfo{ch.blinkenlights.android.vanillaplug/ch.blinkenlights.android.vanillaplug.VPlug}" drawable="vanilla-headphones"/>
+
+<!-- Jamendo -->
+<item component="ComponentInfo{com.teleca.jamendo/com.teleca.jamendo.activity.SplashscreenActivity}" drawable="jamendo"/>
+
+<!-- LibreOffice Viewer -->
+<item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice-viewer"/>
+
+<!-- Liquid Wars OS -->
+<item component="ComponentInfo{com.xenris.liquidwarsos/com.xenris.liquidwarsos.MainMenuActivity}" drawable="liquid-wars-os"/>
+
+<!-- Micopi+ -->
+<item component="ComponentInfo{com.easytarget.micopi/org.eztarget.micopi.ui.WelcomeActivity}" drawable="micopi-plus"/>
+
+<!-- Minetest -->
+<item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MtNativeActivity}" drawable="minetest"/>
+
+<!-- Mozilla Stumbler -->
+<item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="mozstumbler"/>
+
+<!-- My App List -->
+<item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist"/>
+
+<!-- Notes -->
+<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="owncloud-notes"/>
+
+<!-- Padland -->
+<item component="ComponentInfo{com.mikifus.padland/com.mikifus.padland.SplashActivity}" drawable="padland"/>
+
+<!-- Quick Dice Roller -->
+<item component="ComponentInfo{ohm.quickdice/ohm.quickdice.activity.QuickDiceActivity}" drawable="quickdice"/>
+
+<!-- QuickDic -->
+<item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
+
+<!-- SatStat -->
+<item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
+
+<!-- Silence -->
+<item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="smssecure"/>
+
+<!-- Son of Hunky Punk -->
+<item component="ComponentInfo{org.andglkmod.hunkypunk/org.andglkmod.hunkypunk.GamesList}" drawable="hunkypunk"/>
+
+<!-- Type and Speak -->
+<item component="ComponentInfo{com.googamaphone.typeandspeak/com.googamaphone.typeandspeak.TypeAndSpeak}" drawable="type-and-speak"/>
+
+<!-- USB Mountr -->
+<item component="ComponentInfo{streetwalrus.usbmountr/streetwalrus.usbmountr.MainActivity}" drawable="usbmountr"/>
+
+<!-- Vanilla Music -->
+<item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanilla-music-player"/>
+
+<!-- YAAB -->
+<item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab"/>
+
+<!-- Bitcoin -->
+<item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin"/>
+
+<!-- Browser -->
+<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="lineageos-browser"/>
+
+<!-- Citymapper -->
+<item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper"/>
+
+<!-- DNS66 -->
+<item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
+
+<!-- Good Weather -->
+<item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather"/>
+
+<!-- Meditation Assistant -->
+<item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" drawable="meditation-assistant"/>
+
+<!-- N26 -->
+<item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.SplashActivity}" drawable="number26"/>
+
+<!-- oandbackup -->
+<item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup"/>
+
+<!-- Omni Notes FOSS -->
+<item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
+
+<!-- Simple Weather -->
+<item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.activity.GlobalActivity}" drawable="simple-weather"/>
+
+<!-- Sleep Cycle -->
+<item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleep-cycle"/>
+
+<!-- AnySoftKeyboard -->
+<item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard"/>
+
+<!-- APKUpdater -->
+<item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="apkupdater"/>
+
+<!-- Auto Updater f. Chromium-->
+<item component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}" drawable="chromium-auto-updater"/>
+
+<!-- Drinks -->
+<item component="ComponentInfo{fr.masciulli.drinks/fr.masciulli.drinks.ui.activity.MainActivity}" drawable="drinks"/>
+
+<!-- LibreTorrent -->
+<item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent"/>
+
+<!-- Markers -->
+<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
+
+<!-- Material Player -->
+<item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.coldStart.SplashActivity}" drawable="material-audio-player"/>
+
+<!-- Metrodroid -->
+<item component="ComponentInfo{au.id.micolous.farebot/com.codebutler.farebot.activity.MainActivity}" drawable="metrodroid"/>
+
+<!-- MinMinGuard -->
+<item component="ComponentInfo{tw.fatminmin.xposed.minminguard/tw.fatminmin.xposed.minminguard.ui.MainActivity-Alias}" drawable="minminguard"/>
+
+<!-- Notepad -->
+<item component="ComponentInfo{bander.notepad/bander.notepad.NoteList}" drawable="bander-notepad"/>
+
+<!-- Offline Calendar -->
+<item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="localcalendar"/>
+
+<!-- Orgzly -->
+<item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly"/>
+
+<!-- PPSSPP -->
+<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp"/>
+
+<!-- SkyTube -->
+<item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube"/>
+
+<!-- Survival Manual -->
+<item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survival-manual"/>
+
+<!-- TV KILL -->
+<item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="tvkill"/>
+
+<!-- Wire -->
+<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire"/>
+
+<!-- XDA Labs -->
+<item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xda-labs"/>
+
+<!-- Xposed Installer -->
+<item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed-installer"/>
+
+<!-- XPrivacy -->
+<item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="xprivacy"/>
+
+<!-- APV PDF Viewer -->
+<item component="ComponentInfo{cx.hell.android.pdfview/cx.hell.android.pdfview.ChooseFileActivity}" drawable="apvpdf-viewer"/>
+
+<!-- Automate -->
+<item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
+
+<!-- Blockinger -->
+<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
+
+<!-- CAdroid -->
+<item component="ComponentInfo{at.bitfire.cadroid/at.bitfire.cadroid.MainActivity}" drawable="cadroid"/>
+
+<!-- Charmap -->
+<item component="ComponentInfo{com.kkinder.charmap/com.kkinder.charmap.Charmap}" drawable="charmap"/>
+
+<!-- Configure Autologin -->
+<item component="ComponentInfo{com.juliansparber.captiveportallogin/com.juliansparber.captiveportallogin.CaptivePortalLoginActivity}" drawable="capt-portal-login"/>
+
+<!-- DAVdroid JB Workaround -->
+<item component="ComponentInfo{at.bitfire.davdroid.jbworkaround/at.bitfire.davdroid.jbworkaround.MainActivity}" drawable="davdroid-workaround"/>
+
+<!-- dict.cc plus -->
+<item component="ComponentInfo{cc.dict.dictccplus/cc.dict.dictccplus.DictCcPlusActivity}" drawable="dictcc-plus"/>
+
+<!-- DictionaryForMIDs -->
+<item component="ComponentInfo{de.kugihan.dictionaryformids.hmi_android/de.kugihan.dictionaryformids.hmi_android.DictionaryForMIDs}" drawable="dict-for-mids"/>
+
+<!-- ElectroDroid -->
+<item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
+
+<!-- Forecastie -->
+<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
+
+<!-- Hacker's Keyboard -->
+<item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers-pc-keyboard"/>
+
+<!-- komoot -->
+<item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot"/>
+
+<!-- Linphone -->
+<item component="ComponentInfo{org.linphone/org.linphone.LinphoneLauncherActivity}" drawable="linphone"/>
+
+<!-- Logical Defense -->
+<item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logical-defence"/>
+
+<!-- Lyrically -->
+<item component="ComponentInfo{com.shkmishra.lyrically/com.shkmishra.lyrically.MainActivity}" drawable="lyrically"/>
+
+<!-- Memento -->
+<item component="ComponentInfo{github.yaa110.memento/github.yaa110.memento.activity.MainActivity}" drawable="memento"/>
+
+<!-- MinTube -->
+<item component="ComponentInfo{com.shapps.mintubeapp/com.shapps.mintubeapp.YTubeView}" drawable="mintube"/>
+
+<!-- My Expenses -->
+<item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="my-expenses"/>
+
+<!-- OI Notepad -->
+<item component="ComponentInfo{org.openintents.notepad/org.openintents.notepad.noteslist.NotesList}" drawable="oi-notepad"/>
+
+<!-- Open Beauty -->
+<item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openbeauty"/>
+
+<!-- Open Food -->
+<item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.SplashActivity}" drawable="openfood"/>
+
+<!-- Password Generator -->
+<item component="ComponentInfo{org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity}" drawable="pwd-gen"/>
+
+<!-- PayPal -->
+<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+
+<!-- PDF Creator -->
+<item component="ComponentInfo{de.baumann.pdfcreator/de.baumann.pdfcreator.Activity_Main}" drawable="pdfcreator"/>
+
+<!-- QuickLyric -->
+<item component="ComponentInfo{com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity}" drawable="quicklyric"/>
+
+<!-- Sky Map -->
+<item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="google-skymap"/>
+
+<!-- Slack -->
+<item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+
+<!-- Stellarium Mobile -->
+<item component="ComponentInfo{com.noctuasoftware.stellarium/org.qtproject.qt5.android.bindings.QtActivity}" drawable="stellarium"/>
+
+<!-- Strobe Light -->
+<item component="ComponentInfo{com.stwalkerster.android.apps.strobelight/com.stwalkerster.android.apps.strobelight.StrobeLightConfig}" drawable="strobelight"/>
+
+<!-- Stud.IP mobil -->
+<item component="ComponentInfo{de.elanev.studip.android.app/de.elanev.studip.android.app.StartupActivity}" drawable="studip"/>
+
+<!-- Vespucci (F-Droid) -->
+<item component="ComponentInfo{de.blau.android/de.blau.android.Splash}" drawable="vespucci"/>
+
+<!-- VuDroid -->
+<item component="ComponentInfo{org.vudroid/org.vudroid.core.MainBrowserActivity}" drawable="vudroid"/>
+
+<!-- Files -->
+<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="documentsui"/>
+
+<!-- Audio Recorder -->
+<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="axet-audiorecorder"/>
+
+<!-- BetterBatteryStats -->
+<item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats"/>
+
+<!-- Clock+ -->
+<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2"/>
+
+<!-- Dialer2 -->
+<item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="dnaq-dialer2"/>
+
+<!-- K9 Material (unofficial)-->
+<item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9-material-unofficial"/>
+
+<!-- LabCoat -->
+<item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat"/>
+
+<!-- People -->
+<item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts-htc"/>
+
+<!-- Phone -->
+<item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="incallui-dialer"/>
+
+<!-- Terminal Emulator -->
+<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm"/>
