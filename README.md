@@ -1,15 +1,42 @@
 # ICEcons
 
-This is a fork of the ICEcons icon pack for trebuchet, kiss, nova, apex, holo, asus, adw and many more launchers. There are over 200 icons and a few wallpapers included as well. This is my first project with Inkscape but I will add icons when I have the time, submitting icon requests helps a lot.
+An icon pack forked from [ICEcons by 1C3](https://github.com/1C3/ICEcons) with a goal of providing icons mostly for **F-Droid** and other **FOSS** apps. Designed to look *clean and simple*, featuring only white color and transparency for a satisfying see-through effect. (See illustration below)
+
+Support for Trebuchet (CM/LOS), KISS, Nova, Apex, Holo, ZenUI (ASUS), ADW and many more launchers although not applicable via the app itself.
+
+There are about **270 icons** as well as a few **4K wallpapers** included. Submitting **icon requests** helps a lot, but maintaining the project as you may imagine takes a lot of time and effort so please be patient about adding new icons or contribute some yourself.
+
+## Download
+
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/app/com.dkanada.icecons/)
 
 ## Icon Requests
 
-I am working on some scripts that will scrape the issues page for icon requests so please use the following format. Label the issue **Icon Request** and use the app [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit) to create a zip file with the apps you would like to be added or modified.
+The app doesn't have an icon request feature so you'll have to do the following steps:
+
+1. Install [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit), an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
+2. Open Turtl, select the missing icons and tap send request.
+3. **Save the file.** *Note: If you don't have an option to save the file to storage you'll have to install an app that provides it through the **share menu**, like a file manager (e.g. [MiXPlorer](https://sites.google.com/site/mixplorer/)) **OR** save it as a mail attachment and obtain it from there.*
+4. [Make an issue](https://github.com/dkanada/ICEcons/issues/new) titled "Icon Request" and attach the .zip file you got from Turtl.
+
+Work is being done to simplify this process.
 
 ## Contributing
 
-If you know how to create vectors and have some spare time feel free to help me convert all of the icons to svg or just make some new ones, I would love the help. You don't even have to know how to code, just throw them in the svg directory and I will take care of the rest. If you'd like to help me work on the app itself that would also be great, I would eventually like to port [moonshine](https://github.com/natewren/moonshine-iconpack) if I ever have the time using the code from this app.
+### **Help with any aspect of the app is much appreciated!**
 
-## Screenshots
+We would eventually like to port [moonshine](https://github.com/natewren/moonshine-iconpack) if we ever have the time using the code from this app.
+
+**You don't have to know how to code** if you know how to work with vectors in a program that supports the SVG format.
+[Inkscape](https://inkscape.org/en/) is recommended, but not necessary.
+
+Quick guide for adding your icons:
+1. Fork the repository to your GitHub account.
+2. Download the templates provided [here](https://github.com/dkanada/ICEcons/tree/master/templates) and make the icons as close to these as possible.
+3. Upload the SVG icons to your repository's **/other** folder.
+4. Create a pull request and explain your changes (*e.g. Add new SVGs*).
+5. Provide the AppActivity names of the apps that you've added icons for (obtained by Turtl or any other means). These should look something like this: `com.dkanada.icecons/com.dkanada.icecons.MainActivity` **OR** if you want to help even more edit the appfilter.xml file located in app/src/main/res/xml/ by adding the AppActivity and the rest of the information needed there.
+
+## Illustration
 
 <img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/icons.jpg'/>
