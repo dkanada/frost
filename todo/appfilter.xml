@@ -208,9 +208,6 @@
 <!-- ElectroDroid -->
 <item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
 
-<!-- Forecastie -->
-<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
-
 <!-- Hacker's Keyboard -->
 <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers-pc-keyboard"/>
 
