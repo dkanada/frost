@@ -106,9 +106,6 @@
 <!-- N26 -->
 <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.SplashActivity}" drawable="number26"/>
 
-<!-- oandbackup -->
-<item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup"/>
-
 <!-- Omni Notes FOSS -->
 <item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
 
