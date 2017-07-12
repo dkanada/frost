@@ -88,9 +88,6 @@
 <!-- YAAB -->
 <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="yaab"/>
 
-<!-- Bitcoin -->
-<item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin"/>
-
 <!-- Browser -->
 <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="lineageos-browser"/>
 
@@ -109,9 +106,6 @@
 <!-- N26 -->
 <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.SplashActivity}" drawable="number26"/>
 
-<!-- oandbackup -->
-<item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup"/>
-
 <!-- Omni Notes FOSS -->
 <item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
 
@@ -120,9 +114,6 @@
 
 <!-- Sleep Cycle -->
 <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleep-cycle"/>
-
-<!-- AnySoftKeyboard -->
-<item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard"/>
 
 <!-- APKUpdater -->
 <item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="apkupdater"/>
@@ -211,9 +202,6 @@
 <!-- ElectroDroid -->
 <item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
 
-<!-- Forecastie -->
-<item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.MainActivity}" drawable="forecastie"/>
-
 <!-- Hacker's Keyboard -->
 <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers-pc-keyboard"/>
 
@@ -288,9 +276,6 @@
 
 <!-- BetterBatteryStats -->
 <item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="betterbatterystats"/>
-
-<!-- Clock+ -->
-<item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2"/>
 
 <!-- Dialer2 -->
 <item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="dnaq-dialer2"/>
