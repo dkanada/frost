@@ -103,6 +103,12 @@
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blueminimal" />
 
+    <!-- Bluetooth Extension -->
+    <item component="ComponentInfo{org.codeaurora.bluetooth/org.coreaurora.bluetooth.ftp.BluetoothFtpActivity}" drawable="bluetooth" />
+
+    <!-- Bluetooth Share -->
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="bluetooth" />
+
     <!-- BOINC -->
     <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc" />
 
