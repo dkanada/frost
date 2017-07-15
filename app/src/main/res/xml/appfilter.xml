@@ -819,6 +819,9 @@
     <!-- Timber -->
     <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber" />
 
+    <!-- Tinc -->
+    <item component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity}" drawable="tinc" />
+
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
 
