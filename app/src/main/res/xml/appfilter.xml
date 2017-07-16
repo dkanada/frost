@@ -134,8 +134,8 @@
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera" />
     
     <!-- Camera Roll -->
-    <item component="componentinfo{us.koller.cameraroll/us.koller.cameraroll.ui.mainactivity}" drawable="cameraroll" />
-    <item component="componentinfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.mainactivity}" drawable="cameraroll" />
+    <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
+    <item component="ComponentInfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
 
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
