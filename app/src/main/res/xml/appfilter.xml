@@ -134,7 +134,8 @@
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera" />
     
     <!-- Camera Roll -->
-    <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
+    <item component="componentinfo{us.koller.cameraroll/us.koller.cameraroll.ui.mainactivity}" drawable="cameraroll" />
+    <item component="componentinfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.mainactivity}" drawable="cameraroll" />
 
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
@@ -480,6 +481,7 @@
 
     <!-- Lightning -->
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
+    <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning" />
 
     <!-- Loop Habit Tracker -->
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
