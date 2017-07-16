@@ -52,6 +52,9 @@
     <!-- ApkTrack -->
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
+    <!-- Applications Info -->
+    <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo"/>
+
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
@@ -99,6 +102,12 @@
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blueminimal" />
+
+    <!-- Bluetooth Extension -->
+    <item component="ComponentInfo{org.codeaurora.bluetooth/org.coreaurora.bluetooth.ftp.BluetoothFtpActivity}" drawable="bluetooth" />
+
+    <!-- Bluetooth Share -->
+    <item component="ComponentInfo{com.android.bluetooth/com.android.bluetooth.opp.BluetoothOppLauncherActivity}" drawable="bluetooth" />
 
     <!-- BOINC -->
     <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc" />
@@ -155,6 +164,9 @@
     <!-- Clover -->
     <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
     <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
+
+    <!-- Community Peers License -->
+    <item component="ComponentInfo{community.peers.license/community.peers.license.activity.MainActivity}" drawable="license" />
 
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
@@ -230,6 +242,9 @@
 
     <!-- Etar -->
     <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar" />
+
+    <!-- EteSync -->
+    <item component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" drawable="etesync" />
 
     <!-- Export Contacts -->
     <item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="exportcontacts"/>
@@ -804,6 +819,9 @@
     <!-- Timber -->
     <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber" />
 
+    <!-- Tinc -->
+    <item component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity}" drawable="tinc" />
+
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
 
@@ -827,6 +845,9 @@
 
     <!-- Unified Nlp -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
+
+    <!-- Urbandroid Sleep -->
+    <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
