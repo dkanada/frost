@@ -32,11 +32,11 @@ We would eventually like to port [moonshine](https://github.com/natewren/moonshi
 **You don't have to know how to code** if you know how to work with vectors in a program that supports the SVG format.
 [Inkscape](https://inkscape.org/en/) is recommended, but not necessary.
 
-Please read the [guide on contributing](https://github.com/dkanada/ICEcons/blob/master/CONTRIBUTING.md) before! It also includes some (personal) tips on how to work with Inkscape. If you don't use Inkscape, please ignore these tips. 
+Please read the [guide on contributing](CONTRIBUTING.md) before! It also includes some (personal) tips on how to work with Inkscape. If you don't use Inkscape, please ignore these tips. 
 
 Quick guide for adding your icons:
 1. Fork the repository to your GitHub account.
-2. Download the templates provided [here](https://github.com/dkanada/ICEcons/tree/master/templates) and make the icons as close to these as possible.
+2. Download the templates provided [here](templates) and make the icons as close to these as possible.
 3. Upload the SVG icons to your repository's **/other** folder.
 4. Create a pull request and explain your changes (*e.g. Add new SVGs*).
 5. Provide the AppActivity names of the apps that you've added icons for (obtained by Turtl or any other means). These should look something like this: `com.dkanada.icecons/com.dkanada.icecons.MainActivity` **OR** if you want to help even more edit the appfilter.xml file located in app/src/main/res/xml/ by adding the AppActivity and the rest of the information needed there.
