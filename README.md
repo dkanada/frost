@@ -8,7 +8,7 @@ There are about **270 icons** as well as a few **4K wallpapers** included. Submi
 
 ## Download
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/app/com.dkanada.icecons/)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.dkanada.icecons/)
 
 ## Icon Requests
 
@@ -29,6 +29,8 @@ We would eventually like to port [moonshine](https://github.com/natewren/moonshi
 
 **You don't have to know how to code** if you know how to work with vectors in a program that supports the SVG format.
 [Inkscape](https://inkscape.org/en/) is recommended, but not necessary.
+
+Please read the [guide on contributing](https://github.com/dkanada/ICEcons/blob/master/CONTRIBUTING.md) before! It also includes some (personal) tips on how to work with Inkscape. If you don't use Inkscape, please ignore these tips. 
 
 Quick guide for adding your icons:
 1. Fork the repository to your GitHub account.
