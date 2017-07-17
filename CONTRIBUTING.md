@@ -21,7 +21,7 @@ Before contributing your SVG icon, **open it inside a text editor (it's just bas
 <path d="M 35,46 46,35 24,13 35,2 46,13 13,46 2,35 24,13 13,2 2,13 Z" fill="#fff" fill-rule="evenodd"/> 
 </svg>```
 
-    - **the scientific E-notation ``[0-9]{1,3}\.[0-9]{1,3}e-[0-9]`` (in regular expression) for really small numbers**: 
+    - **the scientific E-notation ```[0-9]{1,3}\.[0-9]{1,3}e-[0-9]``` (in regular expression) for really small numbers**: 
 
     Example:
 ```<?xml version="1.0" encoding="UTF-8"?>
