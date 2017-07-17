@@ -8,7 +8,9 @@ There are about **270 icons** as well as a few **4K wallpapers** included. Submi
 
 ## Download
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.dkanada.icecons/)
+[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it 
+on F-Droid" 
+height="90">](https://f-droid.org/app/com.dkanada.icecons/)
 
 ## Icon Requests
 
