@@ -21,6 +21,24 @@ The app doesn't have an icon request feature so you'll have to do the following 
 3. **Save the file.** *Note: If you don't have an option to save the file to storage you'll have to install an app that provides it through the **share menu**, like a file manager (e.g. [MiXPlorer](https://sites.google.com/site/mixplorer/)) **OR** save it as a mail attachment and obtain it from there.*
 4. [Make an issue](https://github.com/dkanada/ICEcons/issues/new) titled "Icon Request" and attach the .zip file you got from Turtl.
 
+If Turtl is not working on your device, you can also use [Applications 
+Info](https://f-droid.org/app/com.majeur.applicationsinfo) to collect 
+- the **package name** of the app ( $PACKAGE_NAME )
+- the **main activity name** of the app ( $ACTIVITY_NAME ), launchable in Applicationsinfo + no error)
+Unfortunately, you can't collect the icon via Applicationsinfo - you will need to 
+```
+cd ~
+mkdir $PACKAGE_NAME; 
+mkdir collection 
+adb pull /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/ #from computer; 
+cp /data/app/${PACKAGE_NAME}-1/base.apk ~ #from terminal app on android; 
+cd $PACKAGE_NAME; unzip base.apk; cd res/drawable-xxhdpi*; 
+mv ic_launcher.png ~/collection/${PACKAGE_NAME}__{ACTIVITY_NAME}.png
+cd ~
+``` 
+All png icon request icons should noe be located at ~/collection/*. 
+Zip this folder and send follow steps 3 + 4 just like with Turtl. 
+
 Work is being done to simplify this process.
 
 ## Contributing
