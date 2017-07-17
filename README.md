@@ -29,15 +29,17 @@ Unfortunately, you can't collect the icon via Applicationsinfo - you will need t
 ```
 cd ~
 mkdir $PACKAGE_NAME; 
-mkdir collection 
-adb pull /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/ #from computer; 
-cp /data/app/${PACKAGE_NAME}-1/base.apk ~ #from terminal app on android; 
+mkdir collection
+#from computer via ADB 
+adb pull /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/; 
+#from terminal app on android: 
+cp /data/app/${PACKAGE_NAME}-1/base.apk $PACKAGE_NAME/
 cd $PACKAGE_NAME; unzip base.apk; cd res/drawable-xxhdpi*; 
-mv ic_launcher.png ~/collection/${PACKAGE_NAME}__{ACTIVITY_NAME}.png
+mv ic_launcher.png ~/collection/${PACKAGE_NAME}__${ACTIVITY_NAME}.png
 cd ~
 ``` 
-All png icon request icons should noe be located at ~/collection/*. 
-Zip this folder and send follow steps 3 + 4 just like with Turtl. 
+All png icon request icons should now be located at ~/collection/*. 
+Zip this folder and follow steps 3 + 4 just like with Turtl. 
 
 Work is being done to simplify this process.
 
