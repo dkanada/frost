@@ -5,8 +5,8 @@
 - At one point in the future, we would like to use **vector (SVG, AVDX) instead of raster (PNG) graphics** inside the app, 
 because vector graphics are more efficient and customizable than raster graphics.  
 Android does not support SVG (scalable vector graphics) directly, it only supports so-called **AVD XML (Android vector drawable XML).** 
-SVG can easily be converted to AVD XML, but AVD XML **does not support some SVG features**. P 
-Before contributing your SVG icon, **open it inside a text editor (it's just basic text file!) and scan it for the following SVG features**: 
+SVG can easily be converted to AVD XML, but AVD XML **does not support some SVG features**.  
+Before contributing your SVG icon, **open it inside a text editor and scan it for the following SVG features**: 
     - **``matrix`` or ``transform``** attributes. 
     - **``fill-rule:evenodd``** attributes. 
     - **the scientific E-notation ```[0-9]{1,3}\.[0-9]{1,3}e-[0-9]``` (in regular expression) for really small numbers**. 
