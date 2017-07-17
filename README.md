@@ -26,6 +26,7 @@ Info](https://f-droid.org/app/com.majeur.applicationsinfo) to collect
 - the **package name** of the app ( $PACKAGE_NAME )
 - the **main activity name** of the app ( $ACTIVITY_NAME ), launchable in Applicationsinfo + no error)
 Unfortunately, you can't collect the icon via Applicationsinfo - you will need to 
+
 ```
 cd ~
 mkdir $PACKAGE_NAME; 
