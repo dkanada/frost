@@ -415,6 +415,9 @@
     <!-- Google YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
+    <!-- GreenBits -->
+    <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
+
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="holo" />
 
@@ -496,6 +499,9 @@
     <!-- Master Password -->
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
 
+    <!-- MatLog -->
+    <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
+
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
 
@@ -538,6 +544,9 @@
 
     <!-- MX Player -->
     <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx" />
+
+    <!-- MX Player Pro -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx" />
 
     <!-- NetGuard -->
     <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard" />
@@ -897,6 +906,9 @@
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
+
+    <!-- Writeily Pro -->
+    <item component="ComponentInfo{me.writeily/me.writeily.PromptPinActivity}" drawable="writeilypro" />
 
     <!-- Wunderlist -->
     <item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}" drawable="wunderlist" />
