@@ -16,10 +16,10 @@ height="90">](https://f-droid.org/app/com.dkanada.icecons/)
 
 The app doesn't have an icon request feature so you'll have to do the following steps:
 
-1. Install [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit), an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
-2. Open Turtl, select the missing icons and tap send request.
-3. **Save the file.** *Note: If you don't have an option to save the file to storage you'll have to install an app that provides it through the **share menu**, like a file manager (e.g. [MiXPlorer](https://sites.google.com/site/mixplorer/)) **OR** save it as a mail attachment and obtain it from there.*
-4. [Make an issue](https://github.com/dkanada/ICEcons/issues/new) titled "Icon Request" and attach the .zip file you got from Turtl.
+1. **Install [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit)**, an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
+2. **Open Turtl**, select the missing icons and tap "Send Request". Don't select any option, **close Turtl**.
+3. **Obtain the .zip file** located in your device's internal storage in a folder named ".icon_request". _It's **hidden** so make sure to enable viewing hidden files in your file manager_.
+4. **[Make an issue](https://github.com/dkanada/ICEcons/issues/new)** titled "Icon Request" and attach the .zip file.
 
 If Turtl is not working on your device, you can also use [Applications 
 Info](https://f-droid.org/app/com.majeur.applicationsinfo) to collect 
