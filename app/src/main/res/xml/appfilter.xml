@@ -193,6 +193,7 @@
 
     <!-- Deutsche Bahn Navigator -->
     <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="dbnavigator" />
+    <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="dbnavigator" />
 
     <!-- Dialer -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
