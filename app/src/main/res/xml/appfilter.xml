@@ -263,6 +263,7 @@
 
     <!-- Facebook Slim -->
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook" />
 
     <!-- Fdroid -->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
