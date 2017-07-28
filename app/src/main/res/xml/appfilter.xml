@@ -172,6 +172,7 @@
 
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
+    <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="shell" />
 
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
