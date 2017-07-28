@@ -910,6 +910,7 @@
 
     <!-- Wikipedia -->
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
