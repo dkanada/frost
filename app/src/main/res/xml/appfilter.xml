@@ -647,6 +647,7 @@
 
     <!-- Owncloud Notes -->
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="owncloudnotes" />
+    <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashScreenActivity}" drawable="owncloudnotes" />
 
     <!-- Pairz -->
     <item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
