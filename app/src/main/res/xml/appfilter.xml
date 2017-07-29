@@ -670,6 +670,7 @@
 
     <!-- Practice Hub -->
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practicehub" />
+    <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainScreen}" drawable="practicehub" />
 
     <!-- Prezzi Benzina -->
     <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="pb" />
