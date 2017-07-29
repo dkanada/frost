@@ -678,6 +678,7 @@
 
     <!-- Privacy Browser -->
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.MainWebViewActivity}" drawable="privacybrowser" />
+    <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.activities.MainWebViewActivity}" drawable="privacybrowser" />
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
