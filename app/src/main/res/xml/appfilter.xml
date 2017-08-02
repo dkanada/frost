@@ -127,6 +127,7 @@
 
     <!-- Call Recorder -->
     <item component="ComponentInfo{com.callrecorder.android/com.callrecorder.android.MainActivity}" drawable="callrecorder" />
+    <item component="ComponentInfo{com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity}" drawable="callrecorder" />
 
     <!-- Camera -->
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="camera" />
@@ -171,6 +172,7 @@
 
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
+    <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="shell" />
 
     <!-- Contacts -->
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
@@ -193,6 +195,7 @@
 
     <!-- Deutsche Bahn Navigator -->
     <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="dbnavigator" />
+    <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="dbnavigator" />
 
     <!-- Dialer -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
@@ -261,6 +264,7 @@
 
     <!-- Facebook Slim -->
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook" />
 
     <!-- Fdroid -->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
@@ -307,6 +311,7 @@
 
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
+    <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="gadgetbridge" />
 
     <!-- Gallery -->
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
@@ -553,6 +558,9 @@
 
     <!-- Mysplash -->
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}" drawable="mysplash" />
+    <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.LoginActivity}" drawable="mysplash" />
+    <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.me.view.activity.MeActivity}" drawable="mysplash" />
+    <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.SetWallpaperActivity}" drawable="mysplash" />
 
     <!-- NetGuard -->
     <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard" />
@@ -634,6 +642,7 @@
 
     <!-- Overchan -->
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
+    <item component="ComponentInfo{bus.chio.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
 
     <!-- Owncloud -->
     <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
@@ -641,6 +650,7 @@
 
     <!-- Owncloud Notes -->
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="owncloudnotes" />
+    <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashScreenActivity}" drawable="owncloudnotes" />
 
     <!-- Pairz -->
     <item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
@@ -665,12 +675,14 @@
 
     <!-- Practice Hub -->
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practicehub" />
+    <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainScreen}" drawable="practicehub" />
 
     <!-- Prezzi Benzina -->
     <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="pb" />
 
     <!-- Privacy Browser -->
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.MainWebViewActivity}" drawable="privacybrowser" />
+    <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.activities.MainWebViewActivity}" drawable="privacybrowser" />
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
@@ -698,6 +710,7 @@
 
     <!-- Red Moon -->
     <item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.ShadesActivity}" drawable="redmoon" />
+    <item component="ComponentInfo{com.jmstudios.redmoon/com.jmstudios.redmoon.activity.MainActivity}" drawable="redmoon" />
 
     <!-- RedReader -->
     <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="redreader" />
@@ -868,6 +881,7 @@
 
     <!-- Unified Nlp -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
+    <item component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
 
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
@@ -894,6 +908,7 @@
 
     <!-- Weather -->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
+    <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="weather" />
 
     <!-- WebOPAC -->
     <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac" />
@@ -915,6 +930,7 @@
 
     <!-- Wikipedia -->
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
@@ -927,6 +943,8 @@
 
     <!-- Xabber -->
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+    <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactListActivity}" drawable="xabber" />
+    <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ChatActivity}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 
     <!-- Yalp Store -->
@@ -934,6 +952,7 @@
 
     <!-- Zapp -->
     <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp" />
+    <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp" />
 
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />
