@@ -328,6 +328,9 @@
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
+    <!-- Goblim -->
+    <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
+
     <!-- Google -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="googleapp" />
 
