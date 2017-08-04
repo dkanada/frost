@@ -109,9 +109,6 @@
 <!-- Omni Notes FOSS -->
 <item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes-foss"/>
 
-<!-- Simple Weather -->
-<item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.activity.GlobalActivity}" drawable="simple-weather"/>
-
 <!-- Sleep Cycle -->
 <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleep-cycle"/>
 
@@ -201,9 +198,6 @@
 
 <!-- ElectroDroid -->
 <item component="ComponentInfo{it.android.demi.elettronica/it.android.demi.elettronica.MainElectroFree}" drawable="electrodroid"/>
-
-<!-- Hacker's Keyboard -->
-<item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackers-pc-keyboard"/>
 
 <!-- komoot -->
 <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot"/>
