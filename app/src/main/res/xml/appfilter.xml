@@ -210,6 +210,9 @@
     <!-- Dicer -->
     <item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer" />
 
+    <!-- DNS man -->
+    <item component="ComponentInfo{io.github.otakuchiyan.dnsman/io.github.otakuchiyan.dnsman.MainActivity}" drawable="dnsman" />
+
     <!-- Documents -->
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="files" />
     <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
@@ -325,6 +328,9 @@
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
+    <!-- Goblim -->
+    <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
+
     <!-- Google -->
     <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="googleapp" />
 
@@ -422,6 +428,9 @@
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
+
+    <!-- Hacker's Keyboard -->
+    <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerskb" />
 
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="holo" />
@@ -756,6 +765,9 @@
     <!-- Simple Explorer -->
     <item component="ComponentInfo{com.dnielfe.manager/com.dnielfe.manager.activities.BrowserActivity}" drawable="simexplorer" />
 
+    <!-- Simple Weather -->
+    <item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.GlobalActivity}" drawable="simpleweather" />
+
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
 
@@ -822,6 +834,9 @@
     <!-- Tachiyomi -->
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
 
+    <!-- Tap 'n' Turn -->
+    <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapnturn" />
+
     <!-- Tasks -->
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks" />
 
@@ -830,6 +845,9 @@
 
     <!-- Terminal -->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
+
+    <!-- Terminal Emulator -->
+    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm" />
 
     <!-- Termux -->
     <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="shell" />
@@ -854,6 +872,12 @@
 
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
+    
+    <!-- Torrent Client -->
+    <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient" />
+
+    <!-- Transistor -->
+    <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
 
     <!-- Transportr -->
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
