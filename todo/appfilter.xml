@@ -285,6 +285,3 @@
 
 <!-- Phone -->
 <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="incallui-dialer"/>
-
-<!-- Terminal Emulator -->
-<item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm"/>

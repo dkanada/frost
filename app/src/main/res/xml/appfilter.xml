@@ -846,6 +846,9 @@
     <!-- Terminal -->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
 
+    <!-- Terminal Emulator -->
+    <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm" />
+
     <!-- Termux -->
     <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="shell" />
 
