@@ -546,7 +546,10 @@
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
-    <!-- Mu Pdf Viewer -->
+    <!-- MuPDF Mini -->
+    <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
+
+    <!-- MuPDF Viewer -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
     <item component="ComponentInfo{de.baumann.pdfview/file_manager.Activity_files}" drawable="mupdf" />
 
