@@ -853,10 +853,13 @@
     <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm" />
 
     <!-- Termux -->
-    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="shell" />
+    <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux" />
 
+    <!-- Termux:Boot -->
+    <item component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}" drawable="termux" />
+    
     <!-- Termux:Float -->
-    <item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termuxfloat" />
+    <item component="ComponentInfo{com.termux.window/com.termux.window.TermuxFloatActivity}" drawable="termux" />
 
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
