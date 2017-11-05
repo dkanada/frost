@@ -12,7 +12,7 @@ printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <string-array n
 printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <version>1</version>\n' > drawable.xml
 printf '    private Integer[] mImages = {\n' > code.xml
 
-for DIR in $(find ${SVGDIR} -name "*.svg")
+for DIR in $(find ${SVGDIR} -name "*.svg" | sort)
 do
   FILE=${DIR##*/}
   NAME=${FILE%.*}
