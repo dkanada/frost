@@ -10,10 +10,6 @@ import java.lang.ref.WeakReference;
 
 import com.dkanada.icecons.utils.IceImageUtils;
 
-/**
- * Created by kanadill on 5/11/2017.
- */
-
 public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
 
     private WeakReference<ImageView> imageViewReference;
