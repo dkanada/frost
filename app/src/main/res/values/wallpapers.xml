@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wall_1</item>
+        <item>wall_2</item>
+        <item>wall_3</item>
+        <item>wall_4</item>
+        <item>wall_5</item>
+        <item>wall_6</item>
+        <item>wall_7</item>
+        <item>wall_8</item>
+        <item>wall_9</item>
+        <item>wall_10</item>
+        <item>wall_11</item>
+        <item>wall_12</item>
+    </string-array>
+</resources>
