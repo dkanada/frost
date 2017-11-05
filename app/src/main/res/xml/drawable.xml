@@ -253,6 +253,7 @@
     <item drawable="tasks" />
     <item drawable="telegram" />
     <item drawable="terminal" />
+    <item drawable="termux" />
     <item drawable="themes" />
     <item drawable="theswitch" />
     <item drawable="threema" />
