@@ -73,7 +73,7 @@ public class WallpaperActivity extends AppCompatActivity {
             IceImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), wallpapers[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
 
-            final Integer tempId = getResources().getIdentifier("nodpi_" + wallpapers[i], "drawable", getPackageName());
+            final Integer tempId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());
             imageList.get(i).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
