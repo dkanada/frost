@@ -203,6 +203,7 @@
     <item drawable="pixeldungeon" />
     <item drawable="pixlr" />
     <item drawable="practicehub" />
+    <item drawable="primitiveftpd" />
     <item drawable="privacybrowser" />
     <item drawable="protonmail" />
     <item drawable="qksms" />
@@ -271,6 +272,7 @@
     <item drawable="twitter" />
     <item drawable="unifiednlp" />
     <item drawable="urbandroid" />
+    <item drawable="vanillamusic" />
     <item drawable="viber" />
     <item drawable="vine" />
     <item drawable="viper" />
