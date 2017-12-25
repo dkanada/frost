@@ -244,6 +244,9 @@
     <!-- Emby -->
     <item component="ComponentInfo{com.mb.android/com.mb.android.MainActivity}" drawable="emby" />
 
+    <!-- Emerald Launcher -->
+    <item component="ComponentInfo{ru.henridellal.emerald/ru.henridellal.emerald.Apps}" drawable="emerald" />
+
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
 
@@ -512,6 +515,9 @@
 
     <!-- Master Password -->
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
+
+    <!-- Material Notes -->
+    <item component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}" drawable="materialnotes" />
 
     <!-- MatLog -->
     <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
@@ -891,6 +897,9 @@
 
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
+
+    <!-- Torchie -->
+    <item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie" />
     
     <!-- Torrent Client -->
     <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient" />
