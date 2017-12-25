@@ -1,5 +1,6 @@
 package com.dkanada.icecons.utils;
 
+import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -9,15 +10,16 @@ import com.dkanada.icecons.async.BitmapWorkerTask;
 
 public class IceImageUtils {
 
-    public static void bitmapLoadAsync(ImageView imageView, Resources res, int resId, int width, int height) {
+    public static void bitmapLoadAsync(ImageView imageView, Context context, Resources resources, String image, int width, int height) {
         BitmapWorkerTask task = new BitmapWorkerTask(imageView);
 
-        task.res = res;
-        task.resId = resId;
+        task.context = context;
+        task.resources = resources;
+        task.image = image;
         task.width = width;
         task.height = height;
 
-        task.execute(resId);
+        task.execute();
     }
 
     public static Bitmap bitmapLoad(Resources res, int resId, int width, int height) {

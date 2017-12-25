@@ -17,22 +17,6 @@ import com.dkanada.icecons.utils.IceScreenUtils;
 import com.dkanada.icecons.R;
 
 public class WallpaperActivity extends AppCompatActivity {
-
-    private Integer[] mImages = {
-            R.drawable.wall_1,
-            R.drawable.wall_2,
-            R.drawable.wall_3,
-            R.drawable.wall_4,
-            R.drawable.wall_5,
-            R.drawable.wall_6,
-            R.drawable.wall_7,
-            R.drawable.wall_8,
-            R.drawable.wall_9,
-            R.drawable.wall_10,
-            R.drawable.wall_11,
-            R.drawable.wall_12
-    };
-
     private ArrayList<LinearLayout> layoutList = new ArrayList<>();
     private ArrayList<ImageView> imageList = new ArrayList<>();
 
@@ -72,7 +56,8 @@ public class WallpaperActivity extends AppCompatActivity {
         baseLayout.setPadding(margin, margin, 0, 0);
         baseScroller.addView(baseLayout);
 
-        for (int i = 0; i < mImages.length; i++) {
+        String[] wallpapers = getResources().getStringArray(R.array.wallpapers);
+        for (int i = 0; i < wallpapers.length; i++) {
             if ((i % width) == 0) {
                 layoutList.add((i / width), new LinearLayout(this));
                 layoutList.get(i / width).setOrientation(LinearLayout.HORIZONTAL);
@@ -85,10 +70,10 @@ public class WallpaperActivity extends AppCompatActivity {
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
             imageList.get(i).setPadding(0, 0, margin, margin);
-            IceImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), mImages[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            IceImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), wallpapers[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
 
-            final Integer tempId = mImages[i];
+            final Integer tempId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());
             imageList.get(i).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
