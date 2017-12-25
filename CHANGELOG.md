@@ -1,3 +1,9 @@
+### 1.3.3
+###### Released: December 20, 2017
+* update screenshots
+* icon activity no longer needs a generated list for icon views
+* fix button transparency in main menu
+
 ### 1.3.2
 ###### Released: August 18, 2017
 * bump version for new icons
