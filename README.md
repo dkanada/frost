@@ -4,7 +4,7 @@ An icon pack forked from [ICEcons by 1C3](https://github.com/1C3/ICEcons) with a
 
 Support for Trebuchet (CM/LOS), KISS, Nova, Apex, Holo, ZenUI (ASUS), ADW and many more launchers although not applicable via the app itself.
 
-There are about **270 icons** as well as a few **4K wallpapers** included. Submitting **icon requests** helps a lot, but maintaining the project as you may imagine takes a lot of time and effort so please be patient about adding new icons or contribute some yourself.
+There are about **300 icons** as well as a few **4K wallpapers** included. Submitting **icon requests** helps a lot, but maintaining the project as you may imagine takes a lot of time and effort so please be patient about adding new icons or contribute some yourself.
 
 ## Download
 
