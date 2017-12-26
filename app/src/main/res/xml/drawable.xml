@@ -74,6 +74,7 @@
     <item drawable="earth" />
     <item drawable="echo" />
     <item drawable="emby" />
+    <item drawable="emerald" />
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="etesync" />
@@ -149,6 +150,7 @@
     <item drawable="mail" />
     <item drawable="map" />
     <item drawable="masterpassword" />
+    <item drawable="materialnotes" />
     <item drawable="matlog" />
     <item drawable="mediafire" />
     <item drawable="mega" />
@@ -263,6 +265,7 @@
     <item drawable="tidal" />
     <item drawable="timber" />
     <item drawable="tinc" />
+    <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
     <item drawable="transistor" />
