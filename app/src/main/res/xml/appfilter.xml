@@ -149,6 +149,8 @@
 
     <!-- Chefkoch -->
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.HomeActivity_}" drawable="chefkoch" />
+    <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.splash.SplashActivity}" drawable="chefkoch" />
+    <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.HomeActivity}" drawable="chefkoch" />
 
     <!-- Chromium -->
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
