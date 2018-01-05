@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <path d="M4.32 8.01v31.98c0 2.46 1.23 3.69 3.69 3.69h31.98c2.46 0 3.69-1.23 3.69-3.69V8.01c0-2.46-1.23-3.69-3.69-3.69H8.01c-2.46 0-3.69 1.23-3.69 3.69zm18.45 1.077v7.1l-4.92 2.85-6.15-3.555zm2.46 0l11.07 6.39-6.15 3.552-4.92-2.848zM10.47 17.61l6.15 3.55v5.682L10.47 30.4zm27.06 0v12.78l-6.15-3.55v-5.682zM24 18.318l4.92 2.842v5.683L24 29.684l-4.92-2.842V21.16zM17.85 28.97l4.92 2.848v7.1L11.7 32.526zm12.3 0l6.15 3.556-11.07 6.393v-7.102z" fill="#fff" paint-order="markers fill stroke"/>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m22.273 3.0537v9.9704l-6.9091 4.0022-8.6364-4.9922z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m25.727 3.0537 15.545 8.9734-8.6364 4.988-6.9091-3.9994z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m5 15.022 8.6364 4.9852v7.9792l-8.6364 4.9965z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m43 15.022v17.947l-8.6364-4.9852v-7.9792z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m24 16.017 6.9091 3.991v7.9806l-6.9091 3.9896-6.9091-3.991v-7.9792z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m15.364 30.975 6.9091 3.9994v9.9704l-15.545-8.9762z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
+    <path d="m32.636 30.975 8.6364 4.9936-15.545 8.9776v-9.9732z" fill="#fff" stroke-width="1.4043" style="paint-order:markers fill stroke"/>
 </svg>
