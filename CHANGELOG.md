@@ -1,3 +1,8 @@
+### 1.3.4
+###### Released: January 24, 2018
+* bump version for new icons
+* fix icon click in main acivity
+
 ### 1.3.3
 ###### Released: December 20, 2017
 * update screenshots
