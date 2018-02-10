@@ -155,6 +155,9 @@
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.splash.SplashActivity}" drawable="chefkoch" />
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.HomeActivity}" drawable="chefkoch" />
 
+    <!-- Chip8 -->
+    <item component="ComponentInfo{com.dkanada.chip/com.dkanada.emu.activities.MainActivity}" drawable="chip" />
+    
     <!-- Chromium -->
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
@@ -475,6 +478,9 @@
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
 
+    <!-- KaQui -->
+    <item component="ComponentInfo{org.kaqui/org.kaqui.MainActivity}" drawable="kaqui" />
+
     <!-- Keepass2Android -->
     <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass2android" />
 
@@ -510,6 +516,9 @@
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning" />
 
+    <!-- LISTEN.moe -->
+    <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activities.MainActivity}" drawable="listen" />
+
     <!-- Loop Habit Tracker -->
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
 
@@ -525,6 +534,9 @@
 
     <!-- Material Notes -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}" drawable="materialnotes" />
+
+    <!-- Materialistic -->
+    <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="materialistic" />
 
     <!-- MatLog -->
     <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
@@ -584,6 +596,9 @@
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.LoginActivity}" drawable="mysplash" />
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.me.view.activity.MeActivity}" drawable="mysplash" />
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.SetWallpaperActivity}" drawable="mysplash" />
+
+    <!-- Netflix -->
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
 
     <!-- NetGuard -->
     <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard" />
@@ -750,6 +765,9 @@
 
     <!-- Retrica -->
     <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
+
+    <!-- Revolution -->
+    <item component="ComponentInfo{io.mrarm.irc/io.mrarm.irc.MainActivity}" drawable="revolution" />
 
     <!-- Ring -->
     <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring" />

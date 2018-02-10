@@ -51,6 +51,7 @@
     <item drawable="cgeo" />
     <item drawable="chanu" />
     <item drawable="chefkoch" />
+    <item drawable="chip" />
     <item drawable="chrome" />
     <item drawable="clashroyale" />
     <item drawable="clock2" />
@@ -133,6 +134,7 @@
     <item drawable="imgur" />
     <item drawable="instagram" />
     <item drawable="k9mail" />
+    <item drawable="kaqui" />
     <item drawable="keepass2android" />
     <item drawable="keepassdroid" />
     <item drawable="keychain" />
@@ -146,11 +148,13 @@
     <item drawable="license" />
     <item drawable="lightning" />
     <item drawable="lineagerec" />
+    <item drawable="listen" />
     <item drawable="loop" />
     <item drawable="magisk" />
     <item drawable="mail" />
     <item drawable="map" />
     <item drawable="masterpassword" />
+    <item drawable="materialistic" />
     <item drawable="materialnotes" />
     <item drawable="matlog" />
     <item drawable="mediafire" />
@@ -170,6 +174,7 @@
     <item drawable="muzei" />
     <item drawable="mx" />
     <item drawable="mysplash" />
+    <item drawable="netflix" />
     <item drawable="netguard" />
     <item drawable="newpipe" />
     <item drawable="nfctasks" />
@@ -222,6 +227,7 @@
     <item drawable="redreader" />
     <item drawable="regex" />
     <item drawable="retrica" />
+    <item drawable="revolution" />
     <item drawable="ring" />
     <item drawable="riot" />
     <item drawable="runnerup" />
