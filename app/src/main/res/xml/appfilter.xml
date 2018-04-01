@@ -408,6 +408,8 @@
     <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="gkeyboard" />
     <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gkeyboard" />
 
+    <!-- Google Japanese Input -->
+    <item component="ComponentInfo{com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gkeyboardjp" />
 
     <!-- Google Maps -->
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="gmaps" />
@@ -480,6 +482,9 @@
 
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
+
+    <!-- KanaDrill -->
+    <item component="ComponentInfo{com.jorgecastillo.kanadrill/com.jorgecastillo.kanadrill.MainActivity}" drawable="kanadrill" />
 
     <!-- KaQui -->
     <item component="ComponentInfo{org.kaqui/org.kaqui.MainActivity}" drawable="kaqui" />
@@ -616,6 +621,9 @@
     <!-- Nfc Tools -->
     <item component="ComponentInfo{com.wakdev.wdnfc/com.wakdev.nfctools.free.MainActivityFree}" drawable="nfctools" />
 
+    <!-- NHBooks -->
+    <item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks" />
+
     <!-- Notification Notes -->
     <item component="ComponentInfo{com.khuttun.notificationnotes/com.khuttun.notificationnotes.MainActivity}" drawable="notificationnotes" />
 
@@ -731,6 +739,7 @@
     <!-- Privacy Browser -->
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.MainWebViewActivity}" drawable="privacybrowser" />
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.activities.MainWebViewActivity}" drawable="privacybrowser" />
+    <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.activities.MainWebViewActivity}" drawable="privacybrowser" />
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
