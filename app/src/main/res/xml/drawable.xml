@@ -135,6 +135,7 @@
     <item drawable="icsdroid" />
     <item drawable="imgur" />
     <item drawable="instagram" />
+    <item drawable="jelly" />
     <item drawable="k9mail" />
     <item drawable="kanadrill" />
     <item drawable="kaqui" />
@@ -151,6 +152,7 @@
     <item drawable="license" />
     <item drawable="lightning" />
     <item drawable="lineagerec" />
+    <item drawable="line" />
     <item drawable="listen" />
     <item drawable="loop" />
     <item drawable="magisk" />
@@ -291,6 +293,7 @@
     <item drawable="vanillamusic" />
     <item drawable="viber" />
     <item drawable="vine" />
+    <item drawable="vinyl" />
     <item drawable="viper" />
     <item drawable="vlc" />
     <item drawable="vsco" />
