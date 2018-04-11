@@ -528,6 +528,9 @@
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning" />
 
+    <!-- LINE -->
+    <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+
     <!-- LISTEN.moe -->
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activities.MainActivity}" drawable="listen" />
 
