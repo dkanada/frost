@@ -1063,6 +1063,25 @@
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
 
+	<!-- CuprumPDF -->
+	<item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf"/>
+	<!-- DiskUsage -->
+	<item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
+	<!-- Napster -->
+	<item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster"/>
+	<!-- Nextcloud -->
+	<item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud"/>
+	<!-- Nextcloud SMS -->
+	<item component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}" drawable="owncloud_sms"/>
+	<!-- Notizen -->
+	<item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashscreenActivity}" drawable="owncloud_notes"/>
+	<!-- SecScanQR -->
+	<item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}" drawable="qr"/>
+	<!-- Tasker -->
+	<item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="tasker"/>
+	<!-- Titanium Backup -->
+	<item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="tibackup"/>
+	
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
