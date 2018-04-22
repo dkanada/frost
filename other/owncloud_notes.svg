@@ -14,7 +14,7 @@
    viewBox="0 0 50.800002 50.800001"
    version="1.1"
    id="svg62"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="owncloud_notes.svg">
   <defs
      id="defs56" />
@@ -25,18 +25,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-145.90019"
-     inkscape:cy="91.456032"
+     inkscape:zoom="1.979899"
+     inkscape:cx="155.95797"
+     inkscape:cy="73.574743"
      inkscape:document-units="mm"
      inkscape:current-layer="g75"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-width="1840"
+     inkscape:window-height="970"
+     inkscape:window-x="40"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true" />
   <metadata
      id="metadata59">
     <rdf:RDF>
@@ -45,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,9 +70,9 @@
     <g
        id="g75">
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.34573278"
-         d="M 13.437435,45.394339 C 8.335929,45.198127 7.2650464,44.797961 6.0484264,42.633281 5.359731,41.40791 5.3348186,40.843325 5.2995297,25.66124 5.2613085,9.2184341 5.3046259,8.6830928 6.8051095,7.0715805 8.4813969,5.2712067 8.2955322,5.2893274 25.077926,5.2893274 H 40.728685 L 38.671543,7.3681572 36.61441,9.4469869 40.323825,13.1564 c 3.342794,3.342785 3.776545,3.667488 4.388594,3.285257 0.669409,-0.418052 0.680601,-0.254034 0.778673,11.411968 0.05469,6.509869 -0.02509,12.458435 -0.177484,13.219046 -0.310366,1.549555 -0.931607,2.413579 -2.565199,3.567672 -1.100985,0.777821 -1.246882,0.787454 -12.964984,0.856762 -6.518304,0.03852 -13.874,-0.0078 -16.34599,-0.102766 z m 10.207798,-11.256712 5.713271,-2.236831 6.036847,-6.044246 6.036839,-6.044247 -3.79356,-3.805348 -3.793549,-3.805359 -6.093246,6.086192 -6.093244,6.086182 -2.010152,5.064893 c -1.105583,2.785686 -2.227109,5.591306 -2.492279,6.234696 -0.449722,1.091175 -0.439852,1.154044 0.146837,0.93535 0.345931,-0.128942 3.199937,-1.241021 6.342236,-2.471282 z"
-         id="path77"
+         style="fill:#ffffff;stroke-width:1.05833328"
+         d="m 7.4083334,5.2916669 c -1.1726333,0 -2.1166666,0.9440333 -2.1166666,2.1166667 V 43.391666 c 0,1.172634 0.9440333,2.116667 2.1166666,2.116667 H 43.391666 c 1.172633,0 2.116667,-0.944033 2.116667,-2.116667 V 16.524573 l -1.629357,1.629358 -7.41712,-7.416602 5.44618,-5.4456621 z m 26.9823326,7.5168541 7.416601,7.417118 -12.828675,12.828675 -11.156424,3.739822 3.739306,-11.156424 z"
+         id="rect884"
          inkscape:connector-curvature="0" />
     </g>
   </g>
