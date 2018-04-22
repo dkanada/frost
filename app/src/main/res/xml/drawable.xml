@@ -61,11 +61,13 @@
     <item drawable="contacts" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
+    <item drawable="cuprumpdf" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
+    <item drawable="diskusage" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
     <item drawable="downloads" />
@@ -179,9 +181,11 @@
     <item drawable="muzei" />
     <item drawable="mx" />
     <item drawable="mysplash" />
+    <item drawable="napster" />
     <item drawable="netflix" />
     <item drawable="netguard" />
     <item drawable="newpipe" />
+    <item drawable="nextcloud" />
     <item drawable="nfctasks" />
     <item drawable="nfctools" />
     <item drawable="nhbooks" />
@@ -207,7 +211,9 @@
     <item drawable="osmand" />
     <item drawable="outlook" />
     <item drawable="overchan" />
+    <item drawable="owncloud_notes" />
     <item drawable="owncloudnotes" />
+    <item drawable="owncloud_sms" />
     <item drawable="owncloud" />
     <item drawable="pairz" />
     <item drawable="password" />
@@ -223,6 +229,7 @@
     <item drawable="protonmail" />
     <item drawable="qksms" />
     <item drawable="qrforkeepass" />
+    <item drawable="qr" />
     <item drawable="quizlet" />
     <item drawable="radiodroid" />
     <item drawable="radio" />
@@ -268,6 +275,7 @@
     <item drawable="systemappmover" />
     <item drawable="tachiyomi" />
     <item drawable="tapnturn" />
+    <item drawable="tasker" />
     <item drawable="tasks" />
     <item drawable="telegram" />
     <item drawable="terminal" />
@@ -275,6 +283,7 @@
     <item drawable="themes" />
     <item drawable="theswitch" />
     <item drawable="threema" />
+    <item drawable="tibackup" />
     <item drawable="tidal" />
     <item drawable="timber" />
     <item drawable="tinc" />

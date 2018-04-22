@@ -61,11 +61,13 @@
         <item>contacts</item>
         <item>conversations</item>
         <item>cpuz</item>
+        <item>cuprumpdf</item>
         <item>daserste</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
         <item>diaspora</item>
         <item>dicer</item>
+        <item>diskusage</item>
         <item>dnsman</item>
         <item>doodle</item>
         <item>downloads</item>
@@ -179,9 +181,11 @@
         <item>muzei</item>
         <item>mx</item>
         <item>mysplash</item>
+        <item>napster</item>
         <item>netflix</item>
         <item>netguard</item>
         <item>newpipe</item>
+        <item>nextcloud</item>
         <item>nfctasks</item>
         <item>nfctools</item>
         <item>nhbooks</item>
@@ -207,7 +211,9 @@
         <item>osmand</item>
         <item>outlook</item>
         <item>overchan</item>
+        <item>owncloud_notes</item>
         <item>owncloudnotes</item>
+        <item>owncloud_sms</item>
         <item>owncloud</item>
         <item>pairz</item>
         <item>password</item>
@@ -223,6 +229,7 @@
         <item>protonmail</item>
         <item>qksms</item>
         <item>qrforkeepass</item>
+        <item>qr</item>
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
@@ -268,6 +275,7 @@
         <item>systemappmover</item>
         <item>tachiyomi</item>
         <item>tapnturn</item>
+        <item>tasker</item>
         <item>tasks</item>
         <item>telegram</item>
         <item>terminal</item>
@@ -275,6 +283,7 @@
         <item>themes</item>
         <item>theswitch</item>
         <item>threema</item>
+        <item>tibackup</item>
         <item>tidal</item>
         <item>timber</item>
         <item>tinc</item>
