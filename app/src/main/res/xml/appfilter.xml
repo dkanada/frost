@@ -593,6 +593,7 @@
     <!-- MuPDF Viewer -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
     <item component="ComponentInfo{de.baumann.pdfview/file_manager.Activity_files}" drawable="mupdf" />
+    <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf" />
 
     <!-- Music -->
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
@@ -1087,9 +1088,27 @@
 	<!-- Tasker -->
 	<item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="tasker"/>
 
-	<!-- Titanium Backup -->
-	<item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="tibackup"/>
-	
+	<!-- HelloTalk -->
+	<item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
+
+	<!-- Calendar -->
+	<item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+
+	<!-- Camera -->
+	<item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
+
+	<!-- Clock -->
+	<item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
+
+	<!-- Contacts -->
+	<item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts"/>
+
+	<!-- Messages -->
+	<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
+
+	<!-- Phone -->
+	<item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
