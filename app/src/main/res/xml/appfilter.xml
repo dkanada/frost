@@ -755,6 +755,7 @@
 
     <!-- QKSMS -->
     <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.ui.MainActivity-Default}" drawable="qksms" />
+    <item component="ComponentInfo{com.moez.QKSMS/feature.main.MainActivity}" drawable="qksms" />
 
     <!-- QR Plugin for Keepass2android -->
     <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
