@@ -1111,6 +1111,9 @@
 	<!-- Phone -->
 	<item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
 
+	<!-- Swish Payments -->
+	<item component="ComponentInfo{se.bankgirot.swish/se.bankgirot.swish.ui.SplashActivity}" drawable="swish"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
