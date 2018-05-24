@@ -1150,6 +1150,12 @@
 	<!-- Simple Notes -->
 	<item component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity}" drawable="simplenotes"/>
 
+	<!-- Simple Launcher -->
+	<item component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity}" drawable="simplelauncher"/>
+
+	<!-- Simple Clock -->
+	<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity}" drawable="simpleclock"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
