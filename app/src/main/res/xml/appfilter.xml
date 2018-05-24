@@ -1120,6 +1120,36 @@
 	<!-- KDE Connect -->
 	<item component="ComponentInfo{org.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect"/>
 
+	<!-- Simple Calculator -->
+	<item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity}" drawable="simplecalculator"/>
+
+	<!-- Simple Calendar -->
+	<item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="simplecalendar"/>
+
+	<!-- Simple Camera -->
+	<item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity}" drawable="simplecamera"/>
+
+	<!-- Simple Contacts -->
+	<item component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity}" drawable="simplecontacts"/>
+
+	<!-- Simple Draw -->
+	<item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity}" drawable="simpledraw"/>
+
+	<!-- Simple File Manager -->
+	<item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity}" drawable="simplefilemanager"/>
+
+	<!-- Simple Flashlight -->
+	<item component="ComponentInfo{com.simplemobiletools.flashlight/com.simplemobiletools.flashlight.activities.SplashActivity}" drawable="simpleflashlight"/>
+
+	<!-- Simple Gallery -->
+	<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity}" drawable="simplegallery"/>
+
+	<!-- Simple Music Player -->
+	<item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity}" drawable="simplemusicplayer"/>
+
+	<!-- Simple Notes -->
+	<item component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity}" drawable="simplenotes"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
