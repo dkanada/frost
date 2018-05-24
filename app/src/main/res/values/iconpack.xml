@@ -142,6 +142,7 @@
         <item>k9mail</item>
         <item>kanadrill</item>
         <item>kaqui</item>
+        <item>kdeconnect</item>
         <item>keepass2android</item>
         <item>keepassdroid</item>
         <item>keychain</item>
@@ -255,6 +256,18 @@
         <item>sieben</item>
         <item>signal</item>
         <item>simexplorer</item>
+        <item>simpleapplauncher</item>
+        <item>simplecalculator</item>
+        <item>simplecalendar</item>
+        <item>simplecamera</item>
+        <item>simpleclock</item>
+        <item>simplecontacts</item>
+        <item>simpledraw</item>
+        <item>simplefilemanager</item>
+        <item>simpleflashlight</item>
+        <item>simplegallery</item>
+        <item>simplemusicplayer</item>
+        <item>simplenotes</item>
         <item>simpleweather</item>
         <item>sim</item>
         <item>skype</item>
@@ -272,6 +285,7 @@
         <item>streetcomplete</item>
         <item>su</item>
         <item>swiftkey</item>
+        <item>swish</item>
         <item>syncthing</item>
         <item>systemappmover</item>
         <item>tachiyomi</item>

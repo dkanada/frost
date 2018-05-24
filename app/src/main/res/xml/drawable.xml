@@ -142,6 +142,7 @@
     <item drawable="k9mail" />
     <item drawable="kanadrill" />
     <item drawable="kaqui" />
+    <item drawable="kdeconnect" />
     <item drawable="keepass2android" />
     <item drawable="keepassdroid" />
     <item drawable="keychain" />
@@ -255,6 +256,18 @@
     <item drawable="sieben" />
     <item drawable="signal" />
     <item drawable="simexplorer" />
+    <item drawable="simpleapplauncher" />
+    <item drawable="simplecalculator" />
+    <item drawable="simplecalendar" />
+    <item drawable="simplecamera" />
+    <item drawable="simpleclock" />
+    <item drawable="simplecontacts" />
+    <item drawable="simpledraw" />
+    <item drawable="simplefilemanager" />
+    <item drawable="simpleflashlight" />
+    <item drawable="simplegallery" />
+    <item drawable="simplemusicplayer" />
+    <item drawable="simplenotes" />
     <item drawable="simpleweather" />
     <item drawable="sim" />
     <item drawable="skype" />
@@ -272,6 +285,7 @@
     <item drawable="streetcomplete" />
     <item drawable="su" />
     <item drawable="swiftkey" />
+    <item drawable="swish" />
     <item drawable="syncthing" />
     <item drawable="systemappmover" />
     <item drawable="tachiyomi" />
