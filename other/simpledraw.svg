@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="simpledraw.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/tim/frost/other/simplefdraw.svg.png"
+   inkscape:export-xdpi="1024"
+   inkscape:export-ydpi="1024">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
+     id="namedview6"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="45.254834"
+     inkscape:cx="19.800924"
+     inkscape:cy="17.448399"
+     inkscape:window-x="1920"
+     inkscape:window-y="43"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:measure-start="21,16"
+     inkscape:measure-end="21.3333,15.6667"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid817"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 24,2 C 11.849736,2 2,11.849736 2,24 2,36.150264 11.849736,46 24,46 36.150264,46 46,36.150264 46,24 46,11.849736 36.150264,2 24,2 Z m 5,11 c 0.5,-0.5 1,0 1,0 l 2.5,2.5 2,2 c 0,0 0.5,0.5 0,1 l -2,2 L 27,15 Z m -3,3 5.5,5.5 -1,1 L 25,17 Z M 24.5,17.5 26,19 16,29 H 15 L 14.15625,32.65625 15,33.5 l 4.5,-1 10,-10 0.75,0.75 -10,10 L 16.875,34 H 35 v 1 H 13 v -1 l 1.5,-6.5 z m 2,2 2,2 -10,10 -0.0078,-0.0078 c -0.253133,0.21157 -0.572438,0.327681 -0.902344,0.328124 -0.778843,8.6e-5 -1.410242,-0.631313 -1.410156,-1.410156 4.43e-4,-0.329906 0.116554,-0.649211 0.328124,-0.902344 l 0.0039,-0.0059 c 0.05498,-0.06527 0.11578,-0.125412 0.18164,-0.179687 z"
+     id="circle2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssscccccccccccccccccccccccccccccccccccccccc" />
+</svg>
