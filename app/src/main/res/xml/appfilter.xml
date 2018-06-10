@@ -533,6 +533,7 @@
 
     <!-- LISTEN.moe -->
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activities.MainActivity}" drawable="listen" />
+    <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activity.MainActivity}" drawable="listen" />
 
     <!-- Loop Habit Tracker -->
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
