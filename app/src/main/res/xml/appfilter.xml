@@ -1157,6 +1157,9 @@
 	<!-- Simple Clock -->
 	<item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity}" drawable="simpleclock"/>
 
+	<!-- Tinder -->
+	<item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
