@@ -11,8 +11,8 @@ import android.widget.ScrollView;
 
 import java.util.ArrayList;
 
-import com.dkanada.icecons.utils.IceImageUtils;
-import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.utils.ImageUtils;
+import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
 public class IconActivity extends AppCompatActivity {
@@ -22,7 +22,7 @@ public class IconActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if (IceScreenUtils.isPortrait(getApplicationContext())) {
+        if (ScreenUtils.isPortrait(getApplicationContext())) {
             createLayout(7);
         } else {
             createLayout(12);
@@ -30,7 +30,7 @@ public class IconActivity extends AppCompatActivity {
     }
 
     private void createLayout(int width) {
-        float scale = IceScreenUtils.densityScale(getApplicationContext());
+        float scale = ScreenUtils.densityScale(getApplicationContext());
         int margin = 16 * Math.round(scale);
 
         LinearLayout.LayoutParams baseParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
@@ -69,7 +69,7 @@ public class IconActivity extends AppCompatActivity {
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
             imageList.get(i).setPadding(0, 0, margin, margin);
-            IceImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), "nodpi_" + images[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), "nodpi_" + images[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
             layoutList.get(i / width).addView(imageList.get(i));
         }

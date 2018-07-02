@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
 public class LicenseActivity extends AppCompatActivity {
@@ -23,7 +23,7 @@ public class LicenseActivity extends AppCompatActivity {
 
     private void createLayout() {
         LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
-        float scale = IceScreenUtils.densityScale(getApplicationContext());
+        float scale = ScreenUtils.densityScale(getApplicationContext());
         int padding = Math.round(64 * scale);
 
         LinearLayout frameLayout = new LinearLayout(this);

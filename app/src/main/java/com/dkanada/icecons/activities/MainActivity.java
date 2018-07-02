@@ -13,8 +13,8 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.dkanada.icecons.utils.IceImageUtils;
-import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.utils.ImageUtils;
+import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
 public class MainActivity extends AppCompatActivity {
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void createLayout() {
         LinearLayout.LayoutParams smallLayoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
-        float scale = IceScreenUtils.densityScale(getApplicationContext());
+        float scale = ScreenUtils.densityScale(getApplicationContext());
         ViewGroup.LayoutParams buttonParams = new ViewGroup.LayoutParams(Math.round(48 * scale), Math.round(48 * scale));
 
         LinearLayout frameLayout = new LinearLayout(this);
@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button iconButton = new Button(this);
         iconButton.setLayoutParams(buttonParams);
-        iconButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round(48 * scale), Math.round(48 * scale))));
+        iconButton.setBackground(new BitmapDrawable(getResources(), ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_icon_button, Math.round(48 * scale), Math.round(48 * scale))));
         iconButton.setClickable(false);
         iconClickLayout.addView(iconButton);
 
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button wallpaperButton = new Button(this);
         wallpaperButton.setLayoutParams(buttonParams);
-        wallpaperButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_wallpaper_button, Math.round(48 * scale), Math.round(48 * scale))));
+        wallpaperButton.setBackground(new BitmapDrawable(getResources(), ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_wallpaper_button, Math.round(48 * scale), Math.round(48 * scale))));
         wallpaperButton.setClickable(false);
         wallpaperClickLayout.addView(wallpaperButton);
 
@@ -127,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button sourceButton = new Button(this);
         sourceButton.setLayoutParams(buttonParams);
-        sourceButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_source_button, Math.round(48 * scale), Math.round(48 * scale))));
+        sourceButton.setBackground(new BitmapDrawable(getResources(), ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_source_button, Math.round(48 * scale), Math.round(48 * scale))));
         sourceButton.setClickable(false);
         sourceClickLayout.addView(sourceButton);
 
@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button aboutButton = new Button(this);
         aboutButton.setLayoutParams(buttonParams);
-        aboutButton.setBackground(new BitmapDrawable(getResources(), IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_license_button, Math.round(48 * scale), Math.round(48 * scale))));
+        aboutButton.setBackground(new BitmapDrawable(getResources(), ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_license_button, Math.round(48 * scale), Math.round(48 * scale))));
         aboutButton.setClickable(false);
         aboutClickLayout.addView(aboutButton);
 

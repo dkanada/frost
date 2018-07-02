@@ -8,7 +8,7 @@ import android.widget.ImageView;
 
 import com.dkanada.icecons.async.BitmapWorkerTask;
 
-public class IceImageUtils {
+public class ImageUtils {
 
     public static void bitmapLoadAsync(ImageView imageView, Context context, Resources resources, String image, int width, int height) {
         BitmapWorkerTask task = new BitmapWorkerTask(imageView);

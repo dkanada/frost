@@ -7,7 +7,7 @@ import android.os.AsyncTask;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.dkanada.icecons.utils.IceImageUtils;
+import com.dkanada.icecons.utils.ImageUtils;
 
 public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
 
@@ -26,7 +26,7 @@ public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
     @Override
     protected Bitmap doInBackground(Integer... parameters) {
         int id = resources.getIdentifier(image, "drawable", context.getPackageName());
-        return IceImageUtils.bitmapLoad(resources, id, width, height);
+        return ImageUtils.bitmapLoad(resources, id, width, height);
     }
 
     // check if image view still exists and set bitmap

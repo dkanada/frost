@@ -12,8 +12,8 @@ import android.widget.ScrollView;
 
 import java.util.ArrayList;
 
-import com.dkanada.icecons.utils.IceImageUtils;
-import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.utils.ImageUtils;
+import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
 public class WallpaperActivity extends AppCompatActivity {
@@ -23,7 +23,7 @@ public class WallpaperActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if (IceScreenUtils.isPortrait(getApplicationContext())) {
+        if (ScreenUtils.isPortrait(getApplicationContext())) {
             createLayout(2);
         } else {
             createLayout(3);
@@ -31,7 +31,7 @@ public class WallpaperActivity extends AppCompatActivity {
     }
 
     private void createLayout(int width) {
-        float scale = IceScreenUtils.densityScale(getApplicationContext());
+        float scale = ScreenUtils.densityScale(getApplicationContext());
         int margin = 16 * Math.round(scale);
 
         LinearLayout.LayoutParams baseParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
@@ -70,7 +70,7 @@ public class WallpaperActivity extends AppCompatActivity {
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
             imageList.get(i).setPadding(0, 0, margin, margin);
-            IceImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), wallpapers[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), wallpapers[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
 
             final Integer tempId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());

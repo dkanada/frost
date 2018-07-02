@@ -14,8 +14,8 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
-import com.dkanada.icecons.utils.IceImageUtils;
-import com.dkanada.icecons.utils.IceScreenUtils;
+import com.dkanada.icecons.utils.ImageUtils;
+import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
 public class WallpaperSetActivity extends AppCompatActivity {
@@ -32,10 +32,10 @@ public class WallpaperSetActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         final Intent intent = getIntent();
         imageId = intent.getIntExtra("image", 0);
-        screenWidth = IceScreenUtils.width(getApplicationContext());
-        screenHeight = IceScreenUtils.height(getApplicationContext());
-        Wallpaper = IceImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
-        scale = IceScreenUtils.densityScale(getApplicationContext());
+        screenWidth = ScreenUtils.width(getApplicationContext());
+        screenHeight = ScreenUtils.height(getApplicationContext());
+        Wallpaper = ImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
+        scale = ScreenUtils.densityScale(getApplicationContext());
 
         createLayout();
     }
@@ -63,7 +63,7 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
         ImageView backButton = new ImageView(this);
         backButton.setLayoutParams(new LinearLayout.LayoutParams(0, Math.round(72 * scale), 1));
-        backButton.setImageBitmap(IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_close, Math.round(72 * scale), Math.round(72 * scale)));
+        backButton.setImageBitmap(ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_close, Math.round(72 * scale), Math.round(72 * scale)));
         buttonBar.addView(backButton);
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -74,7 +74,7 @@ public class WallpaperSetActivity extends AppCompatActivity {
 
         ImageView applyButton = new ImageView(this);
         applyButton.setLayoutParams(new LinearLayout.LayoutParams(0, Math.round(72 * scale), 1));
-        applyButton.setImageBitmap(IceImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_apply, Math.round(72 * scale), Math.round(72 * scale)));
+        applyButton.setImageBitmap(ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_apply, Math.round(72 * scale), Math.round(72 * scale)));
         buttonBar.addView(applyButton);
         applyButton.setOnClickListener(new View.OnClickListener() {
             @Override
