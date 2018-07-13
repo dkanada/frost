@@ -542,6 +542,9 @@
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
     <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leafpic" />
 
+    <!-- Mapillary -->
+    <item component="ComponentInfo{app.mapillary/app.mapillary.android.activity.TabbedMainActivity}" drawable="mapillary" />
+
     <!-- Magisk Manager -->
     <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk" />
 
