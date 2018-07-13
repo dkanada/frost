@@ -967,6 +967,9 @@
     <!-- Turtl -->
     <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl" />
 
+    <!-- Tusky -->
+    <item component="ComponentInfo{com.keylesspalace.tusky/ccom.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
+
     <!-- Twidere -->
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
 
