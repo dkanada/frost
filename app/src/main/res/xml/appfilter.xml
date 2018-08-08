@@ -886,6 +886,9 @@
     <!-- Street­Complete -->
     <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete" />
 
+    <!-- Stumbler -->
+    <item component="org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity" drawable="stumbler" />
+
     <!-- Subsonic -->
     <item component="ComponentInfo{net.sourceforge.subsonic.androidapp/net.sourceforge.subsonic.androidapp.activity.MainActivity}" drawable="dsub" />
 
