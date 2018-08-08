@@ -907,6 +907,9 @@
 
     <!-- Supersu -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="su" />
+    
+    <!-- Swedbank -->
+    <item component="se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity" drawable="swedbank" />
 
     <!-- SwiftKey -->
     <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}" drawable="swiftkey" />
