@@ -179,6 +179,9 @@
     <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
     <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
 
+    <!-- Commons -->
+    <item component="fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity" drawable="commons" />
+
     <!-- Community Peers License -->
     <item component="ComponentInfo{community.peers.license/community.peers.license.activity.MainActivity}" drawable="license" />
 
