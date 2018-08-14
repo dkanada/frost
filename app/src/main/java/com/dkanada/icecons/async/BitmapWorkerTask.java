@@ -12,9 +12,8 @@ import com.dkanada.icecons.utils.ImageUtils;
 public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
 
     private ImageView imageView;
-    public Context context;
     public Resources resources;
-    public String image;
+    public int resId;
     public int width;
     public int height;
 
@@ -25,8 +24,7 @@ public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
     // decode image in background
     @Override
     protected Bitmap doInBackground(Integer... parameters) {
-        int id = resources.getIdentifier(image, "drawable", context.getPackageName());
-        return ImageUtils.bitmapLoad(resources, id, width, height);
+        return ImageUtils.bitmapLoad(resources, resId, width, height);
     }
 
     // check if image view still exists and set bitmap

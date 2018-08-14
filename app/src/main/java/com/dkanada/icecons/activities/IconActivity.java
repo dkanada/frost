@@ -69,8 +69,11 @@ public class IconActivity extends AppCompatActivity {
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
             imageList.get(i).setPadding(0, 0, margin, margin);
-            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), "nodpi_" + images[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
+
+            final int resId = getResources().getIdentifier("nodpi_" + images[i], "drawable", getPackageName());
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+
             layoutList.get(i / width).addView(imageList.get(i));
         }
     }

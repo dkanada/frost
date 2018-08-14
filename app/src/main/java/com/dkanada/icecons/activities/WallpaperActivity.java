@@ -70,18 +70,18 @@ public class WallpaperActivity extends AppCompatActivity {
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
             imageList.get(i).setPadding(0, 0, margin, margin);
-            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext(), getApplicationContext().getResources(), wallpapers[i], (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
             imageList.get(i).setAdjustViewBounds(true);
 
-            final Integer tempId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());
+            final int resId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+
+            layoutList.get(i / width).addView(imageList.get(i));
             imageList.get(i).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    wallpaperView(tempId);
+                    wallpaperView(resId);
                 }
             });
-
-            layoutList.get(i / width).addView(imageList.get(i));
         }
     }
 

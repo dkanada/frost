@@ -10,12 +10,11 @@ import com.dkanada.icecons.async.BitmapWorkerTask;
 
 public class ImageUtils {
 
-    public static void bitmapLoadAsync(ImageView imageView, Context context, Resources resources, String image, int width, int height) {
+    public static void bitmapLoadAsync(ImageView imageView, Resources resources, int resId, int width, int height) {
         BitmapWorkerTask task = new BitmapWorkerTask(imageView);
 
-        task.context = context;
         task.resources = resources;
-        task.image = image;
+        task.resId = resId;
         task.width = width;
         task.height = height;
 
