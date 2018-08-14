@@ -1,19 +1,18 @@
 package com.dkanada.icecons.utils;
 
-import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.dkanada.icecons.async.BitmapWorkerTask;
+import com.dkanada.icecons.async.BitmapLoadTask;
 import com.dkanada.icecons.interfaces.BitmapListener;
 
 public class ImageUtils {
 
     public static void bitmapLoadAsync(final ImageView imageView, final Resources resources, int resId, int width, int height) {
-        BitmapWorkerTask task = new BitmapWorkerTask(resources, resId, width, height, new BitmapListener() {
+        BitmapLoadTask task = new BitmapLoadTask(resources, resId, width, height, new BitmapListener() {
             @Override
             public void onBitmap(Bitmap bitmap) {
                 imageView.setImageBitmap(bitmap);
