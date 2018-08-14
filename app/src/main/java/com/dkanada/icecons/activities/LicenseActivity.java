@@ -58,9 +58,9 @@ public class LicenseActivity extends AppCompatActivity {
         });
 
         TextView sourceText = new TextView(this);
-        sourceText.setText("This program's source code is avaiable under the GNU General Public License v3.");
+        sourceText.setText("This program's source code is available under the GNU General Public License v3.");
         sourceText.setTextSize(24);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        sourceText.setTextColor(getResources().getColor(R.color.colorTextLight));
         sourceText.setPadding(padding, padding, padding, padding);
         sourceClickLayout.addView(sourceText);
 
@@ -69,7 +69,7 @@ public class LicenseActivity extends AppCompatActivity {
         imgLayout.setOrientation(LinearLayout.HORIZONTAL);
         imgLayout.setLayoutParams(smallLayoutParams);
         imgLayout.setGravity(Gravity.CENTER);
-        imgLayout.setBackgroundColor(0xff000000);
+        imgLayout.setBackgroundColor(getResources().getColor(R.color.colorAccent));
         baseLayout.addView(imgLayout);
 
         LinearLayout imgClickLayout = new LinearLayout(this);
@@ -84,12 +84,12 @@ public class LicenseActivity extends AppCompatActivity {
             }
         });
 
-        TextView aboutText = new TextView(this);
-        aboutText.setText("All the images included in this program are avaiable under the Creative Commons Attribution Share Alike 4.0 license.");
-        aboutText.setTextSize(24);
-        aboutText.setTextColor(0xffffffff);
-        aboutText.setPadding(padding, padding, padding, padding);
-        imgClickLayout.addView(aboutText);
+        TextView imgText = new TextView(this);
+        imgText.setText("All the images included in this program are available under the Creative Commons Attribution Share Alike 4.0 license.");
+        imgText.setTextSize(24);
+        imgText.setTextColor(getResources().getColor(R.color.colorTextDark));
+        imgText.setPadding(padding, padding, padding, padding);
+        imgClickLayout.addView(imgText);
     }
 
     public void gplLink(View v) {

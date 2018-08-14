@@ -40,7 +40,7 @@ public class IconActivity extends AppCompatActivity {
 
         ScrollView baseScroller = new ScrollView(this);
         baseScroller.setLayoutParams(baseParams);
-        baseScroller.setBackgroundColor(0xff000000);
+        baseScroller.setBackgroundColor(getResources().getColor(R.color.colorAccent));
         setContentView(baseScroller);
         baseScroller.setVisibility(View.VISIBLE);
 
