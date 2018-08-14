@@ -71,7 +71,7 @@ public class IconActivity extends AppCompatActivity {
             imageList.get(i).setPadding(0, 0, margin, margin);
             imageList.get(i).setAdjustViewBounds(true);
 
-            final int resId = getResources().getIdentifier("nodpi_" + images[i], "drawable", getPackageName());
+            final int resId = getResources().getIdentifier(images[i], "drawable", getPackageName());
             ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
 
             layoutList.get(i / width).addView(imageList.get(i));

@@ -28,12 +28,12 @@ public class ImageUtils {
         task.execute();
     }
 
-    public static Bitmap bitmapLoad(Resources res, int resId, int width, int height) {
+    public static Bitmap bitmapLoad(Resources resources, int resId, int width, int height) {
         BitmapFactory.Options resOptions = new BitmapFactory.Options();
         resOptions.inJustDecodeBounds = true;
 
         // load appropriately sampled bitmap from given resource
-        BitmapFactory.decodeResource(res, resId, resOptions);
+        BitmapFactory.decodeResource(resources, resId, resOptions);
 
         int resHeight = resOptions.outHeight;
         int resWidth = resOptions.outWidth;
@@ -55,7 +55,7 @@ public class ImageUtils {
         resHeight /= resOptions.inSampleSize;
         resOptions.inJustDecodeBounds = false;
 
-        Bitmap rawBitmap = BitmapFactory.decodeResource(res, resId, resOptions);
+        Bitmap rawBitmap = BitmapFactory.decodeResource(resources, resId, resOptions);
 
         // compare aspect ratio and crop
         rawBitmap = bitmapCrop(rawBitmap, width, height, resWidth, resHeight);
@@ -93,6 +93,11 @@ public class ImageUtils {
             cropHeight = Math.round(resHeight);
             cropY = 0;
         }
+
+        // check bounds for crop size
+        cropWidth = Math.min(rawBitmap.getWidth(), cropWidth);
+        cropHeight = Math.min(rawBitmap.getHeight(), cropHeight);
+
         return Bitmap.createBitmap(rawBitmap, cropX, cropY, cropWidth, cropHeight);
     }
 }
