@@ -27,11 +27,13 @@
     <item drawable="audinaut" />
     <item drawable="audiofx" />
     <item drawable="bandcamp" />
+    <item drawable="bankid" />
     <item drawable="barcode" />
     <item drawable="battery" />
     <item drawable="bible" />
     <item drawable="birthdayadapter" />
     <item drawable="bitcoin" />
+    <item drawable="bitwarden" />
     <item drawable="blablacar" />
     <item drawable="blogger" />
     <item drawable="blueminimal" />
@@ -58,6 +60,7 @@
     <item drawable="clock2" />
     <item drawable="clock" />
     <item drawable="clover" />
+    <item drawable="commons" />
     <item drawable="contacts" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
@@ -153,6 +156,7 @@
     <item drawable="komoot" />
     <item drawable="kore" />
     <item drawable="leafpic" />
+    <item drawable="libretorrent" />
     <item drawable="license" />
     <item drawable="lightning" />
     <item drawable="lineagerec" />
@@ -161,6 +165,7 @@
     <item drawable="loop" />
     <item drawable="magisk" />
     <item drawable="mail" />
+    <item drawable="mapillary" />
     <item drawable="map" />
     <item drawable="masterpassword" />
     <item drawable="materialistic" />
@@ -283,7 +288,9 @@
     <item drawable="spotify" />
     <item drawable="steam" />
     <item drawable="streetcomplete" />
+    <item drawable="stumbler" />
     <item drawable="su" />
+    <item drawable="swedbank" />
     <item drawable="swiftkey" />
     <item drawable="swish" />
     <item drawable="syncthing" />
@@ -311,6 +318,7 @@
     <item drawable="trenord" />
     <item drawable="tumblr" />
     <item drawable="turtl" />
+    <item drawable="tusky" />
     <item drawable="twidere" />
     <item drawable="twitter" />
     <item drawable="unifiednlp" />

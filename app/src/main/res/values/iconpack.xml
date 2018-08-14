@@ -27,11 +27,13 @@
         <item>audinaut</item>
         <item>audiofx</item>
         <item>bandcamp</item>
+        <item>bankid</item>
         <item>barcode</item>
         <item>battery</item>
         <item>bible</item>
         <item>birthdayadapter</item>
         <item>bitcoin</item>
+        <item>bitwarden</item>
         <item>blablacar</item>
         <item>blogger</item>
         <item>blueminimal</item>
@@ -58,6 +60,7 @@
         <item>clock2</item>
         <item>clock</item>
         <item>clover</item>
+        <item>commons</item>
         <item>contacts</item>
         <item>conversations</item>
         <item>cpuz</item>
@@ -153,6 +156,7 @@
         <item>komoot</item>
         <item>kore</item>
         <item>leafpic</item>
+        <item>libretorrent</item>
         <item>license</item>
         <item>lightning</item>
         <item>lineagerec</item>
@@ -161,6 +165,7 @@
         <item>loop</item>
         <item>magisk</item>
         <item>mail</item>
+        <item>mapillary</item>
         <item>map</item>
         <item>masterpassword</item>
         <item>materialistic</item>
@@ -283,7 +288,9 @@
         <item>spotify</item>
         <item>steam</item>
         <item>streetcomplete</item>
+        <item>stumbler</item>
         <item>su</item>
+        <item>swedbank</item>
         <item>swiftkey</item>
         <item>swish</item>
         <item>syncthing</item>
@@ -311,6 +318,7 @@
         <item>trenord</item>
         <item>tumblr</item>
         <item>turtl</item>
+        <item>tusky</item>
         <item>twidere</item>
         <item>twitter</item>
         <item>unifiednlp</item>
