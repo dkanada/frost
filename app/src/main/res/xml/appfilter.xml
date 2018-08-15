@@ -380,6 +380,9 @@
     <!-- FreeOTP -->
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
 
+    <!-- Frost -->
+    <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
+
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="gadgetbridge" />
