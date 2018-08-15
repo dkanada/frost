@@ -1,3 +1,18 @@
+### 1.4
+###### Released: August 15, 2018
+* shrink app size by removing some assets
+* add a small amount of styling
+* backend changes for better performance
+* bump version for new icons
+
+### 1.3.6
+###### Released: June 30, 2018
+* bump version for new icons
+
+### 1.3.5
+###### Released: April 22, 2018
+* bump version for new icons
+
 ### 1.3.4
 ###### Released: January 24, 2018
 * bump version for new icons
