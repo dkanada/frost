@@ -18,7 +18,7 @@ import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
-public class WallpaperSetActivity extends AppCompatActivity {
+public class WallpaperSetActivity extends BaseActivity {
 
     private int imageId;
     private int screenWidth;

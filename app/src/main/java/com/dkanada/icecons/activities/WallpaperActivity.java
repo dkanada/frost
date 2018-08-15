@@ -16,7 +16,7 @@ import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
-public class WallpaperActivity extends AppCompatActivity {
+public class WallpaperActivity extends BaseActivity {
     private ArrayList<LinearLayout> layoutList = new ArrayList<>();
     private ArrayList<ImageView> imageList = new ArrayList<>();
 

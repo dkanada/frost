@@ -13,7 +13,7 @@ import android.widget.TextView;
 import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
 
-public class LicenseActivity extends AppCompatActivity {
+public class LicenseActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
