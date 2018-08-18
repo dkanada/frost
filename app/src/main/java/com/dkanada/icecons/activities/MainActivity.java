@@ -32,7 +32,7 @@ public class MainActivity extends BaseActivity {
 
         LinearLayout frameLayout = new LinearLayout(this);
         frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        frameLayout.setBackgroundColor(0xffffffff);
+        frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
@@ -68,9 +68,9 @@ public class MainActivity extends BaseActivity {
         iconClickLayout.addView(iconButton);
 
         TextView iconText = new TextView(this);
-        iconText.setText("icons");
+        iconText.setText(getResources().getString(R.string.icons));
         iconText.setTextSize(24);
-        iconText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        iconText.setTextColor(getResources().getColor(R.color.textLight));
         iconText.setPadding(64, 64, 64, 64);
         iconClickLayout.addView(iconText);
 
@@ -100,9 +100,9 @@ public class MainActivity extends BaseActivity {
         wallpaperClickLayout.addView(wallpaperButton);
 
         TextView wallpaperText = new TextView(this);
-        wallpaperText.setText("wallpapers");
+        wallpaperText.setText(getResources().getString(R.string.wallpapers));
         wallpaperText.setTextSize(24);
-        wallpaperText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        wallpaperText.setTextColor(getResources().getColor(R.color.textLight));
         wallpaperText.setPadding(64, 64, 64, 64);
         wallpaperClickLayout.addView(wallpaperText);
 
@@ -132,9 +132,9 @@ public class MainActivity extends BaseActivity {
         sourceClickLayout.addView(sourceButton);
 
         TextView sourceText = new TextView(this);
-        sourceText.setText("source");
+        sourceText.setText(getResources().getString(R.string.source));
         sourceText.setTextSize(24);
-        sourceText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        sourceText.setTextColor(getResources().getColor(R.color.textLight));
         sourceText.setPadding(64, 64, 64, 64);
         sourceClickLayout.addView(sourceText);
 
@@ -164,15 +164,15 @@ public class MainActivity extends BaseActivity {
         aboutClickLayout.addView(aboutButton);
 
         TextView aboutText = new TextView(this);
-        aboutText.setText("license");
+        aboutText.setText(getResources().getString(R.string.license));
         aboutText.setTextSize(24);
-        aboutText.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimaryDark));
+        aboutText.setTextColor(getResources().getColor(R.color.textLight));
         aboutText.setPadding(64, 64, 64, 64);
         aboutClickLayout.addView(aboutText);
     }
 
     public void gitLink(View v) {
-        Uri uri = Uri.parse("https://github.com/dkanada/frost");
+        Uri uri = Uri.parse(getResources().getString(R.string.url_repository));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }

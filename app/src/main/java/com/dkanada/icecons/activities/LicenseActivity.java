@@ -28,7 +28,7 @@ public class LicenseActivity extends BaseActivity {
 
         LinearLayout frameLayout = new LinearLayout(this);
         frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        frameLayout.setBackgroundColor(0xffffffff);
+        frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
         frameLayout.setGravity(Gravity.CENTER);
         setContentView(frameLayout);
 
@@ -58,9 +58,9 @@ public class LicenseActivity extends BaseActivity {
         });
 
         TextView sourceText = new TextView(this);
-        sourceText.setText("This program's source code is available under the GNU General Public License v3.");
+        sourceText.setText(getResources().getString(R.string.description_code));
         sourceText.setTextSize(24);
-        sourceText.setTextColor(getResources().getColor(R.color.colorTextLight));
+        sourceText.setTextColor(getResources().getColor(R.color.textLight));
         sourceText.setPadding(padding, padding, padding, padding);
         sourceClickLayout.addView(sourceText);
 
@@ -85,21 +85,21 @@ public class LicenseActivity extends BaseActivity {
         });
 
         TextView imgText = new TextView(this);
-        imgText.setText("All the images included in this program are available under the Creative Commons Attribution Share Alike 4.0 license.");
+        imgText.setText(getResources().getString(R.string.description_images));
         imgText.setTextSize(24);
-        imgText.setTextColor(getResources().getColor(R.color.colorTextDark));
+        imgText.setTextColor(getResources().getColor(R.color.textDark));
         imgText.setPadding(padding, padding, padding, padding);
         imgClickLayout.addView(imgText);
     }
 
     public void gplLink(View v) {
-        Uri uri = Uri.parse("http://choosealicense.com/licenses/gpl-3.0/");
+        Uri uri = Uri.parse(getResources().getString(R.string.url_gplv3));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }
 
     public void ccLink(View v) {
-        Uri uri = Uri.parse("http://choosealicense.com/licenses/cc-by-sa-4.0/");
+        Uri uri = Uri.parse(getResources().getString(R.string.url_ccbysa4));
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         startActivity(intent);
     }

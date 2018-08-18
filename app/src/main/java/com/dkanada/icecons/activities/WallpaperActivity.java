@@ -41,7 +41,7 @@ public class WallpaperActivity extends BaseActivity {
 
         ScrollView baseScroller = new ScrollView(this);
         baseScroller.setLayoutParams(baseParams);
-        baseScroller.setBackgroundColor(0xffffffff);
+        baseScroller.setBackgroundColor(getResources().getColor(R.color.colorLight));
         setContentView(baseScroller);
         baseScroller.setVisibility(View.VISIBLE);
 
