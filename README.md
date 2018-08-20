@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/docs/header-background.png'>
+<img src='https://raw.githubusercontent.com/dkanada/frost/master/docs/header-background.png'>
 
 An icon pack forked from [ICEcons by 1C3](https://github.com/1C3/ICEcons) with a goal of providing icons mostly for **F-Droid** and other **FOSS** apps. Designed to look *clean and simple*, featuring only white color and transparency for a satisfying see-through effect. (See illustration below)
 
@@ -8,24 +8,23 @@ There are about **300 icons** as well as a few **4K wallpapers** included. Submi
 
 ## Download
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it 
-on F-Droid" 
-height="90">](https://f-droid.org/app/com.dkanada.icecons/)
+[<img src="https://f-droid.org/badge/get-it-on.png"
+alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.dkanada.icecons)
 
 ## Icon Requests
 
 The app doesn't have an icon request feature so you'll have to do the following steps:
 
-1. **Install [Turtl](https://f-droid.org/app/org.xphnx.iconsubmit)**, an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
+1. **Install [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit)**, an app which extracts icon images and xml data from apps and packs these in a convenient .zip file.
 2. **Open Turtl**, select the missing icons and tap "Send Request". Don't select any option, **close Turtl**.
 3. **Obtain the .zip file** located in your device's internal storage in a folder named ".icon_request". _It's **hidden** so make sure to enable viewing hidden files in your file manager_.
-4. **[Make an issue](https://github.com/dkanada/ICEcons/issues/new)** titled "Icon Request" and attach the .zip file.
+4. **[Make an issue](https://github.com/dkanada/frost/issues/new)** titled "Icon Request" and attach the .zip file.
 
 If Turtl is not working on your device, you can also use [Applications 
-Info](https://f-droid.org/app/com.majeur.applicationsinfo) to collect 
+Info](https://f-droid.org/packages/com.majeur.applicationsinfo) to collect 
 - the **package name** of the app ( $PACKAGE_NAME )
-- the **main activity name** of the app ( $ACTIVITY_NAME ), launchable in Applicationsinfo + no error)
-Unfortunately, you can't collect the icon via Applicationsinfo - you will need to 
+- the **main activity name** of the app ( $ACTIVITY_NAME ), launchable in Applications Info + no error)
+Unfortunately, you can't collect the icon via Applications Info - you will need to 
 
 ```
 cd ~
@@ -48,7 +47,7 @@ Work is being done to simplify this process.
 
 ### **Help with any aspect of the app is much appreciated!**
 
-We would eventually like to port [moonshine](https://github.com/natewren/moonshine-iconpack) if we ever have the time using the code from this app.
+We would eventually like to port [Moonshine](https://github.com/natewren/moonshine-iconpack) if we ever have the time using the code from this app.
 
 **You don't have to know how to code** if you know how to work with vectors in a program that supports the SVG format.
 [Inkscape](https://inkscape.org/en/) is recommended, but not necessary.
@@ -64,4 +63,4 @@ Quick guide for adding your icons:
 
 ## Illustration
 
-<img src='https://raw.githubusercontent.com/dkanada/ICEcons/master/docs/complete-background.png'/>
+<img src='https://raw.githubusercontent.com/dkanada/frost/master/docs/complete-background.png'/>
