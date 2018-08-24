@@ -53,6 +53,9 @@
     <!-- AndroidRun -->
     <item component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}" drawable="androidrun" />
 
+    <!-- AnExplorer Pro -->
+    <item component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}" drawable="anexplorer" />
+
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
 
@@ -92,6 +95,9 @@
 
     <!-- Aurora Firefox -->
     <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox" />
+
+    <!-- Aurora Store -->
+    <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora" />
 
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
