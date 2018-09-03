@@ -561,6 +561,10 @@
     <!-- KeePassDroid -->
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepassdroid" />
 
+    <!-- Arbetsformedlingen Mina Sidor -->
+    <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsformedlingen-mina-sidor" />
+
+
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
 
