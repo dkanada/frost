@@ -564,6 +564,9 @@
     <!-- KeePassDroid -->
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepassdroid" />
 
+    <!-- Arbetsformedlingen Mina Sidor -->
+    <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsformedlingen-mina-sidor" />
+
     <!-- KeePass DX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}" drawable="keepassdx" />
 
