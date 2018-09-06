@@ -1,3 +1,9 @@
+### 1.4.1
+###### Released: August 19, 2018
+* fix some styling issues
+* move strings to external file
+* bump version for new icons
+
 ### 1.4
 ###### Released: August 15, 2018
 * shrink app size by removing some assets

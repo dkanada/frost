@@ -4,7 +4,6 @@ import android.app.WallpaperManager;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -25,7 +24,7 @@ public class WallpaperSetActivity extends BaseActivity {
     private int screenHeight;
     float scale;
 
-    Bitmap Wallpaper;
+    Bitmap wallpaper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,7 +33,7 @@ public class WallpaperSetActivity extends BaseActivity {
         imageId = intent.getIntExtra("image", 0);
         screenWidth = ScreenUtils.width(getApplicationContext());
         screenHeight = ScreenUtils.height(getApplicationContext());
-        Wallpaper = ImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
+        wallpaper = ImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
         scale = ScreenUtils.densityScale(getApplicationContext());
 
         createLayout();
@@ -50,7 +49,7 @@ public class WallpaperSetActivity extends BaseActivity {
         ImageView wallPreview = new ImageView(this);
         wallPreview.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
         wallPreview.setScaleType(ImageView.ScaleType.CENTER_CROP);
-        wallPreview.setImageBitmap(Wallpaper);
+        wallPreview.setImageBitmap(wallpaper);
         baseLayout.addView(wallPreview);
 
         LinearLayout buttonBar = new LinearLayout(this);
@@ -58,7 +57,7 @@ public class WallpaperSetActivity extends BaseActivity {
         buttonBar.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, Math.round(96 * scale)));
         baseLayout.setBackgroundColor(ContextCompat.getColor(getApplicationContext(), R.color.colorPrimary));
         buttonBar.setGravity(Gravity.CENTER);
-        buttonBar.setBackgroundColor(0xffffffff);
+        buttonBar.setBackgroundColor(getResources().getColor(R.color.colorLight));
         baseLayout.addView(buttonBar);
 
         ImageView backButton = new ImageView(this);
@@ -87,7 +86,7 @@ public class WallpaperSetActivity extends BaseActivity {
     public void setWallpaper(View v) {
         WallpaperManager wallpaperManager = WallpaperManager.getInstance(getApplicationContext());
         try {
-            wallpaperManager.setBitmap(Wallpaper);
+            wallpaperManager.setBitmap(wallpaper);
             Toast toast = Toast.makeText(this, "wallpaper set", Toast.LENGTH_SHORT);
             toast.setGravity(Gravity.CENTER, 0, 0);
             toast.show();

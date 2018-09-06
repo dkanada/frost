@@ -303,6 +303,9 @@
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
 
+    <!-- Discord -->
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
+
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
 
@@ -564,6 +567,8 @@
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsformedlingen-mina-sidor" />
 
+    <!-- KeePass DX -->
+    <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}" drawable="keepassdx" />
 
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
@@ -809,7 +814,7 @@
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
     <!-- Phone -->
-    <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
+    <item component="ComponentInfo{com.android.incallui/com.android.incallui.
 
     <!-- Phone -->
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
@@ -1347,6 +1352,9 @@
 
     <!-- Vine -->
     <item component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}" drawable="vine" />
+
+    <!-- Vasttrafik To Go -->
+    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik-to-go" />
 
     <!-- Vinyl Music Player -->
     <item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />
