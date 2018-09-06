@@ -1352,6 +1352,9 @@
     <!-- Vine -->
     <item component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}" drawable="vine" />
 
+    <!-- Vasttrafik To Go -->
+    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik-to-go" />
+
     <!-- Vinyl Music Player -->
     <item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />
 
