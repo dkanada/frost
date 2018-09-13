@@ -51,6 +51,9 @@
     <!-- AndroidRun -->
     <item component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}" drawable="androidrun" />
 
+    <!-- AnExplorer Pro -->
+    <item component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}" drawable="anexplorer" />
+
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
 
@@ -75,6 +78,9 @@
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
 
+    <!-- Arbetsformedlingen Mina Sidor -->
+    <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
+
     <!-- Atomic -->
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
 
@@ -90,6 +96,9 @@
 
     <!-- Aurora Firefox -->
     <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox" />
+
+    <!-- Aurora Store -->
+    <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora" />
 
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
@@ -275,6 +284,9 @@
     <!-- Dicer -->
     <item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer" />
 
+    <!-- Discord -->
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
+
     <!-- DiskUsage -->
     <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
 
@@ -302,9 +314,6 @@
 
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
-
-    <!-- Discord -->
-    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
 
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
@@ -564,9 +573,6 @@
     <!-- KeePassDroid -->
     <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="keepassdroid" />
 
-    <!-- Arbetsformedlingen Mina Sidor -->
-    <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsformedlingen-mina-sidor" />
-
     <!-- KeePass DX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}" drawable="keepassdx" />
 
@@ -814,10 +820,10 @@
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
     <!-- Phone -->
-    <item component="ComponentInfo{com.android.incallui/com.android.incallui.
+    <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
 
     <!-- Phone -->
-    <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone"/>
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone" />
 
     <!-- Phonograph -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
@@ -1349,14 +1355,14 @@
     <!-- Vanilla Music -->
     <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic"/>
 
+    <!-- Vasttrafik To Go -->
+    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik" />
+
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
 
     <!-- Vine -->
     <item component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}" drawable="vine" />
-
-    <!-- Vasttrafik To Go -->
-    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik-to-go" />
 
     <!-- Vinyl Music Player -->
     <item component="ComponentInfo{com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="vinyl" />

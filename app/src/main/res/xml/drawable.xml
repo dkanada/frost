@@ -24,6 +24,7 @@
     <item drawable="apktrack" />
     <item drawable="applicationsinfo" />
     <item drawable="apps2org" />
+    <item drawable="arbetsfor" />
     <item drawable="atomic" />
     <item drawable="audinaut" />
     <item drawable="audiofx" />
@@ -72,6 +73,7 @@
     <item drawable="dbnavigator" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
+    <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
@@ -151,6 +153,7 @@
     <item drawable="kdeconnect" />
     <item drawable="keepass2android" />
     <item drawable="keepassdroid" />
+    <item drawable="keepassdx" />
     <item drawable="keychain" />
     <item drawable="kik" />
     <item drawable="kiss" />
@@ -250,6 +253,7 @@
     <item drawable="redreader" />
     <item drawable="regex" />
     <item drawable="retrica" />
+    <item drawable="retroarch" />
     <item drawable="revolution" />
     <item drawable="ring" />
     <item drawable="riot" />
@@ -327,6 +331,7 @@
     <item drawable="unifiednlp" />
     <item drawable="urbandroid" />
     <item drawable="vanillamusic" />
+    <item drawable="vasttrafik" />
     <item drawable="viber" />
     <item drawable="vine" />
     <item drawable="vinyl" />
