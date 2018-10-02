@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/dkanada/frost/master/docs/header-background.png'>
+<img src='https://raw.githubusercontent.com/dkanada/frost/master/metadata/en-US/header-background.png'>
 
 An icon pack forked from [ICEcons by 1C3](https://github.com/1C3/ICEcons) with a goal of providing icons mostly for **F-Droid** and other **FOSS** apps. Designed to look *clean and simple*, featuring only white color and transparency for a satisfying see-through effect. (See illustration below)
 
@@ -63,4 +63,4 @@ Quick guide for adding your icons:
 
 ## Illustration
 
-<img src='https://raw.githubusercontent.com/dkanada/frost/master/docs/complete-background.png'/>
+<img src='https://raw.githubusercontent.com/dkanada/frost/master/metadata/en-US/complete-background.png'/>

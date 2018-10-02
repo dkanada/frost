@@ -1,0 +1,3 @@
+Frost is a monotone icon pack that supports Trebuchet, Kiss, Nova, and most
+other popular launchers. It is based on [[ovh.ice.icecons]] and includes some
+nice, high definition wallpapers.
