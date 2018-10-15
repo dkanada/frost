@@ -1,39 +1,4 @@
 <resources>
-    <!-- Callabike -->
-    <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
-
-    <!-- Ebay Kleinanzeigen -->
-    <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
-
-    <!-- Feeder -->
-    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
-
-    <!-- Flinkster -->
-    <item component="ComponentInfo{de.bahn.flinkster/de.bahn.flinkster.StartupActivity}" drawable="flinkster" />
-
-    <!-- Osmand Telegram -->
-    <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
-
-    <!-- Packlist -->
-    <item component="ComponentInfo{com.nbossard.packlist/com.nbossard.packlist.gui.MainActivity}" drawable="packlist" />
-
-    <!-- Pocket -->
-    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
-
-    <!-- Shopping List -->
-    <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
-
-    <!-- Sonos -->
-    <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
-
-    <!-- Sparkasse -->
-    <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus}" drawable="sparkasse" />
-
-    <!-- Tickmate -->
-    <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
-
-    <!-- Tiny Travel Tracker -->
-    <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
 
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
@@ -200,6 +165,9 @@
     <!-- Calendar -->
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
 
+    <!-- Callabike -->
+    <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
+
     <!-- Call Recorder -->
     <item component="ComponentInfo{com.callrecorder.android/com.callrecorder.android.MainActivity}" drawable="callrecorder" />
     <item component="ComponentInfo{com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity}" drawable="callrecorder" />
@@ -350,6 +318,9 @@
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
 
+    <!-- Ebay Kleinanzeigen -->
+    <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
+
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
 
@@ -394,6 +365,9 @@
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
 
+    <!-- Feeder -->
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
+
     <!-- Fennec F-Droid -->
     <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec" />
 
@@ -409,6 +383,9 @@
 
     <!-- Flickr -->
     <item component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}" drawable="flickr" />
+
+    <!-- Flinkster -->
+    <item component="ComponentInfo{de.bahn.flinkster/de.bahn.flinkster.StartupActivity}" drawable="flinkster" />
 
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
@@ -830,6 +807,9 @@
     <item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
     <item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MapActivity}" drawable="osmand" />
 
+    <!-- Osmand Telegram -->
+    <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
+
     <!-- Outlook -->
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
 
@@ -844,6 +824,9 @@
     <!-- Owncloud Notes -->
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.NotesListViewActivity}" drawable="owncloudnotes" />
     <item component="ComponentInfo{it.niedermann.owncloud.notes/it.niedermann.owncloud.notes.android.activity.SplashScreenActivity}" drawable="owncloudnotes" />
+
+    <!-- Packlist -->
+    <item component="ComponentInfo{com.nbossard.packlist/com.nbossard.packlist.gui.MainActivity}" drawable="packlist" />
 
     <!-- Pairz -->
     <item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
@@ -868,6 +851,9 @@
 
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
+
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
 
     <!-- PPSSPP -->
     <item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
@@ -966,6 +952,9 @@
 
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
+
+    <!-- Shopping List -->
+    <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
 
     <!-- Sieben -->
     <item component="ComponentInfo{de.baumann.sieben/de.baumann.sieben.MainActivity}" drawable="sieben" />
@@ -1247,6 +1236,9 @@
     <!-- Solid Explorer -->
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solidexplorer" />
 
+    <!-- Sonos -->
+    <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
+
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
 
@@ -1255,6 +1247,9 @@
 
     <!-- Sound Recorder -->
     <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="soundrecorder" />
+
+    <!-- Sparkasse -->
+    <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus}" drawable="sparkasse" />
 
     <!-- SpaRSS -->
     <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
@@ -1334,6 +1329,9 @@
     <!-- Threema -->
     <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
 
+    <!-- Tickmate -->
+    <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
+
     <!-- TIDAL -->
     <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal" />
 
@@ -1345,6 +1343,9 @@
 
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
+
+    <!-- Tiny Travel Tracker -->
+    <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
 
     <!-- Torchie -->
     <item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie" />
