@@ -1,4 +1,39 @@
 <resources>
+    <!-- Callabike -->
+    <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
+
+    <!-- Ebay Kleinanzeigen -->
+    <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
+
+    <!-- Feeder -->
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
+
+    <!-- Flinkster -->
+    <item component="ComponentInfo{de.bahn.flinkster/de.bahn.flinkster.StartupActivity}" drawable="flinkster" />
+
+    <!-- Osmand Telegram -->
+    <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
+
+    <!-- Packlist -->
+    <item component="ComponentInfo{com.nbossard.packlist/com.nbossard.packlist.gui.MainActivity}" drawable="packlist" />
+
+    <!-- Pocket -->
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
+
+    <!-- Shopping List -->
+    <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
+
+    <!-- Sonos -->
+    <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
+
+    <!-- Sparkasse -->
+    <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus}" drawable="sparkasse" />
+
+    <!-- Tickmate -->
+    <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
+
+    <!-- Tiny Travel Tracker -->
+    <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
 
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
