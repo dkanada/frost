@@ -50,6 +50,7 @@
     <item drawable="calculator" />
     <item drawable="calendarcolor" />
     <item drawable="calendar" />
+    <item drawable="callabike" />
     <item drawable="callrecorder" />
     <item drawable="cameraroll" />
     <item drawable="camera" />
@@ -84,6 +85,7 @@
     <item drawable="dsub" />
     <item drawable="duckduckgo" />
     <item drawable="earth" />
+    <item drawable="ebaykleinanzeigen" />
     <item drawable="echo" />
     <item drawable="emby" />
     <item drawable="emerald" />
@@ -94,11 +96,13 @@
     <item drawable="facebook" />
     <item drawable="fasthub" />
     <item drawable="fdroid" />
+    <item drawable="feeder" />
     <item drawable="fennec" />
     <item drawable="files" />
     <item drawable="firefox" />
     <item drawable="flatastic" />
     <item drawable="flickr" />
+    <item drawable="flinkster" />
     <item drawable="flipboard" />
     <item drawable="foobar2000" />
     <item drawable="forecastie" />
@@ -222,12 +226,14 @@
     <item drawable="orfox" />
     <item drawable="oscilloscope" />
     <item drawable="osmand" />
+    <item drawable="osmandtelegram" />
     <item drawable="outlook" />
     <item drawable="overchan" />
     <item drawable="owncloud_notes" />
     <item drawable="owncloudnotes" />
     <item drawable="owncloud_sms" />
     <item drawable="owncloud" />
+    <item drawable="packlist" />
     <item drawable="pairz" />
     <item drawable="password" />
     <item drawable="pb" />
@@ -235,6 +241,7 @@
     <item drawable="phonograph" />
     <item drawable="pixeldungeon" />
     <item drawable="pixlr" />
+    <item drawable="pocket" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
     <item drawable="primitiveftpd" />
@@ -265,6 +272,7 @@
     <item drawable="sgit" />
     <item drawable="shazam" />
     <item drawable="shell" />
+    <item drawable="shoppinglist" />
     <item drawable="sieben" />
     <item drawable="signal" />
     <item drawable="simexplorer" />
@@ -289,7 +297,9 @@
     <item drawable="snapseed" />
     <item drawable="snooperstopper" />
     <item drawable="solidexplorer" />
+    <item drawable="sonos" />
     <item drawable="soundrecorder" />
+    <item drawable="sparkasse" />
     <item drawable="sparss" />
     <item drawable="speedtest" />
     <item drawable="spotify" />
@@ -313,10 +323,12 @@
     <item drawable="theswitch" />
     <item drawable="threema" />
     <item drawable="tibackup" />
+    <item drawable="tickmate" />
     <item drawable="tidal" />
     <item drawable="timber" />
     <item drawable="tinc" />
     <item drawable="tinder" />
+    <item drawable="tinytraveltracker" />
     <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
