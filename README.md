@@ -28,8 +28,8 @@ Quick Guide:
 3. Upload the SVG icons to your repository's **/other** folder
 4. Create a pull request and explain your changes
 5. Provide the activity names of the new apps
-  5a. These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`
-  5b. If you want to help even more you can add your new icons to the appfilter file
+   - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`
+   - If you want to help even more you can add your new icons to the appfilter file
 
 ## Illustration
 
