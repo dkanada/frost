@@ -50,6 +50,7 @@
         <item>calculator</item>
         <item>calendarcolor</item>
         <item>calendar</item>
+        <item>callabike</item>
         <item>callrecorder</item>
         <item>cameraroll</item>
         <item>camera</item>
@@ -84,6 +85,7 @@
         <item>dsub</item>
         <item>duckduckgo</item>
         <item>earth</item>
+        <item>ebaykleinanzeigen</item>
         <item>echo</item>
         <item>emby</item>
         <item>emerald</item>
@@ -94,11 +96,13 @@
         <item>facebook</item>
         <item>fasthub</item>
         <item>fdroid</item>
+        <item>feeder</item>
         <item>fennec</item>
         <item>files</item>
         <item>firefox</item>
         <item>flatastic</item>
         <item>flickr</item>
+        <item>flinkster</item>
         <item>flipboard</item>
         <item>foobar2000</item>
         <item>forecastie</item>
@@ -222,12 +226,14 @@
         <item>orfox</item>
         <item>oscilloscope</item>
         <item>osmand</item>
+        <item>osmandtelegram</item>
         <item>outlook</item>
         <item>overchan</item>
         <item>owncloud_notes</item>
         <item>owncloudnotes</item>
         <item>owncloud_sms</item>
         <item>owncloud</item>
+        <item>packlist</item>
         <item>pairz</item>
         <item>password</item>
         <item>pb</item>
@@ -235,6 +241,7 @@
         <item>phonograph</item>
         <item>pixeldungeon</item>
         <item>pixlr</item>
+        <item>pocket</item>
         <item>ppsspp</item>
         <item>practicehub</item>
         <item>primitiveftpd</item>
@@ -265,6 +272,7 @@
         <item>sgit</item>
         <item>shazam</item>
         <item>shell</item>
+        <item>shoppinglist</item>
         <item>sieben</item>
         <item>signal</item>
         <item>simexplorer</item>
@@ -289,7 +297,9 @@
         <item>snapseed</item>
         <item>snooperstopper</item>
         <item>solidexplorer</item>
+        <item>sonos</item>
         <item>soundrecorder</item>
+        <item>sparkasse</item>
         <item>sparss</item>
         <item>speedtest</item>
         <item>spotify</item>
@@ -313,10 +323,12 @@
         <item>theswitch</item>
         <item>threema</item>
         <item>tibackup</item>
+        <item>tickmate</item>
         <item>tidal</item>
         <item>timber</item>
         <item>tinc</item>
         <item>tinder</item>
+        <item>tinytraveltracker</item>
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
