@@ -41,9 +41,6 @@ public class ImageUtils {
         float xScale = (float) width / (float) resWidth;
         float yScale = (float) height / (float) resHeight;
         float scale = Math.max(xScale, yScale);
-        if (scale > 1) {
-            // do nothing
-        }
         if (width == 0) {
             width = Math.round(resWidth / scale);
         } else if (height == 0) {
@@ -56,9 +53,9 @@ public class ImageUtils {
         resOptions.inJustDecodeBounds = false;
 
         Bitmap rawBitmap = BitmapFactory.decodeResource(resources, resId, resOptions);
-
-        // compare aspect ratio and crop
-        rawBitmap = bitmapCrop(rawBitmap, width, height, resWidth, resHeight);
+        if (rawBitmap == null) {
+            rawBitmap = Bitmap.createBitmap(100, 100, Bitmap.Config.ARGB_8888);
+        }
 
         // scale to desired size
         return Bitmap.createScaledBitmap(rawBitmap, width, height, true);
