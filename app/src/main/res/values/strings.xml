@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Frost</string>
-    <string name="icons">icons</string>
-    <string name="wallpapers">wallpapers</string>
-    <string name="source">source</string>
-    <string name="license">license</string>
+    <string name="icons">Icons</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="source">Source Code</string>
+    <string name="license">License</string>
     <string name="description_code">This program\'s source code is available under the GNU General Public License v3.</string>
     <string name="description_images">The images included in this program are available under the Creative Commons Attribution Share Alike 4.0 License.</string>
     <string name="url_repository">https://github.com/dkanada/frost</string>
@@ -11,4 +11,3 @@
     <string name="url_ccbysa4">https://creativecommons.org/licenses/by-sa/4.0</string>
     <bool name="config_iconpack">true</bool>
 </resources>
-

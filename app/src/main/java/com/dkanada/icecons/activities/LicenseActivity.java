@@ -2,16 +2,14 @@ package com.dkanada.icecons.activities;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.dkanada.icecons.utils.ScreenUtils;
 import com.dkanada.icecons.R;
+import com.dkanada.icecons.utils.ScreenUtils;
 
 public class LicenseActivity extends BaseActivity {
 
@@ -35,7 +33,7 @@ public class LicenseActivity extends BaseActivity {
         LinearLayout baseLayout = new LinearLayout(this);
         baseLayout.setOrientation(LinearLayout.VERTICAL);
         baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        baseLayout.setGravity(Gravity.LEFT);
+        baseLayout.setGravity(Gravity.START);
         frameLayout.addView(baseLayout);
 
         // code
@@ -50,12 +48,7 @@ public class LicenseActivity extends BaseActivity {
         sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
-        sourceClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                gplLink(v);
-            }
-        });
+        sourceClickLayout.setOnClickListener(this::gplLink);
 
         TextView sourceText = new TextView(this);
         sourceText.setText(getResources().getString(R.string.description_code));
@@ -77,12 +70,7 @@ public class LicenseActivity extends BaseActivity {
         imgClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         imgClickLayout.setGravity(Gravity.CENTER);
         imgLayout.addView(imgClickLayout);
-        imgClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ccLink(v);
-            }
-        });
+        imgClickLayout.setOnClickListener(this::ccLink);
 
         TextView imgText = new TextView(this);
         imgText.setText(getResources().getString(R.string.description_images));

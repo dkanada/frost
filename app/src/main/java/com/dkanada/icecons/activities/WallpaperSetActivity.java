@@ -3,25 +3,22 @@ package com.dkanada.icecons.activities;
 import android.app.WallpaperManager;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.support.v4.content.ContextCompat;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import java.io.IOException;
-
+import com.dkanada.icecons.R;
 import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
-import com.dkanada.icecons.R;
+
+import java.io.IOException;
 
 public class WallpaperSetActivity extends BaseActivity {
 
-    private int imageId;
-    private int screenWidth;
-    private int screenHeight;
     float scale;
 
     Bitmap wallpaper;
@@ -30,9 +27,9 @@ public class WallpaperSetActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         final Intent intent = getIntent();
-        imageId = intent.getIntExtra("image", 0);
-        screenWidth = ScreenUtils.width(getApplicationContext());
-        screenHeight = ScreenUtils.height(getApplicationContext());
+        int imageId = intent.getIntExtra("image", 0);
+        int screenWidth = ScreenUtils.width(getApplicationContext());
+        int screenHeight = ScreenUtils.height(getApplicationContext());
         wallpaper = ImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
         scale = ScreenUtils.densityScale(getApplicationContext());
 
@@ -64,23 +61,13 @@ public class WallpaperSetActivity extends BaseActivity {
         backButton.setLayoutParams(new LinearLayout.LayoutParams(0, Math.round(72 * scale), 1));
         backButton.setImageBitmap(ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_close, Math.round(72 * scale), Math.round(72 * scale)));
         buttonBar.addView(backButton);
-        backButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                finish();
-            }
-        });
+        backButton.setOnClickListener(v -> finish());
 
         ImageView applyButton = new ImageView(this);
         applyButton.setLayoutParams(new LinearLayout.LayoutParams(0, Math.round(72 * scale), 1));
         applyButton.setImageBitmap(ImageUtils.bitmapLoad(getApplicationContext().getResources(), R.drawable.ic_apply, Math.round(72 * scale), Math.round(72 * scale)));
         buttonBar.addView(applyButton);
-        applyButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                setWallpaper(v);
-            }
-        });
+        applyButton.setOnClickListener(this::setWallpaper);
     }
 
     public void setWallpaper(View v) {
