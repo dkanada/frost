@@ -90,6 +90,7 @@
     <!-- AudioFX -->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
+    <item component="ComponentInfo{org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
 
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="soundrecorder" />
@@ -176,8 +177,7 @@
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="camera" />
     <item component="ComponentInfo{com.cyngn.cameranext/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera" />
-
-    <!-- Camera -->
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
 
     <!-- Camera Roll -->
@@ -698,6 +698,7 @@
 
     <!-- Music -->
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
+    <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music"/>
 
     <!-- Muzei -->
     <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
@@ -842,9 +843,8 @@
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
-
-    <!-- Phone -->
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
 
     <!-- Phonograph -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
