@@ -11,11 +11,11 @@ do
   cp ${FILE} ${FILE}.tmp
   scour --remove-descriptive-elements --enable-id-stripping --enable-viewboxing --enable-comment-stripping --nindent=4 -i ${FILE}.tmp -o ${FILE}
   rm ${FILE}.tmp
-  cp -f $FILE ${ICON}/$FILE
-  for SIZE in $SIZES
+  cp -f ${FILE} ${ICON}/${FILE}
+  for SIZE in ${SIZES}
   do
-    inkscape --export-png=${NAME}.png --export-width=$SIZE --export-height=$SIZE ${NAME}.svg
-    case $SIZE in
+    inkscape --export-png=${NAME}.png --export-width=${SIZE} --export-height=${SIZE} ${NAME}.svg
+    case ${SIZE} in
       48)
         mv ${NAME}.png ${EXPORT}/drawable-mdpi/
         ;;

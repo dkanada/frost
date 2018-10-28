@@ -10,7 +10,7 @@ do
   NAME=${FILE%.*}
   if [ ! -f "${SVGDIR}${NAME}.svg" ]
   then
-    echo $NAME
+    echo ${NAME}
     cp "${DIR}" "${NEWDIR}${FILE}"
   fi
 done

@@ -1,6 +1,5 @@
 *.iml
 *.apk
-*.class
 *.db
 *.log
 *.dex
@@ -13,7 +12,6 @@ gen/
 proguard/
 androidTest/
 test/
-gradle/
 
 .idea/
 .externalNativeBuild/
@@ -21,5 +19,3 @@ gradle/
 
 local.properties
 gradle.properties
-gradlew
-gradlew.bat
