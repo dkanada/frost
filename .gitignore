@@ -19,3 +19,7 @@ test/
 
 local.properties
 gradle.properties
+
+gradlew
+gradlew.bat
+gradle/
