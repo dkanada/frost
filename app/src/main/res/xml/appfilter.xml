@@ -290,6 +290,9 @@
     <!-- Dicer -->
     <item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer" />
 
+    <!-- Dimmer -->
+    <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer" />
+
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
 
