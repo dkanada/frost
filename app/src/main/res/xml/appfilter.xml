@@ -1387,7 +1387,7 @@
     <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl" />
 
     <!-- Tusky -->
-    <item component="ComponentInfo{com.keylesspalace.tusky/ccom.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
+    <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
     <item component="ComponentINfo{com.keylesspalace.tusky.test/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
 
     <!-- Twidere -->
