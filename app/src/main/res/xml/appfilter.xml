@@ -687,6 +687,9 @@
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
+    <!-- Movie DB -->
+    <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.MainActivity}" drawable="moviedb" />
+
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
     <item component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}" drawable="mupdf" />
