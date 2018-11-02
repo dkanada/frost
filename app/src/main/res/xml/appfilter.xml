@@ -150,6 +150,9 @@
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
 
+    <!-- Busybox -->
+    <item component="ComponentInfo{ru.meefik.busybox/ru.meefik.busybox.MainActivity}" drawable="busybox" />
+
     <!-- Cabinet Beta -->
     <item component="ComponentInfo{com.afollestad.cabinet/com.afollestad.cabinet.ui.MainActivity}" drawable="cabinet" />
 
