@@ -339,6 +339,9 @@
     <!-- Emerald Launcher -->
     <item component="ComponentInfo{ru.henridellal.emerald/ru.henridellal.emerald.Apps}" drawable="emerald" />
 
+    <!-- Episodes -->
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.Mainactivity}" drawable="episodes" />
+
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
 
