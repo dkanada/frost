@@ -2,16 +2,16 @@
 
 SVGDIR="../icons/"
 EXPORT="../app/src/main/res"
-ICPACK_PRE='<item>'
+ICPACK_PRE='        <item>'
 ICPACK_SUF='</item>\n'
-DRAWABLE_PRE='<item drawable="'
+DRAWABLE_PRE='    <item drawable="'
 DRAWABLE_SUF='" />\n'
-CODE_PRE='R.drawable.nodpi_'
+CODE_PRE='        R.drawable.nodpi_'
 CODE_SUF=',\n'
 
-printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n <string-array name="icon_pack" translatable="false">\n' > iconpack.xml
-printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n <version>1</version>\n' > drawable.xml
-printf 'private Integer[] mImages = {\n' > code.xml
+printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <string-array name="icon_pack" translatable="false">\n' > iconpack.xml
+printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <version>1</version>\n' > drawable.xml
+printf '    private Integer[] mImages = {\n' > code.xml
 
 for DIR in $(find ${SVGDIR} -name "*.svg" | sort)
 do
@@ -22,9 +22,9 @@ do
   printf "${CODE_PRE}${NAME}${CODE_SUF}" >> code.xml
 done
 
-printf '</string-array>\n</resources>\n' >> iconpack.xml
+printf '    </string-array>\n</resources>\n' >> iconpack.xml
 printf '</resources>\n' >> drawable.xml
-printf ' };' >> code.xml
+printf '    };' >> code.xml
 
 rm -rf code.xml
 

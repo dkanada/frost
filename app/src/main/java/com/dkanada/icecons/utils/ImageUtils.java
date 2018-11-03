@@ -10,8 +10,7 @@ import com.dkanada.icecons.async.BitmapLoadTask;
 
 public class ImageUtils {
 
-    public static void bitmapLoadAsync(final ImageView imageView,
-                                       final Resources resources, int resId, int width, int height) {
+    public static void bitmapLoadAsync(final ImageView imageView, final Resources resources, int resId, int width, int height) {
         BitmapLoadTask task = new BitmapLoadTask(resources, resId, width, height, bitmap -> {
             imageView.setImageBitmap(bitmap);
             imageView.setAlpha(0f);
