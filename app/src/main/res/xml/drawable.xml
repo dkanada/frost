@@ -46,6 +46,7 @@
     <item drawable="brave" />
     <item drawable="browser" />
     <item drawable="bubble" />
+    <item drawable="busybox" />
     <item drawable="cabinet" />
     <item drawable="calculator" />
     <item drawable="calendarcolor" />
@@ -59,6 +60,7 @@
     <item drawable="chanu" />
     <item drawable="chefkoch" />
     <item drawable="chip" />
+    <item drawable="checkey" />
     <item drawable="chrome" />
     <item drawable="clashroyale" />
     <item drawable="clock2" />
@@ -74,6 +76,7 @@
     <item drawable="dbnavigator" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
+    <item drawable="dimmer" />
     <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="dnsman" />
@@ -89,6 +92,7 @@
     <item drawable="echo" />
     <item drawable="emby" />
     <item drawable="emerald" />
+    <item drawable="episodes" />
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="etesync" />
@@ -190,9 +194,11 @@
     <item drawable="meteo" />
     <item drawable="mgit" />
     <item drawable="microchip" />
+    <item drawable="microgsettings" />
     <item drawable="mifit" />
     <item drawable="mixplorer" />
     <item drawable="money" />
+    <item drawable="moviedb" />
     <item drawable="mupdf" />
     <item drawable="music" />
     <item drawable="muzei" />
@@ -270,6 +276,7 @@
     <item drawable="sensorreadout" />
     <item drawable="settings" />
     <item drawable="sgit" />
+    <item drawable="sharetoclipboard" />
     <item drawable="shazam" />
     <item drawable="shell" />
     <item drawable="shoppinglist" />

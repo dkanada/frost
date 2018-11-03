@@ -150,6 +150,9 @@
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
 
+    <!-- Busybox -->
+    <item component="ComponentInfo{ru.meefik.busybox/ru.meefik.busybox.MainActivity}" drawable="busybox" />
+
     <!-- Cabinet Beta -->
     <item component="ComponentInfo{com.afollestad.cabinet/com.afollestad.cabinet.ui.MainActivity}" drawable="cabinet" />
 
@@ -192,6 +195,9 @@
 
     <!-- Chanu -->
     <item component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}" drawable="chanu" />
+
+    <!-- Checkey -->
+    <item component="ComponentInfo{info.guardianproject.checkey/info.guardianproject.checkey.MainActivity}" drawable="checkey" />
 
     <!-- Chefkoch -->
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.HomeActivity_}" drawable="chefkoch" />
@@ -287,6 +293,9 @@
     <!-- Dicer -->
     <item component="ComponentInfo{com.platypus.dicer/com.platypus.dicer.MainActivity}" drawable="dicer" />
 
+    <!-- Dimmer -->
+    <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer" />
+
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
 
@@ -332,6 +341,9 @@
 
     <!-- Emerald Launcher -->
     <item component="ComponentInfo{ru.henridellal.emerald/ru.henridellal.emerald.Apps}" drawable="emerald" />
+
+    <!-- Episodes -->
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.Mainactivity}" drawable="episodes" />
 
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
@@ -678,6 +690,9 @@
     <!-- Microchip -->
     <item component="ComponentInfo{com.mridang.throttle/com.mridang.throttle.SettingsActivity}" drawable="microchip" />
 
+    <!-- MicroG Settings -->
+    <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microgsettings" />
+
     <!-- Mi Fit -->
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit" />
 
@@ -686,6 +701,9 @@
 
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
+
+    <!-- Movie DB -->
+    <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.MainActivity}" drawable="moviedb" />
 
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
@@ -949,6 +967,9 @@
 
     <!-- Sgit -->
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit" />
+
+    <!-- Share to Clipboard -->
+    <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="sharetoclipboard" />
 
     <!-- Shattered Pixel Dungeon -->
     <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="pixeldungeon" />
@@ -1375,7 +1396,7 @@
     <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl" />
 
     <!-- Tusky -->
-    <item component="ComponentInfo{com.keylesspalace.tusky/ccom.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
+    <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
     <item component="ComponentINfo{com.keylesspalace.tusky.test/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
 
     <!-- Twidere -->
