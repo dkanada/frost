@@ -3,8 +3,6 @@ package com.dkanada.icecons.activities;
 import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -13,9 +11,9 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.dkanada.icecons.R;
 import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
-import com.dkanada.icecons.R;
 
 public class MainActivity extends BaseActivity {
 
@@ -39,7 +37,7 @@ public class MainActivity extends BaseActivity {
         LinearLayout baseLayout = new LinearLayout(this);
         baseLayout.setOrientation(LinearLayout.VERTICAL);
         baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        baseLayout.setGravity(Gravity.LEFT);
+        baseLayout.setGravity(Gravity.START);
         frameLayout.addView(baseLayout);
 
         // icons
@@ -54,12 +52,7 @@ public class MainActivity extends BaseActivity {
         iconClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         iconClickLayout.setGravity(Gravity.CENTER);
         iconLayout.addView(iconClickLayout);
-        iconClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                iconActivity(v);
-            }
-        });
+        iconClickLayout.setOnClickListener(this::iconActivity);
 
         Button iconButton = new Button(this);
         iconButton.setLayoutParams(buttonParams);
@@ -86,12 +79,7 @@ public class MainActivity extends BaseActivity {
         wallpaperClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         wallpaperClickLayout.setGravity(Gravity.CENTER);
         wallpaperLayout.addView(wallpaperClickLayout);
-        wallpaperClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                wallpaperActivity(v);
-            }
-        });
+        wallpaperClickLayout.setOnClickListener(this::wallpaperActivity);
 
         Button wallpaperButton = new Button(this);
         wallpaperButton.setLayoutParams(buttonParams);
@@ -118,12 +106,7 @@ public class MainActivity extends BaseActivity {
         sourceClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         sourceClickLayout.setGravity(Gravity.CENTER);
         sourceLayout.addView(sourceClickLayout);
-        sourceClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                gitLink(v);
-            }
-        });
+        sourceClickLayout.setOnClickListener(this::gitLink);
 
         Button sourceButton = new Button(this);
         sourceButton.setLayoutParams(buttonParams);
@@ -150,12 +133,7 @@ public class MainActivity extends BaseActivity {
         aboutClickLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
         aboutClickLayout.setGravity(Gravity.CENTER);
         aboutLayout.addView(aboutClickLayout);
-        aboutClickLayout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                licenseActivity(v);
-            }
-        });
+        aboutClickLayout.setOnClickListener(this::licenseActivity);
 
         Button aboutButton = new Button(this);
         aboutButton.setLayoutParams(buttonParams);

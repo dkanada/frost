@@ -7,22 +7,19 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.dkanada.icecons.async.BitmapLoadTask;
-import com.dkanada.icecons.interfaces.BitmapListener;
 
 public class ImageUtils {
 
-    public static void bitmapLoadAsync(final ImageView imageView, final Resources resources, int resId, int width, int height) {
-        BitmapLoadTask task = new BitmapLoadTask(resources, resId, width, height, new BitmapListener() {
-            @Override
-            public void onBitmap(Bitmap bitmap) {
-                imageView.setImageBitmap(bitmap);
-                imageView.setAlpha(0f);
-                imageView.setVisibility(View.VISIBLE);
-                imageView.animate()
-                        .alpha(1f)
-                        .setDuration(1000)
-                        .setListener(null);
-            }
+    public static void bitmapLoadAsync(final ImageView imageView,
+                                       final Resources resources, int resId, int width, int height) {
+        BitmapLoadTask task = new BitmapLoadTask(resources, resId, width, height, bitmap -> {
+            imageView.setImageBitmap(bitmap);
+            imageView.setAlpha(0f);
+            imageView.setVisibility(View.VISIBLE);
+            imageView.animate()
+                    .alpha(1f)
+                    .setDuration(1000)
+                    .setListener(null);
         });
 
         task.execute();

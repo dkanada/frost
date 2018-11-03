@@ -2,7 +2,6 @@ package com.dkanada.icecons.activities;
 
 import android.content.Intent;
 import android.graphics.Rect;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
@@ -10,11 +9,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
 
-import java.util.ArrayList;
-
+import com.dkanada.icecons.R;
 import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
-import com.dkanada.icecons.R;
+
+import java.util.ArrayList;
 
 public class WallpaperActivity extends BaseActivity {
     private ArrayList<LinearLayout> layoutList = new ArrayList<>();
@@ -61,7 +60,7 @@ public class WallpaperActivity extends BaseActivity {
             if ((i % width) == 0) {
                 layoutList.add((i / width), new LinearLayout(this));
                 layoutList.get(i / width).setOrientation(LinearLayout.HORIZONTAL);
-                layoutList.get(i / width).setGravity(Gravity.LEFT);
+                layoutList.get(i / width).setGravity(Gravity.START);
                 layoutList.get(i / width).setLayoutParams(containerParams);
 
                 baseLayout.addView(layoutList.get(i / width));
@@ -73,15 +72,12 @@ public class WallpaperActivity extends BaseActivity {
             imageList.get(i).setAdjustViewBounds(true);
 
             final int resId = getResources().getIdentifier(wallpapers[i], "drawable", getPackageName());
-            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId,
+                    (windowWidth / width) - (margin * width + margin) / width,
+                    (windowWidth / width) - (margin * width + margin) / width);
 
             layoutList.get(i / width).addView(imageList.get(i));
-            imageList.get(i).setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    wallpaperView(resId);
-                }
-            });
+            imageList.get(i).setOnClickListener(v -> wallpaperView(resId));
         }
     }
 

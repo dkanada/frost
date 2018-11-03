@@ -3,7 +3,7 @@
 APP="../app/src/main/res/xml/appfilter.xml"
 
 # remove whitespace at beginning of line
-sed -r 's:^[ \t]*::g' $APP > onefilter.xml
+sed -r 's:^[ \t]*::g' ${APP} > onefilter.xml
 # remove whitespace at end of line
 sed -ri 's:[ \t]*$::g' onefilter.xml
 # remove extra spaces in items
@@ -14,8 +14,8 @@ sed -ri 's: :|:g' onefilter.xml
 # move each app to one line for sorting
 while read -r line
 do
-    TYPE=$(echo $line | cut -c 1-4)
-    case $TYPE in
+    TYPE=$(echo ${line} | cut -c 1-4)
+    case ${TYPE} in
       "<!--")
         printf "\n$line" >> twofilter.xml
         ;;
@@ -45,7 +45,7 @@ sed -ri 's:.+:    &:g' twofilter.xml
 # replace bar character with space in items
 sed -ri 's:\|: :g' twofilter.xml
 
-echo "<resources>" > $APP
-cat twofilter.xml >> $APP
-echo "</resources>" >> $APP
+echo "<resources>" > ${APP}
+cat twofilter.xml >> ${APP}
+echo "</resources>" >> ${APP}
 rm onefilter.xml twofilter.xml
