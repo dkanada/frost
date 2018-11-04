@@ -12,8 +12,8 @@
         <item>amaze</item>
         <item>an2linux</item>
         <item>andotp</item>
-        <item>androidrun</item>
         <item>android</item>
+        <item>androidrun</item>
         <item>androidterm</item>
         <item>anexplorer</item>
         <item>ankidroid</item>
@@ -46,23 +46,25 @@
         <item>brave</item>
         <item>browser</item>
         <item>bubble</item>
+        <item>busybox</item>
         <item>cabinet</item>
         <item>calculator</item>
-        <item>calendarcolor</item>
         <item>calendar</item>
+        <item>calendarcolor</item>
         <item>callabike</item>
         <item>callrecorder</item>
-        <item>cameraroll</item>
         <item>camera</item>
+        <item>cameraroll</item>
         <item>casper</item>
         <item>cgeo</item>
         <item>chanu</item>
+        <item>checkey</item>
         <item>chefkoch</item>
         <item>chip</item>
         <item>chrome</item>
         <item>clashroyale</item>
-        <item>clock2</item>
         <item>clock</item>
+        <item>clock2</item>
         <item>clover</item>
         <item>commons</item>
         <item>contacts</item>
@@ -74,6 +76,7 @@
         <item>dbnavigator</item>
         <item>diaspora</item>
         <item>dicer</item>
+        <item>dimmer</item>
         <item>discord</item>
         <item>diskusage</item>
         <item>dnsman</item>
@@ -89,6 +92,7 @@
         <item>echo</item>
         <item>emby</item>
         <item>emerald</item>
+        <item>episodes</item>
         <item>es</item>
         <item>etar</item>
         <item>etesync</item>
@@ -121,8 +125,8 @@
         <item>geogebra</item>
         <item>gitlab</item>
         <item>gkeep</item>
-        <item>gkeyboardjp</item>
         <item>gkeyboard</item>
+        <item>gkeyboardjp</item>
         <item>gmail</item>
         <item>gmaps</item>
         <item>gmovies</item>
@@ -130,11 +134,11 @@
         <item>gnewsstand</item>
         <item>gnewsweather</item>
         <item>goblim</item>
-        <item>googleapp</item>
         <item>google</item>
+        <item>googleapp</item>
         <item>gphotos</item>
-        <item>gplaystore</item>
         <item>gplay</item>
+        <item>gplaystore</item>
         <item>greenbits</item>
         <item>gsheets</item>
         <item>gslides</item>
@@ -169,14 +173,14 @@
         <item>libretorrent</item>
         <item>license</item>
         <item>lightning</item>
-        <item>lineagerec</item>
         <item>line</item>
+        <item>lineagerec</item>
         <item>listen</item>
         <item>loop</item>
         <item>magisk</item>
         <item>mail</item>
-        <item>mapillary</item>
         <item>map</item>
+        <item>mapillary</item>
         <item>masterpassword</item>
         <item>materialistic</item>
         <item>materialnotes</item>
@@ -190,9 +194,11 @@
         <item>meteo</item>
         <item>mgit</item>
         <item>microchip</item>
+        <item>microgsettings</item>
         <item>mifit</item>
         <item>mixplorer</item>
         <item>money</item>
+        <item>moviedb</item>
         <item>mupdf</item>
         <item>music</item>
         <item>muzei</item>
@@ -229,10 +235,10 @@
         <item>osmandtelegram</item>
         <item>outlook</item>
         <item>overchan</item>
-        <item>owncloud_notes</item>
-        <item>owncloudnotes</item>
-        <item>owncloud_sms</item>
         <item>owncloud</item>
+        <item>owncloud_notes</item>
+        <item>owncloud_sms</item>
+        <item>owncloudnotes</item>
         <item>packlist</item>
         <item>pairz</item>
         <item>password</item>
@@ -248,11 +254,11 @@
         <item>privacybrowser</item>
         <item>protonmail</item>
         <item>qksms</item>
-        <item>qrforkeepass</item>
         <item>qr</item>
+        <item>qrforkeepass</item>
         <item>quizlet</item>
-        <item>radiodroid</item>
         <item>radio</item>
+        <item>radiodroid</item>
         <item>recorder</item>
         <item>recurrence</item>
         <item>reddit</item>
@@ -270,11 +276,13 @@
         <item>sensorreadout</item>
         <item>settings</item>
         <item>sgit</item>
+        <item>sharetoclipboard</item>
         <item>shazam</item>
         <item>shell</item>
         <item>shoppinglist</item>
         <item>sieben</item>
         <item>signal</item>
+        <item>sim</item>
         <item>simexplorer</item>
         <item>simpleapplauncher</item>
         <item>simplecalculator</item>
@@ -289,10 +297,9 @@
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
         <item>simpleweather</item>
-        <item>sim</item>
         <item>skype</item>
-        <item>slidereddit</item>
         <item>slide</item>
+        <item>slidereddit</item>
         <item>snapchat</item>
         <item>snapseed</item>
         <item>snooperstopper</item>
@@ -329,8 +336,8 @@
         <item>tinc</item>
         <item>tinder</item>
         <item>tinytraveltracker</item>
-        <item>torchie</item>
         <item>torch</item>
+        <item>torchie</item>
         <item>torrentclient</item>
         <item>transistor</item>
         <item>transportr</item>
