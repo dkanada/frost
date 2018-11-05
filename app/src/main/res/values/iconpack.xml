@@ -12,8 +12,8 @@
         <item>amaze</item>
         <item>an2linux</item>
         <item>andotp</item>
-        <item>android</item>
         <item>androidrun</item>
+        <item>android</item>
         <item>androidterm</item>
         <item>anexplorer</item>
         <item>ankidroid</item>
@@ -49,12 +49,12 @@
         <item>busybox</item>
         <item>cabinet</item>
         <item>calculator</item>
-        <item>calendar</item>
         <item>calendarcolor</item>
+        <item>calendar</item>
         <item>callabike</item>
         <item>callrecorder</item>
-        <item>camera</item>
         <item>cameraroll</item>
+        <item>camera</item>
         <item>casper</item>
         <item>cgeo</item>
         <item>chanu</item>
@@ -63,8 +63,8 @@
         <item>chip</item>
         <item>chrome</item>
         <item>clashroyale</item>
-        <item>clock</item>
         <item>clock2</item>
+        <item>clock</item>
         <item>clover</item>
         <item>commons</item>
         <item>contacts</item>
@@ -125,8 +125,8 @@
         <item>geogebra</item>
         <item>gitlab</item>
         <item>gkeep</item>
-        <item>gkeyboard</item>
         <item>gkeyboardjp</item>
+        <item>gkeyboard</item>
         <item>gmail</item>
         <item>gmaps</item>
         <item>gmovies</item>
@@ -134,11 +134,11 @@
         <item>gnewsstand</item>
         <item>gnewsweather</item>
         <item>goblim</item>
-        <item>google</item>
         <item>googleapp</item>
+        <item>google</item>
         <item>gphotos</item>
-        <item>gplay</item>
         <item>gplaystore</item>
+        <item>gplay</item>
         <item>greenbits</item>
         <item>gsheets</item>
         <item>gslides</item>
@@ -173,14 +173,14 @@
         <item>libretorrent</item>
         <item>license</item>
         <item>lightning</item>
-        <item>line</item>
         <item>lineagerec</item>
+        <item>line</item>
         <item>listen</item>
         <item>loop</item>
         <item>magisk</item>
         <item>mail</item>
-        <item>map</item>
         <item>mapillary</item>
+        <item>map</item>
         <item>masterpassword</item>
         <item>materialistic</item>
         <item>materialnotes</item>
@@ -208,6 +208,8 @@
         <item>netflix</item>
         <item>netguard</item>
         <item>newpipe</item>
+        <item>nextcloudnotes</item>
+        <item>nextcloudsms</item>
         <item>nextcloud</item>
         <item>nfctasks</item>
         <item>nfctools</item>
@@ -236,9 +238,6 @@
         <item>outlook</item>
         <item>overchan</item>
         <item>owncloud</item>
-        <item>owncloud_notes</item>
-        <item>owncloud_sms</item>
-        <item>owncloudnotes</item>
         <item>packlist</item>
         <item>pairz</item>
         <item>password</item>
@@ -254,11 +253,11 @@
         <item>privacybrowser</item>
         <item>protonmail</item>
         <item>qksms</item>
-        <item>qr</item>
         <item>qrforkeepass</item>
+        <item>qr</item>
         <item>quizlet</item>
-        <item>radio</item>
         <item>radiodroid</item>
+        <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
         <item>reddit</item>
@@ -282,7 +281,6 @@
         <item>shoppinglist</item>
         <item>sieben</item>
         <item>signal</item>
-        <item>sim</item>
         <item>simexplorer</item>
         <item>simpleapplauncher</item>
         <item>simplecalculator</item>
@@ -297,9 +295,10 @@
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
         <item>simpleweather</item>
+        <item>sim</item>
         <item>skype</item>
-        <item>slide</item>
         <item>slidereddit</item>
+        <item>slide</item>
         <item>snapchat</item>
         <item>snapseed</item>
         <item>snooperstopper</item>
@@ -336,8 +335,8 @@
         <item>tinc</item>
         <item>tinder</item>
         <item>tinytraveltracker</item>
-        <item>torch</item>
         <item>torchie</item>
+        <item>torch</item>
         <item>torrentclient</item>
         <item>transistor</item>
         <item>transportr</item>
