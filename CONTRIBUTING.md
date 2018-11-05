@@ -11,7 +11,7 @@ Before contributing your SVG icon, **open it inside a text editor and scan it fo
     - **``fill-rule:evenodd``** attributes. 
     - **the scientific E-notation ```[0-9]{1,3}\.[0-9]{1,3}e-[0-9]``` (in regular expression) for really small numbers**. 
 
-If your SVG icon contains **any of these SVG features**, please **first replace them**! 
+If your SVG icon contains **any of these SVG features**, please **replace them first**! 
 
 ### How to replace ...
 - **matrix / transform elements in Inkscape**. For some of the following possibilities, you might need to remove the matrix/transform attribute before, and apply the matrix/transform changes differently. To remove them, go to Edit -> XML Editor (CTRL+SHIFT+X) and **delete all matrix / transform attributes**. 

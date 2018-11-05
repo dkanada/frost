@@ -1,6 +1,6 @@
 #! /bin/bash
 
-SIZES="48 72 96 144 384"
+SIZES="48 72 96 144 192"
 EXPORT="../app/src/main/res"
 ICON="../icons"
 
@@ -28,7 +28,7 @@ do
       144)
         mv ${NAME}.png ${EXPORT}/drawable-xxhdpi/
         ;;
-      384)
+      192)
         mv ${NAME}.png ${EXPORT}/drawable-xxxhdpi/
         ;;
     esac

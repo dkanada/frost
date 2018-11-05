@@ -34,7 +34,7 @@
     <item component="ComponentInfo{org.xphnx.ameixa/org.xphnx.ameixa.activities.MainActivity}" drawable="themes" />
 
     <!-- Ameixa Monochrome -->
-    <item component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixamonochrome.MainActivity}" drawable="themes" />
+    <item component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixamonochrome.activities.MainActivity}" drawable="themes" />
 
     <!-- AN2Linux -->
     <item component="ComponentInfo{kiwi.root.an2linuxclient/kiwi.root.an2linuxclient.activities.MainSettingsActivity}" drawable="an2linux" />
