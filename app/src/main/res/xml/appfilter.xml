@@ -564,7 +564,7 @@
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat" />
 
     <!-- ICEcons -->
-    <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.MainActivity}" drawable="icecons" />
+    <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.MainActivity}" drawable="frost" />
 
     <!-- ICSdroid -->
     <item component="ComponentInfo{at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity}" drawable="icsdroid" />
