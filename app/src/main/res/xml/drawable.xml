@@ -15,15 +15,18 @@
     <item drawable="androidrun" />
     <item drawable="android" />
     <item drawable="androidterm" />
+    <item drawable="androidvnc" />
     <item drawable="anexplorer" />
     <item drawable="ankidroid" />
     <item drawable="antox" />
+    <item drawable="anydesk" />
     <item drawable="anysoftkeyboard" />
     <item drawable="aospkeyboard" />
     <item drawable="apex" />
     <item drawable="apktrack" />
     <item drawable="applicationsinfo" />
     <item drawable="apps2org" />
+    <item drawable="apps2sd" />
     <item drawable="arbetsfor" />
     <item drawable="atomic" />
     <item drawable="audinaut" />
@@ -66,6 +69,7 @@
     <item drawable="clock2" />
     <item drawable="clock" />
     <item drawable="clover" />
+    <item drawable="comicscreen" />
     <item drawable="commons" />
     <item drawable="contacts" />
     <item drawable="conversations" />
@@ -92,6 +96,7 @@
     <item drawable="echo" />
     <item drawable="emby" />
     <item drawable="emerald" />
+    <item drawable="emit" />
     <item drawable="episodes" />
     <item drawable="es" />
     <item drawable="etar" />
@@ -135,6 +140,7 @@
     <item drawable="gnewsweather" />
     <item drawable="goblim" />
     <item drawable="googleapp" />
+    <item drawable="googlesettings" />
     <item drawable="google" />
     <item drawable="gphotos" />
     <item drawable="gplaystore" />
@@ -154,6 +160,7 @@
     <item drawable="imgur" />
     <item drawable="instagram" />
     <item drawable="jelly" />
+    <item drawable="jotatexteditor" />
     <item drawable="k9mail" />
     <item drawable="kanadrill" />
     <item drawable="kaqui" />
@@ -174,12 +181,14 @@
     <item drawable="lightning" />
     <item drawable="lineagerec" />
     <item drawable="line" />
+    <item drawable="linuxcommandlibrary" />
     <item drawable="listen" />
     <item drawable="loop" />
     <item drawable="magisk" />
     <item drawable="mail" />
     <item drawable="mapillary" />
     <item drawable="map" />
+    <item drawable="markers" />
     <item drawable="masterpassword" />
     <item drawable="materialistic" />
     <item drawable="materialnotes" />
@@ -195,6 +204,7 @@
     <item drawable="microchip" />
     <item drawable="microgsettings" />
     <item drawable="mifit" />
+    <item drawable="minecraft" />
     <item drawable="mixplorer" />
     <item drawable="money" />
     <item drawable="moviedb" />
@@ -245,6 +255,8 @@
     <item drawable="phonograph" />
     <item drawable="pixeldungeon" />
     <item drawable="pixlr" />
+    <item drawable="plex" />
+    <item drawable="plumble" />
     <item drawable="pocket" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
@@ -270,6 +282,7 @@
     <item drawable="riot" />
     <item drawable="runnerup" />
     <item drawable="screencast" />
+    <item drawable="scummvm" />
     <item drawable="seafile" />
     <item drawable="sensorreadout" />
     <item drawable="settings" />
@@ -337,6 +350,7 @@
     <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
+    <item drawable="totalcommander" />
     <item drawable="transistor" />
     <item drawable="transportr" />
     <item drawable="trenord" />
@@ -368,6 +382,7 @@
     <item drawable="wunderlist" />
     <item drawable="xabber" />
     <item drawable="yalp" />
+    <item drawable="yatse" />
     <item drawable="youtube" />
     <item drawable="zapp" />
 </resources>

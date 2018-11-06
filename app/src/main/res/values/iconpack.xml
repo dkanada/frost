@@ -15,15 +15,18 @@
         <item>androidrun</item>
         <item>android</item>
         <item>androidterm</item>
+        <item>androidvnc</item>
         <item>anexplorer</item>
         <item>ankidroid</item>
         <item>antox</item>
+        <item>anydesk</item>
         <item>anysoftkeyboard</item>
         <item>aospkeyboard</item>
         <item>apex</item>
         <item>apktrack</item>
         <item>applicationsinfo</item>
         <item>apps2org</item>
+        <item>apps2sd</item>
         <item>arbetsfor</item>
         <item>atomic</item>
         <item>audinaut</item>
@@ -66,6 +69,7 @@
         <item>clock2</item>
         <item>clock</item>
         <item>clover</item>
+        <item>comicscreen</item>
         <item>commons</item>
         <item>contacts</item>
         <item>conversations</item>
@@ -92,6 +96,7 @@
         <item>echo</item>
         <item>emby</item>
         <item>emerald</item>
+        <item>emit</item>
         <item>episodes</item>
         <item>es</item>
         <item>etar</item>
@@ -135,6 +140,7 @@
         <item>gnewsweather</item>
         <item>goblim</item>
         <item>googleapp</item>
+        <item>googlesettings</item>
         <item>google</item>
         <item>gphotos</item>
         <item>gplaystore</item>
@@ -154,6 +160,7 @@
         <item>imgur</item>
         <item>instagram</item>
         <item>jelly</item>
+        <item>jotatexteditor</item>
         <item>k9mail</item>
         <item>kanadrill</item>
         <item>kaqui</item>
@@ -174,12 +181,14 @@
         <item>lightning</item>
         <item>lineagerec</item>
         <item>line</item>
+        <item>linuxcommandlibrary</item>
         <item>listen</item>
         <item>loop</item>
         <item>magisk</item>
         <item>mail</item>
         <item>mapillary</item>
         <item>map</item>
+        <item>markers</item>
         <item>masterpassword</item>
         <item>materialistic</item>
         <item>materialnotes</item>
@@ -195,6 +204,7 @@
         <item>microchip</item>
         <item>microgsettings</item>
         <item>mifit</item>
+        <item>minecraft</item>
         <item>mixplorer</item>
         <item>money</item>
         <item>moviedb</item>
@@ -245,6 +255,8 @@
         <item>phonograph</item>
         <item>pixeldungeon</item>
         <item>pixlr</item>
+        <item>plex</item>
+        <item>plumble</item>
         <item>pocket</item>
         <item>ppsspp</item>
         <item>practicehub</item>
@@ -270,6 +282,7 @@
         <item>riot</item>
         <item>runnerup</item>
         <item>screencast</item>
+        <item>scummvm</item>
         <item>seafile</item>
         <item>sensorreadout</item>
         <item>settings</item>
@@ -337,6 +350,7 @@
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
+        <item>totalcommander</item>
         <item>transistor</item>
         <item>transportr</item>
         <item>trenord</item>
@@ -368,6 +382,7 @@
         <item>wunderlist</item>
         <item>xabber</item>
         <item>yalp</item>
+        <item>yatse</item>
         <item>youtube</item>
         <item>zapp</item>
     </string-array>

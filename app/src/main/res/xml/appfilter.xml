@@ -51,6 +51,9 @@
     <!-- AndroidRun -->
     <item component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}" drawable="androidrun" />
 
+    <!-- androidVNC -->
+    <item component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}" drawable="androidvnc"/>
+
     <!-- AnExplorer Pro -->
     <item component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}" drawable="anexplorer" />
 
@@ -59,6 +62,9 @@
 
     <!-- Antox -->
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}" drawable="antox" />
+
+    <!-- AnyDesk -->
+    <item component="ComponentInfo{com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity}" drawable="anydesk"/>
 
     <!-- AnySoftKeyboard -->
     <item component="ComponentInfo{com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity}" drawable="anysoftkeyboard" />
@@ -77,6 +83,9 @@
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
+
+    <!-- Apps2SD -->
+    <item component="ComponentInfo{in.co.pricealert.apps2sd/in.co.pricealert.apps2sd.MainActivity}" drawable="apps2sd"/>
 
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
@@ -182,6 +191,7 @@
     <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera" />
     <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.amazon.camera/com.amazon.camera.AmazonCameraActivity}" drawable="camera"/>
 
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
@@ -227,6 +237,9 @@
     <!-- Clover -->
     <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
     <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
+
+    <!-- Comic Screen -->
+    <item component="ComponentInfo{com.viewer.comicscreen/com.viewer.comicscreen.ListActivity}" drawable="comicscreen"/>
 
     <!-- Commons -->
     <item component="fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity" drawable="commons" />
@@ -341,6 +354,9 @@
 
     <!-- Emerald Launcher -->
     <item component="ComponentInfo{ru.henridellal.emerald/ru.henridellal.emerald.Apps}" drawable="emerald" />
+
+    <!-- Emit -->
+    <item component="ComponentInfo{tv.wpn.biokoda.android.emit/tv.wpn.biokoda.android.emitcommon.ConnectionActivity}" drawable="emit"/>
 
     <!-- Episodes -->
     <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.Mainactivity}" drawable="episodes" />
@@ -533,6 +549,9 @@
     <!-- Google Play Store -->
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="gplaystore" />
 
+    <!-- Google Settings -->
+    <item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="googlesettings"/>
+
     <!-- Google Sheets -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gsheets" />
 
@@ -541,9 +560,6 @@
 
     <!-- Google Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="gtranslate" />
-
-    <!-- Google YouTube -->
-    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
@@ -577,6 +593,9 @@
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+
+    <!-- Jota Text Editor -->
+    <item component="ComponentInfo{jp.sblo.pandora.jota/jp.sblo.pandora.jota.Main}" drawable="jotatexteditor"/>
 
     <!-- K-9 Mail -->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
@@ -641,6 +660,9 @@
     <!-- LINE -->
     <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
 
+    <!-- Linux Command Library -->
+    <item component="ComponentInfo{com.inspiredandroid.linuxcommandbibliotheca/com.inspiredandroid.linuxcommandbibliotheca.NavigationActivity}" drawable="linuxcommandlibrary"/>
+
     <!-- LISTEN.moe -->
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activities.MainActivity}" drawable="listen" />
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activity.MainActivity}" drawable="listen" />
@@ -653,6 +675,9 @@
 
     <!-- Mapillary -->
     <item component="ComponentInfo{app.mapillary/app.mapillary.android.activity.TabbedMainActivity}" drawable="mapillary" />
+
+    <!-- Markers -->
+    <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
 
     <!-- Master Password -->
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
@@ -695,6 +720,9 @@
 
     <!-- Mi Fit -->
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit" />
+
+    <!-- Minecraft -->
+    <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
 
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
@@ -873,6 +901,12 @@
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
 
+    <!-- Plex -->
+    <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex"/>
+
+    <!-- Plumble -->
+    <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble"/>
+
     <!-- Pocket -->
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
 
@@ -953,6 +987,9 @@
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
+
+    <!-- ScummVM -->
+    <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.MainActivity}" drawable="scummvm"/>
 
     <!-- Seafile -->
     <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
@@ -1381,6 +1418,9 @@
     <!-- Torrent Client -->
     <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient" />
 
+    <!-- Total Commander -->
+    <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="totalcommander"/>
+
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
 
@@ -1488,6 +1528,15 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.InstalledAppsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.DetailsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
+
+    <!-- Yatse -->
+    <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse"/>
+
+    <!-- YouTube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+
+    <!-- YouTube Vanced -->
+    <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
 
     <!-- Zapp -->
     <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp" />
