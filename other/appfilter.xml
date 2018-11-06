@@ -1,2 +1,4 @@
 <!-- Apple Music -->
 <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="applemusic"/>
+<!-- WeChat -->
+<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat"/>
