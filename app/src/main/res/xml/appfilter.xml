@@ -349,6 +349,9 @@
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
 
+    <!-- Editor -->
+    <item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="echo" />
+
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 
