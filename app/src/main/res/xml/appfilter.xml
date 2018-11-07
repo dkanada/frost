@@ -1308,6 +1308,9 @@
     <!-- SnooperStopper -->
     <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper" />
 
+    <!-- Sokoban -->
+    <item component="ComponentInfo{com.mobilepearls.sokoban/com.mobilepearls.sokobani.SokobanMenuActivity}" drawable="solidexplorer" />
+
     <!-- Solid Explorer -->
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solidexplorer" />
 
