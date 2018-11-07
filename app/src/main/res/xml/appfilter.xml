@@ -359,7 +359,7 @@
     <item component="ComponentInfo{tv.wpn.biokoda.android.emit/tv.wpn.biokoda.android.emitcommon.ConnectionActivity}" drawable="emit"/>
 
     <!-- Episodes -->
-    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.Mainactivity}" drawable="episodes" />
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="episodes" />
 
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
