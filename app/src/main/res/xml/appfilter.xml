@@ -893,6 +893,9 @@
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
+    <!-- Periodical -->
+    <item component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" drawable="periodical" />
+
     <!-- Phone -->
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone" />
