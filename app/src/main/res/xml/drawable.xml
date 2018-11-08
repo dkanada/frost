@@ -18,6 +18,7 @@
     <item drawable="androidvnc" />
     <item drawable="anexplorer" />
     <item drawable="ankidroid" />
+    <item drawable="antennapod" />
     <item drawable="antox" />
     <item drawable="anydesk" />
     <item drawable="anysoftkeyboard" />
@@ -36,11 +37,13 @@
     <item drawable="bankid" />
     <item drawable="barcode" />
     <item drawable="battery" />
+    <item drawable="bbm" />
     <item drawable="bible" />
     <item drawable="birthdayadapter" />
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
     <item drawable="blablacar" />
+    <item drawable="blockinger" />
     <item drawable="blogger" />
     <item drawable="blueminimal" />
     <item drawable="bluetooth" />
@@ -72,12 +75,14 @@
     <item drawable="comicscreen" />
     <item drawable="commons" />
     <item drawable="contacts" />
+    <item drawable="contenttransfer" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
     <item drawable="cuprumpdf" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="devicesearch" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
     <item drawable="dimmer" />
@@ -90,6 +95,7 @@
     <item drawable="drive" />
     <item drawable="dropbox" />
     <item drawable="dsub" />
+    <item drawable="dtekbyblackberry" />
     <item drawable="duckduckgo" />
     <item drawable="earth" />
     <item drawable="easer" />
@@ -115,6 +121,10 @@
     <item drawable="flickr" />
     <item drawable="flinkster" />
     <item drawable="flipboard" />
+    <item drawable="flowfreebridges" />
+    <item drawable="flowfreehexes" />
+    <item drawable="flowfree" />
+    <item drawable="flowfreewarps" />
     <item drawable="foobar2000" />
     <item drawable="forecastie" />
     <item drawable="forest" />
@@ -141,6 +151,7 @@
     <item drawable="gnewsstand" />
     <item drawable="gnewsweather" />
     <item drawable="goblim" />
+    <item drawable="goodweather" />
     <item drawable="googleapp" />
     <item drawable="googlesettings" />
     <item drawable="google" />
@@ -157,6 +168,7 @@
     <item drawable="hellotalk" />
     <item drawable="holo" />
     <item drawable="hpprinteraio" />
+    <item drawable="hub" />
     <item drawable="icecat" />
     <item drawable="icsdroid" />
     <item drawable="imgur" />
@@ -185,6 +197,7 @@
     <item drawable="line" />
     <item drawable="linuxcommandlibrary" />
     <item drawable="listen" />
+    <item drawable="locker" />
     <item drawable="loop" />
     <item drawable="magisk" />
     <item drawable="mail" />
@@ -194,6 +207,7 @@
     <item drawable="masterpassword" />
     <item drawable="materialistic" />
     <item drawable="materialnotes" />
+    <item drawable="mather" />
     <item drawable="matlog" />
     <item drawable="mediafire" />
     <item drawable="mega" />
@@ -225,8 +239,9 @@
     <item drawable="nfctasks" />
     <item drawable="nfctools" />
     <item drawable="nhbooks" />
-    <item drawable="notes" />
+    <item drawable="notable" />
     <item drawable="notepad" />
+    <item drawable="notes" />
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="oandbackup" />
@@ -252,6 +267,7 @@
     <item drawable="owncloud" />
     <item drawable="packlist" />
     <item drawable="pairz" />
+    <item drawable="passwordkeeper" />
     <item drawable="password" />
     <item drawable="pb" />
     <item drawable="periodical" />
@@ -264,9 +280,12 @@
     <item drawable="pocket" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
+    <item drawable="preview" />
     <item drawable="primitiveftpd" />
     <item drawable="privacybrowser" />
+    <item drawable="privacyshade" />
     <item drawable="protonmail" />
+    <item drawable="puzzles" />
     <item drawable="qksms" />
     <item drawable="qrforkeepass" />
     <item drawable="qr" />
@@ -275,6 +294,7 @@
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
+    <item drawable="redactor" />
     <item drawable="reddit" />
     <item drawable="redmoon" />
     <item drawable="redreader" />
@@ -320,8 +340,8 @@
     <item drawable="snapchat" />
     <item drawable="snapseed" />
     <item drawable="snooperstopper" />
-    <item drawable="solidexplorer" />
     <item drawable="sokoban" />
+    <item drawable="solidexplorer" />
     <item drawable="sonos" />
     <item drawable="soundrecorder" />
     <item drawable="sparkasse" />
@@ -331,6 +351,7 @@
     <item drawable="steam" />
     <item drawable="streetcomplete" />
     <item drawable="stumbler" />
+    <item drawable="supportcenter" />
     <item drawable="su" />
     <item drawable="swedbank" />
     <item drawable="swiftkey" />
@@ -371,12 +392,14 @@
     <item drawable="urbandroid" />
     <item drawable="vanillamusic" />
     <item drawable="vasttrafik" />
+    <item drawable="vectorpinball" />
     <item drawable="viber" />
     <item drawable="vine" />
     <item drawable="vinyl" />
     <item drawable="viper" />
     <item drawable="vlc" />
     <item drawable="vsco" />
+    <item drawable="wallpapers" />
     <item drawable="waze" />
     <item drawable="weather" />
     <item drawable="webopac" />
