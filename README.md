@@ -5,7 +5,7 @@ An icon pack forked from [ICEcons](https://github.com/1C3/ICEcons) with the goal
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.dkanada.icecons)
 
 Frost includes support for Trebuchet, KISS, Nova, Apex, Holo, ZenUI, ADW, and many more launchers.
-There are about **300 icons**, as well as a few **4K wallpapers** included. Submitting icon requests helps a lot, but maintaining the project (as you may imagine) takes a lot of time and effort, so please be patient about adding new icons. Contributions for new icons are always welcome, and no experience with programming is necessary.
+There are over **400 icons**, as well as a few **4K wallpapers** included. Submitting icon requests helps a lot, but maintaining the project (as you may imagine) takes a lot of time and effort, so please be patient about adding new icons. Contributions for new icons are always welcome, and no experience with programming is necessary.
 
 <img src='https://raw.githubusercontent.com/dkanada/frost/master/metadata/en-US/screenshots.png'>
 
