@@ -92,8 +92,10 @@
     <item drawable="dsub" />
     <item drawable="duckduckgo" />
     <item drawable="earth" />
+    <item drawable="easer" />
     <item drawable="ebaykleinanzeigen" />
     <item drawable="echo" />
+    <item drawable="editor" />
     <item drawable="emby" />
     <item drawable="emerald" />
     <item drawable="emit" />
@@ -224,6 +226,7 @@
     <item drawable="nfctools" />
     <item drawable="nhbooks" />
     <item drawable="notes" />
+    <item drawable="notepad" />
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="oandbackup" />
@@ -251,6 +254,7 @@
     <item drawable="pairz" />
     <item drawable="password" />
     <item drawable="pb" />
+    <item drawable="periodical" />
     <item drawable="phone" />
     <item drawable="phonograph" />
     <item drawable="pixeldungeon" />
@@ -290,9 +294,11 @@
     <item drawable="sharetoclipboard" />
     <item drawable="shazam" />
     <item drawable="shell" />
+    <item drawable="shelter" />
     <item drawable="shoppinglist" />
     <item drawable="sieben" />
     <item drawable="signal" />
+    <item drawable="silence" />
     <item drawable="simexplorer" />
     <item drawable="simpleapplauncher" />
     <item drawable="simplecalculator" />
@@ -315,6 +321,7 @@
     <item drawable="snapseed" />
     <item drawable="snooperstopper" />
     <item drawable="solidexplorer" />
+    <item drawable="sokoban" />
     <item drawable="sonos" />
     <item drawable="soundrecorder" />
     <item drawable="sparkasse" />
@@ -360,6 +367,7 @@
     <item drawable="twidere" />
     <item drawable="twitter" />
     <item drawable="unifiednlp" />
+    <item drawable="unitconverterultimate" />
     <item drawable="urbandroid" />
     <item drawable="vanillamusic" />
     <item drawable="vasttrafik" />

@@ -340,11 +340,17 @@
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
 
+    <!-- Easer -->
+    <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer" />
+
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
 
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
+
+    <!-- Editor -->
+    <item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="editor" />
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
@@ -359,7 +365,7 @@
     <item component="ComponentInfo{tv.wpn.biokoda.android.emit/tv.wpn.biokoda.android.emitcommon.ConnectionActivity}" drawable="emit"/>
 
     <!-- Episodes -->
-    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.Mainactivity}" drawable="episodes" />
+    <item component="ComponentInfo{org.jamienicol.episodes/org.jamienicol.episodes.MainActivity}" drawable="episodes" />
 
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
@@ -731,7 +737,7 @@
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
     <!-- Movie DB -->
-    <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.MainActivity}" drawable="moviedb" />
+    <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
 
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
@@ -788,6 +794,9 @@
 
     <!-- NHBooks -->
     <item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks" />
+
+    <!-- Notepad -->
+    <item component="ComponentInfo{com.farmerbb.notepad/com.farmerbb.notepad.activity.MainActivity}" drawable="notepad" />
 
     <!-- Notification Notes -->
     <item component="ComponentInfo{com.khuttun.notificationnotes/com.khuttun.notificationnotes.MainActivity}" drawable="notificationnotes" />
@@ -886,6 +895,9 @@
 
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
+
+    <!-- Periodical -->
+    <item component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" drawable="periodical" />
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
@@ -1015,6 +1027,10 @@
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
 
+    <!-- Shelter -->
+    <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" />
+    <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.DummyActivity}" drawable="shelter" />
+
     <!-- Shopping List -->
     <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
 
@@ -1024,6 +1040,9 @@
     <!-- Signal -->
     <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+
+    <!-- Silence -->
+    <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
 
     <!-- Simple Calculator -->
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}" drawable="simplecalculator"/>
@@ -1295,6 +1314,9 @@
     <!-- SnooperStopper -->
     <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper" />
 
+    <!-- Sokoban -->
+    <item component="ComponentInfo{com.mobilepearls.sokoban/com.mobilepearls.sokoban.SokobanMenuActivity}" drawable="sokoban" />
+
     <!-- Solid Explorer -->
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solidexplorer" />
 
@@ -1449,6 +1471,9 @@
     <!-- Unified Nlp -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
     <item component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
+
+    <!-- Unit Converter Ultimate -->
+    <item component="ComponentInfo{com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity}" drawable="unitconverterultimate" />
 
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
