@@ -12,3 +12,5 @@
 <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via"/>
 <!-- AliExpress -->
 <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress"/>
+<!-- BSPB -->
+<item component="ComponentInfo{ru.bspb/ru.bspb.MainActivity}" drawable="bspb"/>
