@@ -1,0 +1,66 @@
+<!-- AntennaPod -->
+<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
+<!-- BBM -->
+<item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm"/>
+<!-- Blockinger -->
+<item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
+<!-- Calculator -->
+<item component="ComponentInfo{com.tct.calculator.bb/com.tct.calculator.Calculator}" drawable="calculator"/>
+<!-- Calendar -->
+<item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar"/>
+<!-- Camera -->
+<item component="ComponentInfo{com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity}" drawable="camera"/>
+<!-- Clock -->
+<item component="ComponentInfo{com.android.deskclock.bb/com.android.deskclock.DeskClock}" drawable="clock"/>
+<!-- Contacts -->
+<item component="ComponentInfo{com.blackberry.contacts/com.android.contacts.activities.PeopleDrawerActivity}" drawable="contacts"/>
+<!-- Content Transfer -->
+<item component="ComponentInfo{com.mediamushroom.easymigrate/com.mediamushroom.easymigrate.UI.EasyMigrateActivityCompat}" drawable="contenttransfer"/>
+<!-- Device Search -->
+<item component="ComponentInfo{com.blackberry.universalsearch/com.blackberry.assistantapp.MainActivity}" drawable="devicesearch"/>
+<!-- DTEK by BlackBerry -->
+<item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="dtekbyblackberry"/>
+<!-- Flow Free -->
+<item component="ComponentInfo{com.bigduckgames.flow/com.bigduckgames.flow.flow}" drawable="flowfree"/>
+<!-- Flow Free Bridges -->
+<item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flowfreebridges"/>
+<!-- Flow Free Hexes -->
+<item component="ComponentInfo{com.bigduckgames.flowhexes/com.bigduckgames.flow.flow}" drawable="flowfreehexes"/>
+<!-- Flow Free Warps -->
+<item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flowfreewarps"/>
+<!-- Good Weather -->
+<item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather"/>
+<!-- Hub -->
+<item component="ComponentInfo{com.blackberry.hub/com.blackberry.hub.ui.IntroActivity}" drawable="hub"/>
+<!-- Locker -->
+<item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker"/>
+<!-- Mather -->
+<item component="ComponentInfo{org.icasdri.mather/org.icasdri.mather.MainActivity}" drawable="mather"/>
+<!-- Messages -->
+<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages"/>
+<!-- Notable -->
+<item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable"/>
+<!-- Notes -->
+<item component="ComponentInfo{com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity}" drawable="notes"/>
+<!-- Password Keeper -->
+<item component="ComponentInfo{com.blackberry.passwordkeeper/com.blackberry.passwordkeeper.WhatsNewActivity}" drawable="passwordkeeper"/>
+<!-- Power Center -->
+<item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="battery"/>
+<!-- Preview -->
+<item component="ComponentInfo{com.blackberrymobile.aota/com.blackberrymobile.aota.UI.activity.NewMainActivity}" drawable="preview"/>
+<!-- Privacy Shade -->
+<item component="ComponentInfo{com.blackberry.privacyfilter/com.blackberry.privacyfilter.ToggleActivity}" drawable="privacyshade"/>
+<!-- Puzzles -->
+<item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles"/>
+<!-- Redactor -->
+<item component="ComponentInfo{com.blackberry.privacyfilter/com.blackberry.redactor.RDToggleActivity}" drawable="redactor"/>
+<!-- Sound Recorder -->
+<item component="ComponentInfo{com.tct.soundrecorder.bb/com.tct.soundrecorder.SoundRecorder}" drawable="soundrecorder"/>
+<!-- Support Center -->
+<item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter"/>
+<!-- Tasks -->
+<item component="ComponentInfo{com.blackberry.tasks/com.blackberry.tasks.ui.list.TasksListActivity}" drawable="tasks"/>
+<!-- Vector Pinball -->
+<item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball"/>
+<!-- Wallpapers -->
+<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers"/>
