@@ -60,6 +60,9 @@
     <!-- AnkiDroid -->
     <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid" />
 
+    <!-- AntennaPod -->
+    <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod"/>
+
     <!-- Antox -->
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}" drawable="antox" />
 
