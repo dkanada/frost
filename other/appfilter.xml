@@ -1,43 +1,18 @@
-<!-- androidVNC -->
-<item component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}" drawable="androidvnc"/>
-<!-- AnyDesk -->
-<item component="ComponentInfo{com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity}" drawable="anydesk"/>
-<!-- Apps2SD -->
-<item component="ComponentInfo{in.co.pricealert.apps2sd/in.co.pricealert.apps2sd.MainActivity}" drawable="apps2sd"/>
-<!-- Calculator -->
-<item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Orange}" drawable="calculator"/>
-<!-- Camera -->
-<item component="ComponentInfo{com.amazon.camera/com.amazon.camera.AmazonCameraActivity}" drawable="camera"/>
-<!-- Chromium -->
-<item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium"/>
-<!-- Comic
-Screen -->
-<item component="ComponentInfo{com.viewer.comicscreen/com.viewer.comicscreen.ListActivity}" drawable="comicscreen"/>
-<!-- Emit -->
-<item component="ComponentInfo{tv.wpn.biokoda.android.emit/tv.wpn.biokoda.android.emitcommon.ConnectionActivity}" drawable="emit"/>
+<!-- Dolby Atmos -->
+<item component="ComponentInfo{com.dolby.daxappUI/com.dolby.daxappUI.MainActivity}" drawable="dolbyatmos"/>
 <!-- Gallery -->
-<item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Orange}" drawable="gallery"/>
-<!-- Google Settings -->
-<item component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}" drawable="googlesettings"/>
-<!-- Jota Text Editor -->
-<item component="ComponentInfo{jp.sblo.pandora.jota/jp.sblo.pandora.jota.Main}" drawable="jotatexteditor"/>
-<!-- Linux Command Library -->
-<item component="ComponentInfo{com.inspiredandroid.linuxcommandbibliotheca/com.inspiredandroid.linuxcommandbibliotheca.NavigationActivity}" drawable="linuxcommandlibrary"/>
-<!-- Markers -->
-<item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
-<!-- Minecraft -->
-<item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
-<!-- Plex -->
-<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex"/>
-<!-- Plumble -->
-<item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble"/>
-<!-- ScummVM -->
-<item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.MainActivity}" drawable="scummvm"/>
-<!-- Total Commander -->
-<item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="totalcommander"/>
-<!-- Wire -->
-<item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire"/>
-<!-- Yatse -->
-<item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse"/>
-<!-- YouTube Vanced -->
-<item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtubevanced"/>
+<item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.GalleryActivity}" drawable="gallery"/>
+<!-- File Browser -->
+<item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserMain}" drawable="files"/>
+<!-- Sound Recorder -->
+<item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="soundrecorder"/>
+<!-- Compass -->
+<item component="ComponentInfo{com.lenovo.compass/com.lenovo.compass.CompassActivity}" drawable="compass"/>
+<!-- Camera -->
+<item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.CameraLauncher}" drawable="camera"/>
+<!-- Clock -->
+<item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="clock2"/>
+<!-- Radio -->
+<item component="ComponentInfo{com.lenovo.fm/com.lenovo.fm.LenovoMainActivity}" drawable="radio"/>
+<!-- Theme Center -->
+<item component="ComponentInfo{com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity}" drawable="themecenter"/>
