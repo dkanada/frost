@@ -1,3 +1,5 @@
-* seven new icons thanks to crishaddad
+New Icons: 7
+Thanks: crishaddad
+
 * fix possible crash in the icon view
 * fix several missing icons for LineageOS
