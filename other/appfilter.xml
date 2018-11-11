@@ -1,15 +1,17 @@
+<!-- Bromite -->
+<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
 <!-- Dolby Atmos -->
 <item component="ComponentInfo{com.dolby.daxappUI/com.dolby.daxappUI.MainActivity}" drawable="dolbyatmos"/>
 <!-- Gallery -->
-<item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.GalleryActivity}" drawable="gallery"/>
+<item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="gallery"/>
 <!-- File Browser -->
-<item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserMain}" drawable="files"/>
+<item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="files"/>
 <!-- Sound Recorder -->
 <item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="soundrecorder"/>
 <!-- Compass -->
 <item component="ComponentInfo{com.lenovo.compass/com.lenovo.compass.CompassActivity}" drawable="compass"/>
 <!-- Camera -->
-<item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.CameraLauncher}" drawable="camera"/>
+<item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="camera"/>
 <!-- Clock -->
 <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="clock2"/>
 <!-- Radio -->
