@@ -1,0 +1,3 @@
+<!-- Firefox Focus/Klar -->
+<item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="files"/>
+<item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="files"/>
