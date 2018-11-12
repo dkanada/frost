@@ -429,9 +429,15 @@
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files" />
     <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files"/>
 
+    <!-- Firefox Focus -->
+    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefoxfocus"/>
+
     <!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
     <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox" />
+
+    <!-- Firefox Klar -->
+    <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefoxfocus"/>
 
     <!-- Flatastic -->
     <item component="ComponentInfo{com.flatastic.app/com.flatastic.app.MainActivity}" drawable="flatastic" />
@@ -1455,15 +1461,15 @@
     <!-- Tap 'n' Turn -->
     <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapnturn" />
 
-    <!-- Taskwarrior -->
-    <item component="ComponentInfo{kvj.taskw/kvj.taskw.ui.MainActivity}" drawable="taskwarrior"/>
-
     <!-- Tasker -->
     <item component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}" drawable="tasker"/>
 
     <!-- Tasks -->
     <item component="ComponentInfo{com.blackberry.tasks/com.blackberry.tasks.ui.list.TasksListActivity}" drawable="tasks"/>
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks" />
+
+    <!-- Taskwarrior -->
+    <item component="ComponentInfo{kvj.taskw/kvj.taskw.ui.MainActivity}" drawable="taskwarrior"/>
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
