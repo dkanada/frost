@@ -4,7 +4,6 @@ import android.app.WallpaperManager;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.ImageView;
@@ -16,6 +15,8 @@ import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
 
 import java.io.IOException;
+
+import androidx.core.content.ContextCompat;
 
 public class WallpaperSetActivity extends BaseActivity {
 
