@@ -113,6 +113,9 @@
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora" />
 
+    <!-- Authy -->
+    <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
+
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
 
@@ -139,6 +142,9 @@
 
     <!-- BlaBlaCar -->
     <item component="ComponentInfo{com.comuto/com.comuto.v3.activity.ProxyActivity}" drawable="blablacar" />
+
+    <!-- BlackBerry Launcher -->
+    <item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberrylauncher"/>
 
     <!-- Blockinger -->
     <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger"/>
@@ -951,6 +957,9 @@
     <!-- Password Store -->
     <item component="ComponentInfo{com.zeapo.pwdstore/com.zeapo.pwdstore.PasswordStore}" drawable="password" />
 
+    <!-- PayPal -->
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
@@ -1090,6 +1099,9 @@
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+
+    <!-- Seven Time -->
+    <item component="ComponentInfo{com.codescape.seventime/com.codescape.seventime.MainActivity}" drawable="seventime"/>
 
     <!-- Sgit -->
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit" />

@@ -1,4 +1,0 @@
-<!-- Authy -->
-<item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="com_authy_authy_com_authy_authy_activities_InitializationActivity"/>
-<!-- PayPal -->
-<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="com_paypal_android_p2pmobile_com_paypal_android_p2pmobile_startup_activities_StartupActivity"/>

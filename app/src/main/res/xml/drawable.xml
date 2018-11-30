@@ -33,6 +33,7 @@
     <item drawable="audinaut" />
     <item drawable="audiofx" />
     <item drawable="aurora" />
+    <item drawable="authy" />
     <item drawable="bandcamp" />
     <item drawable="bankid" />
     <item drawable="barcode" />
@@ -43,6 +44,7 @@
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
     <item drawable="blablacar" />
+    <item drawable="blackberrylauncher" />
     <item drawable="blockinger" />
     <item drawable="blogger" />
     <item drawable="blueminimal" />
@@ -116,7 +118,6 @@
     <item drawable="feeder" />
     <item drawable="fennec" />
     <item drawable="files" />
-    <item drawable="firefoxfocus" />
     <item drawable="firefox" />
     <item drawable="flatastic" />
     <item drawable="flickr" />
@@ -270,6 +271,7 @@
     <item drawable="pairz" />
     <item drawable="passwordkeeper" />
     <item drawable="password" />
+    <item drawable="paypal" />
     <item drawable="pb" />
     <item drawable="periodical" />
     <item drawable="phone" />
@@ -311,6 +313,7 @@
     <item drawable="seafile" />
     <item drawable="sensorreadout" />
     <item drawable="settings" />
+    <item drawable="seventime" />
     <item drawable="sgit" />
     <item drawable="sharetoclipboard" />
     <item drawable="shazam" />

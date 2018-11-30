@@ -1,4 +1,0 @@
-<!-- BlackBerry Launcher -->
-<item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberrylauncher"/>
-<!-- Seven Time -->
-<item component="ComponentInfo{com.codescape.seventime/com.codescape.seventime.MainActivity}" drawable="seventime"/>
