@@ -44,6 +44,8 @@
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
     <item drawable="blablacar" />
+    <item drawable="blabla_circle" />
+    <item drawable="blabla_square" />
     <item drawable="blackberrylauncher" />
     <item drawable="blockinger" />
     <item drawable="blogger" />
@@ -54,6 +56,8 @@
     <item drawable="brave" />
     <item drawable="browser" />
     <item drawable="bubble" />
+    <item drawable="bus_circle" />
+    <item drawable="bus_square" />
     <item drawable="busybox" />
     <item drawable="cabinet" />
     <item drawable="calculator" />
@@ -80,6 +84,8 @@
     <item drawable="contenttransfer" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
+    <item drawable="creditagricole_circle" />
+    <item drawable="creditagricole_square" />
     <item drawable="cuprumpdf" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
@@ -131,6 +137,7 @@
     <item drawable="forecastie" />
     <item drawable="forest" />
     <item drawable="forkhub" />
+    <item drawable="freebox" />
     <item drawable="freeotp" />
     <item drawable="frost" />
     <item drawable="g2step" />
@@ -231,6 +238,8 @@
     <item drawable="muzei" />
     <item drawable="mx" />
     <item drawable="mysplash" />
+    <item drawable="n26_circle" />
+    <item drawable="n26_square" />
     <item drawable="napster" />
     <item drawable="netflix" />
     <item drawable="netguard" />
@@ -380,10 +389,13 @@
     <item drawable="tinc" />
     <item drawable="tinder" />
     <item drawable="tinytraveltracker" />
+    <item drawable="tisseo_circle" />
+    <item drawable="tisseo_square" />
     <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
     <item drawable="totalcommander" />
+    <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
     <item drawable="trenord" />

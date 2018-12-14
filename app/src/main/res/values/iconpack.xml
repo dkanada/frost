@@ -44,6 +44,8 @@
         <item>bitcoin</item>
         <item>bitwarden</item>
         <item>blablacar</item>
+        <item>blabla_circle</item>
+        <item>blabla_square</item>
         <item>blackberrylauncher</item>
         <item>blockinger</item>
         <item>blogger</item>
@@ -54,6 +56,8 @@
         <item>brave</item>
         <item>browser</item>
         <item>bubble</item>
+        <item>bus_circle</item>
+        <item>bus_square</item>
         <item>busybox</item>
         <item>cabinet</item>
         <item>calculator</item>
@@ -80,6 +84,8 @@
         <item>contenttransfer</item>
         <item>conversations</item>
         <item>cpuz</item>
+        <item>creditagricole_circle</item>
+        <item>creditagricole_square</item>
         <item>cuprumpdf</item>
         <item>daserste</item>
         <item>davdroid</item>
@@ -131,6 +137,7 @@
         <item>forecastie</item>
         <item>forest</item>
         <item>forkhub</item>
+        <item>freebox</item>
         <item>freeotp</item>
         <item>frost</item>
         <item>g2step</item>
@@ -231,6 +238,8 @@
         <item>muzei</item>
         <item>mx</item>
         <item>mysplash</item>
+        <item>n26_circle</item>
+        <item>n26_square</item>
         <item>napster</item>
         <item>netflix</item>
         <item>netguard</item>
@@ -380,10 +389,13 @@
         <item>tinc</item>
         <item>tinder</item>
         <item>tinytraveltracker</item>
+        <item>tisseo_circle</item>
+        <item>tisseo_square</item>
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
         <item>totalcommander</item>
+        <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
         <item>trenord</item>
