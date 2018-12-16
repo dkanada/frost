@@ -90,7 +90,10 @@
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="deluge" />
+    <item drawable="detexify" />
     <item drawable="devicesearch" />
+    <item drawable="devrant" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
     <item drawable="dimmer" />
@@ -105,6 +108,7 @@
     <item drawable="dsub" />
     <item drawable="dtekbyblackberry" />
     <item drawable="duckduckgo" />
+    <item drawable="duolingo" />
     <item drawable="earth" />
     <item drawable="easer" />
     <item drawable="ebaykleinanzeigen" />
@@ -219,6 +223,7 @@
     <item drawable="mather" />
     <item drawable="matlog" />
     <item drawable="mediafire" />
+    <item drawable="meetup" />
     <item drawable="mega" />
     <item drawable="meinvodafone" />
     <item drawable="messages" />
@@ -329,6 +334,8 @@
     <item drawable="shell" />
     <item drawable="shelter" />
     <item drawable="shoppinglist" />
+    <item drawable="shrug_circle" />
+    <item drawable="shrug_square" />
     <item drawable="sieben" />
     <item drawable="signal" />
     <item drawable="silence" />

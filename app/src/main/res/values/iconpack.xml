@@ -90,7 +90,10 @@
         <item>daserste</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
+        <item>deluge</item>
+        <item>detexify</item>
         <item>devicesearch</item>
+        <item>devrant</item>
         <item>diaspora</item>
         <item>dicer</item>
         <item>dimmer</item>
@@ -105,6 +108,7 @@
         <item>dsub</item>
         <item>dtekbyblackberry</item>
         <item>duckduckgo</item>
+        <item>duolingo</item>
         <item>earth</item>
         <item>easer</item>
         <item>ebaykleinanzeigen</item>
@@ -219,6 +223,7 @@
         <item>mather</item>
         <item>matlog</item>
         <item>mediafire</item>
+        <item>meetup</item>
         <item>mega</item>
         <item>meinvodafone</item>
         <item>messages</item>
@@ -329,6 +334,8 @@
         <item>shell</item>
         <item>shelter</item>
         <item>shoppinglist</item>
+        <item>shrug_circle</item>
+        <item>shrug_square</item>
         <item>sieben</item>
         <item>signal</item>
         <item>silence</item>
