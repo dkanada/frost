@@ -40,6 +40,7 @@
         <item>battery</item>
         <item>bbm</item>
         <item>bible</item>
+        <item>bikelocation</item>
         <item>birthdayadapter</item>
         <item>bitcoin</item>
         <item>bitwarden</item>
@@ -144,6 +145,7 @@
         <item>freebox</item>
         <item>freeotp</item>
         <item>frost</item>
+        <item>fuelflash</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
         <item>gag</item>
@@ -311,6 +313,7 @@
         <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
+        <item>recyclelocation</item>
         <item>redactor</item>
         <item>reddit</item>
         <item>redmoon</item>
@@ -355,6 +358,7 @@
         <item>simpleweather</item>
         <item>sim</item>
         <item>skype</item>
+        <item>slack</item>
         <item>slidereddit</item>
         <item>slide</item>
         <item>snapchat</item>

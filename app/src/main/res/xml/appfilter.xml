@@ -516,6 +516,9 @@
     <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
     <item component="ComponentInfo{com.dkanada.icecons.debug/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
 
+    <!-- Fuel Flash -->
+    <item component="ComponentInfo{de.mwwebwork.benzinpreisblitz/de.mwwebwork.benzinpreisblitz.MainActivity}" drawable="fuelflash"/>
+
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="gadgetbridge" />
@@ -640,6 +643,9 @@
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
+
+    <!-- Guide du tri : recycling info-->
+    <item component="ComponentInfo{fr.ecoemballage.guidedutri/fr.ecoemballage.guidedutri.activities.SplashActivity}" drawable="recyclelocation"/>
 
     <!-- Hacker's Keyboard -->
     <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerskb" />
@@ -1665,6 +1671,9 @@
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
 
+    <!-- Slack -->
+    <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
 
@@ -1822,6 +1831,9 @@
 
     <!-- Total Commander -->
     <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="totalcommander"/>
+
+    <!-- Toulouse VélôToulouse (bikes rental) -->
+    <item component="ComponentInfo{com.michgauz.velotoulouse.view/com.michgauz.velibco.view.GlobalActivity}" drawable="bikelocation"/>
 
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>

@@ -40,6 +40,7 @@
     <item drawable="battery" />
     <item drawable="bbm" />
     <item drawable="bible" />
+    <item drawable="bikelocation" />
     <item drawable="birthdayadapter" />
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
@@ -144,6 +145,7 @@
     <item drawable="freebox" />
     <item drawable="freeotp" />
     <item drawable="frost" />
+    <item drawable="fuelflash" />
     <item drawable="g2step" />
     <item drawable="gadgetbridge" />
     <item drawable="gag" />
@@ -311,6 +313,7 @@
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
+    <item drawable="recyclelocation" />
     <item drawable="redactor" />
     <item drawable="reddit" />
     <item drawable="redmoon" />
@@ -355,6 +358,7 @@
     <item drawable="simpleweather" />
     <item drawable="sim" />
     <item drawable="skype" />
+    <item drawable="slack" />
     <item drawable="slidereddit" />
     <item drawable="slide" />
     <item drawable="snapchat" />
