@@ -452,6 +452,7 @@
     <!-- Files -->
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files" />
     <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
 
     <!-- Firefox Focus -->
     <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox"/>
@@ -490,6 +491,7 @@
     <!-- FM Radio -->
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
     <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="radio" />
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="radio"/>
 
     <!-- Foobar2000 -->
     <item component="ComponentInfo{com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity}" drawable="foobar2000" />
@@ -887,6 +889,7 @@
 
     <!-- Notepad -->
     <item component="ComponentInfo{com.farmerbb.notepad/com.farmerbb.notepad.activity.MainActivity}" drawable="notepad" />
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notepad"/>
 
     <!-- Notes -->
     <item component="ComponentInfo{com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity}" drawable="notes"/>
@@ -1131,6 +1134,7 @@
 
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
 
     <!-- Seven Time -->
     <item component="ComponentInfo{com.codescape.seventime/com.codescape.seventime.MainActivity}" drawable="seventime"/>
@@ -1655,6 +1659,8 @@
 
     <!-- Sim Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim"/>
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim"/>
 
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
@@ -1778,6 +1784,7 @@
 
     <!-- Themes -->
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="themes"/>
 
     <!-- Threema -->
     <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
@@ -1808,6 +1815,7 @@
 
     <!-- Torch -->
     <item component="ComponentInfo{com.doomy.torch/com.doomy.torch.LaunchActivity}" drawable="torch" />
+    <item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="torch"/>
 
     <!-- Torrent Client -->
     <item component="ComponentInfo{com.github.axet.torrentclient/com.github.axet.torrentclient.activities.MainActivity}" drawable="torrentclient" />
