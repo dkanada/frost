@@ -40,10 +40,13 @@
         <item>battery</item>
         <item>bbm</item>
         <item>bible</item>
+        <item>bikelocation</item>
         <item>birthdayadapter</item>
         <item>bitcoin</item>
         <item>bitwarden</item>
         <item>blablacar</item>
+        <item>blabla_circle</item>
+        <item>blabla_square</item>
         <item>blackberrylauncher</item>
         <item>blockinger</item>
         <item>blogger</item>
@@ -54,6 +57,8 @@
         <item>brave</item>
         <item>browser</item>
         <item>bubble</item>
+        <item>bus_circle</item>
+        <item>bus_square</item>
         <item>busybox</item>
         <item>cabinet</item>
         <item>calculator</item>
@@ -80,11 +85,16 @@
         <item>contenttransfer</item>
         <item>conversations</item>
         <item>cpuz</item>
+        <item>creditagricole_circle</item>
+        <item>creditagricole_square</item>
         <item>cuprumpdf</item>
         <item>daserste</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
+        <item>deluge</item>
+        <item>detexify</item>
         <item>devicesearch</item>
+        <item>devrant</item>
         <item>diaspora</item>
         <item>dicer</item>
         <item>dimmer</item>
@@ -99,6 +109,7 @@
         <item>dsub</item>
         <item>dtekbyblackberry</item>
         <item>duckduckgo</item>
+        <item>duolingo</item>
         <item>earth</item>
         <item>easer</item>
         <item>ebaykleinanzeigen</item>
@@ -131,8 +142,10 @@
         <item>forecastie</item>
         <item>forest</item>
         <item>forkhub</item>
+        <item>freebox</item>
         <item>freeotp</item>
         <item>frost</item>
+        <item>fuelflash</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
         <item>gag</item>
@@ -212,6 +225,7 @@
         <item>mather</item>
         <item>matlog</item>
         <item>mediafire</item>
+        <item>meetup</item>
         <item>mega</item>
         <item>meinvodafone</item>
         <item>messages</item>
@@ -231,6 +245,8 @@
         <item>muzei</item>
         <item>mx</item>
         <item>mysplash</item>
+        <item>n26_circle</item>
+        <item>n26_square</item>
         <item>napster</item>
         <item>netflix</item>
         <item>netguard</item>
@@ -297,6 +313,7 @@
         <item>radio</item>
         <item>recorder</item>
         <item>recurrence</item>
+        <item>recyclelocation</item>
         <item>redactor</item>
         <item>reddit</item>
         <item>redmoon</item>
@@ -320,6 +337,8 @@
         <item>shell</item>
         <item>shelter</item>
         <item>shoppinglist</item>
+        <item>shrug_circle</item>
+        <item>shrug_square</item>
         <item>sieben</item>
         <item>signal</item>
         <item>silence</item>
@@ -339,6 +358,7 @@
         <item>simpleweather</item>
         <item>sim</item>
         <item>skype</item>
+        <item>slack</item>
         <item>slidereddit</item>
         <item>slide</item>
         <item>snapchat</item>
@@ -380,10 +400,13 @@
         <item>tinc</item>
         <item>tinder</item>
         <item>tinytraveltracker</item>
+        <item>tisseo_circle</item>
+        <item>tisseo_square</item>
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
         <item>totalcommander</item>
+        <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
         <item>trenord</item>

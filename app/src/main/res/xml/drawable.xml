@@ -40,10 +40,13 @@
     <item drawable="battery" />
     <item drawable="bbm" />
     <item drawable="bible" />
+    <item drawable="bikelocation" />
     <item drawable="birthdayadapter" />
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
     <item drawable="blablacar" />
+    <item drawable="blabla_circle" />
+    <item drawable="blabla_square" />
     <item drawable="blackberrylauncher" />
     <item drawable="blockinger" />
     <item drawable="blogger" />
@@ -54,6 +57,8 @@
     <item drawable="brave" />
     <item drawable="browser" />
     <item drawable="bubble" />
+    <item drawable="bus_circle" />
+    <item drawable="bus_square" />
     <item drawable="busybox" />
     <item drawable="cabinet" />
     <item drawable="calculator" />
@@ -80,11 +85,16 @@
     <item drawable="contenttransfer" />
     <item drawable="conversations" />
     <item drawable="cpuz" />
+    <item drawable="creditagricole_circle" />
+    <item drawable="creditagricole_square" />
     <item drawable="cuprumpdf" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="deluge" />
+    <item drawable="detexify" />
     <item drawable="devicesearch" />
+    <item drawable="devrant" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
     <item drawable="dimmer" />
@@ -99,6 +109,7 @@
     <item drawable="dsub" />
     <item drawable="dtekbyblackberry" />
     <item drawable="duckduckgo" />
+    <item drawable="duolingo" />
     <item drawable="earth" />
     <item drawable="easer" />
     <item drawable="ebaykleinanzeigen" />
@@ -131,8 +142,10 @@
     <item drawable="forecastie" />
     <item drawable="forest" />
     <item drawable="forkhub" />
+    <item drawable="freebox" />
     <item drawable="freeotp" />
     <item drawable="frost" />
+    <item drawable="fuelflash" />
     <item drawable="g2step" />
     <item drawable="gadgetbridge" />
     <item drawable="gag" />
@@ -212,6 +225,7 @@
     <item drawable="mather" />
     <item drawable="matlog" />
     <item drawable="mediafire" />
+    <item drawable="meetup" />
     <item drawable="mega" />
     <item drawable="meinvodafone" />
     <item drawable="messages" />
@@ -231,6 +245,8 @@
     <item drawable="muzei" />
     <item drawable="mx" />
     <item drawable="mysplash" />
+    <item drawable="n26_circle" />
+    <item drawable="n26_square" />
     <item drawable="napster" />
     <item drawable="netflix" />
     <item drawable="netguard" />
@@ -297,6 +313,7 @@
     <item drawable="radio" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
+    <item drawable="recyclelocation" />
     <item drawable="redactor" />
     <item drawable="reddit" />
     <item drawable="redmoon" />
@@ -320,6 +337,8 @@
     <item drawable="shell" />
     <item drawable="shelter" />
     <item drawable="shoppinglist" />
+    <item drawable="shrug_circle" />
+    <item drawable="shrug_square" />
     <item drawable="sieben" />
     <item drawable="signal" />
     <item drawable="silence" />
@@ -339,6 +358,7 @@
     <item drawable="simpleweather" />
     <item drawable="sim" />
     <item drawable="skype" />
+    <item drawable="slack" />
     <item drawable="slidereddit" />
     <item drawable="slide" />
     <item drawable="snapchat" />
@@ -380,10 +400,13 @@
     <item drawable="tinc" />
     <item drawable="tinder" />
     <item drawable="tinytraveltracker" />
+    <item drawable="tisseo_circle" />
+    <item drawable="tisseo_square" />
     <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
     <item drawable="totalcommander" />
+    <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
     <item drawable="trenord" />
