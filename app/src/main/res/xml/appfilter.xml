@@ -1765,6 +1765,9 @@
     <!-- Syncthing -->
     <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
 
+    <!-- Syncopoli -->
+    <item component="ComponentInfo{org.amoradi.syncopoli/org.amoradi.syncopoli.BackupActivity}" drawable="syncopoli" />
+
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />
 
