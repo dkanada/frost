@@ -1001,6 +1001,9 @@
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
 
+    <!-- Peertube -->
+    <item component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}" drawable="peertube" />
+
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
