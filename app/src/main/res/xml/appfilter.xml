@@ -894,8 +894,9 @@
     <item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable"/>
 
     <!-- Notepad -->
+    <item component="ComponentInfo{com.farmerbb.notepad/com.farmerbb.notepad.MainActivity}" drawable="notepad" />
     <item component="ComponentInfo{com.farmerbb.notepad/com.farmerbb.notepad.activity.MainActivity}" drawable="notepad" />
-    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="notepad"/>
+    <item component="ComponentInfo{com.farmerbb.notepad/com.farmerbb.notepad.activity.NoteEditActivity}" drawable="notepad" />
 
     <!-- Notes -->
     <item component="ComponentInfo{com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity}" drawable="notes"/>
