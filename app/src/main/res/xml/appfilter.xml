@@ -355,6 +355,10 @@
     <!-- DiskUsage -->
     <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage"/>
 
+    <!-- Disroot -->
+    <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.MainActivity}" drawable="disroot"/>
+    <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot"/>
+
     <!-- DNS man -->
     <item component="ComponentInfo{io.github.otakuchiyan.dnsman/io.github.otakuchiyan.dnsman.MainActivity}" drawable="dnsman" />
 
