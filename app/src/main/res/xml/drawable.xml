@@ -38,6 +38,7 @@
     <item drawable="bankid" />
     <item drawable="barcode" />
     <item drawable="battery" />
+    <item drawable="batterycalibration" />
     <item drawable="bbm" />
     <item drawable="bible" />
     <item drawable="bikelocation" />
