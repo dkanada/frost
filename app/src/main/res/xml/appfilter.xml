@@ -442,6 +442,9 @@
     <!-- FastHub -->
     <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
 
+    <!-- Faketraveller -->
+    <item component="ComponentInfo{cl.coders.faketraveller/cl.coders.faketraveller.MainActivity}" drawable="faketraveller" />
+
     <!-- FastHub-Libre -->
     <item component="ComponentInfo{com.fastaccess.github.libre/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
 
