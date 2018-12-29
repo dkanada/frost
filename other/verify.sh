@@ -27,8 +27,9 @@ else
 fi
   
 if ! \
-  grep -"$grep_switches" \
-    "[0-9]{1,3}\.[0-9]{1,3}e-[0-9]\|fill-rule:evenodd\|matrix\|transform"\
+  grep \
+    -"$grep_switches" \
+    "[0-9]{1,3}\.[0-9]{1,3}e-[0-9]\|fill-rule:evenodd\|matrix\|transform" \
      ./*.svg
 then
   exit 0
