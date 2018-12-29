@@ -18,9 +18,16 @@ then
 else
   batch=$BATCH_MODE
 fi
+
+if $batch
+then
+  grep_switches='liq'
+else
+  grep_switches='li'
+fi
   
 if ! \
-  grep -li \
+  grep -"$grep_switches" \
     "[0-9]{1,3}\.[0-9]{1,3}e-[0-9]\|fill-rule:evenodd\|matrix\|transform"\
      ./*.svg
 then
