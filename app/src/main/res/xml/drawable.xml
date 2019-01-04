@@ -38,6 +38,7 @@
     <item drawable="bankid" />
     <item drawable="barcode" />
     <item drawable="battery" />
+    <item drawable="batterycalibration" />
     <item drawable="bbm" />
     <item drawable="bible" />
     <item drawable="bikelocation" />
@@ -100,6 +101,7 @@
     <item drawable="dimmer" />
     <item drawable="discord" />
     <item drawable="diskusage" />
+    <item drawable="disroot" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
     <item drawable="downloads" />
@@ -124,6 +126,7 @@
     <item drawable="etesync" />
     <item drawable="exportcontacts" />
     <item drawable="facebook" />
+    <item drawable="faketraveller" />
     <item drawable="fasthub" />
     <item drawable="fdroid" />
     <item drawable="feeder" />
@@ -289,6 +292,7 @@
     <item drawable="password" />
     <item drawable="paypal" />
     <item drawable="pb" />
+    <item drawable="peertube" />
     <item drawable="periodical" />
     <item drawable="phone" />
     <item drawable="phonograph" />
@@ -380,6 +384,7 @@
     <item drawable="swedbank" />
     <item drawable="swiftkey" />
     <item drawable="swish" />
+    <item drawable="syncopoli" />
     <item drawable="syncthing" />
     <item drawable="systemappmover" />
     <item drawable="tachiyomi" />
