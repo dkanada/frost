@@ -439,11 +439,11 @@
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.MainActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook" />
 
-    <!-- FastHub -->
-    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
-
     <!-- Faketraveller -->
     <item component="ComponentInfo{cl.coders.faketraveller/cl.coders.faketraveller.MainActivity}" drawable="faketraveller" />
+
+    <!-- FastHub -->
+    <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
 
     <!-- FastHub-Libre -->
     <item component="ComponentInfo{com.fastaccess.github.libre/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
@@ -853,6 +853,9 @@
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music"/>
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music"/>
+
+    <!-- MusicPiped -->
+    <item component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.rydplayer.Main2Activity}" drawable="musicpiped"/>
 
     <!-- Muzei -->
     <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
@@ -1765,11 +1768,11 @@
     <!-- Swish Payments -->
     <item component="ComponentInfo{se.bankgirot.swish/se.bankgirot.swish.ui.SplashActivity}" drawable="swish"/>
 
-    <!-- Syncthing -->
-    <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
-
     <!-- Syncopoli -->
     <item component="ComponentInfo{org.amoradi.syncopoli/org.amoradi.syncopoli.BackupActivity}" drawable="syncopoli" />
+
+    <!-- Syncthing -->
+    <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
 
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />

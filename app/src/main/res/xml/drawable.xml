@@ -37,8 +37,8 @@
     <item drawable="bandcamp" />
     <item drawable="bankid" />
     <item drawable="barcode" />
-    <item drawable="battery" />
     <item drawable="batterycalibration" />
+    <item drawable="battery" />
     <item drawable="bbm" />
     <item drawable="bible" />
     <item drawable="bikelocation" />
@@ -244,6 +244,7 @@
     <item drawable="money" />
     <item drawable="moviedb" />
     <item drawable="mupdf" />
+    <item drawable="musicpiped" />
     <item drawable="music" />
     <item drawable="muzei" />
     <item drawable="mx" />

@@ -37,6 +37,7 @@
         <item>bandcamp</item>
         <item>bankid</item>
         <item>barcode</item>
+        <item>batterycalibration</item>
         <item>battery</item>
         <item>bbm</item>
         <item>bible</item>
@@ -100,6 +101,7 @@
         <item>dimmer</item>
         <item>discord</item>
         <item>diskusage</item>
+        <item>disroot</item>
         <item>dnsman</item>
         <item>doodle</item>
         <item>downloads</item>
@@ -124,6 +126,7 @@
         <item>etesync</item>
         <item>exportcontacts</item>
         <item>facebook</item>
+        <item>faketraveller</item>
         <item>fasthub</item>
         <item>fdroid</item>
         <item>feeder</item>
@@ -241,6 +244,7 @@
         <item>money</item>
         <item>moviedb</item>
         <item>mupdf</item>
+        <item>musicpiped</item>
         <item>music</item>
         <item>muzei</item>
         <item>mx</item>
@@ -289,6 +293,7 @@
         <item>password</item>
         <item>paypal</item>
         <item>pb</item>
+        <item>peertube</item>
         <item>periodical</item>
         <item>phone</item>
         <item>phonograph</item>
@@ -380,6 +385,7 @@
         <item>swedbank</item>
         <item>swiftkey</item>
         <item>swish</item>
+        <item>syncopoli</item>
         <item>syncthing</item>
         <item>systemappmover</item>
         <item>tachiyomi</item>
