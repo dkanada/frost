@@ -690,6 +690,10 @@
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
 
+    <!-- Jellyfin -->
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+
     <!-- Jota Text Editor -->
     <item component="ComponentInfo{jp.sblo.pandora.jota/jp.sblo.pandora.jota.Main}" drawable="jotatexteditor"/>
 
