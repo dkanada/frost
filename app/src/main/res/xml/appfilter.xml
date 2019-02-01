@@ -1867,6 +1867,7 @@
 
     <!-- Transportr -->
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
+    <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MainActivity}" drawable="transportr" />
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
