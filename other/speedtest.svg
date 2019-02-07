@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="48"
-   height="48"
-   viewBox="0 0 115 115">
-  <g
-     transform="translate(-544.08911,-235.2696)">
-    <path
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.3717213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 589.89207,297.75768 10.28674,10.91056 28.69457,-34.35869 -6.13594,-6.89088 z"/>
-    <path
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.41003767"
-       d="m 601.59014,235.41899 a 57.499865,61.061049 0 0 0 -57.49985,61.06085 57.499865,61.061049 0 0 0 16.86823,43.15175 l 8.20006,-8.69734 a 45.78675,48.66227 0 0 1 -13.38573,-34.34298 45.78675,48.66227 0 0 1 45.78697,-48.66238 45.78675,48.66227 0 0 1 45.78697,48.66238 45.78675,48.66227 0 0 1 -13.38926,34.34074 l 8.23179,8.73099 a 57.499865,61.061049 0 0 0 16.90065,-43.18316 57.499865,61.061049 0 0 0 -57.49983,-61.06085 z"/>
-  </g>
+<svg width="48" height="48" viewBox="0 0 115 115">
+  <path
+     d="M 45.80296,62.48808 56.0897,73.39864 84.78427,39.03995 78.64833,32.14907 Z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.3717213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="M 57.50103,0.14939 A 57.499865,61.061049 0 0 0 0.00118,61.21024 57.499865,61.061049 0 0 0 16.86941,104.36199 l 8.20006,-8.69734 A 45.78675,48.66227 0 0 1 11.68374,61.32167 45.78675,48.66227 0 0 1 57.47071,12.65929 45.78675,48.66227 0 0 1 103.25768,61.32167 45.78675,48.66227 0 0 1 89.86842,95.66241 l 8.23179,8.73099 A 57.499865,61.061049 0 0 0 115.00086,61.21024 57.499865,61.061049 0 0 0 57.50103,0.14939 Z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.41003767" />
 </svg>
