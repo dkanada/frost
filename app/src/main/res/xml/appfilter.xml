@@ -308,6 +308,9 @@
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 
+    <!-- Cythara -->
+    <item component="ComponentInfo{com.github.cythara/com.github.cythara.MainActivity}" drawable="cythara"/>
+
     <!-- Das Erste -->
     <item component="ComponentInfo{com.daserste.daserste/com.daserste.daserste.DasErste}" drawable="daserste" />
 
@@ -475,7 +478,7 @@
     <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
 
     <!-- Firefox Focus -->
-    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox"/>
+    <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefoxfocus"/>
 
     <!-- Firefox -->
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
@@ -763,6 +766,9 @@
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
 
+    <!-- Light House -->
+    <item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse"/>
+
     <!-- Lightning -->
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.activity.MainActivity}" drawable="lightning" />
     <item component="ComponentInfo{acr.browser.lightning/acr.browser.lightning.MainActivity}" drawable="lightning" />
@@ -830,6 +836,9 @@
     <!-- Messaging -->
     <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messaging" />
 
+    <!-- MeteoSwiss -->
+    <item component="ComponentInfo{ch.admin.meteoswiss/ch.admin.meteoswiss.MainActivity}" drawable="meteoswiss"/>
+
     <!-- MGit -->
     <item component="ComponentInfo{com.manichord.mgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit" />
 
@@ -880,6 +889,9 @@
 
     <!-- MX Player Pro -->
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx" />
+
+    <!-- myMail -->
+    <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="mymail"/>
 
     <!-- Mysplash -->
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}" drawable="mysplash" />
@@ -1149,8 +1161,14 @@
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
 
+    <!-- RTS Info -->
+    <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo"/>
+
     <!-- RunnerUp -->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
+
+    <!-- SBB Mobile -->
+    <item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbbmobile"/>
 
     <!-- scale -->
     <scale factor="1.0" />
@@ -1652,6 +1670,9 @@
     <item component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.Blue_grey}" drawable="simplemusicplayer"/>
     <item component="ComponentInfo{com.simplemobiletools.musicplayer.pro/com.simplemobiletools.musicplayer.pro.activities.SplashActivity.Grey_black}" drawable="simplemusicplayer"/>
 
+    <!-- Simplenote -->
+    <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote"/>
+
     <!-- Simple Notes -->
     <item component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Pink}" drawable="simplenotes"/>
     <item component="ComponentInfo{com.simplemobiletools.notes/com.simplemobiletools.notes.activities.SplashActivity.Purple}" drawable="simplenotes"/>
@@ -1769,6 +1790,9 @@
     <!-- Supersu -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="su" />
 
+    <!-- Superuser -->
+    <item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser"/>
+
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter"/>
 
@@ -1831,6 +1855,9 @@
     <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="themes" />
     <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="themes"/>
 
+    <!-- Thinkfree Office viewer -->
+    <item component="ComponentInfo{com.tf.thinkdroid.viewer.global/com.tf.thinkdroid.manager.StartActivity}" drawable="thinkfree"/>
+
     <!-- Threema -->
     <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
 
@@ -1848,6 +1875,9 @@
 
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
+
+    <!-- Tiny Scanner -->
+    <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner"/>
 
     <!-- Tiny Travel Tracker -->
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
