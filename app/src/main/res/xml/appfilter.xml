@@ -1158,6 +1158,7 @@
     <item component="ComponentInfo{cx.ring/cx.ring.client.HomeActivity}" drawable="ring" />
 
     <!-- Riot -->
+    <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
 
