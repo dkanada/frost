@@ -1161,6 +1161,8 @@
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
+    <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LauncherActivity}" drawable="riot.im"/>
+
 
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo"/>
