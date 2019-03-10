@@ -921,6 +921,9 @@
     <!-- Nextcloud SMS -->
     <item component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}" drawable="nextcloudsms"/>
 
+    <!-- Nextcloud Talk -->
+    <item component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}" drawable="nextcloudtalk"/>
+
     <!-- Nfc Tasks -->
     <item component="ComponentInfo{com.wakdev.nfctasks/com.wakdev.nfctasks.MainActivity}" drawable="nfctasks" />
 
