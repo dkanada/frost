@@ -1936,6 +1936,9 @@
     <item component="ComponentInfo{com.keylesspalace.tusky/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
     <item component="ComponentInfo{com.keylesspalace.tusky.test/com.keylesspalace.tusky.SplashActivity}" drawable="tusky" />
 
+    <!-- Tutanota -->
+    <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
+
     <!-- Twidere -->
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
 
