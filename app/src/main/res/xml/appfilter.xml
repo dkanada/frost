@@ -14,6 +14,7 @@
 
     <!-- AdAway -->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
+    <item component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}" drawable="adaway"/>
 
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat" />
