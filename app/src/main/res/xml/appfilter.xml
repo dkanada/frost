@@ -1118,8 +1118,8 @@
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
 
-	<!-- Public Services Portal of the Russian Federatio -->
-	<item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable=""/>
+	<!-- Public Services Portal of the Russian Federation -->
+	<item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable="gosuslugi"/>
 
     <!-- Puzzles -->
     <item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles"/>
