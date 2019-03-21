@@ -757,6 +757,9 @@
     <!-- komoot -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot" />
 
+	<!-- Kontakt bar -->
+	<item component="ComponentInfo{com.premiumbonus.jamm.kontaktbar/com.premiumbonus.jamm.kontaktbar.MainActivity}" drawable="kontakt"/>
+
     <!-- Kore -->
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore" />
