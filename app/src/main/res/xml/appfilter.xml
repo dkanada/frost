@@ -1185,6 +1185,9 @@
     <!-- SBB Mobile -->
     <item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbbmobile"/>
 
+	<!-- Sberbank -->
+	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.SplashActivity}" drawable=""/>
+
     <!-- scale -->
     <scale factor="1.0" />
 
