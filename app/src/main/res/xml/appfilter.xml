@@ -742,6 +742,9 @@
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
 
+	<!-- KHL -->
+	<item component="ComponentInfo{ru.zennex.khl/ru.inventos.apps.khl.screens.start.StartActivity}" drawable="khl"/>
+
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
 
