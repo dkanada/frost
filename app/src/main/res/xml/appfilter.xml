@@ -418,6 +418,7 @@
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
+	<item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail"/>
 
     <!-- Emby -->
     <item component="ComponentInfo{com.mb.android/com.mb.android.MainActivity}" drawable="emby" />
