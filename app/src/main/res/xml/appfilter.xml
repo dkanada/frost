@@ -448,6 +448,10 @@
 
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
+    
+    <!-- Facebook Messenger Lite -->
+    <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger" />
+    <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.share.view.ShareActivity}" drawable="messenger" />
 
     <!-- Facebook Slim -->
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.MainActivity}" drawable="facebook" />
