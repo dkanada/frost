@@ -578,6 +578,7 @@
 
     <!-- Google Camera -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="gcamera" />
+    <item component="ComponentInfo{com.google.android.CameraRedmi5Plus/com.android.camera.CameraLauncher}" drawable="gcamera"/>
 
     <!-- Google Chrome -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
