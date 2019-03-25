@@ -30,8 +30,7 @@
 
     <!-- AliExpress -->
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress"/>
-	<item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress"/>
-
+    <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress"/>
 
     <!-- Amaze -->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
@@ -420,7 +419,7 @@
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
-	<item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail"/>
+    <item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail"/>
 
     <!-- Emby -->
     <item component="ComponentInfo{com.mb.android/com.mb.android.MainActivity}" drawable="emby" />
@@ -451,7 +450,7 @@
 
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
-    
+
     <!-- Facebook Messenger Lite -->
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger" />
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.share.view.ShareActivity}" drawable="messenger" />
@@ -750,8 +749,8 @@
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
 
-	<!-- KHL -->
-	<item component="ComponentInfo{ru.zennex.khl/ru.inventos.apps.khl.screens.start.StartActivity}" drawable="khl"/>
+    <!-- KHL -->
+    <item component="ComponentInfo{ru.zennex.khl/ru.inventos.apps.khl.screens.start.StartActivity}" drawable="khl"/>
 
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
@@ -768,8 +767,8 @@
     <!-- komoot -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot" />
 
-	<!-- Kontakt bar -->
-	<item component="ComponentInfo{com.premiumbonus.jamm.kontaktbar/com.premiumbonus.jamm.kontaktbar.MainActivity}" drawable="kontakt"/>
+    <!-- Kontakt bar -->
+    <item component="ComponentInfo{com.premiumbonus.jamm.kontaktbar/com.premiumbonus.jamm.kontaktbar.MainActivity}" drawable="kontakt"/>
 
     <!-- Kore -->
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />
@@ -1130,8 +1129,8 @@
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
 
-	<!-- Public Services Portal of the Russian Federation -->
-	<item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable="gosuslugi"/>
+    <!-- Public Services Portal of the Russian Federation -->
+    <item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable="gosuslugi"/>
 
     <!-- Puzzles -->
     <item component="ComponentInfo{name.boyle.chris.sgtpuzzles/name.boyle.chris.sgtpuzzles.SGTPuzzles}" drawable="puzzles"/>
@@ -1200,8 +1199,8 @@
     <!-- SBB Mobile -->
     <item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbbmobile"/>
 
-	<!-- Sberbank -->
-	<item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.SplashActivity}" drawable="sberbank"/>
+    <!-- Sberbank -->
+    <item component="ComponentInfo{ru.sberbankmobile/ru.sberbankmobile.SplashActivity}" drawable="sberbank"/>
 
     <!-- scale -->
     <scale factor="1.0" />
