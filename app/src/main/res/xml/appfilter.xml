@@ -1225,6 +1225,9 @@
 
     <!-- scale -->
     <scale factor="1.0" />
+    
+    <!-- Scarlet Notes FD -->
+    <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
