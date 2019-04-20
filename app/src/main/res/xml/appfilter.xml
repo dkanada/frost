@@ -130,6 +130,9 @@
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
 
+    <!-- Aviasales -->
+    <item component="ComponentInfo{ru.aviasales/ru.aviasales.ui.activity.MainActivity}" drawable="aviasales"/>
+
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
 
