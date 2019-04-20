@@ -232,6 +232,7 @@
     <item component="ComponentInfo{com.amazon.camera/com.amazon.camera.AmazonCameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
 
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
