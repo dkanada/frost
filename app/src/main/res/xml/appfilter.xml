@@ -18,6 +18,9 @@
     <!-- AdAway -->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
     <item component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}" drawable="adaway"/>
+    
+    <!-- ADB Manager -->
+    <item component="ComponentInfo{com.matoski.adbm/com.matoski.adbm.activity.MainActivity}" drawable="adbmanager"/>
 
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat" />
@@ -450,6 +453,9 @@
 
     <!-- Export Contacts -->
     <item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="exportcontacts"/>
+    
+    <!-- f.lux -->
+    <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="f.lux"/>
 
     <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
@@ -573,6 +579,9 @@
 
     <!-- Geogebra -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.SplashScreenActivity_}" drawable="geogebra" />
+
+    <!-- Ghost Commander -->
+    <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander"/>
 
     <!-- Goblim -->
     <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
@@ -828,6 +837,9 @@
     <!-- Markers -->
     <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers"/>
 
+    <!-- Markor -->
+    <item component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" drawable="markor"/>
+
     <!-- Master Password -->
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
 
@@ -1044,6 +1056,9 @@
 
     <!-- Osmand Telegram -->
     <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
+    
+    <!-- OS Monitor -->
+    <item component="ComponentInfo{com.eolwral.osmonitor/com.eolwral.osmonitor.OSMonitor}" drawable="osmonitor"/>
 
     <!-- Outlook -->
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
@@ -1214,6 +1229,9 @@
 
     <!-- scale -->
     <scale factor="1.0" />
+    
+    <!-- Scarlet Notes FD -->
+    <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
 
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
@@ -1766,6 +1784,9 @@
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
 
+    <!-- SkyTube -->
+    <item component="ComponentInfo{free.rm.skytube.oss/free.rm.skytube.gui.activities.MainActivity}" drawable="skytube"/>
+
     <!-- Slack -->
     <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
 
@@ -1971,6 +1992,9 @@
 
     <!-- Twidere -->
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
+    
+    <!-- Twire -->
+    <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire"/>
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
@@ -2064,6 +2088,9 @@
 
     <!-- Wunderlist -->
     <item component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}" drawable="wunderlist" />
+
+    <!-- wX -->
+    <item component="ComponentInfo{joshuatee.wx/joshuatee.wx.StartupActivity}" drawable="wx"/>
 
     <!-- Xabber -->
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
