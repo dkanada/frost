@@ -123,6 +123,7 @@
 
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora" />
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurora" />
 
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
