@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m5 13.916v27.084c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892 2-2v-27.084zm8.4062 3.2305h5.6641l4.7129 4.541 4.7148-4.541h5.7051v19.83h-5.2148v-12.934l-5.3008 4.4805-5.3008-4.4805v12.934h-4.9805z" fill="#fff"/>
+    <path d="m7 5c-1.108 0-2 0.892-2 2v34c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892 2-2v-34c0-1.108-0.892-2-2-2zm0.44727 0.5h33.105c1.0788 0 1.9473 0.86842 1.9473 1.9473v33.105c0 1.0788-0.86842 1.9473-1.9473 1.9473h-33.105c-1.0788 0-1.9473-0.86842-1.9473-1.9473v-33.105c0-1.0788 0.86842-1.9473 1.9473-1.9473z" fill="#fff"/>
+    <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75">
+        <rect x="29.498" y="7.1614" width="2.2248" height="4.51" rx="0" ry=".77144" style="paint-order:stroke markers fill"/>
+        <g>
+            <rect x="9.8664" y="7.1614" width="2.2248" height="4.51" rx="0" ry=".77144" style="paint-order:stroke markers fill"/>
+            <rect x="16.379" y="7.1614" width="2.2248" height="4.51" rx="0" ry=".77144" style="paint-order:stroke markers fill"/>
+        </g>
+        <rect x="36.01" y="7.1614" width="2.2248" height="4.51" rx="0" ry=".77144" style="paint-order:stroke markers fill"/>
+        <rect x="22.862" y="7.1614" width="2.2248" height="4.51" rx="0" ry=".77144" style="paint-order:stroke markers fill"/>
+    </g>
+</svg>
