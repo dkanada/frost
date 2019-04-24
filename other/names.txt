@@ -6,7 +6,11 @@
 <item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail"/>
 <!-- LibreOffice Viewer -->
 <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer"/>
+<!-- Light House -->
+<item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse"/>
 <!-- Lite -->
 <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="lite"/>
 <!-- one -->
 <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="one"/>
+<!-- Superuser -->
+<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser"/>
