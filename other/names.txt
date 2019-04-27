@@ -12,5 +12,7 @@
 <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="lite"/>
 <!-- one -->
 <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="one"/>
+<!-- Slack -->
+<item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
 <!-- Superuser -->
 <item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser"/>
