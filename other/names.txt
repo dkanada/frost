@@ -16,3 +16,5 @@
 <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
 <!-- Superuser -->
 <item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser"/>
+<!-- Trello -->
+<item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
