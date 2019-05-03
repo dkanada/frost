@@ -243,6 +243,9 @@
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
     <item component="ComponentInfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
+	
+    <!-- Car Smile -->
+    <item component="ComponentInfo{ru.smilemob.carsmile/host.exp.exponent.MainActivity}" drawable="carsmile"/>
 
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
