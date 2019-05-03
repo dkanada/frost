@@ -1248,6 +1248,9 @@
     <!-- Sensor Readout -->
     <item component="ComponentInfo{de.onyxbits.sensorreadout/de.onyxbits.sensorreadout.OverviewActivity}" drawable="sensorreadout" />
 
+    <!-- SeriesGuide -->
+    <item component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}" drawable="seriesguide"/>
+
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings"/>
