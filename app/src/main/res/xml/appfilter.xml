@@ -18,7 +18,7 @@
     <!-- AdAway -->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
     <item component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}" drawable="adaway"/>
-    
+
     <!-- ADB Manager -->
     <item component="ComponentInfo{com.matoski.adbm/com.matoski.adbm.activity.MainActivity}" drawable="adbmanager"/>
 
@@ -247,7 +247,7 @@
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
     <item component="ComponentInfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
-	
+
     <!-- Car Smile -->
     <item component="ComponentInfo{ru.smilemob.carsmile/host.exp.exponent.MainActivity}" drawable="carsmile"/>
 
@@ -466,9 +466,6 @@
 
     <!-- Export Contacts -->
     <item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="exportcontacts"/>
-    
-    <!-- f.lux -->
-    <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux"/>
 
     <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
@@ -543,6 +540,9 @@
 
     <!-- Flow Free Warps -->
     <item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flowfreewarps"/>
+
+    <!-- f.lux -->
+    <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux"/>
 
     <!-- FM Radio -->
     <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="radio" />
@@ -880,11 +880,11 @@
     <!-- Meetup -->
     <item component="ComponentInfo{com.meetup/com.meetup.activity.Bootstrap}" drawable="meetup"/>
 
-    <!-- Mega -->
-    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" />
-
     <!-- Megafon -->
     <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.screens.auth.splash.SplashActivity}" drawable="megafon"/>
+
+    <!-- Mega -->
+    <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" />
 
     <!-- Mein Vodafone -->
     <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" />
@@ -1078,7 +1078,7 @@
 
     <!-- Osmand Telegram -->
     <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
-    
+
     <!-- OS Monitor -->
     <item component="ComponentInfo{com.eolwral.osmonitor/com.eolwral.osmonitor.OSMonitor}" drawable="osmonitor"/>
 
@@ -1251,7 +1251,7 @@
 
     <!-- scale -->
     <scale factor="1.0" />
-    
+
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
 
@@ -2020,7 +2020,7 @@
 
     <!-- Twidere -->
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
-    
+
     <!-- Twire -->
     <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire"/>
 
@@ -2078,9 +2078,6 @@
     <!-- Weather -->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="weather" />
-	
-    <!-- Yandex Weather -->
-    <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather"/>
 
     <!-- WebOPAC -->
     <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac" />
@@ -2134,6 +2131,9 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.InstalledAppsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.DetailsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
+
+    <!-- Yandex Weather -->
+    <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather"/>
 
     <!-- Yatse -->
     <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse"/>
