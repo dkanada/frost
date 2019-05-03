@@ -1,0 +1,20 @@
+<!-- CamScanner -->
+<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+<!-- CrontoSign Swiss -->
+<item component="ComponentInfo{com.cronto.crontosign.swiss/com.vasco.crontosign.phototan.MainActivity}" drawable="crontosignswiss"/>
+<!-- FairEmail -->
+<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail"/>
+<!-- LibreOffice Viewer -->
+<item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer"/>
+<!-- Light House -->
+<item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse"/>
+<!-- Lite -->
+<item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="lite"/>
+<!-- one -->
+<item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="one"/>
+<!-- Slack -->
+<item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+<!-- Superuser -->
+<item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivity}" drawable="superuser"/>
+<!-- Trello -->
+<item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
