@@ -248,6 +248,9 @@
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
     <item component="ComponentInfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
 
+    <!-- CamScanner -->
+    <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+
     <!-- Car Smile -->
     <item component="ComponentInfo{ru.smilemob.carsmile/host.exp.exponent.MainActivity}" drawable="carsmile"/>
 
@@ -322,6 +325,9 @@
 
     <!-- Cpu-Z -->
     <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
+
+    <!-- CrontoSign Swiss -->
+    <item component="ComponentInfo{com.cronto.crontosign.swiss/com.vasco.crontosign.phototan.MainActivity}" drawable="crontosignswiss"/>
 
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf"/>
@@ -480,6 +486,9 @@
     <!-- Facebook Slim -->
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.MainActivity}" drawable="facebook" />
     <item component="ComponentInfo{org.indywidualni.fblite/org.indywidualni.fblite.activity.SplashActivity}" drawable="facebook" />
+
+    <!-- FairEmail -->
+    <item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail"/>
 
     <!-- Faketraveller -->
     <item component="ComponentInfo{cl.coders.faketraveller/cl.coders.faketraveller.MainActivity}" drawable="faketraveller" />
@@ -817,6 +826,9 @@
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
     <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leafpic" />
 
+    <!-- LibreOffice Viewer -->
+    <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer"/>
+
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
 
@@ -836,6 +848,9 @@
     <!-- LISTEN.moe -->
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activities.MainActivity}" drawable="listen" />
     <item component="ComponentInfo{me.echeung.moemoekyun.fdroid/me.echeung.moemoekyun.ui.activity.MainActivity}" drawable="listen" />
+
+    <!-- Lite -->
+    <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="lite"/>
 
     <!-- Locker -->
     <item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker"/>
@@ -1032,6 +1047,9 @@
 
     <!-- Oeffi Stations -->
     <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
+
+    <!-- one -->
+    <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="one"/>
 
     <!-- OpenAPK -->
     <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" />
@@ -2001,6 +2019,9 @@
     <!-- Transportr -->
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MainActivity}" drawable="transportr" />
+
+    <!-- Trello -->
+    <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
