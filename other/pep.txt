@@ -1,2 +1,0 @@
-<!-- p≡p -->
-<item component="ComponentInfo{security.pEp/com.fsck.k9.pEp.ui.activities.SplashActivity}" drawable="pp"/>

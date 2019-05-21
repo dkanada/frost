@@ -193,6 +193,9 @@
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
 
+    <!-- Bring! -->
+    <item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring"/>
+
     <!-- Browser -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="jelly" />
 
@@ -858,6 +861,9 @@
     <!-- Loop Habit Tracker -->
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
 
+    <!-- Loyalty Card Keychain -->
+    <item component="ComponentInfo{protect.card_locker/protect.card_locker.MainActivity}" drawable="loyaltycardkeychain"/>
+
     <!-- Ma Banque : Crédit Agricole -->
     <item component="ComponentInfo{fr.creditagricole.androidapp/fr.creditagricole.androidapp.activities.identification.ConnectionActivity}" drawable="creditagricole_circle"/>
 
@@ -1135,6 +1141,9 @@
 
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
+
+    <!-- pep -->
+    <item component="ComponentInfo{security.pEp/com.fsck.k9.pEp.ui.activities.SplashActivity}" drawable="pep"/>
 
     <!-- Periodical -->
     <item component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" drawable="periodical" />
@@ -2085,6 +2094,9 @@
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+
+    <!-- VRN eTarif -->
+    <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif"/>
 
     <!-- VSCO -->
     <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity}" drawable="vsco" />

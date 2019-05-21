@@ -1,6 +1,0 @@
-<!-- Bring! -->
-<item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring"/>
-<!-- Loyalty Card Keychain -->
-<item component="ComponentInfo{protect.card_locker/protect.card_locker.MainActivity}" drawable="loyaltycardkeychain"/>
-<!-- VRN eTarif -->
-<item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif"/>

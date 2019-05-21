@@ -61,6 +61,7 @@
     <item drawable="boinc" />
     <item drawable="book" />
     <item drawable="brave" />
+    <item drawable="bring" />
     <item drawable="browser" />
     <item drawable="bspb" />
     <item drawable="bubble" />
@@ -243,6 +244,7 @@
     <item drawable="lite" />
     <item drawable="locker" />
     <item drawable="loop" />
+    <item drawable="loyaltycardkeychain" />
     <item drawable="magisk" />
     <item drawable="mail" />
     <item drawable="mapillary" />
@@ -327,6 +329,7 @@
     <item drawable="paypal" />
     <item drawable="pb" />
     <item drawable="peertube" />
+    <item drawable="pep" />
     <item drawable="periodical" />
     <item drawable="phone" />
     <item drawable="phonograph" />
@@ -484,6 +487,7 @@
     <item drawable="viper" />
     <item drawable="visecaone" />
     <item drawable="vlc" />
+    <item drawable="vrnetarif" />
     <item drawable="vsco" />
     <item drawable="wallpapers" />
     <item drawable="waze" />
