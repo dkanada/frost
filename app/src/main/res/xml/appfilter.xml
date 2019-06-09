@@ -2025,6 +2025,9 @@
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
 
+    <!-- Transport -->
+    <item component="ComponentInfo{ru.yandex.yandexbus/ru.yandex.yandexbus.inhouse.activity.BusActivity}" drawable="transport"/>
+
     <!-- Transportr -->
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MainActivity}" drawable="transportr" />
