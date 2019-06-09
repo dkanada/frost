@@ -2021,6 +2021,7 @@
 
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>
+	<item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline"/>
 
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
