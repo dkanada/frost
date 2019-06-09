@@ -190,6 +190,9 @@
     <!-- BOINC -->
     <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc" />
 
+    <!-- Booking.com -->
+    <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking"/>
+
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
 
