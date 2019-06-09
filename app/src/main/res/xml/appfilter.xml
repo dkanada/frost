@@ -1880,6 +1880,9 @@
     <item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="soundrecorder" />
     <item component="ComponentInfo{com.tct.soundrecorder.bb/com.tct.soundrecorder.SoundRecorder}" drawable="soundrecorder"/>
 
+    <!-- Sovcombank -->
+    <item component="ComponentInfo{ru.diftechsvc/app.chat.bank.ui.activities.SplashActivity}" drawable="sovcombank"/>
+
     <!-- Sparkasse -->
     <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus}" drawable="sparkasse" />
 
