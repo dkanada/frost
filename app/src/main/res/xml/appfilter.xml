@@ -1997,6 +1997,9 @@
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
 
+    <!-- Tinkoff -->
+    <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="tinkoff"/>
+
     <!-- Tiny Scanner -->
     <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner"/>
 
