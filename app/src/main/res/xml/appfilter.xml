@@ -1,4 +1,4 @@
-<resources>
+
 
     <!-- 1010! Klooni -->
     <item component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}" drawable="tentenklooni" />
@@ -423,6 +423,9 @@
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />
+
+    <!-- DSB -->
+    <item component="ComponentInfo{dk.dsb.nda.android/dk.dsb.nda.core.SplashActivity}" drawable="dsb"/>
 
     <!-- Dsub -->
     <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
