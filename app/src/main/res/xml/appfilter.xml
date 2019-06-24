@@ -567,6 +567,9 @@
     <!-- Foobar2000 -->
     <item component="ComponentInfo{com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity}" drawable="foobar2000" />
 
+    <!-- Footej Camera -->
+    <item component="ComponentInfo{com.footej.camera/com.footej.camera.CameraActivity}" drawable="footejcamera" />
+
     <!-- Forecastie -->
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.MainActivity}" drawable="forecastie" />
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" drawable="forecastie" />
