@@ -69,7 +69,7 @@
     <item component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}" drawable="androidvnc"/>
 
     <!-- AndStatus -->
-    <item component="ComponentInfo{org.andstatus.app/org.andstatus.FirstActivity}" drawable="andstatus"/>
+    <item component="ComponentInfo{org.andstatus.app/org.andstatus.app.FirstActivity}" drawable="andstatus"/>
 
     <!-- AnExplorer Pro -->
     <item component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}" drawable="anexplorer" />
