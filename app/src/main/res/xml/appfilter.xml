@@ -1252,6 +1252,9 @@
     <!-- ReGeX -->
     <item component="ComponentInfo{com.phikal.regex/com.phikal.regex.Activities.GameActivity}" drawable="regex" />
 
+    <!-- Remote Desktop -->
+    <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.actvities.HomeActivity}" drawable="remotedesktop" />
+
     <!-- Retrica -->
     <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
 
