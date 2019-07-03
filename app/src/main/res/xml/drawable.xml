@@ -19,6 +19,7 @@
     <item drawable="android" />
     <item drawable="androidterm" />
     <item drawable="androidvnc" />
+    <item drawable="andstatus" />
     <item drawable="anexplorer" />
     <item drawable="ankidroid" />
     <item drawable="antennapod" />
@@ -59,6 +60,7 @@
     <item drawable="blueminimal" />
     <item drawable="bluetooth" />
     <item drawable="boinc" />
+    <item drawable="booking" />
     <item drawable="book" />
     <item drawable="brave" />
     <item drawable="bring" />
@@ -94,6 +96,7 @@
     <item drawable="contacts" />
     <item drawable="contenttransfer" />
     <item drawable="conversations" />
+    <item drawable="couchsurfing" />
     <item drawable="cpuz" />
     <item drawable="creditagricole_circle" />
     <item drawable="creditagricole_square" />
@@ -119,6 +122,7 @@
     <item drawable="drawer" />
     <item drawable="drive" />
     <item drawable="dropbox" />
+    <item drawable="dsb" />
     <item drawable="dsub" />
     <item drawable="dtekbyblackberry" />
     <item drawable="duckduckgo" />
@@ -157,6 +161,7 @@
     <item drawable="flowfreewarps" />
     <item drawable="flux" />
     <item drawable="foobar2000" />
+    <item drawable="footejcamera" />
     <item drawable="forecastie" />
     <item drawable="forest" />
     <item drawable="forkhub" />
@@ -360,6 +365,7 @@
     <item drawable="redmoon" />
     <item drawable="redreader" />
     <item drawable="regex" />
+    <item drawable="remotedesktop" />
     <item drawable="retrica" />
     <item drawable="retroarch" />
     <item drawable="revolution" />
@@ -417,6 +423,7 @@
     <item drawable="solidexplorer" />
     <item drawable="sonos" />
     <item drawable="soundrecorder" />
+    <item drawable="sovcombank" />
     <item drawable="sparkasse" />
     <item drawable="sparss" />
     <item drawable="speedtest" />
@@ -454,6 +461,7 @@
     <item drawable="timber" />
     <item drawable="tinc" />
     <item drawable="tinder" />
+    <item drawable="tinkoff" />
     <item drawable="tinyscanner" />
     <item drawable="tinytraveltracker" />
     <item drawable="tisseo_circle" />
@@ -465,6 +473,7 @@
     <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
+    <item drawable="transport" />
     <item drawable="trello" />
     <item drawable="trenord" />
     <item drawable="tumblr" />
@@ -499,6 +508,7 @@
     <item drawable="wifikeyshare" />
     <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
+    <item drawable="windscribevpn" />
     <item drawable="wireguard" />
     <item drawable="wire" />
     <item drawable="writeilypro" />
@@ -509,5 +519,7 @@
     <item drawable="yatse" />
     <item drawable="yaweather" />
     <item drawable="youtube" />
+    <item drawable="ytaxi" />
     <item drawable="zapp" />
+    <item drawable="zarchiver" />
 </resources>

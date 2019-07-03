@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <mask id="a-56" maskUnits="userSpaceOnUse">
+            <path d="M0 0h48v48H0z" fill="#fff"/>
+            <path d="M29.3 35l-2.38-5.5h-7.2L26.87 13H11.6l3.61 5.5h3.27L11.35 35"/>
+            <path d="m30.66 35h6l-8.98-20.73-3 6.92z"/>
+        </mask>
+    </defs>
+    <path d="m24 46-19.05-11v-22l19.05-11 19.05 11v22z" fill="#fff" mask="url(#a-56)"/>
+</svg>

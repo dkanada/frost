@@ -19,6 +19,7 @@
         <item>android</item>
         <item>androidterm</item>
         <item>androidvnc</item>
+        <item>andstatus</item>
         <item>anexplorer</item>
         <item>ankidroid</item>
         <item>antennapod</item>
@@ -59,6 +60,7 @@
         <item>blueminimal</item>
         <item>bluetooth</item>
         <item>boinc</item>
+        <item>booking</item>
         <item>book</item>
         <item>brave</item>
         <item>bring</item>
@@ -94,6 +96,7 @@
         <item>contacts</item>
         <item>contenttransfer</item>
         <item>conversations</item>
+        <item>couchsurfing</item>
         <item>cpuz</item>
         <item>creditagricole_circle</item>
         <item>creditagricole_square</item>
@@ -119,6 +122,7 @@
         <item>drawer</item>
         <item>drive</item>
         <item>dropbox</item>
+        <item>dsb</item>
         <item>dsub</item>
         <item>dtekbyblackberry</item>
         <item>duckduckgo</item>
@@ -157,6 +161,7 @@
         <item>flowfreewarps</item>
         <item>flux</item>
         <item>foobar2000</item>
+        <item>footejcamera</item>
         <item>forecastie</item>
         <item>forest</item>
         <item>forkhub</item>
@@ -360,6 +365,7 @@
         <item>redmoon</item>
         <item>redreader</item>
         <item>regex</item>
+        <item>remotedesktop</item>
         <item>retrica</item>
         <item>retroarch</item>
         <item>revolution</item>
@@ -417,6 +423,7 @@
         <item>solidexplorer</item>
         <item>sonos</item>
         <item>soundrecorder</item>
+        <item>sovcombank</item>
         <item>sparkasse</item>
         <item>sparss</item>
         <item>speedtest</item>
@@ -454,6 +461,7 @@
         <item>timber</item>
         <item>tinc</item>
         <item>tinder</item>
+        <item>tinkoff</item>
         <item>tinyscanner</item>
         <item>tinytraveltracker</item>
         <item>tisseo_circle</item>
@@ -465,6 +473,7 @@
         <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
+        <item>transport</item>
         <item>trello</item>
         <item>trenord</item>
         <item>tumblr</item>
@@ -499,6 +508,7 @@
         <item>wifikeyshare</item>
         <item>wifiprivacy</item>
         <item>wikipedia</item>
+        <item>windscribevpn</item>
         <item>wireguard</item>
         <item>wire</item>
         <item>writeilypro</item>
@@ -509,6 +519,8 @@
         <item>yatse</item>
         <item>yaweather</item>
         <item>youtube</item>
+        <item>ytaxi</item>
         <item>zapp</item>
+        <item>zarchiver</item>
     </string-array>
 </resources>
