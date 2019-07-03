@@ -68,6 +68,9 @@
     <!-- androidVNC -->
     <item component="ComponentInfo{android.androidVNC/android.androidVNC.androidVNC}" drawable="androidvnc"/>
 
+    <!-- AndStatus -->
+    <item component="ComponentInfo{org.andstatus.app/org.andstatus.app.FirstActivity}" drawable="andstatus"/>
+
     <!-- AnExplorer Pro -->
     <item component="ComponentInfo{dev.dworks.apps.anexplorer.pro/dev.dworks.apps.anexplorer.DocumentsActivity}" drawable="anexplorer" />
 
@@ -572,6 +575,9 @@
 
     <!-- Foobar2000 -->
     <item component="ComponentInfo{com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity}" drawable="foobar2000" />
+
+    <!-- Footej Camera -->
+    <item component="ComponentInfo{com.footej.camera/com.footej.camera.CameraActivity}" drawable="footejcamera" />
 
     <!-- Forecastie -->
     <item component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.MainActivity}" drawable="forecastie" />
@@ -1255,6 +1261,9 @@
 
     <!-- ReGeX -->
     <item component="ComponentInfo{com.phikal.regex/com.phikal.regex.Activities.GameActivity}" drawable="regex" />
+
+    <!-- Remote Desktop -->
+    <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.actvities.HomeActivity}" drawable="remotedesktop" />
 
     <!-- Retrica -->
     <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
@@ -2158,6 +2167,9 @@
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
+    <!-- Windscribe VPN -->
+    <item component="ComponentInfo{com.windscribe.vpn/com.windscribe.vpn.ui.activities.EntryPointActivity}" drawable="windscribevpn" />
+
     <!-- WireGuard -->
     <item component="ComponentInfo{com.wireguard.android/com.wireguard.android.activity.MainActivity}" drawable="wireguard"/>
 
@@ -2203,5 +2215,8 @@
     <!-- Zapp -->
     <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.ChannelListActivity}" drawable="zapp" />
     <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp" />
+
+    <!-- ZArchiver -->
+    <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
 
 </resources>
