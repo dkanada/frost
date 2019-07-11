@@ -741,6 +741,10 @@
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
 
+    <!-- HERE WeGo -->
+    <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here"/>
+    <item component="ComponentInfo{com.here.app.maps/com.here.app.MainActivity}" drawable="here"/>
+
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="holo" />
 
