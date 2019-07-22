@@ -1125,6 +1125,9 @@
     <!-- Orfox -->
     <item component="ComponentInfo{info.guardianproject.orfox/info.guardianproject.orfox.App}" drawable="orfox" />
 
+    <!-- Organ Trail: Director's Cut -->
+    <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
+
     <!-- Oscilloscope -->
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope" />
 
