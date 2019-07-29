@@ -626,8 +626,12 @@
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
-    <!-- Geogebra -->
+    <!-- GeoGebra Classic -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.SplashScreenActivity_}" drawable="geogebra" />
+    <item component="ComponentInfo{org.geogebra/org.geogebra.GeoGebra}" drawable="geogebra" />
+
+    <!-- GeoGebra Graphing Calculator -->
+    <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebragraphingcalculator" />
 
     <!-- Ghost Commander -->
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander"/>
