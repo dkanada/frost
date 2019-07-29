@@ -288,6 +288,9 @@
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
 
+    <!-- Citymapper -->
+    <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
+
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
 
