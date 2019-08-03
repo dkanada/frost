@@ -2187,6 +2187,9 @@
     
     <!-- Twire -->
     <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire"/>
+    
+    <!-- twitlatte -->
+    <item component="ComponentInfo{com.github.moko256.twitlatte/com.github.moko256.twitlatte.MainActivity}" drawable="twitlatte"/>
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
