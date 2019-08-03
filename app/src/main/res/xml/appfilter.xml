@@ -762,6 +762,9 @@
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
+    
+    <!-- GrowTracker -->
+    <item component="ComponentInfo{me.anon.grow/me.anon.grow.BootActivity}" drawable="growtracker"/>
 
     <!-- Guide du tri : recycling info-->
     <item component="ComponentInfo{fr.ecoemballage.guidedutri/fr.ecoemballage.guidedutri.activities.SplashActivity}" drawable="recyclelocation"/>
@@ -873,6 +876,9 @@
 
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair"/>
 
     <!-- Leafpic -->
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
@@ -997,6 +1003,9 @@
 
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
+    
+    <!-- Morse -->
+    <item component="ComponentInfo{rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity}" drawable="morse"/>
 
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
@@ -1287,6 +1296,9 @@
 
     <!-- QR Plugin for Keepass2android -->
     <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
+    
+    <!-- QR Scanner -->
+    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner"/>
 
     <!-- Quizlet -->
     <item component="ComponentInfo{com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity}" drawable="quizlet" />
@@ -1340,6 +1352,9 @@
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
+
+    <!-- Ripple -->
+    <item component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}" drawable="ripple"/>
 
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo"/>
@@ -1997,6 +2012,12 @@
     <!-- Sudoku -->
     <item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.SplashActivity}" drawable="sudoku"/>
     
+    <!-- Suntimes -->
+    <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes"/>
+    
+    <!-- Suntimes Alarms -->
+    <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimesalarms"/>
+
     <!-- Supersu -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="su" />
 
@@ -2082,6 +2103,9 @@
 
     <!-- Timber -->
     <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber" />
+    
+    <!-- TimeLimit -->
+    <item component="ComponentInfo{io.timelimit.android.open/io.timelimit.android.ui.MainActivity}" drawable="timelimit"/>
 
     <!-- Tinc -->
     <item component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity}" drawable="tinc" />
@@ -2100,7 +2124,11 @@
 
     <!-- Tisséo -->
     <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo_circle"/>
-
+    
+    <!-- Tor Browser -->
+    <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="torbrowser"/>
+    <item component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}" drawable="torbrowseralpha"/>
+    
     <!-- Torchie -->
     <item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie" />
 
