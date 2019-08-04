@@ -1,0 +1,7 @@
+<!-- Business Communication -->
+<item component="ComponentInfo{com.swisscom.businesscommunication.android/com.broadsoft.android.common.activity.LauncherActivity}" drawable="businesscommunication"/>
+<!-- one -->
+<item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="one"/>
+<!-- Turtl -->
+<item component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}" drawable="turtl"/>
+ 
