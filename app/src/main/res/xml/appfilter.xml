@@ -565,6 +565,9 @@
     <!-- Flow Free Warps -->
     <item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flowfreewarps"/>
 
+    <!-- Flym -->
+    <item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym"/>
+
     <!-- f.lux -->
     <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux"/>
 
@@ -598,6 +601,9 @@
     <!-- Frost -->
     <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
     <item component="ComponentInfo{com.dkanada.icecons.debug/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
+
+    <!-- Frost for Facebook -->
+    <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="fbfrost"/>
 
     <!-- Fuel Flash -->
     <item component="ComponentInfo{de.mwwebwork.benzinpreisblitz/de.mwwebwork.benzinpreisblitz.MainActivity}" drawable="fuelflash"/>
