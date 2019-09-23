@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Suntimes Alarm</title>
+  <path class="cls-1" d="M24,4A20,20,0,1,0,44,24,20,20,0,0,0,24,4ZM39.66,23H25V8.19A15.73,15.73,0,0,1,39.66,23ZM23,8.19V23H8.05A15.74,15.74,0,0,1,23,8.19Zm1,31.62A15.7,15.7,0,0,1,8.34,25H39.66A15.7,15.7,0,0,1,24,39.81Z"/>
+  <rect class="cls-1" x="1.7" y="4.28" width="10" height="5" rx="1" transform="translate(-2.83 6.67) rotate(-44.72)"/>
+  <rect class="cls-1" x="36.07" y="4.28" width="10" height="5" rx="1" transform="translate(65.49 40.49) rotate(-135.28)"/>
+</svg>
