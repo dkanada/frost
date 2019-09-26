@@ -6,11 +6,20 @@
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
 
+    <!-- 5th Edition Spellbook -->
+    <item component="ComponentInfo{com.spellsdd5/com.spelldd5.MainActivity}" drawable="spellbook"/>
+
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag" />
 
     <!-- AcDisplay -->
     <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="acdisplay" />
+
+    <!-- ActionDash -->
+    <item component="ComponentInfo{com.actiondash.playstore/actiondash.MainActivity}" drawable="actiondash"/>
+
+    <!-- Action Launcher -->
+    <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="actionlauncher"/>
 
     <!-- Activity Launcher -->
     <item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="android" />
@@ -127,12 +136,15 @@
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="soundrecorder" />
 
+    <!-- Aurora Droid -->
+    <item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}" drawable="auroradroid"/>
+
     <!-- Aurora Firefox -->
     <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox" />
 
     <!-- Aurora Store -->
-    <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora" />
-    <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurora" />
+    <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurorastore"/>
 
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
@@ -146,6 +158,9 @@
     <!-- BankID -->
     <item component="ComponentInfo{com.bankid.bus/com.bankid.bus.activities.InitActivity}" drawable="bankid" />
 
+    <!-- Bankieren -->
+    <item component="ComponentInfo{nl.asnbank.asnbankieren/com.service2media.m2active.client.android.M2ActiveClient}" drawable="bankieren"/>
+
     <!-- Barcode Scanner -->
     <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="barcode" />
 
@@ -158,6 +173,9 @@
     <!-- BetterBatteryStats -->
     <item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="battery" />
 
+    <!-- Binary Eye -->
+    <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="binaryeye"/>
+
     <!-- Birthday Adapter -->
     <item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter" />
 
@@ -165,7 +183,8 @@
     <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin" />
 
     <!-- Bitwarden -->
-    <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="Bitwarden" />
+    <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="bitwarden" />
+    <item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="bitwarden"/>
 
     <!-- BlaBlaCar -->
     <item component="ComponentInfo{com.comuto/com.comuto.v3.activity.ProxyActivity}" drawable="blablacar" />
@@ -179,6 +198,9 @@
 
     <!-- Blogger -->
     <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity}" drawable="blogger" />
+
+    <!-- Blokada -->
+    <item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada"/>
 
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
@@ -201,6 +223,9 @@
 
     <!-- Bring! -->
     <item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring"/>
+
+    <!-- Bromite -->
+    <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
 
     <!-- Browser -->
     <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="jelly" />
@@ -519,6 +544,9 @@
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
     <item component="ComponentInfo{org.fdroid.fdroid.debug/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" />
 
+    <!-- Fedilab -->
+    <item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}" drawable="fedilab"/>
+
     <!-- Feeder -->
     <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
 
@@ -540,6 +568,15 @@
 
     <!-- Firefox Klar -->
     <item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox"/>
+
+    <!-- Firefox Notes -->
+    <item component="ComponentInfo{org.mozilla.testpilot.notes/org.mozilla.testpilot.notes.MainActivity}" drawable="firefoxnotes"/>
+
+    <!-- Firefox Preview -->
+    <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview"/>
+
+    <!-- Firefox Send -->
+    <item component="ComponentInfo{org.mozilla.firefoxsend/org.mozilla.firefoxsend.MainActivity}" drawable="firefoxsend"/>
 
     <!-- Flatastic -->
     <item component="ComponentInfo{com.flatastic.app/com.flatastic.app.MainActivity}" drawable="flatastic" />
@@ -732,6 +769,9 @@
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
 
+    <!-- GrowTracker -->
+    <item component="ComponentInfo{me.anon.grow/me.anon.grow.BootActivity}" drawable="growtracker"/>
+
     <!-- Guide du tri : recycling info-->
     <item component="ComponentInfo{fr.ecoemballage.guidedutri/fr.ecoemballage.guidedutri.activities.SplashActivity}" drawable="recyclelocation"/>
 
@@ -827,6 +867,9 @@
     <!-- Kodi -->
     <item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi" />
 
+    <!-- Koler -->
+    <item component="ComponentInfo{com.chooloo.www.callmanager/com.chooloo.www.callmanager.ui.activity.MainActivity}" drawable="koler"/>
+
     <!-- komoot -->
     <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot" />
 
@@ -839,6 +882,9 @@
 
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
+
+    <!-- Lawnchair -->
+    <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair"/>
 
     <!-- Leafpic -->
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
@@ -958,11 +1004,17 @@
     <!-- Minecraft -->
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
 
+    <!-- Minesweeper -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper"/>
+
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
 
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
+
+    <!-- Morse -->
+    <item component="ComponentInfo{rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity}" drawable="morse"/>
 
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
@@ -994,6 +1046,9 @@
     <!-- MX Player Pro -->
     <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx" />
 
+    <!-- My Avans -->
+    <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="myavans"/>
+
     <!-- myMail -->
     <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="mymail"/>
 
@@ -1019,6 +1074,9 @@
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity}" drawable="newpipe" />
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
 
+    <!-- News -->
+    <item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="news"/>
+
     <!-- Nextcloud -->
     <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud"/>
 
@@ -1036,6 +1094,9 @@
 
     <!-- NHBooks -->
     <item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks" />
+
+    <!-- NOS -->
+    <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.SplashActivity}" drawable="nos"/>
 
     <!-- Notable -->
     <item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable"/>
@@ -1096,6 +1157,9 @@
     <!-- Open Mensa -->
     <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
 
+    <!-- openScale -->
+    <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale"/>
+
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
 
@@ -1155,6 +1219,9 @@
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
 
+    <!-- Pdf Viewer Plus -->
+    <item component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}" drawable="pdfviewerplus"/>
+
     <!-- Peertube -->
     <item component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}" drawable="peertube" />
 
@@ -1187,6 +1254,9 @@
 
     <!-- Plumble -->
     <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble"/>
+
+    <!-- Pocket Casts -->
+    <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocketcasts"/>
 
     <!-- Pocket -->
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
@@ -1232,6 +1302,9 @@
 
     <!-- QR Plugin for Keepass2android -->
     <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
+
+    <!-- QR Scanner -->
+    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner"/>
 
     <!-- Quizlet -->
     <item component="ComponentInfo{com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity}" drawable="quizlet" />
@@ -1285,6 +1358,9 @@
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.VectorLauncherActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.LoginActivity}" drawable="riot" />
     <item component="ComponentInfo{im.vector.alpha/im.vector.activity.SplashActivity}" drawable="riot" />
+
+    <!-- Ripple -->
+    <item component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}" drawable="ripple"/>
 
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo"/>
@@ -1739,6 +1815,9 @@
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue_grey}" drawable="simplegallery"/>
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Grey_black}" drawable="simplegallery"/>
 
+    <!-- Simple Last.fm Scrobbler -->
+    <item component="ComponentInfo{com.adam.aslfms/com.adam.aslfms.SettingsActivity}" drawable="lastfmscrobbler"/>
+
     <!-- Simple Launcher -->
     <item component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Pink}" drawable="simpleapplauncher"/>
     <item component="ComponentInfo{com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Purple}" drawable="simpleapplauncher"/>
@@ -1862,6 +1941,9 @@
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Blue_grey}" drawable="simplenotes"/>
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}" drawable="simplenotes"/>
 
+    <!-- Simple Solitaire Collection -->
+    <item component="ComponentInfo{de.tobiasbielefeld.solitaire/de.tobiasbielefeld.solitaire.ui.GameSelector}" drawable="solitaire"/>
+
     <!-- Simple Weather -->
     <item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.GlobalActivity}" drawable="simpleweather" />
 
@@ -1945,6 +2027,15 @@
     <!-- Subsonic -->
     <item component="ComponentInfo{net.sourceforge.subsonic.androidapp/net.sourceforge.subsonic.androidapp.activity.MainActivity}" drawable="dsub" />
 
+    <!-- Sudoku -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlysudoku/org.secuso.privacyfriendlysudoku.ui.SplashActivity}" drawable="sudoku"/>
+
+    <!-- Suntimes Alarms -->
+    <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimesalarms"/>
+
+    <!-- Suntimes -->
+    <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes"/>
+
     <!-- Supersu -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="su" />
 
@@ -2019,6 +2110,9 @@
     <!-- Threema -->
     <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
 
+    <!-- TicketSwap -->
+    <item component="ComponentInfo{com.ticketswap.ticketswap/com.ticketswap.android.ui.LauncherActivity}" drawable="ticketswap"/>
+
     <!-- Tickmate -->
     <item component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" drawable="tickmate" />
 
@@ -2027,6 +2121,9 @@
 
     <!-- Timber -->
     <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber" />
+
+    <!-- TimeLimit -->
+    <item component="ComponentInfo{io.timelimit.android.open/io.timelimit.android.ui.MainActivity}" drawable="timelimit"/>
 
     <!-- Tinc -->
     <item component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity}" drawable="tinc" />
@@ -2045,6 +2142,10 @@
 
     <!-- Tisséo -->
     <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo_circle"/>
+
+    <!-- Tor Browser -->
+    <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="torbrowser"/>
+    <item component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}" drawable="torbrowser"/>
 
     <!-- Torchie -->
     <item component="ComponentInfo{in.blogspot.anselmbros.torchie/in.blogspot.anselmbros.torchie.ui.activity.MainActivity}" drawable="torchie" />
@@ -2073,8 +2174,10 @@
     <item component="ComponentInfo{ru.yandex.yandexbus/ru.yandex.yandexbus.inhouse.activity.BusActivity}" drawable="transport"/>
 
     <!-- Transportr -->
-    <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
+
+    <!-- TrebleShot -->
+    <item component="ComponentInfo{com.genonbeta.TrebleShot/com.genonbeta.TrebleShot.activity.HomeActivity}" drawable="trebleshot"/>
 
     <!-- Trello -->
     <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
@@ -2100,6 +2203,9 @@
 
     <!-- Twire -->
     <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire"/>
+
+    <!-- twitlatte -->
+    <item component="ComponentInfo{com.github.moko256.twitlatte/com.github.moko256.twitlatte.MainActivity}" drawable="twitlatte"/>
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
@@ -2158,6 +2264,9 @@
     <!-- Weather -->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="weather" />
+
+    <!-- WebApps -->
+    <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps"/>
 
     <!-- WebOPAC -->
     <item component="ComponentInfo{de.geeksfactory.opacclient/de.geeksfactory.opacclient.frontend.MainActivity}" drawable="webopac" />
