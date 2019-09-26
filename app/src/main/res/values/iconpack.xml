@@ -4,6 +4,8 @@
         <item>a2048</item>
         <item>acdisplay</item>
         <item>acrobat</item>
+        <item>actiondash</item>
+        <item>actionlauncher</item>
         <item>adaway</item>
         <item>adbmanager</item>
         <item>adiutor</item>
@@ -37,17 +39,21 @@
         <item>atomic</item>
         <item>audinaut</item>
         <item>audiofx</item>
+        <item>auroradroid</item>
+        <item>aurorastore</item>
         <item>aurora</item>
         <item>authy</item>
         <item>aviasales</item>
         <item>bandcamp</item>
         <item>bankid</item>
+        <item>bankieren</item>
         <item>barcode</item>
         <item>batterycalibration</item>
         <item>battery</item>
         <item>bbm</item>
         <item>bible</item>
         <item>bikelocation</item>
+        <item>binaryeye</item>
         <item>birthdayadapter</item>
         <item>bitcoin</item>
         <item>bitwarden</item>
@@ -57,6 +63,7 @@
         <item>blackberrylauncher</item>
         <item>blockinger</item>
         <item>blogger</item>
+        <item>blokada</item>
         <item>blueminimal</item>
         <item>bluetooth</item>
         <item>boinc</item>
@@ -64,6 +71,7 @@
         <item>book</item>
         <item>brave</item>
         <item>bring</item>
+        <item>bromite</item>
         <item>browser</item>
         <item>bspb</item>
         <item>bubble</item>
@@ -146,10 +154,14 @@
         <item>faketraveller</item>
         <item>fasthub</item>
         <item>fdroid</item>
+        <item>fedilab</item>
         <item>feeder</item>
         <item>fennec</item>
         <item>files</item>
         <item>firefoxfocus</item>
+        <item>firefoxnotes</item>
+        <item>firefoxpreview</item>
+        <item>firefoxsend</item>
         <item>firefox</item>
         <item>flatastic</item>
         <item>flickr</item>
@@ -199,6 +211,7 @@
         <item>gplaystore</item>
         <item>gplay</item>
         <item>greenbits</item>
+        <item>growtracker</item>
         <item>gsheets</item>
         <item>gslides</item>
         <item>gtranslate</item>
@@ -232,9 +245,12 @@
         <item>kiss</item>
         <item>kiwix</item>
         <item>kodi</item>
+        <item>koler</item>
         <item>komoot</item>
         <item>kontakt</item>
         <item>kore</item>
+        <item>lastfmscrobbler</item>
+        <item>lawnchair</item>
         <item>leafpic</item>
         <item>libreofficeviewer</item>
         <item>libretorrent</item>
@@ -277,14 +293,17 @@
         <item>microgsettings</item>
         <item>mifit</item>
         <item>minecraft</item>
+        <item>minesweeper</item>
         <item>mixplorer</item>
         <item>money</item>
+        <item>morse</item>
         <item>moviedb</item>
         <item>mupdf</item>
         <item>musicpiped</item>
         <item>music</item>
         <item>muzei</item>
         <item>mx</item>
+        <item>myavans</item>
         <item>mymail</item>
         <item>mysplash</item>
         <item>n26_circle</item>
@@ -293,6 +312,7 @@
         <item>netflix</item>
         <item>netguard</item>
         <item>newpipe</item>
+        <item>news</item>
         <item>nextcloudnotes</item>
         <item>nextcloudsms</item>
         <item>nextcloud</item>
@@ -300,6 +320,7 @@
         <item>nfctasks</item>
         <item>nfctools</item>
         <item>nhbooks</item>
+        <item>nos</item>
         <item>notable</item>
         <item>notepad</item>
         <item>notes</item>
@@ -315,6 +336,7 @@
         <item>openconnect</item>
         <item>openlauncher</item>
         <item>openmensa</item>
+        <item>openscale</item>
         <item>opentasks</item>
         <item>openvpn</item>
         <item>opera</item>
@@ -333,6 +355,7 @@
         <item>password</item>
         <item>paypal</item>
         <item>pb</item>
+        <item>pdfviewerplus</item>
         <item>peertube</item>
         <item>pep</item>
         <item>periodical</item>
@@ -342,6 +365,7 @@
         <item>pixlr</item>
         <item>plex</item>
         <item>plumble</item>
+        <item>pocketcasts</item>
         <item>pocket</item>
         <item>ppsspp</item>
         <item>practicehub</item>
@@ -353,6 +377,7 @@
         <item>puzzles</item>
         <item>qksms</item>
         <item>qrforkeepass</item>
+        <item>qrscanner</item>
         <item>qr</item>
         <item>quizlet</item>
         <item>radiodroid</item>
@@ -371,6 +396,7 @@
         <item>revolution</item>
         <item>ring</item>
         <item>riot</item>
+        <item>ripple</item>
         <item>rtsinfo</item>
         <item>runnerup</item>
         <item>sbbmobile</item>
@@ -421,17 +447,22 @@
         <item>snooperstopper</item>
         <item>sokoban</item>
         <item>solidexplorer</item>
+        <item>solitaire</item>
         <item>sonos</item>
         <item>soundrecorder</item>
         <item>sovcombank</item>
         <item>sparkasse</item>
         <item>sparss</item>
         <item>speedtest</item>
+        <item>spellbook</item>
         <item>spotify</item>
         <item>steam</item>
         <item>stocard</item>
         <item>streetcomplete</item>
         <item>stumbler</item>
+        <item>sudoku</item>
+        <item>suntimesalarms</item>
+        <item>suntimes</item>
         <item>superuser2</item>
         <item>superuser</item>
         <item>supportcenter</item>
@@ -456,9 +487,11 @@
         <item>thinkfree</item>
         <item>threema</item>
         <item>tibackup</item>
+        <item>ticketswap</item>
         <item>tickmate</item>
         <item>tidal</item>
         <item>timber</item>
+        <item>timelimit</item>
         <item>tinc</item>
         <item>tinder</item>
         <item>tinkoff</item>
@@ -466,6 +499,7 @@
         <item>tinytraveltracker</item>
         <item>tisseo_circle</item>
         <item>tisseo_square</item>
+        <item>torbrowser</item>
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
@@ -474,6 +508,7 @@
         <item>transistor</item>
         <item>transportr</item>
         <item>transport</item>
+        <item>trebleshot</item>
         <item>trello</item>
         <item>trenord</item>
         <item>tumblr</item>
@@ -482,6 +517,7 @@
         <item>tutanota</item>
         <item>twidere</item>
         <item>twire</item>
+        <item>twitlatte</item>
         <item>twitter</item>
         <item>unifiednlp</item>
         <item>unitconverterultimate</item>
@@ -501,6 +537,7 @@
         <item>wallpapers</item>
         <item>waze</item>
         <item>weather</item>
+        <item>webapps</item>
         <item>webopac</item>
         <item>wechat</item>
         <item>whatsapp</item>
