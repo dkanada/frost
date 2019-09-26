@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-name="Layer 1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <path class="cls-1" d="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2ZM39.72,33.55,24.41,42.39a.8.8,0,0,1-.82,0L8.28,33.55a.81.81,0,0,1-.41-.71V15.16a.81.81,0,0,1,.41-.71L23.59,5.61a.8.8,0,0,1,.82,0l15.31,8.84a.81.81,0,0,1,.41.71V32.84A.81.81,0,0,1,39.72,33.55Z"/>
+    <polygon class="cls-1" points="9.54 19.47 9.54 31.58 13.65 29.83"/>
+    <polygon class="cls-1" points="23.18 7.77 12.17 14.13 23.18 13.42"/>
+    <polygon class="cls-1" points="22.52 15.11 9.9 15.92 14.85 28.39"/>
+    <polygon class="cls-1" points="31.86 29.45 24 15.84 16.14 29.45"/>
+    <polygon class="cls-1" points="33.15 28.39 38.1 15.92 25.48 15.11"/>
+    <polygon class="cls-1" points="24.82 7.77 24.82 13.42 35.83 14.13"/>
+    <polygon class="cls-1" points="38.46 31.58 38.46 19.47 34.35 29.83"/>
+    <polygon class="cls-1" points="16.45 31.1 24 40.35 31.55 31.1"/>
+    <polygon class="cls-1" points="27.47 38.7 37.45 32.94 33.53 31.27"/>
+    <polygon class="cls-1" points="10.55 32.94 20.53 38.7 14.47 31.27"/>
+</svg>
