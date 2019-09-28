@@ -116,6 +116,9 @@
     <!-- Applications Info -->
     <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo"/>
 
+    <!-- apps_Packages Info -->
+    <item component="ComponentInfo{com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity}" drawable="appspackagesinfo"/>
+
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
@@ -322,8 +325,14 @@
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
 
+    <!-- Citymapper -->
+    <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
+
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
+
+    <!-- Clear Scan -->
+    <item component="ComponentInfo{com.indymobileapp.document.scanner/com.notebloc.app.activity.MainActivity}" drawable="clearscan" />
 
     <!-- Clock -->
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
@@ -669,8 +678,12 @@
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
-    <!-- Geogebra -->
+    <!-- GeoGebra Classic -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.SplashScreenActivity_}" drawable="geogebra" />
+    <item component="ComponentInfo{org.geogebra/org.geogebra.GeoGebra}" drawable="geogebra" />
+
+    <!-- GeoGebra Graphing Calculator -->
+    <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebragraphingcalculator" />
 
     <!-- Ghost Commander -->
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander"/>
@@ -798,6 +811,10 @@
 
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
+
+    <!-- HERE WeGo -->
+    <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here"/>
+    <item component="ComponentInfo{com.here.app.maps/com.here.app.MainActivity}" drawable="here"/>
 
     <!-- Holo Launcher -->
     <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="holo" />
@@ -1043,6 +1060,9 @@
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
 
+    <!-- mpv -->
+    <item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
     <item component="ComponentInfo{com.artifex.mupdf.mini.app/com.artifex.mupdf.mini.app.LibraryActivity}" drawable="mupdf" />
@@ -1170,6 +1190,12 @@
     <!-- Open Connect -->
     <item component="ComponentInfo{app.openconnect/app.openconnect.MainActivity}" drawable="openconnect" />
 
+    <!-- Open Food Facts -->
+    <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.MainActivity}" drawable="openfoodfacts" />
+    <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
+    <item component="ComponentInfo{org.openfoodfacts.scanner/openfoodfacts.github.scrachx.openfood.views.MainActivity}" drawable="openfoodfacts" />
+    <item component="ComponentInfo{org.openfoodfacts.scanner/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
+
     <!-- Open Keychain -->
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
 
@@ -1199,6 +1225,9 @@
 
     <!-- Orfox -->
     <item component="ComponentInfo{info.guardianproject.orfox/info.guardianproject.orfox.App}" drawable="orfox" />
+
+    <!-- Organ Trail: Director's Cut -->
+    <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
 
     <!-- Oscilloscope -->
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope" />
@@ -2378,5 +2407,8 @@
 
     <!-- ZArchiver -->
     <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
+
+    <!-- ZeroNet -->
+    <item component="ComponentInfo{net.mkg20001.zeronet/org.kivy.android.PythonActivity}" drawable="zeronet" />
 
 </resources>
