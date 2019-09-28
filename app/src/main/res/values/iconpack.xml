@@ -9,6 +9,10 @@
         <item>adaway</item>
         <item>adbmanager</item>
         <item>adiutor</item>
+        <item>adobelightroom</item>
+        <item>adobephothoshop</item>
+        <item>adoberush</item>
+        <item>adobexd</item>
         <item>afwall</item>
         <item>aimsicd</item>
         <item>airbnb</item>
@@ -51,6 +55,7 @@
         <item>batterycalibration</item>
         <item>battery</item>
         <item>bbm</item>
+        <item>bestiary</item>
         <item>bible</item>
         <item>bikelocation</item>
         <item>binaryeye</item>
@@ -114,6 +119,7 @@
         <item>daserste</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
+        <item>dellconnect</item>
         <item>deluge</item>
         <item>detexify</item>
         <item>devicesearch</item>
@@ -126,6 +132,7 @@
         <item>disroot</item>
         <item>dnsman</item>
         <item>doodle</item>
+        <item>downloadnavi</item>
         <item>downloads</item>
         <item>drawer</item>
         <item>drive</item>
@@ -210,6 +217,7 @@
         <item>gphotos</item>
         <item>gplaystore</item>
         <item>gplay</item>
+        <item>gpsstatus</item>
         <item>greenbits</item>
         <item>growtracker</item>
         <item>gsheets</item>
@@ -225,6 +233,7 @@
         <item>icecat</item>
         <item>icsdroid</item>
         <item>imgur</item>
+        <item>infinity</item>
         <item>instagram</item>
         <item>ivi</item>
         <item>jellyfin</item>
@@ -391,6 +400,7 @@
         <item>redreader</item>
         <item>regex</item>
         <item>remotedesktop</item>
+        <item>reroll</item>
         <item>retrica</item>
         <item>retroarch</item>
         <item>revolution</item>
@@ -399,6 +409,7 @@
         <item>ripple</item>
         <item>rtsinfo</item>
         <item>runnerup</item>
+        <item>satstat</item>
         <item>sbbmobile</item>
         <item>sberbank</item>
         <item>scarletnotesfd</item>
@@ -535,6 +546,7 @@
         <item>vrnetarif</item>
         <item>vsco</item>
         <item>wallpapers</item>
+        <item>waves</item>
         <item>waze</item>
         <item>weather</item>
         <item>webapps</item>
