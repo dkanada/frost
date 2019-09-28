@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <mask id="a" maskUnits="userSpaceOnUse">
+        <path d="M0 0h48v48H0z" fill="#fff"/>
+        <circle cx="13" cy="39" r="3"/>
+        <circle cx="35" cy="39" r="3"/>
+        <circle cx="35" cy="9" r="3"/>
+        <circle cx="13" cy="9" r="3"/>
+        <path d="M21 6h6v6h-6zM32 21h6v6h-6zM21 36h6v6h-6zM10 21h6v6h-6z"/>
+        <path d="m13 9h22v30h-22zm3 8h16m-16 4h12m-12 8h16m-16-4h16m-16 8h12" fill="#fff" stroke="#000" stroke-width="2"/>
+    </mask>
+    <rect x="8" y="4" width="32" height="40" rx="2" fill="#fff" mask="url(#a)"/>
+</svg>

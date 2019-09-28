@@ -39,6 +39,7 @@
         <item>applicationsinfo</item>
         <item>apps2org</item>
         <item>apps2sd</item>
+        <item>appspackagesinfo</item>
         <item>arbetsfor</item>
         <item>atomic</item>
         <item>audinaut</item>
@@ -100,7 +101,9 @@
         <item>chefkoch</item>
         <item>chip</item>
         <item>chrome</item>
+        <item>citymapper</item>
         <item>clashroyale</item>
+        <item>clearscan</item>
         <item>clock2</item>
         <item>clock</item>
         <item>clover</item>
@@ -180,6 +183,7 @@
         <item>flowfreewarps</item>
         <item>flux</item>
         <item>foobar2000</item>
+        <item>foodtracker</item>
         <item>footejcamera</item>
         <item>forecastie</item>
         <item>forest</item>
@@ -196,6 +200,7 @@
         <item>gcamera</item>
         <item>gdocs</item>
         <item>gdrive</item>
+        <item>geogebragraphingcalculator</item>
         <item>geogebra</item>
         <item>ghostcommander</item>
         <item>gitlab</item>
@@ -227,6 +232,7 @@
         <item>hangouts</item>
         <item>hearth</item>
         <item>hellotalk</item>
+        <item>here</item>
         <item>holo</item>
         <item>hpprinteraio</item>
         <item>hub</item>
@@ -269,6 +275,7 @@
         <item>lightning</item>
         <item>lineagerec</item>
         <item>line</item>
+        <item>linphone</item>
         <item>linuxcommandlibrary</item>
         <item>listen</item>
         <item>lite</item>
@@ -307,6 +314,7 @@
         <item>money</item>
         <item>morse</item>
         <item>moviedb</item>
+        <item>mpv</item>
         <item>mupdf</item>
         <item>musicpiped</item>
         <item>music</item>
@@ -343,6 +351,7 @@
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>
+        <item>openfoodfacts</item>
         <item>openlauncher</item>
         <item>openmensa</item>
         <item>openscale</item>
@@ -351,6 +360,7 @@
         <item>opera</item>
         <item>orbot</item>
         <item>orfox</item>
+        <item>organtrail</item>
         <item>oscilloscope</item>
         <item>osmand</item>
         <item>osmandtelegram</item>
@@ -365,6 +375,7 @@
         <item>paypal</item>
         <item>pb</item>
         <item>pdfviewerplus</item>
+        <item>pedometer</item>
         <item>peertube</item>
         <item>pep</item>
         <item>periodical</item>
@@ -571,5 +582,6 @@
         <item>ytaxi</item>
         <item>zapp</item>
         <item>zarchiver</item>
+        <item>zeronet</item>
     </string-array>
 </resources>

@@ -116,9 +116,6 @@
     <!-- Applications Info -->
     <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo"/>
 
-    <!-- apps_Packages Info -->
-    <item component="ComponentInfo{com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity}" drawable="appspackagesinfo"/>
-
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
@@ -127,6 +124,9 @@
 
     <!-- Apps2SD -->
     <item component="ComponentInfo{in.co.pricealert.apps2sd/in.co.pricealert.apps2sd.MainActivity}" drawable="apps2sd"/>
+
+    <!-- apps_Packages Info -->
+    <item component="ComponentInfo{com.oF2pks.applicationsinfo/com.oF2pks.applicationsinfo.MainActivity}" drawable="appspackagesinfo"/>
 
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
