@@ -9,6 +9,10 @@
     <item drawable="adaway" />
     <item drawable="adbmanager" />
     <item drawable="adiutor" />
+    <item drawable="adobelightroom" />
+    <item drawable="adobephothoshop" />
+    <item drawable="adoberush" />
+    <item drawable="adobexd" />
     <item drawable="afwall" />
     <item drawable="aimsicd" />
     <item drawable="airbnb" />
@@ -51,6 +55,7 @@
     <item drawable="batterycalibration" />
     <item drawable="battery" />
     <item drawable="bbm" />
+    <item drawable="bestiary" />
     <item drawable="bible" />
     <item drawable="bikelocation" />
     <item drawable="binaryeye" />
@@ -114,6 +119,7 @@
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="dellconnect" />
     <item drawable="deluge" />
     <item drawable="detexify" />
     <item drawable="devicesearch" />
@@ -126,6 +132,7 @@
     <item drawable="disroot" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
+    <item drawable="downloadnavi" />
     <item drawable="downloads" />
     <item drawable="drawer" />
     <item drawable="drive" />
@@ -210,6 +217,7 @@
     <item drawable="gphotos" />
     <item drawable="gplaystore" />
     <item drawable="gplay" />
+    <item drawable="gpsstatus" />
     <item drawable="greenbits" />
     <item drawable="growtracker" />
     <item drawable="gsheets" />
@@ -225,6 +233,7 @@
     <item drawable="icecat" />
     <item drawable="icsdroid" />
     <item drawable="imgur" />
+    <item drawable="infinity" />
     <item drawable="instagram" />
     <item drawable="ivi" />
     <item drawable="jellyfin" />
@@ -391,6 +400,7 @@
     <item drawable="redreader" />
     <item drawable="regex" />
     <item drawable="remotedesktop" />
+    <item drawable="reroll" />
     <item drawable="retrica" />
     <item drawable="retroarch" />
     <item drawable="revolution" />
@@ -399,6 +409,7 @@
     <item drawable="ripple" />
     <item drawable="rtsinfo" />
     <item drawable="runnerup" />
+    <item drawable="satstat" />
     <item drawable="sbbmobile" />
     <item drawable="sberbank" />
     <item drawable="scarletnotesfd" />
@@ -535,6 +546,7 @@
     <item drawable="vrnetarif" />
     <item drawable="vsco" />
     <item drawable="wallpapers" />
+    <item drawable="waves" />
     <item drawable="waze" />
     <item drawable="weather" />
     <item drawable="webapps" />
