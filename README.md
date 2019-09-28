@@ -23,6 +23,8 @@ If Turtl is not working on your device, you can also use [Applications Info](htt
 
 Help with any aspect of the app is much appreciated! **You don't have to know how to code!** If you know how to work with vectors in a program that supports the SVG format. [Inkscape](https://inkscape.org/en/) is recommended but not necessary. Please read the [guide on contributing](CONTRIBUTING.md) before making big changes! It also includes some personal preferences on how to work with Inkscape. If you don't use Inkscape you can just ignore them.
 
+**Note:** I want to accept as many contributions as possible, but will only merge icons that have been manually created using shapes and paths in a vector editing program. I don't think the quality is high enough from tools that automatically generate vector images.
+
 Quick Guide:
 1. Fork the repository to your GitHub account
 2. Download the templates provided [here](templates) and design the new icons
