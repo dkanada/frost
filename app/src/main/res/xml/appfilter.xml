@@ -33,7 +33,19 @@
 
     <!-- Adobe Acrobat -->
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat" />
-
+    
+    <!-- Lightroom -->
+    <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="lightroom"/> 
+    
+    <!-- Photoshop Express -->
+    <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="photoshopexpress"/>
+   
+    <!-- Adobe Rush -->
+    <item component="ComponentInfo{com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity}" drawable="rush"/>
+   
+    <!-- Adobe XD -->
+    <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobexd"/>
+   
     <!-- AfWall -->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall" />
 
@@ -169,6 +181,8 @@
 
     <!-- BBM -->
     <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm"/>
+    <!-- Bestiary -->
+    <item component="ComponentInfo{com.teamphoenixapps.bestiary.release/com.teamphoenixapps.bestiary.application.bestiary.BestiaryActivity}" drawable="bestiary"/>
 
     <!-- BetterBatteryStats -->
     <item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="battery" />
@@ -404,6 +418,9 @@
     <item component="ComponentInfo{de.hafas.android.db/de.hafas.main.HafasApp}" drawable="dbnavigator" />
     <item component="ComponentInfo{de.hafas.android.db/de.bahn.dbtickets.ui.DBNavLauncherActivity}" drawable="dbnavigator" />
 
+    <!-- Dell Mobile Connect -->
+    <item component="ComponentInfo{com.screenovate.dell.mobileconnect/com.screenovate.bluephone.MainActivity}" drawable="dellmobileconnect"/>
+
     <!-- Device Search -->
     <item component="ComponentInfo{com.blackberry.universalsearch/com.blackberry.assistantapp.MainActivity}" drawable="devicesearch"/>
 
@@ -451,6 +468,9 @@
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    
+    <!-- Download Navi -->
+    <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.MainActivity}" drawable="downloadnavi"/>
 
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />
@@ -765,6 +785,9 @@
 
     <!-- Google Translate -->
     <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="gtranslate" />
+   
+    <!-- GPS Status -->
+    <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus"/>
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
@@ -804,6 +827,9 @@
 
     <!-- Imgur -->
     <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="imgur" />
+   
+    <!-- Infinity -->
+    <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.MainActivity}" drawable="infinity"/>
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
@@ -1337,7 +1363,10 @@
 
     <!-- Remote Desktop -->
     <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.actvities.HomeActivity}" drawable="remotedesktop" />
-
+    
+    <!-- Reroll -->
+    <item component="ComponentInfo{com.givola.reroll/com.givola.reroll.MainActivity}" drawable="reroll"/>
+    
     <!-- Retrica -->
     <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
 
@@ -1363,8 +1392,11 @@
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo"/>
 
     <!-- RunnerUp -->
-    <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
-
+    <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />   
+   
+    <!-- SatStat -->
+    <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat"/>
+   
     <!-- SBB Mobile -->
     <item component="ComponentInfo{ch.sbb.mobile.android.b2c/ch.sbb.mobile.android.vnext.splashscreen.SplashScreenActivity}" drawable="sbbmobile"/>
 
@@ -2227,6 +2259,7 @@
 
     <!-- Viper -->
     <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.VIPER4Android}" drawable="viper" />
+    <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="viper4androidfx"/>
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
@@ -2241,6 +2274,9 @@
 
     <!-- Wallpapers -->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers"/>
+    
+    <!-- Wave Lines Wallpaper -->
+    <item component="ComponentInfo{de.markusfisch.android.wavelines/de.markusfisch.android.wavelines.activity.SplashActivity}" drawable="wavelineswallpaper"/>
 
     <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
