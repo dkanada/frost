@@ -101,6 +101,7 @@
         <item>chefkoch</item>
         <item>chip</item>
         <item>chrome</item>
+        <item>chubbyclick</item>
         <item>citymapper</item>
         <item>clashroyale</item>
         <item>clearscan</item>
@@ -133,6 +134,7 @@
         <item>discord</item>
         <item>diskusage</item>
         <item>disroot</item>
+        <item>dnsfilter</item>
         <item>dnsman</item>
         <item>doodle</item>
         <item>downloadnavi</item>
@@ -158,6 +160,7 @@
         <item>es</item>
         <item>etar</item>
         <item>etesync</item>
+        <item>exodusprivacy</item>
         <item>exportcontacts</item>
         <item>facebook</item>
         <item>fairemail</item>
@@ -169,6 +172,7 @@
         <item>fennec</item>
         <item>files</item>
         <item>firefoxfocus</item>
+        <item>firefoxlockwise</item>
         <item>firefoxnotes</item>
         <item>firefoxpreview</item>
         <item>firefoxsend</item>
@@ -238,6 +242,7 @@
         <item>hub</item>
         <item>icecat</item>
         <item>icsdroid</item>
+        <item>identiconizer</item>
         <item>imgur</item>
         <item>infinity</item>
         <item>instagram</item>
@@ -267,6 +272,7 @@
         <item>lastfmscrobbler</item>
         <item>lawnchair</item>
         <item>leafpic</item>
+        <item>libremsocial</item>
         <item>libreofficeviewer</item>
         <item>libretorrent</item>
         <item>license</item>
@@ -284,6 +290,7 @@
         <item>loyaltycardkeychain</item>
         <item>magisk</item>
         <item>mail</item>
+        <item>malp</item>
         <item>mapillary</item>
         <item>map</item>
         <item>markers</item>
@@ -312,11 +319,13 @@
         <item>minesweeper</item>
         <item>mixplorer</item>
         <item>money</item>
+        <item>moonlight</item>
         <item>morse</item>
         <item>moviedb</item>
         <item>mpv</item>
         <item>mupdf</item>
         <item>musicpiped</item>
+        <item>musicplayergo</item>
         <item>music</item>
         <item>muzei</item>
         <item>mx</item>
@@ -348,6 +357,7 @@
         <item>oeffidirections</item>
         <item>oeffiplans</item>
         <item>oeffistations</item>
+        <item>onelist</item>
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>
@@ -365,6 +375,7 @@
         <item>osmand</item>
         <item>osmandtelegram</item>
         <item>osmonitor</item>
+        <item>ouisncf</item>
         <item>outlook</item>
         <item>overchan</item>
         <item>owncloud</item>
@@ -387,18 +398,22 @@
         <item>plumble</item>
         <item>pocketcasts</item>
         <item>pocket</item>
+        <item>podomtre</item>
         <item>ppsspp</item>
         <item>practicehub</item>
         <item>preview</item>
         <item>primitiveftpd</item>
         <item>privacybrowser</item>
         <item>privacyshade</item>
+        <item>privatelocation</item>
         <item>protonmail</item>
+        <item>pslab</item>
         <item>puzzles</item>
         <item>qksms</item>
         <item>qrforkeepass</item>
         <item>qrscanner</item>
         <item>qr</item>
+        <item>quicklyquit</item>
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
@@ -425,6 +440,7 @@
         <item>sberbank</item>
         <item>scarletnotesfd</item>
         <item>screencast</item>
+        <item>screeps</item>
         <item>scummvm</item>
         <item>seafile</item>
         <item>sensorreadout</item>
@@ -456,6 +472,7 @@
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
         <item>simplenote</item>
+        <item>simpletask</item>
         <item>simpleweather</item>
         <item>sim</item>
         <item>skype</item>
@@ -478,6 +495,7 @@
         <item>speedtest</item>
         <item>spellbook</item>
         <item>spotify</item>
+        <item>starkeverben</item>
         <item>steam</item>
         <item>stocard</item>
         <item>streetcomplete</item>
