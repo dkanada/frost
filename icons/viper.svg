@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-    <path d="m7 5c-1.108 0-2 0.892-2 2v34c0 1.108 0.892 2 2 2h34c1.108 0 2-0.892 2-2v-34c0-1.108-0.892-2-2-2h-34zm1.6016 5.7891h8.5918l7.9043 19.352 7.7539-19.352h6.4746l-10.906 27.223h-8.6992l-11.119-27.223z" fill="#fff"/>
+<svg data-name="Layer 1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <path class="cls-1" d="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2Zm.18,39.64L8.8,11.64H20.22L27.74,26.3l6.88-14.58H39.2Z"/>
 </svg>
