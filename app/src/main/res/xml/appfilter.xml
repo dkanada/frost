@@ -667,7 +667,10 @@
 
     <!-- Freebox Compagnon -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivity}" drawable="freebox"/>
-
+   
+    <!-- Free Mobile Netstat -->
+    <item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="freemobilenetstat"/>
+    
     <!-- FreeOTP -->
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
 
