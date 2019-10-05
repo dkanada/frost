@@ -2265,7 +2265,7 @@
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
 
     <!-- Tisséo -->
-    <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo_circle"/>
+    <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo"/>
 
     <!-- Tor Browser -->
     <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="torbrowser"/>
