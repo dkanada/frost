@@ -193,6 +193,7 @@
         <item>forest</item>
         <item>forkhub</item>
         <item>freebox</item>
+        <item>freemobilenetstat</item>
         <item>freeotp</item>
         <item>frost</item>
         <item>fuelflash</item>
@@ -553,6 +554,7 @@
         <item>trenord</item>
         <item>tumblr</item>
         <item>turtl</item>
+        <item>turtlsync</item>
         <item>tusky</item>
         <item>tutanota</item>
         <item>twidere</item>

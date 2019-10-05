@@ -193,6 +193,7 @@
     <item drawable="forest" />
     <item drawable="forkhub" />
     <item drawable="freebox" />
+    <item drawable="freemobilenetstat" />
     <item drawable="freeotp" />
     <item drawable="frost" />
     <item drawable="fuelflash" />
@@ -553,6 +554,7 @@
     <item drawable="trenord" />
     <item drawable="tumblr" />
     <item drawable="turtl" />
+    <item drawable="turtlsync" />
     <item drawable="tusky" />
     <item drawable="tutanota" />
     <item drawable="twidere" />
