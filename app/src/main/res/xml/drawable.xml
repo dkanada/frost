@@ -101,6 +101,7 @@
     <item drawable="chefkoch" />
     <item drawable="chip" />
     <item drawable="chrome" />
+    <item drawable="chubbyclick" />
     <item drawable="citymapper" />
     <item drawable="clashroyale" />
     <item drawable="clearscan" />
@@ -133,6 +134,7 @@
     <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="disroot" />
+    <item drawable="dnsfilter" />
     <item drawable="dnsman" />
     <item drawable="doodle" />
     <item drawable="downloadnavi" />
@@ -158,6 +160,7 @@
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="etesync" />
+    <item drawable="exodusprivacy" />
     <item drawable="exportcontacts" />
     <item drawable="facebook" />
     <item drawable="fairemail" />
@@ -169,6 +172,7 @@
     <item drawable="fennec" />
     <item drawable="files" />
     <item drawable="firefoxfocus" />
+    <item drawable="firefoxlockwise" />
     <item drawable="firefoxnotes" />
     <item drawable="firefoxpreview" />
     <item drawable="firefoxsend" />
@@ -238,6 +242,7 @@
     <item drawable="hub" />
     <item drawable="icecat" />
     <item drawable="icsdroid" />
+    <item drawable="identiconizer" />
     <item drawable="imgur" />
     <item drawable="infinity" />
     <item drawable="instagram" />
@@ -267,6 +272,7 @@
     <item drawable="lastfmscrobbler" />
     <item drawable="lawnchair" />
     <item drawable="leafpic" />
+    <item drawable="libremsocial" />
     <item drawable="libreofficeviewer" />
     <item drawable="libretorrent" />
     <item drawable="license" />
@@ -284,6 +290,7 @@
     <item drawable="loyaltycardkeychain" />
     <item drawable="magisk" />
     <item drawable="mail" />
+    <item drawable="malp" />
     <item drawable="mapillary" />
     <item drawable="map" />
     <item drawable="markers" />
@@ -312,11 +319,13 @@
     <item drawable="minesweeper" />
     <item drawable="mixplorer" />
     <item drawable="money" />
+    <item drawable="moonlight" />
     <item drawable="morse" />
     <item drawable="moviedb" />
     <item drawable="mpv" />
     <item drawable="mupdf" />
     <item drawable="musicpiped" />
+    <item drawable="musicplayergo" />
     <item drawable="music" />
     <item drawable="muzei" />
     <item drawable="mx" />
@@ -348,6 +357,7 @@
     <item drawable="oeffidirections" />
     <item drawable="oeffiplans" />
     <item drawable="oeffistations" />
+    <item drawable="onelist" />
     <item drawable="openapk" />
     <item drawable="opencamera" />
     <item drawable="openconnect" />
@@ -365,6 +375,7 @@
     <item drawable="osmand" />
     <item drawable="osmandtelegram" />
     <item drawable="osmonitor" />
+    <item drawable="ouisncf" />
     <item drawable="outlook" />
     <item drawable="overchan" />
     <item drawable="owncloud" />
@@ -387,18 +398,22 @@
     <item drawable="plumble" />
     <item drawable="pocketcasts" />
     <item drawable="pocket" />
+    <item drawable="podomtre" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
     <item drawable="preview" />
     <item drawable="primitiveftpd" />
     <item drawable="privacybrowser" />
     <item drawable="privacyshade" />
+    <item drawable="privatelocation" />
     <item drawable="protonmail" />
+    <item drawable="pslab" />
     <item drawable="puzzles" />
     <item drawable="qksms" />
     <item drawable="qrforkeepass" />
     <item drawable="qrscanner" />
     <item drawable="qr" />
+    <item drawable="quicklyquit" />
     <item drawable="quizlet" />
     <item drawable="radiodroid" />
     <item drawable="radio" />
@@ -425,6 +440,7 @@
     <item drawable="sberbank" />
     <item drawable="scarletnotesfd" />
     <item drawable="screencast" />
+    <item drawable="screeps" />
     <item drawable="scummvm" />
     <item drawable="seafile" />
     <item drawable="sensorreadout" />
@@ -456,6 +472,7 @@
     <item drawable="simplemusicplayer" />
     <item drawable="simplenotes" />
     <item drawable="simplenote" />
+    <item drawable="simpletask" />
     <item drawable="simpleweather" />
     <item drawable="sim" />
     <item drawable="skype" />
@@ -478,6 +495,7 @@
     <item drawable="speedtest" />
     <item drawable="spellbook" />
     <item drawable="spotify" />
+    <item drawable="starkeverben" />
     <item drawable="steam" />
     <item drawable="stocard" />
     <item drawable="streetcomplete" />
