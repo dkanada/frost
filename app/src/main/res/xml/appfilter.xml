@@ -886,6 +886,9 @@
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
 
+    <!-- Kaku -->
+    <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
+
     <!-- KanaDrill -->
     <item component="ComponentInfo{com.jorgecastillo.kanadrill/com.jorgecastillo.kanadrill.MainActivity}" drawable="kanadrill" />
 
@@ -1071,6 +1074,9 @@
 
     <!-- Mi Fit -->
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit" />
+
+    <!-- Mindustry -->
+    <item component="ComponentInfo{io.anuke.mindustry/io.anuke.mindustry.AndroidLauncher}" drawable="mindustry"/>
 
     <!-- Minecraft -->
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
