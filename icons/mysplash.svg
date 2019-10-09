@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<svg data-name="Layer 1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <style>.cls-1{fill:#2b2b2b;}.cls-2{fill:#fff;}</style>
+        <style>.cls-1{fill:#fff;}</style>
     </defs>
-    <g data-name="Layer 2">
-        <rect class="cls-1" x="-166.58" y="-350.1" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-111.23" y="-350.1" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-166.58" y="-296.7" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-111.23" y="-296.7" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-166.58" y="-405.17" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-111.23" y="-405.17" width="674.7" height="426.15"/>
-        <rect class="cls-1" x="-165.74" y="-352.25" width="674.7" height="426.15"/>
-    </g>
-    <g data-name="Layer 1">
-        <path class="cls-2" d="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2Zm5.33,31.26L24,24l-5.33,9.26H8L18.67,14.74,24,24l5.33-9.26L40,33.26Z"/>
-    </g>
+    <path class="cls-1" d="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2Zm5.33,31.26L24,24l-5.33,9.26H8L18.67,14.74,24,24l5.33-9.26L40,33.26Z"/>
 </svg>

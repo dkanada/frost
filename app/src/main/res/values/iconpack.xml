@@ -46,7 +46,6 @@
         <item>audiofx</item>
         <item>auroradroid</item>
         <item>aurorastore</item>
-        <item>aurora</item>
         <item>authy</item>
         <item>aviasales</item>
         <item>bandcamp</item>
@@ -193,6 +192,7 @@
         <item>forest</item>
         <item>forkhub</item>
         <item>freebox</item>
+        <item>freemobilenetstat</item>
         <item>freeotp</item>
         <item>frost</item>
         <item>fuelflash</item>
@@ -252,6 +252,7 @@
         <item>jitsimeet</item>
         <item>jotatexteditor</item>
         <item>k9mail</item>
+        <item>kaku</item>
         <item>kanadrill</item>
         <item>kaqui</item>
         <item>kdeconnect</item>
@@ -315,6 +316,7 @@
         <item>microchip</item>
         <item>microgsettings</item>
         <item>mifit</item>
+        <item>mindustry</item>
         <item>minecraft</item>
         <item>minesweeper</item>
         <item>mixplorer</item>
@@ -537,8 +539,7 @@
         <item>tinkoff</item>
         <item>tinyscanner</item>
         <item>tinytraveltracker</item>
-        <item>tisseo_circle</item>
-        <item>tisseo_square</item>
+        <item>tisseo</item>
         <item>torbrowser</item>
         <item>torchie</item>
         <item>torch</item>
@@ -553,6 +554,7 @@
         <item>trenord</item>
         <item>tumblr</item>
         <item>turtl</item>
+        <item>turtlsync</item>
         <item>tusky</item>
         <item>tutanota</item>
         <item>twidere</item>

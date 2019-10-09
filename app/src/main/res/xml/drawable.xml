@@ -46,7 +46,6 @@
     <item drawable="audiofx" />
     <item drawable="auroradroid" />
     <item drawable="aurorastore" />
-    <item drawable="aurora" />
     <item drawable="authy" />
     <item drawable="aviasales" />
     <item drawable="bandcamp" />
@@ -193,6 +192,7 @@
     <item drawable="forest" />
     <item drawable="forkhub" />
     <item drawable="freebox" />
+    <item drawable="freemobilenetstat" />
     <item drawable="freeotp" />
     <item drawable="frost" />
     <item drawable="fuelflash" />
@@ -252,6 +252,7 @@
     <item drawable="jitsimeet" />
     <item drawable="jotatexteditor" />
     <item drawable="k9mail" />
+    <item drawable="kaku" />
     <item drawable="kanadrill" />
     <item drawable="kaqui" />
     <item drawable="kdeconnect" />
@@ -315,6 +316,7 @@
     <item drawable="microchip" />
     <item drawable="microgsettings" />
     <item drawable="mifit" />
+    <item drawable="mindustry" />
     <item drawable="minecraft" />
     <item drawable="minesweeper" />
     <item drawable="mixplorer" />
@@ -537,8 +539,7 @@
     <item drawable="tinkoff" />
     <item drawable="tinyscanner" />
     <item drawable="tinytraveltracker" />
-    <item drawable="tisseo_circle" />
-    <item drawable="tisseo_square" />
+    <item drawable="tisseo" />
     <item drawable="torbrowser" />
     <item drawable="torchie" />
     <item drawable="torch" />
@@ -553,6 +554,7 @@
     <item drawable="trenord" />
     <item drawable="tumblr" />
     <item drawable="turtl" />
+    <item drawable="turtlsync" />
     <item drawable="tusky" />
     <item drawable="tutanota" />
     <item drawable="twidere" />
