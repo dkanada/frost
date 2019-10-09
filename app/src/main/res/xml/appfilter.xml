@@ -216,7 +216,8 @@
 
     <!-- Blokada -->
     <item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada"/>
-
+    <item component="ComponentInfo{org.blokada.alarm/core.PanelActivity}" drawable="blokada"/>
+    
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.Screen_Main}" drawable="blueminimal" />
@@ -499,7 +500,8 @@
 
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
-
+    <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo"/>
+    
     <!-- Duolingo -->
     <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
 
@@ -863,7 +865,8 @@
 
     <!-- Infinity -->
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.MainActivity}" drawable="infinity"/>
-
+    <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.Activity.MainActivity}" drawable="infinity"/>
+    
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
 
@@ -1209,6 +1212,9 @@
     <!-- oandbackup -->
     <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup" />
 
+    <!-- OctoDroid -->
+    <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid"/
+
     <!-- Odyssey -->
     <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey" />
 
@@ -1339,6 +1345,9 @@
     <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone"/>
 
+    <!-- PhoneTrack -->
+    <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack"/>
+    
     <!-- Phonograph -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
 
@@ -1502,7 +1511,10 @@
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
-
+    
+    <!-- ScreenCam -->
+    <item component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}" drawable="screencam"/>
+    
     <!-- Screencast -->
     <item component="ComponentInfo{org.cyanogenmod.screencast/org.cyanogenmod.screencast.MainActivity}" drawable="screencast" />
 
