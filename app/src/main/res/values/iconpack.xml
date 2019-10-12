@@ -195,6 +195,7 @@
         <item>freemobilenetstat</item>
         <item>freeotp</item>
         <item>frost</item>
+        <item>fruitradar</item>
         <item>fuelflash</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
@@ -324,6 +325,7 @@
         <item>moonlight</item>
         <item>morse</item>
         <item>moviedb</item>
+        <item>mpd</item>
         <item>mpv</item>
         <item>mupdf</item>
         <item>musicpiped</item>
