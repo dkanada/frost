@@ -51,7 +51,10 @@
 
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb"/>
-
+    
+    <!-- APKGrabber -->
+    <item component="ComponentInfo{de.apkgrabber/de.apkgrabber.activity.MainActivity_}" drawable="apkgrabber"/>
+   
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
 
@@ -1213,7 +1216,7 @@
     <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup" />
 
     <!-- OctoDroid -->
-    <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid"/
+    <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid"/>
 
     <!-- Odyssey -->
     <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey" />
@@ -1261,6 +1264,9 @@
 
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
+
+    <!-- OpenTodoList -->
+    <item component="ComponentInfo{net.rpdev.opentodolist/org.qtproject.qt5.android.bindings.QtActivity}" drawable="opentodolist"/>
 
     <!-- OpenVPN -->
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn" />
