@@ -533,7 +533,10 @@
 
     <!-- Equalizer -->
     <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="equalizer"/>
-
+   
+    <!-- Escapepod -->
+    <item component="ComponentInfo{org.y20k.escapepod/org.y20k.escapepod.PodcastPlayerActivity}" drawable="escapepod"/>
+    
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
 
@@ -1249,7 +1252,10 @@
     <item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.InitActivity}" drawable="openlauncher" />
     <item component="ComponentInfo{com.benny.openlauncher/com.benny.openlauncher.activity.OnBoardActivity}" drawable="openlauncher" />
     <item component="ComponentInfo{com.benny.openlauncher.debug/com.benny.openlauncher.activity.OnBoardActivity}" drawable="openlauncher" />
-
+    
+    <!-- OpenMaps -->
+    <item component="ComponentInfo{app.fedilab.openmaps/app.fedilab.openmaps.MainActivity}" drawable="openmaps"/>
+    
     <!-- Open Mensa -->
     <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
 
@@ -1258,7 +1264,10 @@
 
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
-
+    
+    <!-- OpenTracks -->
+    <item component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.TrackListActivity}" drawable="opentracks"/>
+    
     <!-- OpenVPN -->
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn" />
 
@@ -1401,7 +1410,10 @@
 
     <!-- ProtonMail -->
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="protonmail" />
-
+   
+    <!-- ProtonVPN -->
+    <item component="ComponentInfo{com.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="protonvpn"/>
+   
     <!-- PSLab -->
     <item component="ComponentInfo{io.pslab/io.pslab.activity.SplashActivity}" drawable="pslab"/>
 
@@ -2281,7 +2293,10 @@
 
     <!-- Tisséo -->
     <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo"/>
-
+    
+    <!-- Todo Agenda -->
+    <item component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda"/>
+    
     <!-- Tor Browser -->
     <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="torbrowser"/>
     <item component="ComponentInfo{org.torproject.torbrowser_alpha/org.torproject.torbrowser_alpha.App}" drawable="torbrowser"/>
