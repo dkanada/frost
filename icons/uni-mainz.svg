@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg856"
+   sodipodi:docname="uni-mainz.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs860">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask930">
+      <g
+         id="g942"
+         style="fill:#010101;fill-opacity:1">
+        <circle
+           id="circle932"
+           r="22"
+           cy="24"
+           cx="24"
+           style="fill:#ffffff" />
+        <rect
+           y="1.4042553"
+           x="29.425531"
+           height="45.318825"
+           width="1.0212766"
+           id="rect934"
+           style="opacity:1;fill:#010101;fill-opacity:1;stroke:none;stroke-width:0.70998555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        <path
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path936"
+           d="m 33.828289,18.09841 1.827947,0.04513 0.15797,8.282176 c 0.10654,4.144159 6.108094,4.142631 6.093154,0.09027 l 0.02257,-8.372445 1.895648,0.02257 -0.04513,8.462714 c 0.04177,6.291812 -10.001482,6.133278 -9.974719,-0.135404 z"
+           style="fill:#010101;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path938"
+           d="m 20.537139,25.525823 -0.0066,0.874315 1.902258,0.01128 c 0.479523,0.0013 0.83067,0.388232 0.840795,0.948958 L 23.1693,29.007785 c -0.64307,2.755334 -8.021968,2.482273 -8.138559,-4.18155 0.05576,-5.60947 7.261117,-7.905856 9.07203,-3.091711 l 0.496479,-0.02257 -0.02257,-2.414695 c -7.033657,-3.416335 -11.749503,1.754786 -11.802666,5.664377 0.02967,5.221386 6.13193,8.37781 11.983204,5.39357 l 0.02941,-3.225512 c 0.0099,-0.577442 -0.05166,-0.689046 0.526789,-0.699584 l 0.768655,0.01322 0.0066,-0.872379 z"
+           style="fill:#010101;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path940"
+           d="m 6.1787495,18.152089 -0.00991,0.823373 1.2186309,0.01459 c 0.3000005,0.01 0.7257366,0.136763 0.7367402,0.85732 l -0.022567,11.56571 c -0.018602,2.12194 -0.9093122,3.878229 -1.940787,1.636126 -0.4633398,-1.019566 -2.6449323,-0.154216 -1.1170783,1.500721 0.8639103,0.801643 4.6200113,0.956345 4.7616873,-3.159413 L 9.7716146,19.565283 c 0.014819,-0.423092 0.095396,-0.567808 0.7334364,-0.575464 l 1.176918,-0.0017 6.89e-4,-0.837276 z"
+           style="fill:#010101;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1278"
+     inkscape:window-height="1003"
+     id="namedview858"
+     showgrid="false"
+     inkscape:zoom="8"
+     inkscape:cx="22.047968"
+     inkscape:cy="18.730937"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg856" />
+  <circle
+     cx="24"
+     cy="24"
+     r="22"
+     id="circle854"
+     fill="#fff"
+     mask="url(#mask930)" />
+</svg>

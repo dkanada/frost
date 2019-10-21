@@ -2358,6 +2358,9 @@
     <!-- Unit Converter Ultimate -->
     <item component="ComponentInfo{com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity}" drawable="unitconverterultimate" />
 
+    <!-- Uni Mainz -->
+    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="uni-mainz" />
+	    
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
 
