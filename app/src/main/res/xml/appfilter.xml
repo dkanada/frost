@@ -170,6 +170,9 @@
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
 
+    <!-- Bandcamp -->
+    <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
+
     <!-- BankID -->
     <item component="ComponentInfo{com.bankid.bus/com.bankid.bus.activities.InitActivity}" drawable="bankid" />
 
@@ -405,11 +408,17 @@
     <!-- Cythara -->
     <item component="ComponentInfo{com.github.cythara/com.github.cythara.MainActivity}" drawable="cythara"/>
 
+    <!-- Dark Sky -->
+    <item component="ComponentInfo{net.darksky.darksky/net.darksky.darksky.DarkSky}" drawable="darksky" />
+
     <!-- Das Erste -->
     <item component="ComponentInfo{com.daserste.daserste/com.daserste.daserste.DasErste}" drawable="daserste" />
 
     <!-- DAVdroid -->
     <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davdroid" />
+
+    <!-- Deco -->
+    <item component="ComponentInfo{com.tplink.tpm5/com.tplink.tpm5.view.welcome.WelcomeActivity}" drawable="deco" />
 
     <!-- default -->
     <item component=":BROWSER" drawable="browser" />
@@ -958,6 +967,9 @@
 
     <!-- Kontakt bar -->
     <item component="ComponentInfo{com.premiumbonus.jamm.kontaktbar/com.premiumbonus.jamm.kontaktbar.MainActivity}" drawable="kontakt"/>
+
+    <!-- Koreader -->
+    <item component="ComponentInfo{org.koreader.launcher/org.koreader.launcher.MainActivity}" drawable="koreader" />
 
     <!-- Kore -->
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />

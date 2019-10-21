@@ -121,9 +121,11 @@
     <item drawable="crontosignswiss" />
     <item drawable="cuprumpdf" />
     <item drawable="cythara" />
+    <item drawable="darksky" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="deco" />
     <item drawable="dellconnect" />
     <item drawable="deluge" />
     <item drawable="detexify" />
@@ -275,6 +277,7 @@
     <item drawable="koler" />
     <item drawable="komoot" />
     <item drawable="kontakt" />
+    <item drawable="koreader" />
     <item drawable="kore" />
     <item drawable="lastfmscrobbler" />
     <item drawable="lawnchair" />
