@@ -195,6 +195,7 @@
     <item drawable="freemobilenetstat" />
     <item drawable="freeotp" />
     <item drawable="frost" />
+    <item drawable="fruitradar" />
     <item drawable="fuelflash" />
     <item drawable="g2step" />
     <item drawable="gadgetbridge" />
@@ -324,6 +325,7 @@
     <item drawable="moonlight" />
     <item drawable="morse" />
     <item drawable="moviedb" />
+    <item drawable="mpd" />
     <item drawable="mpv" />
     <item drawable="mupdf" />
     <item drawable="musicpiped" />
