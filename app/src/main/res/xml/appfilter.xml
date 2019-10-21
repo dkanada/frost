@@ -453,6 +453,9 @@
     <!-- Dimmer -->
     <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer" />
 
+    <!-- Dir -->
+    <item component="ComponentInfo{com.veniosg.dir/com.veniosg.dir.android.activity.FileManagerActivity}" drawable="dir" />
+
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
 
