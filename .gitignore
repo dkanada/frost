@@ -6,6 +6,7 @@
 *.dex
 *.pro
 *.yml
+*~
 
 bin/
 build/

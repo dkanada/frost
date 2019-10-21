@@ -34,6 +34,7 @@
         <item>anysoftkeyboard</item>
         <item>aospkeyboard</item>
         <item>apex</item>
+        <item>apkgrabber</item>
         <item>apktrack</item>
         <item>applemusic</item>
         <item>applicationsinfo</item>
@@ -66,6 +67,7 @@
         <item>blabla_circle</item>
         <item>blabla_square</item>
         <item>blackberrylauncher</item>
+        <item>blocker</item>
         <item>blockinger</item>
         <item>blogger</item>
         <item>blokada</item>
@@ -120,9 +122,11 @@
         <item>crontosignswiss</item>
         <item>cuprumpdf</item>
         <item>cythara</item>
+        <item>darksky</item>
         <item>daserste</item>
         <item>davdroid</item>
         <item>dbnavigator</item>
+        <item>deco</item>
         <item>dellconnect</item>
         <item>deluge</item>
         <item>detexify</item>
@@ -158,6 +162,7 @@
         <item>emit</item>
         <item>episodes</item>
         <item>equalizer</item>
+        <item>escapepod</item>
         <item>es</item>
         <item>etar</item>
         <item>etesync</item>
@@ -267,15 +272,19 @@
         <item>kik</item>
         <item>kinoteatr</item>
         <item>kiss</item>
+        <item>kiwibrowser</item>
         <item>kiwix</item>
+        <item>knockonports</item>
         <item>kodi</item>
         <item>koler</item>
         <item>komoot</item>
         <item>kontakt</item>
+        <item>koreader</item>
         <item>kore</item>
         <item>lastfmscrobbler</item>
         <item>lawnchair</item>
         <item>leafpic</item>
+        <item>letterboxd</item>
         <item>libremsocial</item>
         <item>libreofficeviewer</item>
         <item>libretorrent</item>
@@ -284,6 +293,8 @@
         <item>lighthouse</item>
         <item>lightning</item>
         <item>lineagerec</item>
+        <item>linebitlight</item>
+        <item>linebit</item>
         <item>line</item>
         <item>linphone</item>
         <item>linuxcommandlibrary</item>
@@ -359,6 +370,7 @@
         <item>notificationnotes</item>
         <item>nova</item>
         <item>oandbackup</item>
+        <item>octodroid</item>
         <item>odyssey</item>
         <item>oeffidirections</item>
         <item>oeffiplans</item>
@@ -369,9 +381,12 @@
         <item>openconnect</item>
         <item>openfoodfacts</item>
         <item>openlauncher</item>
+        <item>openmaps</item>
         <item>openmensa</item>
         <item>openscale</item>
         <item>opentasks</item>
+        <item>opentodolist</item>
+        <item>opentracks</item>
         <item>openvpn</item>
         <item>opera</item>
         <item>orbot</item>
@@ -397,6 +412,7 @@
         <item>pep</item>
         <item>periodical</item>
         <item>phone</item>
+        <item>phonetrack</item>
         <item>phonograph</item>
         <item>pixeldungeon</item>
         <item>pixlr</item>
@@ -413,6 +429,7 @@
         <item>privacyshade</item>
         <item>privatelocation</item>
         <item>protonmail</item>
+        <item>protonvpn</item>
         <item>pslab</item>
         <item>puzzles</item>
         <item>qksms</item>
@@ -445,10 +462,12 @@
         <item>sbbmobile</item>
         <item>sberbank</item>
         <item>scarletnotesfd</item>
+        <item>screencam</item>
         <item>screencast</item>
         <item>screeps</item>
         <item>scummvm</item>
         <item>seafile</item>
+        <item>secusosolitaire</item>
         <item>sensorreadout</item>
         <item>seriesguide</item>
         <item>settings</item>
@@ -501,6 +520,7 @@
         <item>speedtest</item>
         <item>spellbook</item>
         <item>spotify</item>
+        <item>standardnotes</item>
         <item>starkeverben</item>
         <item>steam</item>
         <item>stocard</item>
@@ -544,11 +564,13 @@
         <item>tinyscanner</item>
         <item>tinytraveltracker</item>
         <item>tisseo</item>
+        <item>todoagenda</item>
         <item>torbrowser</item>
         <item>torchie</item>
         <item>torch</item>
         <item>torrentclient</item>
         <item>totalcommander</item>
+        <item>towercollector</item>
         <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
@@ -568,7 +590,8 @@
         <item>unifiednlp</item>
         <item>unitconverterultimate</item>
         <item>uni-mainz</item>
-	<item>urbandroid</item>
+        <item>urbandroid</item>
+        <item>user.jsupdater</item>
         <item>vanillamusic</item>
         <item>vasttrafik</item>
         <item>vectorpinball</item>
