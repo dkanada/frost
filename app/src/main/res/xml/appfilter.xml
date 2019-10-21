@@ -938,6 +938,9 @@
     <!-- Kiwix -->
     <item component="ComponentInfo{org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.utils.SplashActivity}" drawable="kiwix"/>
 
+    <!-- Knock on Ports -->
+    <item component="ComponentInfo{me.impa.knockonports/me.impa.knockonports.MainActivity}" drawable="knockonports" />
+    
     <!-- Kodi -->
     <item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi" />
 
@@ -2340,7 +2343,10 @@
 
     <!-- Toulouse VélôToulouse (bikes rental) -->
     <item component="ComponentInfo{com.michgauz.velotoulouse.view/com.michgauz.velibco.view.GlobalActivity}" drawable="bikelocation"/>
-
+    
+    <!-- Tower Collector -->
+    <item component="ComponentInfo{info.zamojski.soft.towercollector/info.zamojski.soft.towercollector.SplashActivity" drawable="towercollector"/>
+    
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>
     <item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline"/>
