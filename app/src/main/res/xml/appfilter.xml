@@ -605,6 +605,7 @@
 
     <!-- Fedilab -->
     <item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}" drawable="fedilab"/>
+    <item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" drawable="fedilab"/>
 
     <!-- Feeder -->
     <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
