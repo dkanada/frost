@@ -34,6 +34,7 @@
     <item drawable="anysoftkeyboard" />
     <item drawable="aospkeyboard" />
     <item drawable="apex" />
+    <item drawable="apkgrabber" />
     <item drawable="apktrack" />
     <item drawable="applemusic" />
     <item drawable="applicationsinfo" />
@@ -66,6 +67,7 @@
     <item drawable="blabla_circle" />
     <item drawable="blabla_square" />
     <item drawable="blackberrylauncher" />
+    <item drawable="blocker" />
     <item drawable="blockinger" />
     <item drawable="blogger" />
     <item drawable="blokada" />
@@ -119,9 +121,11 @@
     <item drawable="crontosignswiss" />
     <item drawable="cuprumpdf" />
     <item drawable="cythara" />
+    <item drawable="darksky" />
     <item drawable="daserste" />
     <item drawable="davdroid" />
     <item drawable="dbnavigator" />
+    <item drawable="deco" />
     <item drawable="dellconnect" />
     <item drawable="deluge" />
     <item drawable="detexify" />
@@ -156,6 +160,7 @@
     <item drawable="emit" />
     <item drawable="episodes" />
     <item drawable="equalizer" />
+    <item drawable="escapepod" />
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="etesync" />
@@ -265,15 +270,19 @@
     <item drawable="kik" />
     <item drawable="kinoteatr" />
     <item drawable="kiss" />
+    <item drawable="kiwibrowser" />
     <item drawable="kiwix" />
+    <item drawable="knockonports" />
     <item drawable="kodi" />
     <item drawable="koler" />
     <item drawable="komoot" />
     <item drawable="kontakt" />
+    <item drawable="koreader" />
     <item drawable="kore" />
     <item drawable="lastfmscrobbler" />
     <item drawable="lawnchair" />
     <item drawable="leafpic" />
+    <item drawable="letterboxd" />
     <item drawable="libremsocial" />
     <item drawable="libreofficeviewer" />
     <item drawable="libretorrent" />
@@ -282,6 +291,8 @@
     <item drawable="lighthouse" />
     <item drawable="lightning" />
     <item drawable="lineagerec" />
+    <item drawable="linebitlight" />
+    <item drawable="linebit" />
     <item drawable="line" />
     <item drawable="linphone" />
     <item drawable="linuxcommandlibrary" />
@@ -357,6 +368,7 @@
     <item drawable="notificationnotes" />
     <item drawable="nova" />
     <item drawable="oandbackup" />
+    <item drawable="octodroid" />
     <item drawable="odyssey" />
     <item drawable="oeffidirections" />
     <item drawable="oeffiplans" />
@@ -367,9 +379,12 @@
     <item drawable="openconnect" />
     <item drawable="openfoodfacts" />
     <item drawable="openlauncher" />
+    <item drawable="openmaps" />
     <item drawable="openmensa" />
     <item drawable="openscale" />
     <item drawable="opentasks" />
+    <item drawable="opentodolist" />
+    <item drawable="opentracks" />
     <item drawable="openvpn" />
     <item drawable="opera" />
     <item drawable="orbot" />
@@ -395,6 +410,7 @@
     <item drawable="pep" />
     <item drawable="periodical" />
     <item drawable="phone" />
+    <item drawable="phonetrack" />
     <item drawable="phonograph" />
     <item drawable="pixeldungeon" />
     <item drawable="pixlr" />
@@ -411,6 +427,7 @@
     <item drawable="privacyshade" />
     <item drawable="privatelocation" />
     <item drawable="protonmail" />
+    <item drawable="protonvpn" />
     <item drawable="pslab" />
     <item drawable="puzzles" />
     <item drawable="qksms" />
@@ -443,10 +460,12 @@
     <item drawable="sbbmobile" />
     <item drawable="sberbank" />
     <item drawable="scarletnotesfd" />
+    <item drawable="screencam" />
     <item drawable="screencast" />
     <item drawable="screeps" />
     <item drawable="scummvm" />
     <item drawable="seafile" />
+    <item drawable="secusosolitaire" />
     <item drawable="sensorreadout" />
     <item drawable="seriesguide" />
     <item drawable="settings" />
@@ -499,6 +518,7 @@
     <item drawable="speedtest" />
     <item drawable="spellbook" />
     <item drawable="spotify" />
+    <item drawable="standardnotes" />
     <item drawable="starkeverben" />
     <item drawable="steam" />
     <item drawable="stocard" />
@@ -542,11 +562,13 @@
     <item drawable="tinyscanner" />
     <item drawable="tinytraveltracker" />
     <item drawable="tisseo" />
+    <item drawable="todoagenda" />
     <item drawable="torbrowser" />
     <item drawable="torchie" />
     <item drawable="torch" />
     <item drawable="torrentclient" />
     <item drawable="totalcommander" />
+    <item drawable="towercollector" />
     <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
@@ -566,6 +588,7 @@
     <item drawable="unifiednlp" />
     <item drawable="unitconverterultimate" />
     <item drawable="urbandroid" />
+    <item drawable="user.jsupdater" />
     <item drawable="vanillamusic" />
     <item drawable="vasttrafik" />
     <item drawable="vectorpinball" />
