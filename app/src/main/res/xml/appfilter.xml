@@ -2203,6 +2203,9 @@
 
     <!-- SpaRSS -->
     <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
+    
+    <!-- Speedmeter -->
+    <item component="ComponentInfo{fly.speedmeter.grub/fly.speedmeter.grub.MainActivity}" drawable="speedmeter" />
 
     <!-- Speedtest -->
     <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest"/>
