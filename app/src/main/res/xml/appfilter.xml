@@ -522,6 +522,7 @@
 
     <!-- Easer -->
     <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer" />
+    <item component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}" drawable="easer" />
 
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
@@ -1596,6 +1597,9 @@
     <!-- Secuso Weather -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyweather/org.secuso.privacyfriendlyweather.activities.SplashActivity}" drawable="weather" />
 
+    <!-- Semitone -->
+    <item component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}" drawable="semitone" />
+    
     <!-- Sensor Readout -->
     <item component="ComponentInfo{de.onyxbits.sensorreadout/de.onyxbits.sensorreadout.OverviewActivity}" drawable="sensorreadout" />
 
