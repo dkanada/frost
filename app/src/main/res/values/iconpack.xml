@@ -46,6 +46,7 @@
         <item>audinaut</item>
         <item>audiofx</item>
         <item>auroradroid</item>
+        <item>auroraservices</item>
         <item>aurorastore</item>
         <item>authy</item>
         <item>aviasales</item>
@@ -175,6 +176,7 @@
         <item>feeder</item>
         <item>fennec</item>
         <item>files</item>
+        <item>firefoxalt</item>
         <item>firefoxfocus</item>
         <item>firefoxlockwise</item>
         <item>firefoxnotes</item>
@@ -280,6 +282,8 @@
         <item>koreader</item>
         <item>kore</item>
         <item>lastfmscrobbler</item>
+        <item>lastpassauthenticator</item>
+        <item>lastpass</item>
         <item>lawnchair</item>
         <item>leafpic</item>
         <item>letterboxd</item>
@@ -438,6 +442,7 @@
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
+        <item>raspberry</item>
         <item>recorder</item>
         <item>recurrence</item>
         <item>recyclelocation</item>
@@ -466,6 +471,7 @@
         <item>scummvm</item>
         <item>seafile</item>
         <item>secusosolitaire</item>
+        <item>semitone</item>
         <item>sensorreadout</item>
         <item>seriesguide</item>
         <item>settings</item>
@@ -515,6 +521,7 @@
         <item>sovcombank</item>
         <item>sparkasse</item>
         <item>sparss</item>
+        <item>speedmeter</item>
         <item>speedtest</item>
         <item>spellbook</item>
         <item>spotify</item>

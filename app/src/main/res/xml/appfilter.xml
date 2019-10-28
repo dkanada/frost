@@ -642,7 +642,7 @@
     <!-- Firefox Preview -->
     <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview"/>
     <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview"/>
-    
+
     <!-- Firefox Send -->
     <item component="ComponentInfo{org.mozilla.firefoxsend/org.mozilla.firefoxsend.MainActivity}" drawable="firefoxsend"/>
 
@@ -1610,7 +1610,7 @@
 
     <!-- Semitone -->
     <item component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}" drawable="semitone" />
-    
+
     <!-- Sensor Readout -->
     <item component="ComponentInfo{de.onyxbits.sensorreadout/de.onyxbits.sensorreadout.OverviewActivity}" drawable="sensorreadout" />
 
@@ -2214,7 +2214,7 @@
 
     <!-- SpaRSS -->
     <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
-    
+
     <!-- Speedmeter -->
     <item component="ComponentInfo{fly.speedmeter.grub/fly.speedmeter.grub.MainActivity}" drawable="speedmeter" />
 

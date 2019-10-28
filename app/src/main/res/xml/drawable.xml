@@ -46,6 +46,7 @@
     <item drawable="audinaut" />
     <item drawable="audiofx" />
     <item drawable="auroradroid" />
+    <item drawable="auroraservices" />
     <item drawable="aurorastore" />
     <item drawable="authy" />
     <item drawable="aviasales" />
@@ -175,6 +176,7 @@
     <item drawable="feeder" />
     <item drawable="fennec" />
     <item drawable="files" />
+    <item drawable="firefoxalt" />
     <item drawable="firefoxfocus" />
     <item drawable="firefoxlockwise" />
     <item drawable="firefoxnotes" />
@@ -280,6 +282,8 @@
     <item drawable="koreader" />
     <item drawable="kore" />
     <item drawable="lastfmscrobbler" />
+    <item drawable="lastpassauthenticator" />
+    <item drawable="lastpass" />
     <item drawable="lawnchair" />
     <item drawable="leafpic" />
     <item drawable="letterboxd" />
@@ -438,6 +442,7 @@
     <item drawable="quizlet" />
     <item drawable="radiodroid" />
     <item drawable="radio" />
+    <item drawable="raspberry" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
     <item drawable="recyclelocation" />
@@ -466,6 +471,7 @@
     <item drawable="scummvm" />
     <item drawable="seafile" />
     <item drawable="secusosolitaire" />
+    <item drawable="semitone" />
     <item drawable="sensorreadout" />
     <item drawable="seriesguide" />
     <item drawable="settings" />
@@ -515,6 +521,7 @@
     <item drawable="sovcombank" />
     <item drawable="sparkasse" />
     <item drawable="sparss" />
+    <item drawable="speedmeter" />
     <item drawable="speedtest" />
     <item drawable="spellbook" />
     <item drawable="spotify" />
