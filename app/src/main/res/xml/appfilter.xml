@@ -164,6 +164,9 @@
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurorastore"/>
 
+    <!-- Authenticator (LastPass) -->
+    <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="lastpassauthenticator" />
+
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
 
@@ -983,6 +986,9 @@
 
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
+
+    <!-- LastPass -->
+    <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="lastpass" />
 
     <!-- Lawnchair -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair"/>
