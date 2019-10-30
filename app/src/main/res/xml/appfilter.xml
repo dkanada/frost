@@ -713,6 +713,9 @@
     <!-- FreeOTP -->
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
 
+    <!-- FreeOTP+ -->
+    <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotpplus"/>
+
     <!-- Frost -->
     <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
     <item component="ComponentInfo{com.dkanada.icecons.debug/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
@@ -922,6 +925,9 @@
 
     <!-- Jota Text Editor -->
     <item component="ComponentInfo{jp.sblo.pandora.jota/jp.sblo.pandora.jota.Main}" drawable="jotatexteditor"/>
+
+    <!-- JustChess -->
+    <item component="ComponentInfo{com.alaskalinuxuser.justchess/com.alaskalinuxuser.justchess.IntroActivity}" drawable="justchess"/>
 
     <!-- K-9 Mail -->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
@@ -1154,6 +1160,9 @@
     <!-- Minesweeper -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper"/>
 
+    <!-- Minimal -->
+    <item component="ComponentInfo{com.rubenroy.minimaltodo/com.rubenroy.minimaltodo.MainActivity}" drawable="minimal"/>
+
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
 
@@ -1229,6 +1238,9 @@
 
     <!-- NetGuard -->
     <item component="ComponentInfo{eu.faircode.netguard/eu.faircode.netguard.ActivityMain}" drawable="netguard" />
+
+    <!-- Net Monitor -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlynetmonitor/org.secuso.privacyfriendlynetmonitor.Activities.SplashActivity}" drawable="netmonitor"/>
 
     <!-- NewPipe -->
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.VideoItemListActivity}" drawable="newpipe" />
@@ -2543,6 +2555,9 @@
     <!-- Wi-Fi Analyzer -->
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.SplashActivity}" drawable="wifianalyzer" />
+
+    <!-- WiFi Automatic -->
+    <item component="ComponentInfo{de.j4velin.wifiAutoOff/de.j4velin.wifiAutoOff.Preferences}" drawable="wifiautomatic"/>
 
     <!-- WiFiKeyShare -->
     <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare" />
