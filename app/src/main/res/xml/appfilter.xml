@@ -9,6 +9,9 @@
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
 
+    <!-- 2050 -->
+    <item component="ComponentInfo{org.mattvchandler.a2050/org.mattvchandler.a2050.MainActivity}" drawable="a2050"/>
+
     <!-- 5th Edition Spellbook -->
     <item component="ComponentInfo{com.spellsdd5/com.spelldd5.MainActivity}" drawable="spellbook"/>
 
@@ -1290,6 +1293,9 @@
     <!-- Nova Launcher -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova" />
+
+    <!-- NS -->
+    <item component="ComponentInfo{nl.ns.android.activity/nl.ns.android.activity.start.StartActivity}" drawable="ns"/>
 
     <!-- oandbackup -->
     <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup" />
@@ -2577,6 +2583,9 @@
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
+
+    <!-- Workplace -->
+    <item component="ComponentInfo{com.xerox.mobileprint/com.xerox.mobileprint.HomeAct}" drawable="workplace"/>
 
     <!-- Writeily Pro -->
     <item component="ComponentInfo{me.writeily/me.writeily.PromptPinActivity}" drawable="writeilypro" />
