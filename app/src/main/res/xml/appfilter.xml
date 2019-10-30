@@ -520,6 +520,9 @@
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo"/>
 
+    <!-- Duo -->
+    <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="duo"/>
+
     <!-- Duolingo -->
     <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
 
@@ -605,6 +608,9 @@
 
     <!-- Fedilab -->
     <item component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity}" drawable="fedilab"/>
+
+    <!-- Feedback -->
+    <item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="feedback"/>
 
     <!-- Feeder -->
     <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" />
@@ -961,6 +967,9 @@
 
     <!-- Kodi -->
     <item component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" drawable="kodi" />
+
+    <!-- Kodi Remote -->
+    <item component="ComponentInfo{ch.berard.xbmcremotebeta/ch.berard.xbmc.activities.StartupActivity}" drawable="kodiremote"/>
 
     <!-- Koler -->
     <item component="ComponentInfo{com.chooloo.www.callmanager/com.chooloo.www.callmanager.ui.activity.MainActivity}" drawable="koler"/>
