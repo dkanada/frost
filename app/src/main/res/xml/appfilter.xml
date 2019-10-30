@@ -529,6 +529,9 @@
     <!-- Easer -->
     <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer" />
 
+    <!-- Easy xkcd -->
+    <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd"/>
+
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
 
@@ -572,6 +575,9 @@
     <!-- Exodus Privacy -->
     <item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodusprivacy"/>
 
+    <!-- Expense Manager -->
+    <item component="ComponentInfo{at.markushi.expensemanager/at.markushi.expensemanager.activities.HomeActivity}" drawable="markushiexpensemanager"/>
+
     <!-- Export Contacts -->
     <item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="exportcontacts"/>
 
@@ -600,6 +606,9 @@
 
     <!-- FastHub-Libre -->
     <item component="ComponentInfo{com.fastaccess.github.libre/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
+    
+    <!-- FBReader -->
+    <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader"/>
 
     <!-- Fdroid -->
     <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
@@ -1385,6 +1394,9 @@
     <!-- Pairz -->
     <item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
 
+    <!-- PassAndroid -->
+    <item component="ComponentInfo{org.ligi.passandroid/org.ligi.passandroid.ui.PassListActivity}" drawable="passandroid"/>
+
     <!-- Password Keeper -->
     <item component="ComponentInfo{com.blackberry.passwordkeeper/com.blackberry.passwordkeeper.WhatsNewActivity}" drawable="passwordkeeper"/>
 
@@ -1599,6 +1611,9 @@
 
     <!-- Seafile -->
     <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
+
+    <!-- SealNote -->
+    <item component="ComponentInfo{com.twistedplane.sealnote/com.twistedplane.sealnote.SealnoteActivity}" drawable="sealnote"/>
 
     <!-- SecScanQR -->
     <item component="ComponentInfo{de.t_dankworth.secscanqr/de.t_dankworth.secscanqr.activities.MainActivity}" drawable="qr"/>
@@ -2396,6 +2411,9 @@
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>
     <item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline"/>
+
+    <!-- Transdrone -->
+    <item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdrone"/>
 
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
