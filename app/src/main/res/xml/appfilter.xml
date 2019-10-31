@@ -251,6 +251,9 @@
 
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
+	
+    <!-- Briar -->
+    <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="bring"/>
 
     <!-- Bring! -->
     <item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring"/>
@@ -474,6 +477,9 @@
 
     <!-- Dimmer -->
     <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer" />
+
+    <!-- Dir -->
+    <item component="ComponentInfo{com.veniosg.dir/com.veniosg.dir.android.activity.FileManagerActivity}" drawable="dir" />
 
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
@@ -2448,6 +2454,9 @@
     <!-- Unit Converter Ultimate -->
     <item component="ComponentInfo{com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity}" drawable="unitconverterultimate" />
 
+    <!-- Uni Mainz -->
+    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="uni-mainz" />
+	    
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
 
