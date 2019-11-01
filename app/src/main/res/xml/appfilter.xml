@@ -575,6 +575,9 @@
 
     <!-- EteSync -->
     <item component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" drawable="etesync" />
+    
+    <!-- Eventyay Attendee -->
+    <item component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" drawable="eventyayattendee"/>
 
     <!-- Exodus Privacy -->
     <item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodusprivacy"/>
@@ -712,6 +715,9 @@
     <!-- Frost -->
     <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
     <item component="ComponentInfo{com.dkanada.icecons.debug/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
+    
+    <!-- Frost Facebook-->
+    <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook"/>
 
     <!-- Fruit Radar -->
     <item component="ComponentInfo{eu.quelltext.mundraub/eu.quelltext.mundraub.activities.StartupActivity}" drawable="fruitradar" />
@@ -924,7 +930,10 @@
 
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
-
+    
+    <!-- Kaltura Device Info -->
+    <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo"/>
+  
     <!-- Kaku -->
     <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
 
@@ -989,6 +998,9 @@
     <!-- Kore -->
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore" />
+    
+    <!-- koyu space -->
+    <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
 
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
@@ -1005,9 +1017,21 @@
 
     <!-- Letterboxd -->
     <item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.PopularActivity}" drawable="letterboxd"/>
+    
+    <!-- Lexica -->
+    <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica"/>
+
+    <!-- Librem Chat -->
+    <item component="ComponentInfo{one.librem.chat/im.vector.activity.VectorLauncherActivity}" drawable="libremchat"/>
+
+    <!-- Librem Mail -->
+    <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.Accounts}" drawable="libremmail"/>
 
     <!-- Librem Social -->
     <item component="ComponentInfo{one.librem.social/com.keylesspalace.tusky.SplashActivity}" drawable="libremsocial"/>
+    
+    <!-- Librem Tunnel -->
+    <item component="ComponentInfo{one.librem.tunnel/de.blinkt.openvpn.activities.MainActivity}" drawable="libremtunnel"/>
 
     <!-- LibreOffice Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer"/>
@@ -2418,7 +2442,10 @@
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
-
+    
+    <!-- Trigger -->
+    <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger"/>
+    
     <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
@@ -2595,5 +2622,8 @@
 
     <!-- ZeroNet -->
     <item component="ComponentInfo{net.mkg20001.zeronet/org.kivy.android.PythonActivity}" drawable="zeronet" />
+    
+    <!-- Zoysii -->
+    <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii"/>
 
 </resources>
