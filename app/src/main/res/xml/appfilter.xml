@@ -2418,7 +2418,10 @@
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
-
+    
+    <!-- Trigger -->
+    <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger"/>
+    
     <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
