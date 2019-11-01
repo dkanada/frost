@@ -251,7 +251,7 @@
 
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
-	
+
     <!-- Briar -->
     <item component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" drawable="bring"/>
 
@@ -575,7 +575,7 @@
 
     <!-- EteSync -->
     <item component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" drawable="etesync" />
-    
+
     <!-- Eventyay Attendee -->
     <item component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" drawable="eventyayattendee"/>
 
@@ -712,12 +712,12 @@
     <!-- FreeOTP -->
     <item component="ComponentInfo{org.fedorahosted.freeotp/org.fedorahosted.freeotp.MainActivity}" drawable="freeotp" />
 
+    <!-- Frost Facebook-->
+    <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook"/>
+
     <!-- Frost -->
     <item component="ComponentInfo{com.dkanada.icecons/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
     <item component="ComponentInfo{com.dkanada.icecons.debug/com.dkanada.icecons.activities.MainActivity}" drawable="frost" />
-    
-    <!-- Frost Facebook-->
-    <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook"/>
 
     <!-- Fruit Radar -->
     <item component="ComponentInfo{eu.quelltext.mundraub/eu.quelltext.mundraub.activities.StartupActivity}" drawable="fruitradar" />
@@ -930,12 +930,12 @@
 
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
-    
-    <!-- Kaltura Device Info -->
-    <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo"/>
-  
+
     <!-- Kaku -->
     <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
+
+    <!-- Kaltura Device Info -->
+    <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo"/>
 
     <!-- KanaDrill -->
     <item component="ComponentInfo{com.jorgecastillo.kanadrill/com.jorgecastillo.kanadrill.MainActivity}" drawable="kanadrill" />
@@ -998,7 +998,7 @@
     <!-- Kore -->
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="kore" />
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore" />
-    
+
     <!-- koyu space -->
     <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
 
@@ -1017,7 +1017,7 @@
 
     <!-- Letterboxd -->
     <item component="ComponentInfo{com.letterboxd.letterboxd/com.letterboxd.letterboxd.ui.activities.PopularActivity}" drawable="letterboxd"/>
-    
+
     <!-- Lexica -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica"/>
 
@@ -1029,7 +1029,7 @@
 
     <!-- Librem Social -->
     <item component="ComponentInfo{one.librem.social/com.keylesspalace.tusky.SplashActivity}" drawable="libremsocial"/>
-    
+
     <!-- Librem Tunnel -->
     <item component="ComponentInfo{one.librem.tunnel/de.blinkt.openvpn.activities.MainActivity}" drawable="libremtunnel"/>
 
@@ -2442,10 +2442,10 @@
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
-    
+
     <!-- Trigger -->
     <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger"/>
-    
+
     <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
@@ -2478,12 +2478,12 @@
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
     <item component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
 
+    <!-- Uni Mainz -->
+    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="uni-mainz" />
+
     <!-- Unit Converter Ultimate -->
     <item component="ComponentInfo{com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity}" drawable="unitconverterultimate" />
 
-    <!-- Uni Mainz -->
-    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="uni-mainz" />
-	    
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid"/>
 
@@ -2622,7 +2622,7 @@
 
     <!-- ZeroNet -->
     <item component="ComponentInfo{net.mkg20001.zeronet/org.kivy.android.PythonActivity}" drawable="zeronet" />
-    
+
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii"/>
 
