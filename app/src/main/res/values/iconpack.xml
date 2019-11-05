@@ -46,6 +46,7 @@
         <item>audinaut</item>
         <item>audiofx</item>
         <item>auroradroid</item>
+        <item>auroraservices</item>
         <item>aurorastore</item>
         <item>authy</item>
         <item>aviasales</item>
@@ -77,6 +78,7 @@
         <item>booking</item>
         <item>book</item>
         <item>brave</item>
+        <item>briar</item>
         <item>bring</item>
         <item>bromite</item>
         <item>browser</item>
@@ -129,11 +131,13 @@
         <item>dellconnect</item>
         <item>deluge</item>
         <item>detexify</item>
+        <item>deviceinfo</item>
         <item>devicesearch</item>
         <item>devrant</item>
         <item>diaspora</item>
         <item>dicer</item>
         <item>dimmer</item>
+        <item>dir</item>
         <item>discord</item>
         <item>diskusage</item>
         <item>disroot</item>
@@ -164,6 +168,7 @@
         <item>es</item>
         <item>etar</item>
         <item>etesync</item>
+        <item>eventyayattendee</item>
         <item>exodusprivacy</item>
         <item>exportcontacts</item>
         <item>facebook</item>
@@ -175,6 +180,7 @@
         <item>feeder</item>
         <item>fennec</item>
         <item>files</item>
+        <item>firefoxalt</item>
         <item>firefoxfocus</item>
         <item>firefoxlockwise</item>
         <item>firefoxnotes</item>
@@ -199,6 +205,7 @@
         <item>freebox</item>
         <item>freemobilenetstat</item>
         <item>freeotp</item>
+        <item>frostfacebook</item>
         <item>frost</item>
         <item>fruitradar</item>
         <item>fuelflash</item>
@@ -279,11 +286,18 @@
         <item>kontakt</item>
         <item>koreader</item>
         <item>kore</item>
+        <item>koyuspace</item>
         <item>lastfmscrobbler</item>
+        <item>lastpassauthenticator</item>
+        <item>lastpass</item>
         <item>lawnchair</item>
         <item>leafpic</item>
         <item>letterboxd</item>
+        <item>lexica</item>
+        <item>libremchat</item>
+        <item>libremmail</item>
         <item>libremsocial</item>
+        <item>libremtunnel</item>
         <item>libreofficeviewer</item>
         <item>libretorrent</item>
         <item>license</item>
@@ -438,6 +452,7 @@
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
+        <item>raspberry</item>
         <item>recorder</item>
         <item>recurrence</item>
         <item>recyclelocation</item>
@@ -466,6 +481,7 @@
         <item>scummvm</item>
         <item>seafile</item>
         <item>secusosolitaire</item>
+        <item>semitone</item>
         <item>sensorreadout</item>
         <item>seriesguide</item>
         <item>settings</item>
@@ -515,6 +531,7 @@
         <item>sovcombank</item>
         <item>sparkasse</item>
         <item>sparss</item>
+        <item>speedmeter</item>
         <item>speedtest</item>
         <item>spellbook</item>
         <item>spotify</item>
@@ -576,6 +593,7 @@
         <item>trebleshot</item>
         <item>trello</item>
         <item>trenord</item>
+        <item>trigger</item>
         <item>tumblr</item>
         <item>turtl</item>
         <item>turtlsync</item>
@@ -586,6 +604,7 @@
         <item>twitlatte</item>
         <item>twitter</item>
         <item>unifiednlp</item>
+        <item>uni-mainz</item>
         <item>unitconverterultimate</item>
         <item>urbandroid</item>
         <item>user.jsupdater</item>
@@ -628,5 +647,6 @@
         <item>zapp</item>
         <item>zarchiver</item>
         <item>zeronet</item>
+        <item>zoysii</item>
     </string-array>
 </resources>

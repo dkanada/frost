@@ -46,6 +46,7 @@
     <item drawable="audinaut" />
     <item drawable="audiofx" />
     <item drawable="auroradroid" />
+    <item drawable="auroraservices" />
     <item drawable="aurorastore" />
     <item drawable="authy" />
     <item drawable="aviasales" />
@@ -77,6 +78,7 @@
     <item drawable="booking" />
     <item drawable="book" />
     <item drawable="brave" />
+    <item drawable="briar" />
     <item drawable="bring" />
     <item drawable="bromite" />
     <item drawable="browser" />
@@ -129,11 +131,13 @@
     <item drawable="dellconnect" />
     <item drawable="deluge" />
     <item drawable="detexify" />
+    <item drawable="deviceinfo" />
     <item drawable="devicesearch" />
     <item drawable="devrant" />
     <item drawable="diaspora" />
     <item drawable="dicer" />
     <item drawable="dimmer" />
+    <item drawable="dir" />
     <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="disroot" />
@@ -164,6 +168,7 @@
     <item drawable="es" />
     <item drawable="etar" />
     <item drawable="etesync" />
+    <item drawable="eventyayattendee" />
     <item drawable="exodusprivacy" />
     <item drawable="exportcontacts" />
     <item drawable="facebook" />
@@ -175,6 +180,7 @@
     <item drawable="feeder" />
     <item drawable="fennec" />
     <item drawable="files" />
+    <item drawable="firefoxalt" />
     <item drawable="firefoxfocus" />
     <item drawable="firefoxlockwise" />
     <item drawable="firefoxnotes" />
@@ -199,6 +205,7 @@
     <item drawable="freebox" />
     <item drawable="freemobilenetstat" />
     <item drawable="freeotp" />
+    <item drawable="frostfacebook" />
     <item drawable="frost" />
     <item drawable="fruitradar" />
     <item drawable="fuelflash" />
@@ -279,11 +286,18 @@
     <item drawable="kontakt" />
     <item drawable="koreader" />
     <item drawable="kore" />
+    <item drawable="koyuspace" />
     <item drawable="lastfmscrobbler" />
+    <item drawable="lastpassauthenticator" />
+    <item drawable="lastpass" />
     <item drawable="lawnchair" />
     <item drawable="leafpic" />
     <item drawable="letterboxd" />
+    <item drawable="lexica" />
+    <item drawable="libremchat" />
+    <item drawable="libremmail" />
     <item drawable="libremsocial" />
+    <item drawable="libremtunnel" />
     <item drawable="libreofficeviewer" />
     <item drawable="libretorrent" />
     <item drawable="license" />
@@ -438,6 +452,7 @@
     <item drawable="quizlet" />
     <item drawable="radiodroid" />
     <item drawable="radio" />
+    <item drawable="raspberry" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
     <item drawable="recyclelocation" />
@@ -466,6 +481,7 @@
     <item drawable="scummvm" />
     <item drawable="seafile" />
     <item drawable="secusosolitaire" />
+    <item drawable="semitone" />
     <item drawable="sensorreadout" />
     <item drawable="seriesguide" />
     <item drawable="settings" />
@@ -515,6 +531,7 @@
     <item drawable="sovcombank" />
     <item drawable="sparkasse" />
     <item drawable="sparss" />
+    <item drawable="speedmeter" />
     <item drawable="speedtest" />
     <item drawable="spellbook" />
     <item drawable="spotify" />
@@ -576,6 +593,7 @@
     <item drawable="trebleshot" />
     <item drawable="trello" />
     <item drawable="trenord" />
+    <item drawable="trigger" />
     <item drawable="tumblr" />
     <item drawable="turtl" />
     <item drawable="turtlsync" />
@@ -586,6 +604,7 @@
     <item drawable="twitlatte" />
     <item drawable="twitter" />
     <item drawable="unifiednlp" />
+    <item drawable="uni-mainz" />
     <item drawable="unitconverterultimate" />
     <item drawable="urbandroid" />
     <item drawable="user.jsupdater" />
@@ -628,4 +647,5 @@
     <item drawable="zapp" />
     <item drawable="zarchiver" />
     <item drawable="zeronet" />
+    <item drawable="zoysii" />
 </resources>
