@@ -1001,7 +1001,10 @@
 
     <!-- koyu space -->
     <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
-
+    
+    <!-- Kuroba -->
+    <item component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}" drawable="kuroba"/>
+    
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
 
