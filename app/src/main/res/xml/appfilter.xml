@@ -933,7 +933,10 @@
 
     <!-- Kaku -->
     <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
-
+    
+    <!-- Kakugo -->
+    <item component="ComponentInfo{org.kaqui/org.kaqui.mainmenu.MainActivity}" drawable="kakugo"/>
+    
     <!-- Kaltura Device Info -->
     <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo"/>
 
