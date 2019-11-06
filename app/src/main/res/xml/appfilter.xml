@@ -873,7 +873,10 @@
 
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
-
+    
+    <!-- Here Comes the Bus -->
+    <item component="ComponentInfo{com.synovia.herecomesthebus/com.synovia.herecomesthebus.MainActivity}" drawable="herecomesthebus"/>
+    
     <!-- HERE WeGo -->
     <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here"/>
     <item component="ComponentInfo{com.here.app.maps/com.here.app.MainActivity}" drawable="here"/>
@@ -2213,7 +2216,8 @@
 
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
-
+    <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideDefault}" drawable="slidereddit"/>
+    
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
 
