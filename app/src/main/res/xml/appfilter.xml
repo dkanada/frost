@@ -539,6 +539,9 @@
     <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer" />
     <item component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}" drawable="easer" />
 
+    <!-- Easy XKCD -->
+    <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity" drawable="easyxkcd" />
+    
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
 
