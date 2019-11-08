@@ -2479,7 +2479,7 @@
     <item component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
 
     <!-- Uni Mainz -->
-    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="uni-mainz" />
+    <item component="ComponentInfo{net.jgu.android.app/net.jgu.android.app.md5cdd9d182f0e2fec65839e30293fd1982.MainActivity}" drawable="unimainz" />
 
     <!-- Unit Converter Ultimate -->
     <item component="ComponentInfo{com.physphil.android.unitconverterultimate/com.physphil.android.unitconverterultimate.MainActivity}" drawable="unitconverterultimate" />
