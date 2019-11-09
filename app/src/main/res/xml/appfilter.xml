@@ -1341,7 +1341,10 @@
 
     <!-- Open Connect -->
     <item component="ComponentInfo{app.openconnect/app.openconnect.MainActivity}" drawable="openconnect" />
-
+    
+    <!-- Open Contacts -->
+    <item component="ComponentInfo{opencontacts.open.com.opencontacts/opencontacts.open.com.opencontacts.activities.MainActivity}" drawable="opencontacts"/>
+    
     <!-- Open Food Facts -->
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.MainActivity}" drawable="openfoodfacts" />
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
