@@ -190,7 +190,10 @@
 
     <!-- BatteryCalibration -->
     <item component="ComponentInfo{de.perflyst.batterycalibration/de.perflyst.batterycalibration.MainActivity}" drawable="batterycalibration" />
-
+    
+    <!-- Battery Charge Limit -->
+    <item component="ComponentInfo{com.slash.batterychargelimit/com.slash.batterychargelimit.activities.MainActivity}" drawable="batterychargelimit" />
+    
     <!-- BBM -->
     <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm"/>
 
@@ -402,6 +405,9 @@
     <!-- Couchsurfing -->
     <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing"/>
 
+    <!-- CPU Stats -->
+    <item component="ComponentInfo{jp.takke.cpustats/jp.takke.cpustats.PreviewActivity}" drawable="cpustats" />
+    
     <!-- Cpu-Z -->
     <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
 
