@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg994"
+   sodipodi:docname="asteroidossync.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata1000">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs998" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     id="namedview996"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="35.58048"
+     inkscape:cy="34.899376"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg994">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1548" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 24 2 A 22 22 0 0 0 2 24 A 22 22 0 0 0 24 46 A 22 22 0 0 0 46 24 A 22 22 0 0 0 24 2 z M 24 8 L 40 24 L 24 40 L 8 24 L 24 8 z M 21.119141 17.279297 L 17.919922 20.480469 L 21.119141 23.679688 L 24.320312 20.480469 L 21.119141 17.279297 z M 24.320312 20.480469 L 27.519531 23.679688 L 20.480469 30.720703 L 23.679688 33.919922 L 30.720703 26.880859 L 33.279297 24.320312 L 33.919922 23.679688 L 27.519531 17.279297 L 24.320312 20.480469 z "
+     id="circle992" />
+</svg>
