@@ -137,6 +137,9 @@
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
 
+    <!-- AsteroidOS Sync -->
+    <item component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" drawable="asteroidossync" />
+    
     <!-- Atomic -->
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
 
@@ -804,6 +807,9 @@
     <!-- Google Email -->
     <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
 
+    <!-- Google Files -->
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+    
     <!-- Google Fit -->
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="hearth" />
 
@@ -1139,8 +1145,9 @@
     <!-- Mather -->
     <item component="ComponentInfo{org.icasdri.mather/org.icasdri.mather.MainActivity}" drawable="mather"/>
 
-    <!-- MatLog -->
+    <!-- MatLog / MatLog Libre -->
     <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
+    <item component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
 
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
