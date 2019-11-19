@@ -159,6 +159,7 @@
 
     <!-- Aurora Services -->
     <item component="ComponentInfo{com.aurora.services/com.aurora.services.activity.AuroraActivity}" drawable="auroraservices"/>
+    <item component="ComponentInfo{com.aurora.services/com.aurora.services.activities.AuroraActivity}" drawable="auroraservices"/>
 
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
@@ -355,6 +356,9 @@
 
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
+    
+    <!-- ClassySharkexodus -->
+    <item component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}" drawable="classyshark3xodus"/>
 
     <!-- Clear Scan -->
     <item component="ComponentInfo{com.indymobileapp.document.scanner/com.notebloc.app.activity.MainActivity}" drawable="clearscan" />
@@ -871,6 +875,9 @@
     <!-- Hacker's Keyboard -->
     <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerskb" />
 
+    <!-- Hauk -->
+    <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk"/>
+
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
 
@@ -886,6 +893,9 @@
 
     <!-- Hub -->
     <item component="ComponentInfo{com.blackberry.hub/com.blackberry.hub.ui.IntroActivity}" drawable="hub"/>
+
+    <!-- Hue -->
+    <item component="ComponentInfo{is.zi.huewidgets/is.zi.huewidgets.MainActivity}" drawable="hue"/>
 
     <!-- Icecat -->
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat" />
@@ -1000,6 +1010,7 @@
     <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" drawable="kore" />
 
     <!-- koyu space -->
+    <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
     <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
 
     <!-- LabCoat -->
@@ -1131,6 +1142,9 @@
 
     <!-- Mein Vodafone -->
     <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" />
+
+    <!-- Meshenger -->
+    <item component="ComponentInfo{d.d.meshenger/d.d.meshenger.StartActivity}" drawable="meshenger"/>
 
     <!-- Messages -->
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
@@ -1477,6 +1491,9 @@
     <!-- Practice Hub -->
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practicehub" />
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainScreen}" drawable="practicehub" />
+    
+    <!-- Presence Publisher -->
+    <item component="ComponentInfo{org.ostrya.presencepublisher/org.ostrya.presencepublisher.MainActivity}" drawable="presencepublisher"/>
 
     <!-- Preview -->
     <item component="ComponentInfo{com.blackberrymobile.aota/com.blackberrymobile.aota.UI.activity.NewMainActivity}" drawable="preview"/>
@@ -1533,6 +1550,9 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio"/>
+
+    <!-- Railway station photos -->
+    <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos"/>
 
     <!-- Recorder -->
     <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="lineagerec" />
@@ -1607,6 +1627,9 @@
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
+    
+    <!-- Scrambled Exif -->
+    <item component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}" drawable="scrambledexif"/>
 
     <!-- ScreenCam -->
     <item component="ComponentInfo{com.orpheusdroid.screenrecorder/com.orpheusdroid.screenrecorder.ui.MainActivity}" drawable="screencam"/>
