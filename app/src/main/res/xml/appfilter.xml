@@ -160,6 +160,9 @@
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurorastore"/>
+    
+    <!-- Aurora Services -->
+    <item component="ComponentInfo{com.aurora.services/com.aurora.services.activities.AuroraActivity}" drawable="auroraservices"/>
 
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
