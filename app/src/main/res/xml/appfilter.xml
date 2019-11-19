@@ -487,6 +487,9 @@
     <!-- Dimmer -->
     <item component="ComponentInfo{giraffine.dimmer/giraffine.dimmer.Dimmer}" drawable="dimmer" />
 
+    <!-- Diode -->
+    <item component="ComponentInfo{in.shick.diode/in.shick.diode.threads.ThreadsListActivity}" drawable="diode" />
+
     <!-- Dir -->
     <item component="ComponentInfo{com.veniosg.dir/com.veniosg.dir.android.activity.FileManagerActivity}" drawable="dir" />
 
