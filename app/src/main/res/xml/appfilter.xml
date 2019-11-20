@@ -400,6 +400,9 @@
     <!-- Content Transfer -->
     <item component="ComponentInfo{com.mediamushroom.easymigrate/com.mediamushroom.easymigrate.UI.EasyMigrateActivityCompat}" drawable="contenttransfer"/>
 
+    <!-- Controlloid -->
+    <item component="ComponentInfo{com.controlloid/com.controlloid.MainActivity}" drawable="controlloid"/>
+    
     <!-- Conversations -->
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
 
