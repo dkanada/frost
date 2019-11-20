@@ -42,6 +42,7 @@
         <item>apps2sd</item>
         <item>appspackagesinfo</item>
         <item>arbetsfor</item>
+        <item>asteroidossync</item>
         <item>atomic</item>
         <item>audinaut</item>
         <item>audiofx</item>
@@ -55,6 +56,7 @@
         <item>bankieren</item>
         <item>barcode</item>
         <item>batterycalibration</item>
+        <item>batterychargelimit</item>
         <item>battery</item>
         <item>bbm</item>
         <item>bestiary</item>
@@ -117,6 +119,7 @@
         <item>contenttransfer</item>
         <item>conversations</item>
         <item>couchsurfing</item>
+        <item>cpustats</item>
         <item>cpuz</item>
         <item>creditagricole_circle</item>
         <item>creditagricole_square</item>
@@ -137,6 +140,7 @@
         <item>diaspora</item>
         <item>dicer</item>
         <item>dimmer</item>
+        <item>diode</item>
         <item>dir</item>
         <item>discord</item>
         <item>diskusage</item>
@@ -156,6 +160,7 @@
         <item>duolingo</item>
         <item>earth</item>
         <item>easer</item>
+        <item>easyxkcd</item>
         <item>ebaykleinanzeigen</item>
         <item>echo</item>
         <item>editor</item>
@@ -249,6 +254,7 @@
         <item>hangouts</item>
         <item>hearth</item>
         <item>hellotalk</item>
+        <item>herecomesthebus</item>
         <item>here</item>
         <item>holo</item>
         <item>hpprinteraio</item>
@@ -263,8 +269,11 @@
         <item>jellyfin</item>
         <item>jelly</item>
         <item>jitsimeet</item>
+        <item>joplin</item>
         <item>jotatexteditor</item>
+        <item>jsupdater</item>
         <item>k9mail</item>
+        <item>kakugo</item>
         <item>kaku</item>
         <item>kanadrill</item>
         <item>kaqui</item>
@@ -287,9 +296,11 @@
         <item>koreader</item>
         <item>kore</item>
         <item>koyuspace</item>
+        <item>kuroba</item>
         <item>lastfmscrobbler</item>
         <item>lastpassauthenticator</item>
         <item>lastpass</item>
+        <item>lawnchairsettings</item>
         <item>lawnchair</item>
         <item>leafpic</item>
         <item>letterboxd</item>
@@ -349,6 +360,7 @@
         <item>money</item>
         <item>moonlight</item>
         <item>morse</item>
+        <item>motioneye</item>
         <item>moviedb</item>
         <item>mpd</item>
         <item>mpv</item>
@@ -358,6 +370,7 @@
         <item>music</item>
         <item>muzei</item>
         <item>mx</item>
+        <item>myandroidtools</item>
         <item>myavans</item>
         <item>mymail</item>
         <item>mysplash</item>
@@ -391,6 +404,7 @@
         <item>openapk</item>
         <item>opencamera</item>
         <item>openconnect</item>
+        <item>opencontacts</item>
         <item>openfoodfacts</item>
         <item>openlauncher</item>
         <item>openmaps</item>
@@ -586,6 +600,7 @@
         <item>torrentclient</item>
         <item>totalcommander</item>
         <item>towercollector</item>
+        <item>towerjumper</item>
         <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
@@ -604,10 +619,9 @@
         <item>twitlatte</item>
         <item>twitter</item>
         <item>unifiednlp</item>
-        <item>uni-mainz</item>
+        <item>unimainz</item>
         <item>unitconverterultimate</item>
         <item>urbandroid</item>
-        <item>user.jsupdater</item>
         <item>vanillamusic</item>
         <item>vasttrafik</item>
         <item>vectorpinball</item>

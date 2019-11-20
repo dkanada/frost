@@ -42,6 +42,7 @@
     <item drawable="apps2sd" />
     <item drawable="appspackagesinfo" />
     <item drawable="arbetsfor" />
+    <item drawable="asteroidossync" />
     <item drawable="atomic" />
     <item drawable="audinaut" />
     <item drawable="audiofx" />
@@ -55,6 +56,7 @@
     <item drawable="bankieren" />
     <item drawable="barcode" />
     <item drawable="batterycalibration" />
+    <item drawable="batterychargelimit" />
     <item drawable="battery" />
     <item drawable="bbm" />
     <item drawable="bestiary" />
@@ -117,6 +119,7 @@
     <item drawable="contenttransfer" />
     <item drawable="conversations" />
     <item drawable="couchsurfing" />
+    <item drawable="cpustats" />
     <item drawable="cpuz" />
     <item drawable="creditagricole_circle" />
     <item drawable="creditagricole_square" />
@@ -137,6 +140,7 @@
     <item drawable="diaspora" />
     <item drawable="dicer" />
     <item drawable="dimmer" />
+    <item drawable="diode" />
     <item drawable="dir" />
     <item drawable="discord" />
     <item drawable="diskusage" />
@@ -156,6 +160,7 @@
     <item drawable="duolingo" />
     <item drawable="earth" />
     <item drawable="easer" />
+    <item drawable="easyxkcd" />
     <item drawable="ebaykleinanzeigen" />
     <item drawable="echo" />
     <item drawable="editor" />
@@ -249,6 +254,7 @@
     <item drawable="hangouts" />
     <item drawable="hearth" />
     <item drawable="hellotalk" />
+    <item drawable="herecomesthebus" />
     <item drawable="here" />
     <item drawable="holo" />
     <item drawable="hpprinteraio" />
@@ -263,8 +269,11 @@
     <item drawable="jellyfin" />
     <item drawable="jelly" />
     <item drawable="jitsimeet" />
+    <item drawable="joplin" />
     <item drawable="jotatexteditor" />
+    <item drawable="jsupdater" />
     <item drawable="k9mail" />
+    <item drawable="kakugo" />
     <item drawable="kaku" />
     <item drawable="kanadrill" />
     <item drawable="kaqui" />
@@ -287,9 +296,11 @@
     <item drawable="koreader" />
     <item drawable="kore" />
     <item drawable="koyuspace" />
+    <item drawable="kuroba" />
     <item drawable="lastfmscrobbler" />
     <item drawable="lastpassauthenticator" />
     <item drawable="lastpass" />
+    <item drawable="lawnchairsettings" />
     <item drawable="lawnchair" />
     <item drawable="leafpic" />
     <item drawable="letterboxd" />
@@ -349,6 +360,7 @@
     <item drawable="money" />
     <item drawable="moonlight" />
     <item drawable="morse" />
+    <item drawable="motioneye" />
     <item drawable="moviedb" />
     <item drawable="mpd" />
     <item drawable="mpv" />
@@ -358,6 +370,7 @@
     <item drawable="music" />
     <item drawable="muzei" />
     <item drawable="mx" />
+    <item drawable="myandroidtools" />
     <item drawable="myavans" />
     <item drawable="mymail" />
     <item drawable="mysplash" />
@@ -391,6 +404,7 @@
     <item drawable="openapk" />
     <item drawable="opencamera" />
     <item drawable="openconnect" />
+    <item drawable="opencontacts" />
     <item drawable="openfoodfacts" />
     <item drawable="openlauncher" />
     <item drawable="openmaps" />
@@ -586,6 +600,7 @@
     <item drawable="torrentclient" />
     <item drawable="totalcommander" />
     <item drawable="towercollector" />
+    <item drawable="towerjumper" />
     <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
@@ -604,10 +619,9 @@
     <item drawable="twitlatte" />
     <item drawable="twitter" />
     <item drawable="unifiednlp" />
-    <item drawable="uni-mainz" />
+    <item drawable="unimainz" />
     <item drawable="unitconverterultimate" />
     <item drawable="urbandroid" />
-    <item drawable="user.jsupdater" />
     <item drawable="vanillamusic" />
     <item drawable="vasttrafik" />
     <item drawable="vectorpinball" />

@@ -139,7 +139,7 @@
 
     <!-- AsteroidOS Sync -->
     <item component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" drawable="asteroidossync" />
-    
+
     <!-- Atomic -->
     <item component="ComponentInfo{indrora.atomic/indrora.atomic.activity.ServersActivity}" drawable="atomic" />
 
@@ -193,10 +193,10 @@
 
     <!-- BatteryCalibration -->
     <item component="ComponentInfo{de.perflyst.batterycalibration/de.perflyst.batterycalibration.MainActivity}" drawable="batterycalibration" />
-    
+
     <!-- Battery Charge Limit -->
     <item component="ComponentInfo{com.slash.batterychargelimit/com.slash.batterychargelimit.activities.MainActivity}" drawable="batterychargelimit" />
-    
+
     <!-- BBM -->
     <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm"/>
 
@@ -410,7 +410,7 @@
 
     <!-- CPU Stats -->
     <item component="ComponentInfo{jp.takke.cpustats/jp.takke.cpustats.PreviewActivity}" drawable="cpustats" />
-    
+
     <!-- Cpu-Z -->
     <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
 
@@ -527,7 +527,7 @@
 
     <!-- DroidShows -->
     <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="nl_asymmetrics_droidshows_nl_asymmetrics_droidshows_DroidShows"/>
-    
+
     <!-- Dropbox -->
     <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DbxMainActivity}" drawable="dropbox" />
 
@@ -553,7 +553,7 @@
 
     <!-- Easy XKCD -->
     <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity" drawable="easyxkcd" />
-    
+
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
 
@@ -754,7 +754,7 @@
 
     <!-- GApps Browser -->
     <item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="browser" />
-    
+
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
 
@@ -815,7 +815,7 @@
 
     <!-- Google Files -->
     <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
-    
+
     <!-- Google Fit -->
     <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="hearth" />
 
@@ -897,10 +897,10 @@
 
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk"/>
-    
+
     <!-- Here Comes the Bus -->
     <item component="ComponentInfo{com.synovia.herecomesthebus/com.synovia.herecomesthebus.MainActivity}" drawable="herecomesthebus"/>
-    
+
     <!-- HERE WeGo -->
     <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here"/>
     <item component="ComponentInfo{com.here.app.maps/com.here.app.MainActivity}" drawable="here"/>
@@ -961,12 +961,12 @@
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
 
-    <!-- Kaku -->
-    <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
-    
     <!-- Kakugo -->
     <item component="ComponentInfo{org.kaqui/org.kaqui.mainmenu.MainActivity}" drawable="kakugo"/>
-    
+
+    <!-- Kaku -->
+    <item component="ComponentInfo{ca.fuwafuwa.kaku/ca.fuwafuwa.kaku.MainActivity}" drawable="kaku"/>
+
     <!-- Kaltura Device Info -->
     <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo"/>
 
@@ -1034,10 +1034,10 @@
 
     <!-- koyu space -->
     <item component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" drawable="koyu.space"/>
-    
+
     <!-- Kuroba -->
     <item component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}" drawable="kuroba"/>
-    
+
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
 
@@ -1047,7 +1047,7 @@
     <!-- Lawnchair -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair"/>
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
-    
+
     <!-- Lawnchair Settings -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchairsettings"/>
 
@@ -1223,7 +1223,7 @@
 
     <!-- MotionEye -->
     <item component="ComponentInfo{com.developerfromjokela.motioneyeclient/com.developerfromjokela.motioneyeclient.ui.activities.MainActivity}" drawable="motioneye"/>
-    
+
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
 
@@ -1265,8 +1265,8 @@
 
     <!-- MyAndroidTools -->
     <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}" drawable="myandroidtools" />
-    <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainDarkActivity}" drawable="myandroidtools"/>      
-    
+    <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainDarkActivity}" drawable="myandroidtools"/>
+
     <!-- My Avans -->
     <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="myavans"/>
 
@@ -1370,10 +1370,10 @@
 
     <!-- Open Connect -->
     <item component="ComponentInfo{app.openconnect/app.openconnect.MainActivity}" drawable="openconnect" />
-    
+
     <!-- Open Contacts -->
     <item component="ComponentInfo{opencontacts.open.com.opencontacts/opencontacts.open.com.opencontacts.activities.MainActivity}" drawable="opencontacts"/>
-    
+
     <!-- Open Food Facts -->
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.MainActivity}" drawable="openfoodfacts" />
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
@@ -2255,7 +2255,7 @@
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideDefault}" drawable="slidereddit"/>
-    
+
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
 
@@ -2473,7 +2473,7 @@
 
     <!-- TowerJumper -->
     <item component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot" drawable="towerjumper" />
-    
+
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>
     <item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline"/>
