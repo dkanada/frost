@@ -80,6 +80,9 @@
     <!-- Android Keyboard -->
     <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="aospkeyboard" />
 
+    <!-- Android Permissions -->
+    <item component="ComponentInfo{in.arjsna.permissionchecker/in.arjsna.permissionchecker.MainActivity}" drawable="permissionchecker"/>
+
     <!-- AndroidRun -->
     <item component="ComponentInfo{fr.asterope/fr.asterope.MainActivity}" drawable="androidrun" />
 
@@ -257,6 +260,9 @@
     <!-- Booking.com -->
     <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking"/>
 
+    <!-- Book Reader -->
+    <item component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" drawable="bookreader"/>
+
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
 
@@ -277,6 +283,9 @@
 
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
+
+    <!-- Budget Watch -->
+    <item component="ComponentInfo{protect.budgetwatch/protect.budgetwatch.MainActivity}" drawable="budgetwatc"/>
 
     <!-- Bus 31 -->
     <item component="ComponentInfo{com.thomasgallinari.bus31/com.thomasgallinari.bus31.app.SplashScreenActivity}" drawable="bus_circle"/>
@@ -418,6 +427,9 @@
 
     <!-- Couchsurfing -->
     <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing"/>
+
+    <!-- Cozy Drive -->
+    <item component="ComponentInfo{io.cozy.drive.mobile/io.cozy.drive.mobile.MainActivity}" drawable="cozydrive"/>
 
     <!-- CPU Stats -->
     <item component="ComponentInfo{jp.takke.cpustats/jp.takke.cpustats.PreviewActivity}" drawable="cpustats" />
@@ -786,6 +798,9 @@
     <!-- Goblim -->
     <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
 
+    <!-- Goodtime -->
+    <item component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.TimerActivity}" drawable="goodtime"/>
+
     <!-- Good Weather -->
     <item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather"/>
 
@@ -1079,6 +1094,9 @@
     <!-- Lexica -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica"/>
 
+    <!-- Libreflix -->
+    <item component="ComponentInfo{org.libreflix.app/org.libreflix.app.MainActivity}" drawable="libreflix"/>
+
     <!-- Librem Chat -->
     <item component="ComponentInfo{one.librem.chat/im.vector.activity.VectorLauncherActivity}" drawable="libremchat"/>
 
@@ -1096,6 +1114,9 @@
 
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
+    
+    <!-- lichess -->
+    <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess"/>
 
     <!-- Light House -->
     <item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse"/>
@@ -1154,6 +1175,9 @@
     <!-- Mapillary -->
     <item component="ComponentInfo{app.mapillary/app.mapillary.android.activity.TabbedMainActivity}" drawable="mapillary" />
     
+    <!-- Maps -->
+    <item component="ComponentInfo{com.github.axet.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="maps"/>
+
     <!-- MAPS.ME -->
     <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme"/>
 
@@ -1387,6 +1411,9 @@
 
     <!-- Oeffi Stations -->
     <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations"/>
+
+    <!-- Om -->
+    <item component="ComponentInfo{com.enjoyingfoss.om/com.enjoyingfoss.om.MainActivity}" drawable="om"/>
 
     <!-- one -->
     <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="visecaone"/>
@@ -1778,6 +1805,9 @@
 
     <!-- Silence -->
     <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
+
+    <!-- Simple Accounting -->
+    <item component="ComponentInfo{com.emmanuelmess.simpleaccounting/com.emmanuelmess.simpleaccounting.MainActivity}" drawable="simpleaccounting"/>
 
     <!-- Simple Calculator -->
     <item component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Pink}" drawable="simplecalculator"/>
@@ -2402,6 +2432,7 @@
 
     <!-- Syncthing -->
     <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
+    <item component="ComponentInfo{net.syncthing.lite/net.syncthing.lite.activities.MainActivity}" drawable="syncthing"/>
 
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />
@@ -2542,6 +2573,9 @@
 
     <!-- Trenord -->
     <item component="ComponentInfo{it.nordcom.app/it.nordcom.app.ui.activity.TNEntryPointActivity}" drawable="trenord" />
+
+    <!-- Trex Runner -->
+    <item component="ComponentInfo{com.nellyfish.trexrunner/com.nellyfish.trexrunner.MainActivity}" drawable="trexrunner"/>
 
     <!-- Trigger -->
     <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger"/>
@@ -2685,6 +2719,9 @@
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
+
+   <!-- WPS Office -->
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wpsoffice"/>
 
     <!-- Writeily Pro -->
     <item component="ComponentInfo{me.writeily/me.writeily.PromptPinActivity}" drawable="writeilypro" />
