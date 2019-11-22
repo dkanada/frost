@@ -78,6 +78,7 @@
     <item drawable="bluetooth" />
     <item drawable="boinc" />
     <item drawable="booking" />
+    <item drawable="bookreader" />
     <item drawable="book" />
     <item drawable="brave" />
     <item drawable="briar" />
@@ -86,6 +87,7 @@
     <item drawable="browser" />
     <item drawable="bspb" />
     <item drawable="bubble" />
+    <item drawable="budgetwatch" />
     <item drawable="bus_circle" />
     <item drawable="bus_square" />
     <item drawable="busybox" />
@@ -109,6 +111,7 @@
     <item drawable="chubbyclick" />
     <item drawable="citymapper" />
     <item drawable="clashroyale" />
+    <item drawable="classysharkexodus" />
     <item drawable="clearscan" />
     <item drawable="clock2" />
     <item drawable="clock" />
@@ -117,8 +120,10 @@
     <item drawable="commons" />
     <item drawable="contacts" />
     <item drawable="contenttransfer" />
+    <item drawable="controlloid" />
     <item drawable="conversations" />
     <item drawable="couchsurfing" />
+    <item drawable="cozydrive" />
     <item drawable="cpustats" />
     <item drawable="cpuz" />
     <item drawable="creditagricole_circle" />
@@ -256,6 +261,7 @@
     <item drawable="gtranslate" />
     <item drawable="hackerskb" />
     <item drawable="hangouts" />
+    <item drawable="hauk" />
     <item drawable="hearth" />
     <item drawable="hellotalk" />
     <item drawable="herecomesthebus" />
@@ -263,6 +269,7 @@
     <item drawable="holo" />
     <item drawable="hpprinteraio" />
     <item drawable="hub" />
+    <item drawable="hue" />
     <item drawable="icecat" />
     <item drawable="icsdroid" />
     <item drawable="identiconizer" />
@@ -309,6 +316,7 @@
     <item drawable="leafpic" />
     <item drawable="letterboxd" />
     <item drawable="lexica" />
+    <item drawable="libreflix" />
     <item drawable="libremchat" />
     <item drawable="libremmail" />
     <item drawable="libremsocial" />
@@ -316,6 +324,7 @@
     <item drawable="libreofficeviewer" />
     <item drawable="libretorrent" />
     <item drawable="license" />
+    <item drawable="lichess" />
     <item drawable="lighthouse2" />
     <item drawable="lighthouse" />
     <item drawable="lightning" />
@@ -334,6 +343,8 @@
     <item drawable="mail" />
     <item drawable="malp" />
     <item drawable="mapillary" />
+    <item drawable="mapsme" />
+    <item drawable="maps" />
     <item drawable="map" />
     <item drawable="markers" />
     <item drawable="markor" />
@@ -342,11 +353,13 @@
     <item drawable="materialnotes" />
     <item drawable="mather" />
     <item drawable="matlog" />
+    <item drawable="mattermost" />
     <item drawable="mediafire" />
     <item drawable="meetup" />
     <item drawable="megafon" />
     <item drawable="mega" />
     <item drawable="meinvodafone" />
+    <item drawable="meshenger" />
     <item drawable="messages" />
     <item drawable="messaging" />
     <item drawable="messenger" />
@@ -404,6 +417,7 @@
     <item drawable="oeffidirections" />
     <item drawable="oeffiplans" />
     <item drawable="oeffistations" />
+    <item drawable="om" />
     <item drawable="onelist" />
     <item drawable="openapk" />
     <item drawable="opencamera" />
@@ -441,6 +455,7 @@
     <item drawable="peertube" />
     <item drawable="pep" />
     <item drawable="periodical" />
+    <item drawable="permissionchecker" />
     <item drawable="phone" />
     <item drawable="phonetrack" />
     <item drawable="phonograph" />
@@ -453,6 +468,7 @@
     <item drawable="podomtre" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
+    <item drawable="presencepublisher" />
     <item drawable="preview" />
     <item drawable="primitiveftpd" />
     <item drawable="privacybrowser" />
@@ -470,6 +486,7 @@
     <item drawable="quizlet" />
     <item drawable="radiodroid" />
     <item drawable="radio" />
+    <item drawable="railwaystationphotos" />
     <item drawable="raspberry" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
@@ -493,6 +510,7 @@
     <item drawable="sbbmobile" />
     <item drawable="sberbank" />
     <item drawable="scarletnotesfd" />
+    <item drawable="scrambledexif" />
     <item drawable="screencam" />
     <item drawable="screencast" />
     <item drawable="screeps" />
@@ -505,6 +523,7 @@
     <item drawable="settings" />
     <item drawable="seventime" />
     <item drawable="sgit" />
+    <item drawable="shadowsocks" />
     <item drawable="sharetoclipboard" />
     <item drawable="shazam" />
     <item drawable="shell" />
@@ -516,6 +535,7 @@
     <item drawable="signal" />
     <item drawable="silence" />
     <item drawable="simexplorer" />
+    <item drawable="simpleaccounting" />
     <item drawable="simpleapplauncher" />
     <item drawable="simplecalculator" />
     <item drawable="simplecalendar" />
@@ -594,6 +614,7 @@
     <item drawable="tinc" />
     <item drawable="tinder" />
     <item drawable="tinkoff" />
+    <item drawable="tinykeepass" />
     <item drawable="tinyscanner" />
     <item drawable="tinytraveltracker" />
     <item drawable="tisseo" />
@@ -605,6 +626,7 @@
     <item drawable="totalcommander" />
     <item drawable="towercollector" />
     <item drawable="towerjumper" />
+    <item drawable="trackbook" />
     <item drawable="trainline" />
     <item drawable="transistor" />
     <item drawable="transportr" />
@@ -612,6 +634,7 @@
     <item drawable="trebleshot" />
     <item drawable="trello" />
     <item drawable="trenord" />
+    <item drawable="trexrunner" />
     <item drawable="trigger" />
     <item drawable="tumblr" />
     <item drawable="turtl" />
@@ -622,6 +645,8 @@
     <item drawable="twire" />
     <item drawable="twitlatte" />
     <item drawable="twitter" />
+    <item drawable="twrp" />
+    <item drawable="ulogger" />
     <item drawable="unifiednlp" />
     <item drawable="unimainz" />
     <item drawable="unitconverterultimate" />
@@ -647,12 +672,14 @@
     <item drawable="wechat" />
     <item drawable="whatsapp" />
     <item drawable="wifianalyzer" />
+    <item drawable="wifiautomatic" />
     <item drawable="wifikeyshare" />
     <item drawable="wifiprivacy" />
     <item drawable="wikipedia" />
     <item drawable="windscribevpn" />
     <item drawable="wireguard" />
     <item drawable="wire" />
+    <item drawable="wpsoffice" />
     <item drawable="writeilypro" />
     <item drawable="wunderlist" />
     <item drawable="wx" />

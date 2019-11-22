@@ -78,6 +78,7 @@
         <item>bluetooth</item>
         <item>boinc</item>
         <item>booking</item>
+        <item>bookreader</item>
         <item>book</item>
         <item>brave</item>
         <item>briar</item>
@@ -86,6 +87,7 @@
         <item>browser</item>
         <item>bspb</item>
         <item>bubble</item>
+        <item>budgetwatch</item>
         <item>bus_circle</item>
         <item>bus_square</item>
         <item>busybox</item>
@@ -109,6 +111,7 @@
         <item>chubbyclick</item>
         <item>citymapper</item>
         <item>clashroyale</item>
+        <item>classysharkexodus</item>
         <item>clearscan</item>
         <item>clock2</item>
         <item>clock</item>
@@ -117,8 +120,10 @@
         <item>commons</item>
         <item>contacts</item>
         <item>contenttransfer</item>
+        <item>controlloid</item>
         <item>conversations</item>
         <item>couchsurfing</item>
+        <item>cozydrive</item>
         <item>cpustats</item>
         <item>cpuz</item>
         <item>creditagricole_circle</item>
@@ -256,6 +261,7 @@
         <item>gtranslate</item>
         <item>hackerskb</item>
         <item>hangouts</item>
+        <item>hauk</item>
         <item>hearth</item>
         <item>hellotalk</item>
         <item>herecomesthebus</item>
@@ -263,6 +269,7 @@
         <item>holo</item>
         <item>hpprinteraio</item>
         <item>hub</item>
+        <item>hue</item>
         <item>icecat</item>
         <item>icsdroid</item>
         <item>identiconizer</item>
@@ -309,6 +316,7 @@
         <item>leafpic</item>
         <item>letterboxd</item>
         <item>lexica</item>
+        <item>libreflix</item>
         <item>libremchat</item>
         <item>libremmail</item>
         <item>libremsocial</item>
@@ -316,6 +324,7 @@
         <item>libreofficeviewer</item>
         <item>libretorrent</item>
         <item>license</item>
+        <item>lichess</item>
         <item>lighthouse2</item>
         <item>lighthouse</item>
         <item>lightning</item>
@@ -334,6 +343,8 @@
         <item>mail</item>
         <item>malp</item>
         <item>mapillary</item>
+        <item>mapsme</item>
+        <item>maps</item>
         <item>map</item>
         <item>markers</item>
         <item>markor</item>
@@ -342,11 +353,13 @@
         <item>materialnotes</item>
         <item>mather</item>
         <item>matlog</item>
+        <item>mattermost</item>
         <item>mediafire</item>
         <item>meetup</item>
         <item>megafon</item>
         <item>mega</item>
         <item>meinvodafone</item>
+        <item>meshenger</item>
         <item>messages</item>
         <item>messaging</item>
         <item>messenger</item>
@@ -404,6 +417,7 @@
         <item>oeffidirections</item>
         <item>oeffiplans</item>
         <item>oeffistations</item>
+        <item>om</item>
         <item>onelist</item>
         <item>openapk</item>
         <item>opencamera</item>
@@ -441,6 +455,7 @@
         <item>peertube</item>
         <item>pep</item>
         <item>periodical</item>
+        <item>permissionchecker</item>
         <item>phone</item>
         <item>phonetrack</item>
         <item>phonograph</item>
@@ -453,6 +468,7 @@
         <item>podomtre</item>
         <item>ppsspp</item>
         <item>practicehub</item>
+        <item>presencepublisher</item>
         <item>preview</item>
         <item>primitiveftpd</item>
         <item>privacybrowser</item>
@@ -470,6 +486,7 @@
         <item>quizlet</item>
         <item>radiodroid</item>
         <item>radio</item>
+        <item>railwaystationphotos</item>
         <item>raspberry</item>
         <item>recorder</item>
         <item>recurrence</item>
@@ -493,6 +510,7 @@
         <item>sbbmobile</item>
         <item>sberbank</item>
         <item>scarletnotesfd</item>
+        <item>scrambledexif</item>
         <item>screencam</item>
         <item>screencast</item>
         <item>screeps</item>
@@ -505,6 +523,7 @@
         <item>settings</item>
         <item>seventime</item>
         <item>sgit</item>
+        <item>shadowsocks</item>
         <item>sharetoclipboard</item>
         <item>shazam</item>
         <item>shell</item>
@@ -516,6 +535,7 @@
         <item>signal</item>
         <item>silence</item>
         <item>simexplorer</item>
+        <item>simpleaccounting</item>
         <item>simpleapplauncher</item>
         <item>simplecalculator</item>
         <item>simplecalendar</item>
@@ -594,6 +614,7 @@
         <item>tinc</item>
         <item>tinder</item>
         <item>tinkoff</item>
+        <item>tinykeepass</item>
         <item>tinyscanner</item>
         <item>tinytraveltracker</item>
         <item>tisseo</item>
@@ -605,6 +626,7 @@
         <item>totalcommander</item>
         <item>towercollector</item>
         <item>towerjumper</item>
+        <item>trackbook</item>
         <item>trainline</item>
         <item>transistor</item>
         <item>transportr</item>
@@ -612,6 +634,7 @@
         <item>trebleshot</item>
         <item>trello</item>
         <item>trenord</item>
+        <item>trexrunner</item>
         <item>trigger</item>
         <item>tumblr</item>
         <item>turtl</item>
@@ -622,6 +645,8 @@
         <item>twire</item>
         <item>twitlatte</item>
         <item>twitter</item>
+        <item>twrp</item>
+        <item>ulogger</item>
         <item>unifiednlp</item>
         <item>unimainz</item>
         <item>unitconverterultimate</item>
@@ -647,12 +672,14 @@
         <item>wechat</item>
         <item>whatsapp</item>
         <item>wifianalyzer</item>
+        <item>wifiautomatic</item>
         <item>wifikeyshare</item>
         <item>wifiprivacy</item>
         <item>wikipedia</item>
         <item>windscribevpn</item>
         <item>wireguard</item>
         <item>wire</item>
+        <item>wpsoffice</item>
         <item>writeilypro</item>
         <item>wunderlist</item>
         <item>wx</item>

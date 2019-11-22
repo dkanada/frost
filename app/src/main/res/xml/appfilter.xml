@@ -218,7 +218,7 @@
 
     <!-- Bitcoin -->
     <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin" />
-    <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin"/> 
+    <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin"/>
 
     <!-- Bitwarden -->
     <item component="ComponentInfo{com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity}" drawable="bitwarden" />
@@ -300,7 +300,8 @@
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.tct.calculator.bb/com.tct.calculator.Calculator}" drawable="calculator"/>
-    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/> 
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator"/>
+
     <!-- Calendar Color -->
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor" />
 
@@ -328,7 +329,7 @@
     <item component="ComponentInfo{com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
-    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera"/> 
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera"/>
 
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
@@ -373,6 +374,7 @@
 
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
+
     <!-- ClassySharkexodus -->
     <item component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}" drawable="classysharkexodus"/>
 
@@ -384,7 +386,7 @@
     <item component="ComponentInfo{com.android.deskclock.bb/com.android.deskclock.DeskClock}" drawable="clock"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock"/>
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock"/>
-    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock"/> 
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="clock"/>
 
     <!-- Clock+ -->
     <item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2" />
@@ -418,7 +420,7 @@
 
     <!-- Content Transfer -->
     <item component="ComponentInfo{com.mediamushroom.easymigrate/com.mediamushroom.easymigrate.UI.EasyMigrateActivityCompat}" drawable="contenttransfer"/>
-    
+
     <!-- Controlloid -->
     <item component="ComponentInfo{com.controlloid/com.controlloid.MainActivity}" drawable="controlloid"/>
 
@@ -774,7 +776,7 @@
     <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery"/>
     <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="gallery"/>
-    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="gallery"/> 
+    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="gallery"/>
 
     <!-- GApps Browser -->
     <item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="browser" />
@@ -921,7 +923,7 @@
 
     <!-- Hacker's Keyboard -->
     <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerskb" />
-    
+
     <!-- Hauk -->
     <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk"/>
 
@@ -943,7 +945,7 @@
 
     <!-- Hub -->
     <item component="ComponentInfo{com.blackberry.hub/com.blackberry.hub.ui.IntroActivity}" drawable="hub"/>
-    
+
     <!-- Hue -->
     <item component="ComponentInfo{is.zi.huewidgets/is.zi.huewidgets.MainActivity}" drawable="hue"/>
 
@@ -1114,7 +1116,7 @@
 
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
-    
+
     <!-- lichess -->
     <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess"/>
 
@@ -1174,7 +1176,7 @@
 
     <!-- Mapillary -->
     <item component="ComponentInfo{app.mapillary/app.mapillary.android.activity.TabbedMainActivity}" drawable="mapillary" />
-    
+
     <!-- Maps -->
     <item component="ComponentInfo{com.github.axet.maps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="maps"/>
 
@@ -1202,7 +1204,7 @@
     <!-- MatLog / MatLog Libre -->
     <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
     <item component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" />
-    
+
     <!-- Mattermost -->
     <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost"/>
 
@@ -1220,7 +1222,7 @@
 
     <!-- Mein Vodafone -->
     <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" />
-  
+
     <!-- Meshenger -->
     <item component="ComponentInfo{d.d.meshenger/d.d.meshenger.StartActivity}" drawable="meshenger"/>
 
@@ -1299,7 +1301,7 @@
     <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music"/>
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music"/>
-    <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music"/> 
+    <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music"/>
 
     <!-- MusicPiped -->
     <item component="ComponentInfo{deep.ryd.rydplayer/deep.ryd.rydplayer.Main2Activity}" drawable="musicpiped"/>
@@ -1584,7 +1586,7 @@
     <!-- Practice Hub -->
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practicehub" />
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainScreen}" drawable="practicehub" />
-    
+
     <!-- Presence Publisher -->
     <item component="ComponentInfo{org.ostrya.presencepublisher/org.ostrya.presencepublisher.MainActivity}" drawable="presencepublisher"/>
 
@@ -1643,7 +1645,7 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio"/>
-    
+
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos"/>
 
@@ -1720,7 +1722,7 @@
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd"/>
-    
+
     <!-- Scrambled Exif -->
     <item component="ComponentInfo{com.jarsilio.android.scrambledeggsif/com.jarsilio.android.scrambledeggsif.MainActivity}" drawable="scrambledexif"/>
 
@@ -1773,15 +1775,15 @@
     <!-- Sgit -->
     <item component="ComponentInfo{me.sheimi.sgit/me.sheimi.sgit.RepoListActivity}" drawable="sgit" />
 
+    <!-- Shadowsocks -->
+    <item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" drawable="shadowsocks"/>
+
     <!-- Share to Clipboard -->
     <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="sharetoclipboard" />
 
     <!-- Shattered Pixel Dungeon -->
     <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="pixeldungeon"/>
     <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="pixeldungeon" />
-    
-    <!-- Shadowsocks -->
-    <item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" drawable="shadowsocks"/>
 
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
@@ -2506,11 +2508,11 @@
     <!-- Tinkoff -->
     <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="tinkoff"/>
 
-    <!-- Tiny Scanner -->
-    <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner"/>
-    
     <!-- TinyKeePass -->
     <item component="ComponentInfo{org.sorz.lab.tinykeepass/org.sorz.lab.tinykeepass.MainActivity}" drawable="tinykeepass"/>
+
+    <!-- Tiny Scanner -->
+    <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner"/>
 
     <!-- Tiny Travel Tracker -->
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
@@ -2546,7 +2548,7 @@
 
     <!-- TowerJumper -->
     <item component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot" drawable="towerjumper" />
-    
+
     <!-- Trackbook -->
     <item component="ComponentInfo{org.y20k.trackbook/org.y20k.trackbook.MainActivity}" drawable="trackbook"/>
 
@@ -2607,7 +2609,7 @@
 
     <!-- Twitter -->
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
-    
+
     <!-- TWRP -->
     <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.MainActivity}" drawable="twrp"/>
 
@@ -2626,9 +2628,6 @@
 
     <!-- user js updater -->
     <item component="ComponentInfo{de.reckendrees.systems.userjsupdater/de.reckendrees.systems.userjsupdater.MainActivity}" drawable="jsupdater"/>
-    
-    <!-- μlogger -->
-    <item component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}" drawable="ulogger"/>
 
     <!-- Vanilla Music -->
     <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic"/>
@@ -2693,13 +2692,13 @@
 
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
-    
-    <!-- WiFi Automatic -->
-    <item component="ComponentInfo{de.j4velin.wifiAutoOff/de.j4velin.wifiAutoOff.Preferences}" drawable="wifiautomatic"/>
 
     <!-- Wi-Fi Analyzer -->
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.SplashActivity}" drawable="wifianalyzer" />
+
+    <!-- WiFi Automatic -->
+    <item component="ComponentInfo{de.j4velin.wifiAutoOff/de.j4velin.wifiAutoOff.Preferences}" drawable="wifiautomatic"/>
 
     <!-- WiFiKeyShare -->
     <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare" />
@@ -2720,7 +2719,7 @@
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
 
-   <!-- WPS Office -->
+    <!-- WPS Office -->
     <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wpsoffice"/>
 
     <!-- Writeily Pro -->
@@ -2771,5 +2770,8 @@
 
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii"/>
+
+    <!-- μlogger -->
+    <item component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}" drawable="ulogger"/>
 
 </resources>
