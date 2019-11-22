@@ -66,9 +66,8 @@
     <item drawable="birthdayadapter" />
     <item drawable="bitcoin" />
     <item drawable="bitwarden" />
-    <item drawable="blablacar" />
-    <item drawable="blabla_circle" />
-    <item drawable="blabla_square" />
+    <item drawable="blablaalt" />
+    <item drawable="blabla" />
     <item drawable="blackberrylauncher" />
     <item drawable="blocker" />
     <item drawable="blockinger" />
@@ -126,8 +125,7 @@
     <item drawable="cozydrive" />
     <item drawable="cpustats" />
     <item drawable="cpuz" />
-    <item drawable="creditagricole_circle" />
-    <item drawable="creditagricole_square" />
+    <item drawable="creditagricole" />
     <item drawable="crontosignswiss" />
     <item drawable="cuprumpdf" />
     <item drawable="cythara" />
