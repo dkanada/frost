@@ -531,6 +531,9 @@
     <!-- Disroot -->
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.MainActivity}" drawable="disroot"/>
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot"/>
+    
+    <!-- DNS66 -->
+    <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66"/>
 
     <!-- DNSfilter -->
     <item component="ComponentInfo{dnsfilter.android/dnsfilter.android.DNSProxyActivity}" drawable="dnsfilter"/>
@@ -681,6 +684,7 @@
     <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files"/>
     <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="files"/>
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="files"/>
+    <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="files"/>
 
     <!-- Firefox Focus -->
     <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefoxfocus"/>
@@ -1221,6 +1225,9 @@
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
 
+    <!-- Meditation Assistant -->
+    <item component="ComponentInfo{sh.ftp.rocketninelabs.meditationassistant.opensource/sh.ftp.rocketninelabs.meditationassistant.MainActivity}" drawable="meditationassistant"/>
+
     <!-- Meetup -->
     <item component="ComponentInfo{com.meetup/com.meetup.activity.Bootstrap}" drawable="meetup"/>
 
@@ -1432,6 +1439,9 @@
 
     <!-- Om -->
     <item component="ComponentInfo{com.enjoyingfoss.om/com.enjoyingfoss.om.MainActivity}" drawable="om"/>
+
+    <!-- Omni Notes FOSS -->
+    <item component="ComponentInfo{it.feio.android.omninotes.foss/it.feio.android.omninotes.MainActivity}" drawable="omninotes"/>
 
     <!-- one -->
     <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="visecaone"/>
@@ -1652,6 +1662,9 @@
 
     <!-- QR Scanner -->
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner"/>
+
+    <!-- QuickDic -->
+    <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic"/>
 
     <!-- Quickly quit -->
     <item component="ComponentInfo{quickly.quit/quickly.quit.MainActivity}" drawable="quicklyquit"/>
@@ -2341,6 +2354,9 @@
 
     <!-- Slack -->
     <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
+
+    <!-- Sleep Cycle -->
+    <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleepcycle"/>
 
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
