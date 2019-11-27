@@ -176,6 +176,9 @@
 
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy"/>
+    
+    <!-- Auto Updater for Chromium -->
+    <item component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}" drawable="chromiumautoupdater"/>
 
     <!-- Aviasales -->
     <item component="ComponentInfo{ru.aviasales/ru.aviasales.ui.activity.MainActivity}" drawable="aviasales"/>
@@ -310,6 +313,7 @@
     <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar"/>
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
     <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="calendar"/>
 
     <!-- Callabike -->
     <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
@@ -549,6 +553,9 @@
 
     <!-- Downloads -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads" />
+    
+    <!-- Drinks -->
+    <item component="ComponentInfo{fr.masciulli.drinks/fr.masciulli.drinks.ui.activity.MainActivity}" drawable="drinks"/>
 
     <!-- DroidShows -->
     <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="nl_asymmetrics_droidshows_nl_asymmetrics_droidshows_DroidShows"/>
@@ -1197,6 +1204,9 @@
 
     <!-- Material Notes -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}" drawable="materialnotes" />
+    
+    <!-- Material Player --> v
+    <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.coldStart.SplashActivity}" drawable="materialplayer"/>
 
     <!-- Mather -->
     <item component="ComponentInfo{org.icasdri.mather/org.icasdri.mather.MainActivity}" drawable="mather"/>
@@ -1241,6 +1251,9 @@
     <!-- Metro -->
     <item component="ComponentInfo{ru.yandex.metro/ru.yandex.metro.LaunchActivity}" drawable="metro"/>
 
+    <!-- Metrodroid -->
+    <item component="ComponentInfo{au.id.micolous.farebot/com.codebutler.farebot.activity.MainActivity}" drawable="metrodroid"/>
+
     <!-- MGit -->
     <item component="ComponentInfo{com.manichord.mgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit" />
 
@@ -1262,6 +1275,9 @@
 
     <!-- Minesweeper -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper"/>
+    
+    <!-- MinMinGuard --> v
+    <item component="ComponentInfo{tw.fatminmin.xposed.minminguard/tw.fatminmin.xposed.minminguard.ui.MainActivity-Alias}" drawable="minminguard"/>
 
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
@@ -1479,6 +1495,9 @@
 
     <!-- Organ Trail: Director's Cut -->
     <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
+
+    <!-- Orgzly --> v
+    <item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly"/>
 
     <!-- Oscilloscope -->
     <item component="ComponentInfo{org.billthefarmer.scope/org.billthefarmer.scope.MainActivity}" drawable="oscilloscope" />
@@ -2417,6 +2436,9 @@
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter"/>
 
+    <!-- Survival Manual --> v
+    <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual"/>
+
     <!-- Swedbank -->
     <item component="se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity" drawable="swedbank" />
 
@@ -2598,6 +2620,9 @@
     <!-- Tutanota -->
     <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
 
+    <!--tv kill --> v
+    <item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="tvkill"/>
+
     <!-- Twidere -->
     <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere" />
 
@@ -2736,6 +2761,15 @@
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ContactListActivity}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ChatActivity}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
+
+    <!-- XDA Labs --> v
+    <item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xdalabsr"/>
+
+    <!-- Xposed Installer -->
+    <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposedinstaller"/>
+    
+    <!-- XPrivacy --> v
+    <item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="xprivacy"/>
 
     <!-- Yalp Store -->
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.UpdatableAppsActivity}" drawable="yalp" />
