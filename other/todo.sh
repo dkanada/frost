@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 PNGDIR="../app/src/main/res/drawable-xxxhdpi/"
 SVGDIR="../icons/"

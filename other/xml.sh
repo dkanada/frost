@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 SVGDIR="../icons/"
 EXPORT="../app/src/main/res"
