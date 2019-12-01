@@ -1337,7 +1337,7 @@
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash"/>
 
     <!-- N26 -->
-    <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.LandingActivity}" drawable="n26_circle"/>
+    <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.LandingActivity}" drawable="n26"/>
 
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster"/>
