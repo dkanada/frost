@@ -1209,7 +1209,7 @@
     <!-- Material Notes -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.bijoysingh.quicknote.activities.MainActivity}" drawable="materialnotes" />
     
-    <!-- Material Player --> v
+    <!-- Material Player -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.coldStart.SplashActivity}" drawable="materialplayer"/>
 
     <!-- Mather -->
@@ -1283,7 +1283,7 @@
     <!-- Minesweeper -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper"/>
     
-    <!-- MinMinGuard --> v
+    <!-- MinMinGuard -->
     <item component="ComponentInfo{tw.fatminmin.xposed.minminguard/tw.fatminmin.xposed.minminguard.ui.MainActivity-Alias}" drawable="minminguard"/>
 
     <!-- MiXplorer -->
@@ -1506,7 +1506,7 @@
     <!-- Organ Trail: Director's Cut -->
     <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
 
-    <!-- Orgzly --> v
+    <!-- Orgzly -->
     <item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly"/>
 
     <!-- Oscilloscope -->
@@ -2452,7 +2452,7 @@
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter"/>
 
-    <!-- Survival Manual --> v
+    <!-- Survival Manual -->
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual"/>
 
     <!-- Swedbank -->
@@ -2636,7 +2636,7 @@
     <!-- Tutanota -->
     <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
 
-    <!--tv kill --> v
+    <!--tv kill -->
     <item component="ComponentInfo{com.redirectapps.tvkill/com.redirectapps.tvkill.MainActivity}" drawable="tvkill"/>
 
     <!-- Twidere -->
@@ -2784,7 +2784,7 @@
     <!-- Xposed Installer -->
     <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposedinstaller"/>
     
-    <!-- XPrivacy --> v
+    <!-- XPrivacy -->
     <item component="ComponentInfo{biz.bokhorst.xprivacy/biz.bokhorst.xprivacy.ActivityMain}" drawable="xprivacy"/>
 
     <!-- Yalp Store -->
