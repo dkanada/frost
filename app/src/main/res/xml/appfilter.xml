@@ -119,6 +119,9 @@
     <!-- ApkTrack -->
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
+    <!-- APKUpdater -->
+    <item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="apkupdater"/>
+
     <!-- Apple Music -->
     <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="applemusic"/>
 
