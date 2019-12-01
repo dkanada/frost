@@ -389,8 +389,7 @@
         <item>myavans</item>
         <item>mymail</item>
         <item>mysplash</item>
-        <item>n26_circle</item>
-        <item>n26_square</item>
+        <item>n26</item>
         <item>napster</item>
         <item>netflix</item>
         <item>netguard</item>
@@ -527,8 +526,7 @@
         <item>shell</item>
         <item>shelter</item>
         <item>shoppinglist</item>
-        <item>shrug_circle</item>
-        <item>shrug_square</item>
+        <item>shrug</item>
         <item>sieben</item>
         <item>signal</item>
         <item>silence</item>
@@ -580,7 +578,6 @@
         <item>sudoku</item>
         <item>suntimesalarms</item>
         <item>suntimes</item>
-        <item>superuser2</item>
         <item>superuser</item>
         <item>supportcenter</item>
         <item>su</item>
