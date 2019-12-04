@@ -119,6 +119,9 @@
     <!-- ApkTrack -->
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
+    <!-- Apple Flinger -->
+    <item component="ComponentInfo{com.gitlab.ardash.appleflinger.android/com.gitlab.ardash.appleflinger.android.AndroidLauncher}" drawable="appleflinger"/>
+
     <!-- Apple Music -->
     <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="applemusic"/>
 
@@ -347,6 +350,9 @@
     <!-- C:Geo -->
     <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
 
+    <!-- Change Detection -->
+    <item component="ComponentInfo{com.bernaferrari.changedetection/com.bernaferrari.changedetection.MainActivity}" drawable="changedetection" />
+
     <!-- Chanu -->
     <item component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}" drawable="chanu" />
 
@@ -368,6 +374,9 @@
 
     <!-- Chubby Click -->
     <item component="ComponentInfo{agrigolo.chubbyclick/agrigolo.chubbyclick.MainActivity}" drawable="chubbyclick"/>
+
+    <!-- Cinelog -->
+    <item component="ComponentInfo{com.ulicae.cinelog/com.ulicae.cinelog.MainActivity}" drawable="cinelog" />
 
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
@@ -587,6 +596,9 @@
 
     <!-- Editor -->
     <item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="editor" />
+
+    <!-- Eduroam CAT -->
+    <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
@@ -1358,6 +1370,10 @@
     <!-- Nextcloud -->
     <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud"/>
 
+    <!-- Nextcloud Bookmarks -->
+    <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
+    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
+
     <!-- Nextcloud SMS -->
     <item component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}" drawable="nextcloudsms"/>
 
@@ -1375,6 +1391,9 @@
 
     <!-- NOS -->
     <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.SplashActivity}" drawable="nos"/>
+
+    <!-- Nosurf for Reddit -->
+    <item component="ComponentInfo{com.aaronhalbert.nosurfforreddit/com.aaronhalbert.nosurfforreddit.MainActivity" drawable="nosurfforreddit"/>
 
     <!-- Notable -->
     <item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable"/>
@@ -1577,6 +1596,9 @@
 
     <!-- Podomètre -->
     <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre"/>
+
+    <!-- Power Ampache -->
+    <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.MainActivity}" drawable="powerampache"/>
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter"/>
