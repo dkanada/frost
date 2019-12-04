@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 APP="../app/src/main/res/xml/appfilter.xml"
 

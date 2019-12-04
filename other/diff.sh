@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # not a script
 # command used for changelog
