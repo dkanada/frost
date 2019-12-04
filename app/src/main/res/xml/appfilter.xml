@@ -2579,6 +2579,10 @@
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline"/>
     <item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline"/>
 
+    <!-- Transdroid -->
+    <item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroid"/>
+    <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity}" drawable="transdroid"/>
+
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
 
