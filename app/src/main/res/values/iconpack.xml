@@ -2,6 +2,7 @@
 <resources>
     <string-array name="icon_pack" translatable="false">
         <item>a2048</item>
+        <item>a2050</item>
         <item>acdisplay</item>
         <item>acrobat</item>
         <item>actiondash</item>
@@ -36,6 +37,7 @@
         <item>apex</item>
         <item>apkgrabber</item>
         <item>apktrack</item>
+        <item>apkupdater</item>
         <item>applemusic</item>
         <item>applicationsinfo</item>
         <item>apps2org</item>
@@ -107,6 +109,7 @@
         <item>chefkoch</item>
         <item>chip</item>
         <item>chrome</item>
+        <item>chromiumautoupdater</item>
         <item>chubbyclick</item>
         <item>citymapper</item>
         <item>clashroyale</item>
@@ -148,12 +151,14 @@
         <item>discord</item>
         <item>diskusage</item>
         <item>disroot</item>
+        <item>dns66</item>
         <item>dnsfilter</item>
         <item>dnsman</item>
         <item>doodle</item>
         <item>downloadnavi</item>
         <item>downloads</item>
         <item>drawer</item>
+        <item>drinks</item>
         <item>drive</item>
         <item>dropbox</item>
         <item>dsb</item>
@@ -161,6 +166,7 @@
         <item>dtekbyblackberry</item>
         <item>duckduckgo</item>
         <item>duolingo</item>
+        <item>duo</item>
         <item>earth</item>
         <item>easer</item>
         <item>easyxkcd</item>
@@ -183,8 +189,10 @@
         <item>fairemail</item>
         <item>faketraveller</item>
         <item>fasthub</item>
+        <item>fbreader</item>
         <item>fdroid</item>
         <item>fedilab</item>
+        <item>feedback</item>
         <item>feeder</item>
         <item>fennec</item>
         <item>files</item>
@@ -204,6 +212,7 @@
         <item>flowfree</item>
         <item>flowfreewarps</item>
         <item>flux</item>
+        <item>folderfavourites</item>
         <item>foldergames</item>
         <item>foldergoogle</item>
         <item>foldermail</item>
@@ -216,6 +225,7 @@
         <item>forkhub</item>
         <item>freebox</item>
         <item>freemobilenetstat</item>
+        <item>freeotpplus</item>
         <item>freeotp</item>
         <item>frostfacebook</item>
         <item>frost</item>
@@ -281,6 +291,7 @@
         <item>joplin</item>
         <item>jotatexteditor</item>
         <item>jsupdater</item>
+        <item>justchess</item>
         <item>k9mail</item>
         <item>kakugo</item>
         <item>kaku</item>
@@ -298,6 +309,7 @@
         <item>kiwibrowser</item>
         <item>kiwix</item>
         <item>knockonports</item>
+        <item>kodiremote</item>
         <item>kodi</item>
         <item>koler</item>
         <item>komoot</item>
@@ -312,6 +324,7 @@
         <item>lawnchairsettings</item>
         <item>lawnchair</item>
         <item>leafpic</item>
+        <item>lens</item>
         <item>letterboxd</item>
         <item>lexica</item>
         <item>libreflix</item>
@@ -346,13 +359,16 @@
         <item>map</item>
         <item>markers</item>
         <item>markor</item>
+        <item>markushiexpensemanager</item>
         <item>masterpassword</item>
         <item>materialistic</item>
         <item>materialnotes</item>
+        <item>materialplayer</item>
         <item>mather</item>
         <item>matlog</item>
         <item>mattermost</item>
         <item>mediafire</item>
+        <item>meditationassistant</item>
         <item>meetup</item>
         <item>megafon</item>
         <item>mega</item>
@@ -363,6 +379,7 @@
         <item>messenger</item>
         <item>meteo</item>
         <item>meteoswiss</item>
+        <item>metrodroid</item>
         <item>metro</item>
         <item>mgit</item>
         <item>microchip</item>
@@ -371,6 +388,8 @@
         <item>mindustry</item>
         <item>minecraft</item>
         <item>minesweeper</item>
+        <item>minimal</item>
+        <item>minminguard</item>
         <item>mixplorer</item>
         <item>money</item>
         <item>moonlight</item>
@@ -393,6 +412,7 @@
         <item>napster</item>
         <item>netflix</item>
         <item>netguard</item>
+        <item>netmonitor</item>
         <item>newpipe</item>
         <item>news</item>
         <item>nextcloudnotes</item>
@@ -408,12 +428,14 @@
         <item>notes</item>
         <item>notificationnotes</item>
         <item>nova</item>
+        <item>ns</item>
         <item>oandbackup</item>
         <item>octodroid</item>
         <item>odyssey</item>
         <item>oeffidirections</item>
         <item>oeffiplans</item>
         <item>oeffistations</item>
+        <item>omninotes</item>
         <item>om</item>
         <item>onelist</item>
         <item>openapk</item>
@@ -433,6 +455,7 @@
         <item>orbot</item>
         <item>orfox</item>
         <item>organtrail</item>
+        <item>orgzly</item>
         <item>oscilloscope</item>
         <item>osmand</item>
         <item>osmandtelegram</item>
@@ -443,6 +466,7 @@
         <item>owncloud</item>
         <item>packlist</item>
         <item>pairz</item>
+        <item>passandroid</item>
         <item>passwordkeeper</item>
         <item>password</item>
         <item>paypal</item>
@@ -479,6 +503,7 @@
         <item>qrforkeepass</item>
         <item>qrscanner</item>
         <item>qr</item>
+        <item>quickdic</item>
         <item>quicklyquit</item>
         <item>quizlet</item>
         <item>radiodroid</item>
@@ -513,6 +538,7 @@
         <item>screeps</item>
         <item>scummvm</item>
         <item>seafile</item>
+        <item>sealnote</item>
         <item>secusosolitaire</item>
         <item>semitone</item>
         <item>sensorreadout</item>
@@ -552,6 +578,7 @@
         <item>skytube</item>
         <item>slack2</item>
         <item>slack</item>
+        <item>sleepcycle</item>
         <item>slidereddit</item>
         <item>slide</item>
         <item>snapchat</item>
@@ -580,6 +607,7 @@
         <item>suntimes</item>
         <item>superuser</item>
         <item>supportcenter</item>
+        <item>survivalmanual</item>
         <item>su</item>
         <item>swedbank</item>
         <item>swiftkey</item>
@@ -587,6 +615,7 @@
         <item>syncopoli</item>
         <item>syncthing</item>
         <item>systemappmover</item>
+        <item>systemuituner</item>
         <item>tachiyomi</item>
         <item>tapnturn</item>
         <item>tasker</item>
@@ -623,6 +652,7 @@
         <item>towerjumper</item>
         <item>trackbook</item>
         <item>trainline</item>
+        <item>transdrone</item>
         <item>transistor</item>
         <item>transportr</item>
         <item>transport</item>
@@ -636,6 +666,7 @@
         <item>turtlsync</item>
         <item>tusky</item>
         <item>tutanota</item>
+        <item>tvkill</item>
         <item>twidere</item>
         <item>twire</item>
         <item>twitlatte</item>
@@ -674,11 +705,15 @@
         <item>windscribevpn</item>
         <item>wireguard</item>
         <item>wire</item>
+        <item>workplace</item>
         <item>wpsoffice</item>
         <item>writeilypro</item>
         <item>wunderlist</item>
         <item>wx</item>
         <item>xabber</item>
+        <item>xdalabs</item>
+        <item>xposedinstaller</item>
+        <item>xprivacy</item>
         <item>yalp</item>
         <item>yatse</item>
         <item>yaweather</item>
@@ -687,6 +722,7 @@
         <item>zapp</item>
         <item>zarchiver</item>
         <item>zeronet</item>
+        <item>zmninja</item>
         <item>zoysii</item>
     </string-array>
 </resources>
