@@ -389,8 +389,7 @@
     <item drawable="myavans" />
     <item drawable="mymail" />
     <item drawable="mysplash" />
-    <item drawable="n26_circle" />
-    <item drawable="n26_square" />
+    <item drawable="n26" />
     <item drawable="napster" />
     <item drawable="netflix" />
     <item drawable="netguard" />
@@ -527,8 +526,7 @@
     <item drawable="shell" />
     <item drawable="shelter" />
     <item drawable="shoppinglist" />
-    <item drawable="shrug_circle" />
-    <item drawable="shrug_square" />
+    <item drawable="shrug" />
     <item drawable="sieben" />
     <item drawable="signal" />
     <item drawable="silence" />
@@ -580,7 +578,6 @@
     <item drawable="sudoku" />
     <item drawable="suntimesalarms" />
     <item drawable="suntimes" />
-    <item drawable="superuser2" />
     <item drawable="superuser" />
     <item drawable="supportcenter" />
     <item drawable="su" />
