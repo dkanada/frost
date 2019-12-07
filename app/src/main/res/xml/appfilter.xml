@@ -1084,6 +1084,9 @@
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
 
+    <!-- KinoPoisk -->
+    <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.screen.main.MainActivity}" drawable="kinopoisk"/>
+
     <!-- Kinoteatr -->
     <item component="ComponentInfo{ru.rambler.kinoteatr/ru.rambler.popcorn.sdk.presentation.screens.main.MainActivity}" drawable="kinoteatr" />
 
