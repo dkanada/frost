@@ -122,11 +122,11 @@
     <!-- ApkTrack -->
     <item component="ComponentInfo{fr.kwiatkowski.ApkTrack/fr.kwiatkowski.apktrack.MainActivity}" drawable="apktrack" />
 
-    <!-- Apple Flinger -->
-    <item component="ComponentInfo{com.gitlab.ardash.appleflinger.android/com.gitlab.ardash.appleflinger.android.AndroidLauncher}" drawable="appleflinger"/>
-
     <!-- APKUpdater -->
     <item component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}" drawable="apkupdater" />
+
+    <!-- Apple Flinger -->
+    <item component="ComponentInfo{com.gitlab.ardash.appleflinger.android/com.gitlab.ardash.appleflinger.android.AndroidLauncher}" drawable="appleflinger" />
 
     <!-- Apple Music -->
     <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="applemusic" />
@@ -1430,12 +1430,12 @@
     <!-- News -->
     <item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="news" />
 
+    <!-- Nextcloud Bookmarks -->
+    <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
+    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
+
     <!-- Nextcloud -->
     <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
-
-    <!-- Nextcloud Bookmarks -->
-    <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
-    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
 
     <!-- Nextcloud SMS -->
     <item component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}" drawable="nextcloudsms" />
@@ -1456,7 +1456,7 @@
     <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.SplashActivity}" drawable="nos" />
 
     <!-- Nosurf for Reddit -->
-    <item component="ComponentInfo{com.aaronhalbert.nosurfforreddit/com.aaronhalbert.nosurfforreddit.MainActivity" drawable="nosurfforreddit"/>
+    <item component="ComponentInfo{com.aaronhalbert.nosurfforreddit/com.aaronhalbert.nosurfforreddit.MainActivity" drawable="nosurfforreddit" />
 
     <!-- Notable -->
     <item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable" />
@@ -1673,7 +1673,7 @@
     <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre" />
 
     <!-- Power Ampache -->
-    <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.MainActivity}" drawable="powerampache"/>
+    <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.MainActivity}" drawable="powerampache" />
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter" />
@@ -2618,11 +2618,11 @@
     <!-- Tinder -->
     <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder" />
 
+    <!-- Tinkoff Business -->
+    <item component="ComponentInfo{ru.tinkoff.sme/ru.tinkoff.sme.rko.start.StartActivity}" drawable="tinkoffbiz" />
+
     <!-- Tinkoff -->
     <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="tinkoff" />
-
-    <!-- Tinkoff Business -->
-	<item component="ComponentInfo{ru.tinkoff.sme/ru.tinkoff.sme.rko.start.StartActivity}" drawable="tinkoffbiz"/>
 
     <!-- TinyKeePass -->
     <item component="ComponentInfo{org.sorz.lab.tinykeepass/org.sorz.lab.tinykeepass.MainActivity}" drawable="tinykeepass" />
@@ -2672,12 +2672,12 @@
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline" />
     <item component="ComponentInfo{com.thetrainline/com.thetrainline.activities.home_screen.SplashScreenActivity}" drawable="trainline" />
 
+    <!-- Transdroid -->
+    <item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroid" />
+    <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity}" drawable="transdroid" />
+
     <!-- Transdrone -->
     <item component="ComponentInfo{org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdrone" />
-
-    <!-- Transdroid -->
-    <item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroid"/>
-    <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity}" drawable="transdroid"/>
 
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />

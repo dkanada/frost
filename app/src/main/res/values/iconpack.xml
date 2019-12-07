@@ -38,6 +38,7 @@
         <item>apkgrabber</item>
         <item>apktrack</item>
         <item>apkupdater</item>
+        <item>appleflinger</item>
         <item>applemusic</item>
         <item>applicationsinfo</item>
         <item>apps2org</item>
@@ -104,6 +105,7 @@
         <item>carsmile</item>
         <item>casper</item>
         <item>cgeo</item>
+        <item>changedetection</item>
         <item>chanu</item>
         <item>checkey</item>
         <item>chefkoch</item>
@@ -111,6 +113,7 @@
         <item>chrome</item>
         <item>chromiumautoupdater</item>
         <item>chubbyclick</item>
+        <item>cinelog</item>
         <item>citymapper</item>
         <item>clashroyale</item>
         <item>classysharkexodus</item>
@@ -173,6 +176,7 @@
         <item>ebaykleinanzeigen</item>
         <item>echo</item>
         <item>editor</item>
+        <item>eduroamcat</item>
         <item>emby</item>
         <item>emerald</item>
         <item>emit</item>
@@ -415,6 +419,7 @@
         <item>netmonitor</item>
         <item>newpipe</item>
         <item>news</item>
+        <item>nextcloudbookmarks</item>
         <item>nextcloudnotes</item>
         <item>nextcloudsms</item>
         <item>nextcloud</item>
@@ -423,6 +428,7 @@
         <item>nfctools</item>
         <item>nhbooks</item>
         <item>nos</item>
+        <item>nosurfforreddit</item>
         <item>notable</item>
         <item>notepad</item>
         <item>notes</item>
@@ -487,6 +493,7 @@
         <item>pocketcasts</item>
         <item>pocket</item>
         <item>podomtre</item>
+        <item>powerampache</item>
         <item>ppsspp</item>
         <item>practicehub</item>
         <item>presencepublisher</item>
@@ -637,6 +644,7 @@
         <item>timelimit</item>
         <item>tinc</item>
         <item>tinder</item>
+        <item>tinkoffbiz</item>
         <item>tinkoff</item>
         <item>tinykeepass</item>
         <item>tinyscanner</item>
@@ -652,6 +660,7 @@
         <item>towerjumper</item>
         <item>trackbook</item>
         <item>trainline</item>
+        <item>transdroid</item>
         <item>transdrone</item>
         <item>transistor</item>
         <item>transportr</item>

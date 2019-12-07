@@ -38,6 +38,7 @@
     <item drawable="apkgrabber" />
     <item drawable="apktrack" />
     <item drawable="apkupdater" />
+    <item drawable="appleflinger" />
     <item drawable="applemusic" />
     <item drawable="applicationsinfo" />
     <item drawable="apps2org" />
@@ -104,6 +105,7 @@
     <item drawable="carsmile" />
     <item drawable="casper" />
     <item drawable="cgeo" />
+    <item drawable="changedetection" />
     <item drawable="chanu" />
     <item drawable="checkey" />
     <item drawable="chefkoch" />
@@ -111,6 +113,7 @@
     <item drawable="chrome" />
     <item drawable="chromiumautoupdater" />
     <item drawable="chubbyclick" />
+    <item drawable="cinelog" />
     <item drawable="citymapper" />
     <item drawable="clashroyale" />
     <item drawable="classysharkexodus" />
@@ -173,6 +176,7 @@
     <item drawable="ebaykleinanzeigen" />
     <item drawable="echo" />
     <item drawable="editor" />
+    <item drawable="eduroamcat" />
     <item drawable="emby" />
     <item drawable="emerald" />
     <item drawable="emit" />
@@ -415,6 +419,7 @@
     <item drawable="netmonitor" />
     <item drawable="newpipe" />
     <item drawable="news" />
+    <item drawable="nextcloudbookmarks" />
     <item drawable="nextcloudnotes" />
     <item drawable="nextcloudsms" />
     <item drawable="nextcloud" />
@@ -423,6 +428,7 @@
     <item drawable="nfctools" />
     <item drawable="nhbooks" />
     <item drawable="nos" />
+    <item drawable="nosurfforreddit" />
     <item drawable="notable" />
     <item drawable="notepad" />
     <item drawable="notes" />
@@ -487,6 +493,7 @@
     <item drawable="pocketcasts" />
     <item drawable="pocket" />
     <item drawable="podomtre" />
+    <item drawable="powerampache" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
     <item drawable="presencepublisher" />
@@ -637,6 +644,7 @@
     <item drawable="timelimit" />
     <item drawable="tinc" />
     <item drawable="tinder" />
+    <item drawable="tinkoffbiz" />
     <item drawable="tinkoff" />
     <item drawable="tinykeepass" />
     <item drawable="tinyscanner" />
@@ -652,6 +660,7 @@
     <item drawable="towerjumper" />
     <item drawable="trackbook" />
     <item drawable="trainline" />
+    <item drawable="transdroid" />
     <item drawable="transdrone" />
     <item drawable="transistor" />
     <item drawable="transportr" />
