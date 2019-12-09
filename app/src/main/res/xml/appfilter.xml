@@ -1299,6 +1299,9 @@
     <!-- Messaging -->
     <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messaging" />
 
+    <!-- Metadata Remover -->
+    <item component="ComponentInfo{rocks.poopjournal.metadataremover/rocks.poopjournal.metadataremover.ui.MainActivity}" drawable="metadataremover" />
+
     <!-- MeteoSwiss -->
     <item component="ComponentInfo{ch.admin.meteoswiss/ch.admin.meteoswiss.MainActivity}" drawable="meteoswiss" />
 
@@ -1499,6 +1502,9 @@
 
     <!-- Oeffi Stations -->
     <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations" />
+
+    <!-- Offline Calendar -->
+    <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="offlinecalendar"/>
 
     <!-- Om -->
     <item component="ComponentInfo{com.enjoyingfoss.om/com.enjoyingfoss.om.MainActivity}" drawable="om" />
