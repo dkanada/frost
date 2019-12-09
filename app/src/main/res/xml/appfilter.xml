@@ -409,6 +409,9 @@
     <!-- Clock+ -->
     <item component="ComponentInfo{com.philliphsu.clock2/com.philliphsu.clock2.MainActivity}" drawable="clock2" />
 
+    <!-- Coinbase -->
+    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase"/>
+    
     <!-- Clover -->
     <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
     <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
@@ -600,6 +603,9 @@
     <!-- Duolingo -->
     <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
 
+    <!-- Duo Mobile -->
+    <item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.account_list.AccountListActivity}" drawable="duomobile"/>
+
     <!-- Easer -->
     <item component="ComponentInfo{ryey.easer/ryey.easer.core.ui.MainActivity}" drawable="easer" />
     <item component="ComponentInfo{ryey.easer.beta/ryey.easer.core.ui.MainActivity}" drawable="easer" />
@@ -609,6 +615,9 @@
 
     <!-- Easy XKCD -->
     <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity" drawable="easyxkcd" />
+
+    <!-- eBay -->
+    <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay"/>
 
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
@@ -998,6 +1007,9 @@
     <!-- Hue -->
     <item component="ComponentInfo{is.zi.huewidgets/is.zi.huewidgets.MainActivity}" drawable="hue" />
 
+    <!-- Hulu -->
+    <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu"/>
+
     <!-- Icecat -->
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat" />
 
@@ -1355,6 +1367,11 @@
     <!-- MotionEye -->
     <item component="ComponentInfo{com.developerfromjokela.motioneyeclient/com.developerfromjokela.motioneyeclient.ui.activities.MainActivity}" drawable="motioneye" />
 
+    <!-- Moto -->
+    <item component="ComponentInfo{com.motorola.moto/com.motorola.assist.ui.screens.MainActivity}" drawable="moto"/>
+    <!-- Moto Help -->
+    <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.main.start.LaunchActivity}" drawable="motohelp"/>
+
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
 
@@ -1678,6 +1695,9 @@
 
     <!-- Podomètre -->
     <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre" />
+
+    <!-- Pokémon GO -->
+    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemongo"/>
 
     <!-- Power Ampache -->
     <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.MainActivity}" drawable="powerampache" />
