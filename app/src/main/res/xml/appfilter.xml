@@ -386,7 +386,7 @@
     <item component="ComponentInfo{agrigolo.chubbyclick/agrigolo.chubbyclick.MainActivity}" drawable="chubbyclick" />
 
     <!-- Cinelog -->
-    <item component="ComponentInfo{com.ulicae.cinelog/com.ulicae.cinelog.MainActivity}" drawable="cinelog" />
+    <item component="ComponentInfo{com.ulicae.cinelog/com.ulicae.cinelog.android.activity.MainActivity}" drawable="cinelog" />
 
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
@@ -1434,7 +1434,7 @@
     <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
 
     <!-- Nextcloud Bookmarks -->
-    <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
+    <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
     <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
 
     <!-- Nextcloud SMS -->
@@ -1673,7 +1673,7 @@
     <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre" />
 
     <!-- Power Ampache -->
-    <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.MainActivity}" drawable="powerampache"/>
+    <item component="ComponentInfo{com.antonioari.reactiveampacheapp/com.antonioari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache"/>
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter" />
@@ -2677,7 +2677,7 @@
 
     <!-- Transdroid -->
     <item component="ComponentInfo{org.transdroid.search/org.transdroid.search.gui.SettingsActivity}" drawable="transdroid"/>
-    <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity}" drawable="transdroid"/>
+    <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity_}" drawable="transdroid"/>
 
     <!-- Transistor -->
     <item component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" drawable="transistor" />
