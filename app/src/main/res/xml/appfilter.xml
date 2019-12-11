@@ -1080,6 +1080,9 @@
     <!-- IVI -->
     <item component="ComponentInfo{ru.ivi.client/ru.ivi.client.activity.MainActivity}" drawable="ivi" />
 
+    <!-- Jamendo -->
+    <item component="ComponentInfo{com.teleca.jamendo/com.teleca.jamendo.activity.SplashscreenActivity}" drawable="jamendo"/>
+
     <!-- Jellyfin -->
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
@@ -1473,6 +1476,9 @@
 
     <!-- My Avans -->
     <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="myavans" />
+
+    <!-- My App List -->
+    <item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist"/>
 
     <!-- myMail -->
     <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="mymail" />
