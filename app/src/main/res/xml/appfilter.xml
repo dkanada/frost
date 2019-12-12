@@ -1195,9 +1195,14 @@
     <!-- Lawnchair -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
+    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="librechair"/>
+
+    <!-- Lawnchair Notes -->
+    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.notes.NotesActivity}" drawable="standardnotes"/>
 
     <!-- Lawnchair Settings -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchairsettings" />
+    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="librechairsettings"/>
 
     <!-- Leafpic -->
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
@@ -2578,7 +2583,7 @@
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
 
     <!-- Standard Notes -->
-    <item component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}" drawable="s.notes" />
+    <item component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}" drawable="standardnotes" />
 
     <!-- Starbucks -->
     <item component="ComponentInfo{com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity}" drawable="starbucks"/>
