@@ -1101,7 +1101,7 @@
 
     <!-- K-9 Mail -->
     <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
-    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k-9mail"/>
+    <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" drawable="k9mail"/>
 
     <!-- K9 Material -->
     <item component="ComponentInfo{com.fsck.k9.material/com.fsck.k9.activity.Accounts}" drawable="k9mail" />
