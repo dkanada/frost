@@ -1436,6 +1436,8 @@
     <!-- Nextcloud Bookmarks -->
     <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
     <item component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
+    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
+    <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks"/>
 
     <!-- Nextcloud SMS -->
     <item component="ComponentInfo{fr.unix_experience.owncloud_sms/fr.unix_experience.owncloud_sms.activities.MainActivity}" drawable="nextcloudsms" />
