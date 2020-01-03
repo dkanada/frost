@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.5424726"
-     inkscape:cx="8.6430287"
+     inkscape:cx="35.689862"
      inkscape:cy="17.130776"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -53,28 +53,27 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <ellipse
        id="path108"
-       cx="24.19631"
-       cy="19.759924"
-       rx="8.2864075"
-       ry="7.9549508"
-       style="opacity:1;fill:none;stroke:#ffffff;stroke-opacity:1" />
+       cx="24.01899"
+       cy="19.75498"
+       rx="8.410038"
+       ry="8.0736361"
+       style="opacity:1;fill:none;stroke:#ffffff;stroke-width:1.21790373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
        id="path108-7"
        cx="32.350132"
        cy="28.112621"
        rx="8.2864075"
        ry="7.9549508"
-       style="display:inline;opacity:1;fill:none;stroke:#ffffff;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none" />
     <ellipse
        id="path108-7-5"
        cx="15.909903"
        cy="28.245207"
        rx="8.2864075"
        ry="7.9549508"
-       style="display:inline;opacity:1;fill:none;stroke:#ffffff;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
