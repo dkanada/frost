@@ -46,6 +46,9 @@
     <!-- Adobe XD -->
     <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobexd" />
 
+    <!-- Aegis -->
+    <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis"/>
+
     <!-- AfWall -->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall" />
 
@@ -1084,6 +1087,9 @@
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
 
+    <!-- KinoPoisk -->
+    <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.screen.main.MainActivity}" drawable="kinopoisk"/>
+
     <!-- Kinoteatr -->
     <item component="ComponentInfo{ru.rambler.kinoteatr/ru.rambler.popcorn.sdk.presentation.screens.main.MainActivity}" drawable="kinoteatr" />
 
@@ -1295,6 +1301,7 @@
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages" />
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
     <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
 
     <!-- Messaging -->
     <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messaging" />
