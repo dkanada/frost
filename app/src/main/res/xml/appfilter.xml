@@ -1611,7 +1611,7 @@
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
     <item component="ComponentInfo{bus.chio.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
     
-    <!-- Overdrive -->
+    <!-- OverDrive -->
     <item component="ComponentInfo{com.overdrive.mobile.android.mediaconsole/com.overdrive.mobile.android.mediaconsole.Activity_Splash}" drawable="overdrive" />
 
     <!-- Owncloud -->
