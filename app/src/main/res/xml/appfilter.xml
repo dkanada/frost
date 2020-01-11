@@ -65,6 +65,9 @@
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress" />
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress" />
 
+    <!-- Alliant -->
+    <item component="ComponentInfo{org.alliant.mobile/alliantmobile.droid.activities.SplashActivity}" drawable="alliant" />
+    
     <!-- Amaze -->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
 
@@ -397,6 +400,9 @@
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
 
+    <!-- Classical KUSC -->
+    <item component="ComponentInfo{org.uscradio.kusc/com.kusc.classicalkusc.screen.splash.SplashActivity}" drawable="kusc" />
+    
     <!-- ClassySharkexodus -->
     <item component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}" drawable="classysharkexodus" />
 
@@ -892,6 +898,9 @@
 
     <!-- Google Email -->
     <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
+    
+    <!-- Google Fi -->
+    <item component="ComponentInfo{com.google.android.apps.tycho/com.google.android.apps.tycho.AccountDetailsActivity}" drawable="googlefi" />
 
     <!-- Google Files -->
     <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
@@ -1601,6 +1610,9 @@
     <!-- Overchan -->
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
     <item component="ComponentInfo{bus.chio.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
+    
+    <!-- OverDrive -->
+    <item component="ComponentInfo{com.overdrive.mobile.android.mediaconsole/com.overdrive.mobile.android.mediaconsole.Activity_Splash}" drawable="overdrive" />
 
     <!-- Owncloud -->
     <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="owncloud" />
@@ -2771,6 +2783,9 @@
     <!-- Vector Pinball -->
     <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball" />
 
+    <!-- Venmo -->
+    <item component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}" drawable="venmo" />
+    
     <!-- Via -->
     <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via" />
 
