@@ -1195,7 +1195,7 @@
     <!-- Lawnchair -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.Launcher}" drawable="lawnchair" />
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair" />
-    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="librechair"/>
+    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
 
     <!-- Lawnchair Notes -->
     <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.notes.NotesActivity}" drawable="standardnotes"/>
