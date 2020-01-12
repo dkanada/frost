@@ -1202,7 +1202,7 @@
 
     <!-- Lawnchair Settings -->
     <item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchairsettings" />
-    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="librechairsettings"/>
+    <item component="ComponentInfo{launcher.libre.dev/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchairsettings"/>
 
     <!-- Leafpic -->
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
