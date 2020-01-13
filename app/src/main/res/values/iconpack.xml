@@ -14,12 +14,15 @@
         <item>adobephothoshop</item>
         <item>adoberush</item>
         <item>adobexd</item>
+        <item>aegis</item>
         <item>afwall</item>
         <item>aimsicd</item>
         <item>airbnb</item>
         <item>alarmklock</item>
         <item>aliexpress</item>
+        <item>alliant</item>
         <item>amaze</item>
+        <item>amazonshopping</item>
         <item>an2linux</item>
         <item>andotp</item>
         <item>androidrun</item>
@@ -47,11 +50,13 @@
         <item>arbetsfor</item>
         <item>asteroidossync</item>
         <item>atomic</item>
+        <item>audible</item>
         <item>audinaut</item>
         <item>audiofx</item>
         <item>auroradroid</item>
         <item>auroraservices</item>
         <item>aurorastore</item>
+        <item>authenticate</item>
         <item>authy</item>
         <item>aviasales</item>
         <item>bandcamp</item>
@@ -96,13 +101,17 @@
         <item>cabinet</item>
         <item>calculator</item>
         <item>calendarcolor</item>
+        <item>calendarimportexport</item>
         <item>calendar</item>
         <item>callabike</item>
         <item>callrecorder</item>
         <item>cameraroll</item>
         <item>camera</item>
         <item>camscanner</item>
+        <item>canvasstudent</item>
+        <item>carscanner</item>
         <item>carsmile</item>
+        <item>cashapp</item>
         <item>casper</item>
         <item>cgeo</item>
         <item>changedetection</item>
@@ -121,6 +130,7 @@
         <item>clock2</item>
         <item>clock</item>
         <item>clover</item>
+        <item>coinbase</item>
         <item>comicscreen</item>
         <item>commons</item>
         <item>contacts</item>
@@ -169,11 +179,14 @@
         <item>dtekbyblackberry</item>
         <item>duckduckgo</item>
         <item>duolingo</item>
+        <item>duomobile</item>
         <item>duo</item>
+        <item>earmouse</item>
         <item>earth</item>
         <item>easer</item>
         <item>easyxkcd</item>
         <item>ebaykleinanzeigen</item>
+        <item>ebay</item>
         <item>echo</item>
         <item>editor</item>
         <item>eduroamcat</item>
@@ -257,8 +270,10 @@
         <item>gnewsstand</item>
         <item>gnewsweather</item>
         <item>goblim</item>
+        <item>goldenone</item>
         <item>goodweather</item>
         <item>googleapp</item>
+        <item>googlefi</item>
         <item>googlesettings</item>
         <item>google</item>
         <item>gosuslugi</item>
@@ -282,13 +297,17 @@
         <item>hpprinteraio</item>
         <item>hub</item>
         <item>hue</item>
+        <item>hulu</item>
         <item>icecat</item>
         <item>icsdroid</item>
         <item>identiconizer</item>
         <item>imgur</item>
         <item>infinity</item>
+        <item>instacart</item>
         <item>instagram</item>
+        <item>island</item>
         <item>ivi</item>
+        <item>jamendo</item>
         <item>jellyfin</item>
         <item>jelly</item>
         <item>jitsimeet</item>
@@ -308,6 +327,7 @@
         <item>keychain</item>
         <item>khl</item>
         <item>kik</item>
+        <item>kinopoisk</item>
         <item>kinoteatr</item>
         <item>kiss</item>
         <item>kiwibrowser</item>
@@ -322,6 +342,7 @@
         <item>kore</item>
         <item>koyuspace</item>
         <item>kuroba</item>
+        <item>kusc</item>
         <item>lastfmscrobbler</item>
         <item>lastpassauthenticator</item>
         <item>lastpass</item>
@@ -365,6 +386,7 @@
         <item>markor</item>
         <item>markushiexpensemanager</item>
         <item>masterpassword</item>
+        <item>materialislands</item>
         <item>materialistic</item>
         <item>materialnotes</item>
         <item>materialplayer</item>
@@ -381,6 +403,7 @@
         <item>messages</item>
         <item>messaging</item>
         <item>messenger</item>
+        <item>metadataremover</item>
         <item>meteo</item>
         <item>meteoswiss</item>
         <item>metrodroid</item>
@@ -395,10 +418,15 @@
         <item>minimal</item>
         <item>minminguard</item>
         <item>mixplorer</item>
+        <item>modpizza</item>
         <item>money</item>
         <item>moonlight</item>
         <item>morse</item>
         <item>motioneye</item>
+        <item>motohelp</item>
+        <item>motomarket</item>
+        <item>motonotifications</item>
+        <item>moto</item>
         <item>moviedb</item>
         <item>mpd</item>
         <item>mpv</item>
@@ -409,6 +437,7 @@
         <item>muzei</item>
         <item>mx</item>
         <item>myandroidtools</item>
+        <item>myapplist</item>
         <item>myavans</item>
         <item>mymail</item>
         <item>mysplash</item>
@@ -441,6 +470,7 @@
         <item>oeffidirections</item>
         <item>oeffiplans</item>
         <item>oeffistations</item>
+        <item>offlinecalendar</item>
         <item>omninotes</item>
         <item>om</item>
         <item>onelist</item>
@@ -469,6 +499,7 @@
         <item>ouisncf</item>
         <item>outlook</item>
         <item>overchan</item>
+        <item>overdrive</item>
         <item>owncloud</item>
         <item>packlist</item>
         <item>pairz</item>
@@ -478,6 +509,8 @@
         <item>paypal</item>
         <item>pb</item>
         <item>pdfviewerplus</item>
+        <item>pebbledialer</item>
+        <item>pebble</item>
         <item>pedometer</item>
         <item>peertube</item>
         <item>pep</item>
@@ -493,6 +526,7 @@
         <item>pocketcasts</item>
         <item>pocket</item>
         <item>podomtre</item>
+        <item>pokemongo</item>
         <item>powerampache</item>
         <item>ppsspp</item>
         <item>practicehub</item>
@@ -604,6 +638,7 @@
         <item>spellbook</item>
         <item>spotify</item>
         <item>standardnotes</item>
+        <item>starbucks</item>
         <item>starkeverben</item>
         <item>steam</item>
         <item>stocard</item>
@@ -689,6 +724,7 @@
         <item>vanillamusic</item>
         <item>vasttrafik</item>
         <item>vectorpinball</item>
+        <item>venmo</item>
         <item>via</item>
         <item>viber</item>
         <item>vine</item>
@@ -699,8 +735,10 @@
         <item>vrnetarif</item>
         <item>vsco</item>
         <item>wallpapers</item>
+        <item>wand</item>
         <item>waves</item>
         <item>waze</item>
+        <item>wearos</item>
         <item>weather</item>
         <item>webapps</item>
         <item>webopac</item>
