@@ -816,6 +816,9 @@
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
 
+    <!-- Floatplane -->
+    <item component="ComponentInfo{com.floatplane.floatplane/com.floatplane.floatplane.MainActivity}" drawable="floatplane"/>
+
     <!-- Flow Free Bridges -->
     <item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flowfreebridges" />
 
@@ -1422,6 +1425,7 @@
 
     <!-- Mindustry -->
     <item component="ComponentInfo{io.anuke.mindustry/io.anuke.mindustry.AndroidLauncher}" drawable="mindustry" />
+    <item component="ComponentInfo{io.anuke.mindustry/mindustry.android.AndroidLauncher}" drawable="mindustry" />
 
     <!-- Minecraft -->
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
@@ -1672,6 +1676,9 @@
     <!-- openScale -->
     <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
 
+    <!-- Open Sudoku -->
+    <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.FolderListActivity}" drawable="opensudoku"/>
+
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
 
@@ -1739,6 +1746,9 @@
 
     <!-- Pairz -->
     <item component="ComponentInfo{com.solverdigital.pairz/com.solverdigital.pairz.activities.Main}" drawable="pairz" />
+
+    <!-- PalmCalc 2019+ -->
+    <item component="ComponentInfo{com.github.palmcalc2019.palmcalc/com.github.palmcalc2019.palmcalc.PalmCalcActivity}" drawable="palmcalc2019"/>
 
     <!-- PassAndroid -->
     <item component="ComponentInfo{org.ligi.passandroid/org.ligi.passandroid.ui.PassListActivity}" drawable="passandroid" />
@@ -2022,6 +2032,9 @@
 
     <!-- Share to Clipboard -->
     <item component="ComponentInfo{com.tengu.sharetoclipboard/com.tengu.sharetoclipboard.MainActivity}" drawable="sharetoclipboard" />
+
+    <!-- Share to Computer -->
+    <item component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}" drawable="sharetocomputer"/>
 
     <!-- Shattered Pixel Dungeon -->
     <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="pixeldungeon" />
@@ -2886,6 +2899,9 @@
 
     <!-- TWRP -->
     <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.MainActivity}" drawable="twrp" />
+
+    <!-- UnCiv -->
+    <item component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}" drawable="unciv"/>
 
     <!-- Unified Nlp -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
