@@ -61,6 +61,9 @@
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
 
+    <!-- ALDI TALK -->
+    <item component="ComponentInfo{de.eplus.mappecc.client.android.alditalk/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="alditalk"/>
+
     <!-- AliExpress -->
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress" />
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress" />
@@ -191,6 +194,7 @@
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurorastore" />
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurorastore"/>
 
     <!-- Authenticate -->
     <item component="ComponentInfo{secureauth.android.token/secureauth.android.token.TokenList}" drawable="authenticate" />
@@ -494,6 +498,9 @@
     <!-- CrontoSign Swiss -->
     <item component="ComponentInfo{com.cronto.crontosign.swiss/com.vasco.crontosign.phototan.MainActivity}" drawable="crontosignswiss" />
 
+    <!-- Cryptomator -->
+    <item component="ComponentInfo{org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity}" drawable="cryptomator"/>
+
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
@@ -514,6 +521,9 @@
 
     <!-- Deco -->
     <item component="ComponentInfo{com.tplink.tpm5/com.tplink.tpm5.view.welcome.WelcomeActivity}" drawable="deco" />
+
+    <!-- Deezer -->
+    <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="deezer"/>
 
     <!-- default -->
     <item component=":BROWSER" drawable="browser" />
@@ -582,6 +592,9 @@
     <!-- Disroot -->
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.MainActivity}" drawable="disroot" />
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot" />
+
+    <!-- DKB-Banking -->
+    <item component="ComponentInfo{de.dkb.portalapp/de.dkb.MainActivity}" drawable="dkb-banking"/>
 
     <!-- DNS66 -->
     <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66" />
@@ -764,6 +777,9 @@
     <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="files" />
     <item component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" drawable="files" />
     <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="files" />
+
+    <!-- Firefly III Mobile -->
+    <item component="ComponentInfo{xyz.hisname.fireflyiii/xyz.hisname.fireflyiii.ui.HomeActivity}" drawable="fireflyiiimobile"/>
 
     <!-- Firefox Focus -->
     <item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefoxfocus" />
@@ -1428,6 +1444,9 @@
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
+    <!-- MoneyWallet -->
+    <item component="ComponentInfo{com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity}" drawable="moneywallet"/>
+
     <!-- Moonlight -->
     <item component="ComponentInfo{com.limelight/com.limelight.PcView}" drawable="moonlight" />
 
@@ -1514,6 +1533,9 @@
 
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster" />
+    
+    <!-- nebenan.de -->
+    <item component="ComponentInfo{de.nebenan.app/de.nebenan.app.ui.main.LaunchActivity}" drawable="nebenande"/>
 
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
@@ -2601,6 +2623,9 @@
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
 
+    <!-- stadtmobil -->
+    <item component="ComponentInfo{de.cantamen.stadtmobil/de.cantamen.stadtmobil.MainActivity}" drawable="stadtmobil"/>
+
     <!-- Standard Notes -->
     <item component="ComponentInfo{com.standardnotes/com.standardnotes.MainActivity}" drawable="standardnotes" />
 
@@ -2754,6 +2779,9 @@
 
     <!-- Tisséo -->
     <item component="ComponentInfo{fr.tisseo.android/fr.tisseo.android.activity.SplashScreenActivity}" drawable="tisseo" />
+
+    <!-- TK -->
+    <item component="ComponentInfo{de.tk.tkapp/de.tk.tkapp.StartActivity}" drawable="tk"/>
 
     <!-- Todo Agenda -->
     <item component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda" />
