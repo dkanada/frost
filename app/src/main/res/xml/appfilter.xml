@@ -83,6 +83,9 @@
     <!-- Ameixa Monochrome -->
     <item component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixamonochrome.activities.MainActivity}" drawable="themes" />
 
+    <!-- Ampere -->
+    <item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere"/>
+
     <!-- AN2Linux -->
     <item component="ComponentInfo{kiwi.root.an2linuxclient/kiwi.root.an2linuxclient.activities.MainSettingsActivity}" drawable="an2linux" />
 
@@ -259,6 +262,9 @@
 
     <!-- BlackBerry Launcher -->
     <item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberrylauncher" />
+
+    <!-- Blackboard -->
+    <item component="ComponentInfo{com.blackboard.android.bbstudent/com.blackboard.android.bbstudent.launch.LaunchActivityImpl}" drawable="blackboard"/>
 
     <!-- Blocker -->
     <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker" />
@@ -842,6 +848,7 @@
     <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="radio" />
     <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="radio" />
     <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio" />
+    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="radio"/>
 
     <!-- Foobar2000 -->
     <item component="ComponentInfo{com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity}" drawable="foobar2000" />
@@ -1242,6 +1249,9 @@
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
     <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leafpic" />
 
+    <!-- LedMote -->
+    <item component="ComponentInfo{net.frozenbit.ledmote/net.frozenbit.ledmote.IRActivity}" drawable="ledmote"/>
+
     <!-- Lens -->
     <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="lens" />
 
@@ -1319,6 +1329,9 @@
 
     <!-- Loyalty Card Keychain -->
     <item component="ComponentInfo{protect.card_locker/protect.card_locker.MainActivity}" drawable="loyaltycardkeychain" />
+
+    <!-- LuisterBieb -->
+    <item component="ComponentInfo{nl.bibliotheek.android.luisterboeken/nl.bibliotheek.android.luisterboeken.activities.SplashActivity}" drawable="luisterbieb"/>
 
     <!-- Ma Banque: Crédit Agricole -->
     <item component="ComponentInfo{fr.creditagricole.androidapp/fr.creditagricole.androidapp.activities.identification.ConnectionActivity}" drawable="creditagricole" />
@@ -1436,6 +1449,9 @@
     <!-- Minesweeper -->
     <item component="ComponentInfo{org.secuso.privacyfriendlyminesweeper/org.secuso.privacyfriendlyminesweeper.activities.SplashActivity}" drawable="minesweeper" />
 
+    <!-- Minetest -->
+    <item component="ComponentInfo{net.minetest.minetest/net.minetest.minetest.MainActivity}" drawable="minetest"/>
+
     <!-- Minimal -->
     <item component="ComponentInfo{com.rubenroy.minimaltodo/com.rubenroy.minimaltodo.MainActivity}" drawable="minimal" />
 
@@ -1535,6 +1551,9 @@
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.SetWallpaperActivity}" drawable="mysplash" />
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash" />
 
+    <!-- MyUU -->
+    <item component="ComponentInfo{com.stucomm.studentapp/com.stucomm.mijnstucommapp.controller.screens.splash_screen.SplashScreenActivity}" drawable="myuu"/>
+
     <!-- N26 -->
     <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.LandingActivity}" drawable="n26" />
 
@@ -1610,6 +1629,9 @@
     <!-- Nova Launcher -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova" />
+
+    <!-- NRC -->
+    <item component="ComponentInfo{com.twipemobile.nrc/com.twipemobile.twpublishing.ui.TWStartupActivity}" drawable="nrc"/>
 
     <!-- NS -->
     <item component="ComponentInfo{nl.ns.android.activity/nl.ns.android.activity.start.StartActivity}" drawable="ns" />
@@ -2016,6 +2038,9 @@
 
     <!-- Semitone -->
     <item component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}" drawable="semitone" />
+
+    <!-- SensorLab -->
+    <item component="ComponentInfo{com.lpellis.sensorlab/com.lpellis.sensorlab.FullscreenActivity}" drawable="sensorlab"/>
 
     <!-- Sensor Readout -->
     <item component="ComponentInfo{de.onyxbits.sensorreadout/de.onyxbits.sensorreadout.OverviewActivity}" drawable="sensorreadout" />
@@ -2635,6 +2660,9 @@
     <!-- SpaRSS -->
     <item component="ComponentInfo{net.etuldan.sparss.floss/net.etuldan.sparss.activity.HomeActivity}" drawable="sparss" />
 
+    <!-- Spectroid -->
+    <item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectroid"/>
+
     <!-- Speedmeter -->
     <item component="ComponentInfo{fly.speedmeter.grub/fly.speedmeter.grub.MainActivity}" drawable="speedmeter" />
 
@@ -2997,6 +3025,9 @@
 
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+
+    <!-- Wiebetaaltwat -->
+    <item component="ComponentInfo{nl.wiebetaaltwat.webapp/com.wbw.main.InitActivity}" drawable="wiebetaaltwat"/>
 
     <!-- Wi-Fi Analyzer -->
     <item component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.MainActivity}" drawable="wifianalyzer" />
