@@ -468,7 +468,6 @@
     <item component="ComponentInfo{com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="contacts" />
-    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
 
     <!-- Content Transfer -->
     <item component="ComponentInfo{com.mediamushroom.easymigrate/com.mediamushroom.easymigrate.UI.EasyMigrateActivityCompat}" drawable="contenttransfer" />
@@ -923,9 +922,6 @@
 
     <!-- Google Clock -->
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
-
-    <!-- Google Contacts -->
-    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="people" />
 
     <!-- Google Docs -->
     <item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gdocs" />
