@@ -1216,6 +1216,9 @@
     <item component="ComponentInfo{com.horaapps.leafpic/com.horaapps.leafpic.MainActivity}" drawable="leafpic" />
     <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leafpic" />
 
+    <!-- LeafPic Revived -->
+    <item component="ComponentInfo{com.alienpants.leafpicrevived/com.alienpants.leafpicrevived.activities.SplashScreen}" drawable="leafpicrevived"/>
+
     <!-- Lens -->
     <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="lens" />
 
