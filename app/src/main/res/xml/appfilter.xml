@@ -450,6 +450,9 @@
     <!-- comdirect photoTAN -->
     <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirectphototan"/>
 
+    <!-- comdirect trading -->
+    <item component="ComponentInfo{de.comdirect.trading/de.comdirect.trading.MainActivity}" drawable="comdirecttrading"/>
+
     <!-- Comic Screen -->
     <item component="ComponentInfo{com.viewer.comicscreen/com.viewer.comicscreen.ListActivity}" drawable="comicscreen" />
 
