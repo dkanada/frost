@@ -447,6 +447,9 @@
     <!-- Coinbase -->
     <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase" />
 
+    <!-- comdirect core -->
+    <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirectcore"/>
+
     <!-- comdirect photoTAN -->
     <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirectphototan"/>
 
