@@ -903,6 +903,9 @@
     <!-- Ghost Commander -->
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander" />
 
+    <!-- GMX Mail -->
+    <item component="ComponentInfo{de.gmx.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="gmxmail"/>
+
     <!-- Goblim -->
     <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
 
