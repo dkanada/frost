@@ -1313,6 +1313,9 @@
     <!-- Ma Banque: Crédit Agricole -->
     <item component="ComponentInfo{fr.creditagricole.androidapp/fr.creditagricole.androidapp.activities.identification.ConnectionActivity}" drawable="creditagricole" />
 
+    <!-- Magic Earth -->
+    <item component="ComponentInfo{com.generalmagic.magicearth/com.generalmagic.android.map.MapActivity}" drawable="magicearth"/>
+
     <!-- Magisk Manager -->
     <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk" />
     <item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk" />
