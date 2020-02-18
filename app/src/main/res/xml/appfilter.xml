@@ -537,6 +537,9 @@
     <item component=":SMS" drawable="messages" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="drawer" />
 
+    <!-- Degiro -->
+    <item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro"/>
+
     <!-- Dell Mobile Connect -->
     <item component="ComponentInfo{com.screenovate.dell.mobileconnect/com.screenovate.bluephone.MainActivity}" drawable="dellconnect" />
 
@@ -1655,6 +1658,9 @@
 
     <!-- Open Mensa -->
     <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
+
+    <!-- Open Note Scanner -->
+    <item component="ComponentInfo{com.todobom.opennotescanner/com.todobom.opennotescanner.OpenNoteScannerActivity}" drawable="opennotescanner"/>
 
     <!-- openScale -->
     <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
