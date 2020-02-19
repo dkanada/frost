@@ -164,6 +164,9 @@
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
 
+    <!-- ArchWiki Viewer -->
+    <item component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.MainActivity}" drawable="archwikiviewer"/>
+
     <!-- AsteroidOS Sync -->
     <item component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" drawable="asteroidossync" />
 
@@ -371,6 +374,9 @@
     <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera" />
     <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera" />
 
+    <!-- Camera Remote -->
+    <item component="ComponentInfo{com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity}" drawable="cameraremote"/>
+
     <!-- Camera Roll -->
     <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
     <item component="ComponentInfo{us.koller.cameraroll.debug/us.koller.cameraroll.ui.MainActivity}" drawable="cameraroll" />
@@ -465,6 +471,9 @@
     <!-- Community Peers License -->
     <item component="ComponentInfo{community.peers.license/community.peers.license.activity.MainActivity}" drawable="license" />
 
+    <!-- Common Voice -->
+    <item component="ComponentInfo{org.commonvoice.saverio/org.commonvoice.saverio.MainActivity}" drawable="commonvoice"/>
+
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
     <item component="ComponentInfo{org.connectbot/org.connectbot.HostListActivity}" drawable="shell" />
@@ -543,6 +552,9 @@
     <item component=":PHONE" drawable="phone" />
     <item component=":SMS" drawable="messages" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="drawer" />
+
+    <!-- Degiro -->
+    <item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro"/>
 
     <!-- Dell Mobile Connect -->
     <item component="ComponentInfo{com.screenovate.dell.mobileconnect/com.screenovate.bluephone.MainActivity}" drawable="dellconnect" />
@@ -1231,6 +1243,9 @@
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
 
+    <!-- Länsförsäkringar -->
+    <item component="ComponentInfo{se.lf.mobile.android/se.lf.mobile.android.module.outside.ProxyActivity}" drawable="lnsfrskringar"/>
+
     <!-- LastPass -->
     <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="lastpass" />
 
@@ -1468,6 +1483,9 @@
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
+    <!-- Monster -->
+    <item component="ComponentInfo{com.jobrapp.jobr/com.jobrapp.jobr.presentation.ui.activity.SplashScreenActivity}" drawable="monster"/>
+
     <!-- MoneyWallet -->
     <item component="ComponentInfo{com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity}" drawable="moneywallet"/>
 
@@ -1508,7 +1526,7 @@
     <!-- MuPDF Viewer -->
     <item component="ComponentInfo{com.artifex.mupdfdemo/com.artifex.mupdfdemo.ChoosePDFActivity}" drawable="mupdf" />
     <item component="ComponentInfo{de.baumann.pdfview/file_manager.Activity_files}" drawable="mupdf" />
-    <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf" />
+    <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="mupdf" /> 
 
     <!-- Music -->
     <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="music" />
@@ -1698,6 +1716,9 @@
 
     <!-- Open Mensa -->
     <item component="ComponentInfo{de.uni_potsdam.hpi.openmensa/de.uni_potsdam.hpi.openmensa.MainActivity}" drawable="openmensa" />
+
+    <!-- Open Note Scanner -->
+    <item component="ComponentInfo{com.todobom.opennotescanner/com.todobom.opennotescanner.OpenNoteScannerActivity}" drawable="opennotescanner"/>
 
     <!-- openScale -->
     <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
@@ -1923,6 +1944,9 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
+
+    <!-- Reader for Selfoss -->
+    <item component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}" drawable="readerforselfoss"/>
 
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
@@ -2688,6 +2712,9 @@
 
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
+
+    <!-- StepStone -->
+    <item component="ComponentInfo{com.stepstone.borowf01/com.stepstone.base.presentation.splash.view.SCSplashActivity}" drawable="stepstone"/>
 
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
