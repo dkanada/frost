@@ -624,7 +624,7 @@
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot" />
 
     <!-- DKB-Banking -->
-    <item component="ComponentInfo{de.dkb.portalapp/de.dkb.MainActivity}" drawable="dkb-banking"/>
+    <item component="ComponentInfo{de.dkb.portalapp/de.dkb.MainActivity}" drawable="dkbbanking"/>
 
     <!-- DNS66 -->
     <item component="ComponentInfo{org.jak_linux.dns66/org.jak_linux.dns66.MainActivity}" drawable="dns66" />
