@@ -1581,6 +1581,9 @@
     <!-- My Avans -->
     <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="myavans" />
 
+    <!-- My Expenses -->
+    <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="myexpenses"/>
+
     <!-- myMail -->
     <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="mymail" />
 
@@ -1633,6 +1636,9 @@
 
     <!-- Nextcloud Talk -->
     <item component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}" drawable="nextcloudtalk" />
+
+    <!-- NordVPN -->
+    <item component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.MainActivity}" drawable="nordvpn"/>
 
     <!-- Nfc Tasks -->
     <item component="ComponentInfo{com.wakdev.nfctasks/com.wakdev.nfctasks.MainActivity}" drawable="nfctasks" />
@@ -1829,6 +1835,9 @@
 
     <!-- PayPal -->
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal" />
+
+    <!-- pCloud -->
+    <item component="ComponentInfo{com.pcloud.pcloud/com.pcloud.screens.Main}" drawable="pcloud"/>
 
     <!-- Pdf Viewer Plus -->
     <item component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}" drawable="pdfviewerplus" />
@@ -2914,6 +2923,9 @@
 
     <!-- Trackbook -->
     <item component="ComponentInfo{org.y20k.trackbook/org.y20k.trackbook.MainActivity}" drawable="trackbook" />
+
+    <!-- Track Work Time -->
+    <item component="ComponentInfo{org.zephyrsoft.trackworktime/org.zephyrsoft.trackworktime.WorkTimeTrackerActivity}" drawable="trackworktime"/>
 
     <!-- Trainline -->
     <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline" />
