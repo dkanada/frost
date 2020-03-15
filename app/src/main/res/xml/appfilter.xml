@@ -3153,6 +3153,9 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.DetailsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
 
+    <!-- Yandex Drive -->
+    <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer}" drawable="yadrive"/>
+
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />
 
