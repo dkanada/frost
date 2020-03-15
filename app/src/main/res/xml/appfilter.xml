@@ -3156,6 +3156,9 @@
     <!-- Yandex Drive -->
     <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer}" drawable="yadrive"/>
 
+    <!-- Yandex Maps -->
+    <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps"/>
+
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />
 
