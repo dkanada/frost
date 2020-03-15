@@ -1591,6 +1591,9 @@
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.common.ui.activity.SetWallpaperActivity}" drawable="mysplash" />
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash" />
 
+    <!-- MyTargets -->
+    <item component="ComponentInfo{de.dreier.mytargets/de.dreier.mytargets.features.main.MainActivity}" drawable="mytargets"/>
+
     <!-- MyUU -->
     <item component="ComponentInfo{com.stucomm.studentapp/com.stucomm.mijnstucommapp.controller.screens.splash_screen.SplashScreenActivity}" drawable="myuu"/>
 
