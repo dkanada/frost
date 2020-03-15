@@ -1552,6 +1552,7 @@
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music" />
+    <item component="ComponentInfo{com.crdroid.music/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="music"/>
 
     <!-- Musicolet -->
     <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet"/>
