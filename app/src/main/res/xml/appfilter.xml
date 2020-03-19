@@ -57,6 +57,7 @@
 
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb" />
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb"/>
 
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
