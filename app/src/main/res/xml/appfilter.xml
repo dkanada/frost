@@ -3153,6 +3153,9 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.DetailsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
 
+    <!-- Yandex Auto -->
+    <item component="ComponentInfo{yandex.auto.mobile/yandex.auto.mobile.app.presentation.splash.SplashActivity}" drawable="yaauto"/>
+
     <!-- Yandex Eda -->
     <item component="ComponentInfo{ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R}" drawable="yaeda"/>
 
