@@ -1429,6 +1429,7 @@
 
     <!-- Megafon -->
     <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.screens.auth.splash.SplashActivity}" drawable="megafon" />
+    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable=""/>
 
     <!-- Mega -->
     <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" />
