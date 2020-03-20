@@ -3165,6 +3165,9 @@
     <!-- Yandex Maps -->
     <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps"/>
 
+    <!-- Yandex Navigator -->
+    <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi"/>
+
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />
 
