@@ -1972,6 +1972,9 @@
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
 
+    <!-- ReadEra -->
+    <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
+    
     <!-- Recorder -->
     <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="lineagerec" />
 
