@@ -1965,6 +1965,9 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
+    
+    <!-- Rainy Mood -->
+    <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable ="rainymood" />
 
     <!-- Reader for Selfoss -->
     <item component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}" drawable="readerforselfoss"/>
