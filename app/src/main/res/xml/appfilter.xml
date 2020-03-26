@@ -242,6 +242,9 @@
     <!-- BBM -->
     <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm" />
 
+    <!-- Beats -->
+    <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v3.presentation.welcome.WelcomeActivity}" drawable="beats"/>
+
     <!-- Bestiary -->
     <item component="ComponentInfo{com.teamphoenixapps.bestiary.release/com.teamphoenixapps.bestiary.application.bestiary.BestiaryActivity}" drawable="bestiary" />
 
