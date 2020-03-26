@@ -1209,6 +1209,7 @@
 
     <!-- KinoPoisk -->
     <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.screen.main.MainActivity}" drawable="kinopoisk" />
+    <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.navigation.BottomNavigationActivity}" drawable="kinopoisk"/>
 
     <!-- Kinoteatr -->
     <item component="ComponentInfo{ru.rambler.kinoteatr/ru.rambler.popcorn.sdk.presentation.screens.main.MainActivity}" drawable="kinoteatr" />
