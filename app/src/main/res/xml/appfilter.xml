@@ -1992,9 +1992,15 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
+    
+    <!-- Rainy Mood -->
+    <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable ="rainymood" />
 
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
+
+    <!-- ReadEra -->
+    <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
 
     <!-- Reader for Selfoss -->
     <item component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}" drawable="readerforselfoss" />
@@ -3073,6 +3079,9 @@
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+    
+    <!-- Voice -->
+    <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
 
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice"/>
