@@ -57,7 +57,7 @@
 
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb" />
-    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb"/>
+    <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb" />
 
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
@@ -226,7 +226,7 @@
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
 
     <!-- Bandsintown -->
-    <item component="ComponentInfo{com.bandsintown/com.bandsintown.activity.SplashScreen}" drawable="bandsintown"/>
+    <item component="ComponentInfo{com.bandsintown/com.bandsintown.activity.SplashScreen}" drawable="bandsintown" />
 
     <!-- BankID -->
     <item component="ComponentInfo{com.bankid.bus/com.bankid.bus.activities.InitActivity}" drawable="bankid" />
@@ -247,7 +247,7 @@
     <item component="ComponentInfo{com.bbm/com.bbm.ui.activities.StartupActivity}" drawable="bbm" />
 
     <!-- Beats -->
-    <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v3.presentation.welcome.WelcomeActivity}" drawable="beats"/>
+    <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v3.presentation.welcome.WelcomeActivity}" drawable="beats" />
 
     <!-- Bestiary -->
     <item component="ComponentInfo{com.teamphoenixapps.bestiary.release/com.teamphoenixapps.bestiary.application.bestiary.BestiaryActivity}" drawable="bestiary" />
@@ -602,7 +602,7 @@
 
     <!-- Dialer -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone"/>
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
     <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
 
     <!-- Diaspora -->
@@ -953,7 +953,7 @@
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander" />
 
     <!-- GitHub -->
-    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
+    <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github" />
 
     <!-- GMX Mail -->
     <item component="ComponentInfo{de.gmx.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="gmxmail" />
@@ -1219,7 +1219,7 @@
 
     <!-- KinoPoisk -->
     <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.screen.main.MainActivity}" drawable="kinopoisk" />
-    <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.navigation.BottomNavigationActivity}" drawable="kinopoisk"/>
+    <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.navigation.BottomNavigationActivity}" drawable="kinopoisk" />
 
     <!-- Kinoteatr -->
     <item component="ComponentInfo{ru.rambler.kinoteatr/ru.rambler.popcorn.sdk.presentation.screens.main.MainActivity}" drawable="kinoteatr" />
@@ -1440,7 +1440,7 @@
 
     <!-- Megafon -->
     <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.screens.auth.splash.SplashActivity}" drawable="megafon" />
-    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable="megafon"/>
+    <item component="ComponentInfo{ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain}" drawable="megafon" />
 
     <!-- Mega -->
     <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" />
@@ -1565,7 +1565,7 @@
     <item component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music" />
-    <item component="ComponentInfo{com.crdroid.music/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="music"/>
+    <item component="ComponentInfo{com.crdroid.music/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="music" />
 
     <!-- Musicolet -->
     <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" />
@@ -1609,7 +1609,7 @@
     <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash" />
 
     <!-- MyTargets -->
-    <item component="ComponentInfo{de.dreier.mytargets/de.dreier.mytargets.features.main.MainActivity}" drawable="mytargets"/>
+    <item component="ComponentInfo{de.dreier.mytargets/de.dreier.mytargets.features.main.MainActivity}" drawable="mytargets" />
 
     <!-- MyUU -->
     <item component="ComponentInfo{com.stucomm.studentapp/com.stucomm.mijnstucommapp.controller.screens.splash_screen.SplashScreenActivity}" drawable="myuu" />
@@ -1879,7 +1879,7 @@
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone"/>
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
 
     <!-- PhoneTrack -->
     <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack" />
@@ -1992,12 +1992,12 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
-    
-    <!-- Rainy Mood -->
-    <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable ="rainymood" />
 
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
+
+    <!-- Rainy Mood -->
+    <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable ="rainymood" />
 
     <!-- ReadEra -->
     <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
@@ -3079,12 +3079,12 @@
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
-    
-    <!-- Voice -->
-    <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
 
     <!-- Voice -->
-    <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice"/>
+    <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice" />
+
+    <!-- Voice -->
+    <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
 
     <!-- VRN eTarif -->
     <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif" />
@@ -3196,19 +3196,19 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
 
     <!-- Yandex Auto -->
-    <item component="ComponentInfo{yandex.auto.mobile/yandex.auto.mobile.app.presentation.splash.SplashActivity}" drawable="yaauto"/>
-
-    <!-- Yandex Eda -->
-    <item component="ComponentInfo{ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R}" drawable="yaeda"/>
+    <item component="ComponentInfo{yandex.auto.mobile/yandex.auto.mobile.app.presentation.splash.SplashActivity}" drawable="yaauto" />
 
     <!-- Yandex Drive -->
-    <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer}" drawable="yadrive"/>
+    <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer}" drawable="yadrive" />
+
+    <!-- Yandex Eda -->
+    <item component="ComponentInfo{ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R}" drawable="yaeda" />
 
     <!-- Yandex Maps -->
-    <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps"/>
+    <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps" />
 
     <!-- Yandex Navigator -->
-    <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi"/>
+    <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi" />
 
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />

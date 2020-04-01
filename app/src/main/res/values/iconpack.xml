@@ -64,6 +64,7 @@
         <item>authy</item>
         <item>aviasales</item>
         <item>bandcamp</item>
+        <item>bandsintown</item>
         <item>bankid</item>
         <item>bankieren</item>
         <item>barcode</item>
@@ -71,6 +72,7 @@
         <item>batterychargelimit</item>
         <item>battery</item>
         <item>bbm</item>
+        <item>beats</item>
         <item>bestiary</item>
         <item>bible</item>
         <item>bikelocation</item>
@@ -276,6 +278,7 @@
         <item>geogebragraphingcalculator</item>
         <item>geogebra</item>
         <item>ghostcommander</item>
+        <item>github</item>
         <item>gitlab</item>
         <item>gkeep</item>
         <item>gkeyboardjp</item>
@@ -468,6 +471,7 @@
         <item>myexpenses</item>
         <item>mymail</item>
         <item>mysplash</item>
+        <item>mytargets</item>
         <item>myuu</item>
         <item>n26</item>
         <item>napster</item>
@@ -586,7 +590,9 @@
         <item>radiodroid</item>
         <item>radio</item>
         <item>railwaystationphotos</item>
+        <item>rainymood</item>
         <item>raspberry</item>
+        <item>readera</item>
         <item>readerforselfoss</item>
         <item>recorder</item>
         <item>recurrence</item>
@@ -780,6 +786,7 @@
         <item>visecaone</item>
         <item>vivaldi</item>
         <item>vlc</item>
+        <item>voice</item>
         <item>vrnetarif</item>
         <item>vsco</item>
         <item>wallpapers</item>
@@ -811,7 +818,12 @@
         <item>xdalabs</item>
         <item>xposedinstaller</item>
         <item>xprivacy</item>
+        <item>yaauto</item>
+        <item>yadrive</item>
+        <item>yaeda</item>
         <item>yalp</item>
+        <item>yamaps</item>
+        <item>yanavi</item>
         <item>yatse</item>
         <item>yaweather</item>
         <item>yourphone</item>

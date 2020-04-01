@@ -64,6 +64,7 @@
     <item drawable="authy" />
     <item drawable="aviasales" />
     <item drawable="bandcamp" />
+    <item drawable="bandsintown" />
     <item drawable="bankid" />
     <item drawable="bankieren" />
     <item drawable="barcode" />
@@ -71,6 +72,7 @@
     <item drawable="batterychargelimit" />
     <item drawable="battery" />
     <item drawable="bbm" />
+    <item drawable="beats" />
     <item drawable="bestiary" />
     <item drawable="bible" />
     <item drawable="bikelocation" />
@@ -276,6 +278,7 @@
     <item drawable="geogebragraphingcalculator" />
     <item drawable="geogebra" />
     <item drawable="ghostcommander" />
+    <item drawable="github" />
     <item drawable="gitlab" />
     <item drawable="gkeep" />
     <item drawable="gkeyboardjp" />
@@ -468,6 +471,7 @@
     <item drawable="myexpenses" />
     <item drawable="mymail" />
     <item drawable="mysplash" />
+    <item drawable="mytargets" />
     <item drawable="myuu" />
     <item drawable="n26" />
     <item drawable="napster" />
@@ -586,7 +590,9 @@
     <item drawable="radiodroid" />
     <item drawable="radio" />
     <item drawable="railwaystationphotos" />
+    <item drawable="rainymood" />
     <item drawable="raspberry" />
+    <item drawable="readera" />
     <item drawable="readerforselfoss" />
     <item drawable="recorder" />
     <item drawable="recurrence" />
@@ -780,6 +786,7 @@
     <item drawable="visecaone" />
     <item drawable="vivaldi" />
     <item drawable="vlc" />
+    <item drawable="voice" />
     <item drawable="vrnetarif" />
     <item drawable="vsco" />
     <item drawable="wallpapers" />
@@ -811,7 +818,12 @@
     <item drawable="xdalabs" />
     <item drawable="xposedinstaller" />
     <item drawable="xprivacy" />
+    <item drawable="yaauto" />
+    <item drawable="yadrive" />
+    <item drawable="yaeda" />
     <item drawable="yalp" />
+    <item drawable="yamaps" />
+    <item drawable="yanavi" />
     <item drawable="yatse" />
     <item drawable="yaweather" />
     <item drawable="yourphone" />
