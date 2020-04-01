@@ -465,6 +465,7 @@
     <item drawable="myandroidtools" />
     <item drawable="myapplist" />
     <item drawable="myavans" />
+    <item drawable="myexpenses" />
     <item drawable="mymail" />
     <item drawable="mysplash" />
     <item drawable="myuu" />
@@ -484,6 +485,7 @@
     <item drawable="nfctasks" />
     <item drawable="nfctools" />
     <item drawable="nhbooks" />
+    <item drawable="nordvpn" />
     <item drawable="nos" />
     <item drawable="nosurfforreddit" />
     <item drawable="notable" />
@@ -540,6 +542,7 @@
     <item drawable="password" />
     <item drawable="paypal" />
     <item drawable="pb" />
+    <item drawable="pcloud" />
     <item drawable="pdfviewerplus" />
     <item drawable="pebbledialer" />
     <item drawable="pebble" />
@@ -735,6 +738,7 @@
     <item drawable="towercollector" />
     <item drawable="towerjumper" />
     <item drawable="trackbook" />
+    <item drawable="trackworktime" />
     <item drawable="trainline" />
     <item drawable="transdroid" />
     <item drawable="transdrone" />
