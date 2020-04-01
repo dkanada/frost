@@ -3168,6 +3168,21 @@
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.DetailsActivity}" drawable="yalp" />
     <item component="ComponentInfo{com.github.yeriomin.yalpstore/com.github.yeriomin.yalpstore.SearchActivity}" drawable="yalp" />
 
+    <!-- Yandex Auto -->
+    <item component="ComponentInfo{yandex.auto.mobile/yandex.auto.mobile.app.presentation.splash.SplashActivity}" drawable="yaauto"/>
+
+    <!-- Yandex Eda -->
+    <item component="ComponentInfo{ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R}" drawable="yaeda"/>
+
+    <!-- Yandex Drive -->
+    <item component="ComponentInfo{com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer}" drawable="yadrive"/>
+
+    <!-- Yandex Maps -->
+    <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps"/>
+
+    <!-- Yandex Navigator -->
+    <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi"/>
+
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />
 
