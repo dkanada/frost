@@ -428,6 +428,7 @@
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.HomeActivity_}" drawable="chefkoch" />
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.splash.SplashActivity}" drawable="chefkoch" />
     <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.HomeActivity}" drawable="chefkoch" />
+    <item component="ComponentInfo{de.pixelhouse/de.pixelhouse.chefkoch.app.screen.splash.SplashActivity}" drawable="chefkoch" />
 
     <!-- Chip8 -->
     <item component="ComponentInfo{com.dkanada.chip/com.dkanada.emu.activities.MainActivity}" drawable="chip" />
@@ -1003,7 +1004,7 @@
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="gdrive" />
 
     <!-- Google Earth -->
-    <item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="earth" />
+    <item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="earth" />
 
     <!-- Google Email -->
     <item component="ComponentInfo{com.google.android.email/com.android.email.activity.Welcome}" drawable="mail" />
@@ -1774,7 +1775,7 @@
     <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
 
     <!-- Open Sudoku -->
-    <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.FolderListActivity}" drawable="opensudoku" />
+    <item component="ComponentInfo{org.moire.opensudoku/org.moire.opensudoku.gui.TitleScreenActivity}" drawable="opensudoku" />
 
     <!-- Open Tasks -->
     <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
@@ -2815,7 +2816,7 @@
     <item component="se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity" drawable="swedbank" />
 
     <!-- SwiftKey -->
-    <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}" drawable="swiftkey" />
+    <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="swiftkey" />
 
     <!-- Swiftnotes -->
     <item component="ComponentInfo{com.moonpi.swiftnotes/com.moonpi.swiftnotes.MainActivity}" drawable="notes" />
@@ -3090,9 +3091,6 @@
 
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice" />
-
-    <!-- Voice -->
-    <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
 
     <!-- VRN eTarif -->
     <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif" />
