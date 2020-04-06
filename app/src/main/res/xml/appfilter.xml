@@ -715,6 +715,9 @@
     <!-- Editor -->
     <item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="editor" />
 
+    <!-- EDS Lite -->
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="edslite"/>
+
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
@@ -1999,6 +2002,9 @@
     <!-- Rainy Mood -->
     <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable ="rainymood" />
 
+    <!-- Readrops -->
+    <item component="ComponentInfo{com.readrops.app/com.readrops.app.activities.SplashActivity}" drawable="readrops"/>
+
     <!-- ReadEra -->
     <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
 
@@ -2075,6 +2081,10 @@
 
     <!-- scale -->
     <scale factor="1.0" />
+
+    <!-- Scanbot -->
+    <item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanbot"/>
+
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd" />
