@@ -652,6 +652,9 @@
 
     <!-- Doodle -->
     <item component="ComponentInfo{com.doodle.android/com.doodle.activities.SplashActivity}" drawable="doodle" />
+    
+    <!-- Douban -->
+    <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban" />
 
     <!-- Download Navi -->
     <item component="ComponentInfo{com.tachibana.downloader/com.tachibana.downloader.MainActivity}" drawable="downloadnavi" />
