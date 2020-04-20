@@ -190,7 +190,10 @@
 
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="soundrecorder" />
-
+   
+    <!-- Audio Technica Connect -->
+    <item component="ComponentInfo{jp.co.audiotechnica.connect/com.audiotechnica.SplashActivity}" drawable="audiotechnicaconnect" />
+    
     <!-- Aurora Droid -->
     <item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}" drawable="auroradroid" />
 
@@ -751,9 +754,6 @@
 
     <!-- Eventyay Attendee -->
     <item component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" drawable="eventyayattendee" />
-
-    <!-- Excel -->
-    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
 
     <!-- Exodus Privacy -->
     <item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodusprivacy" />
@@ -1483,6 +1483,21 @@
     <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microgsettings" />
     <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivityLauncher}" drawable="microgsettings" />
 
+    <!-- Microsoft Excel -->
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
+
+    <!-- Microsoft Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
+
+    <!-- Microsoft PowerPoint -->
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
+
+    <!-- Microsoft Teams -->
+    <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
+   
+    <!-- Microsoft Word -->
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
+
     <!-- Mi Fit -->
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit" />
 
@@ -1814,9 +1829,6 @@
     <!-- OUI.sncf -->
     <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="ouisncf" />
 
-    <!-- Outlook -->
-    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
-
     <!-- Overchan -->
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
     <item component="ComponentInfo{bus.chio.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
@@ -1920,9 +1932,6 @@
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter" />
-
-    <!-- PowerPoint -->
-    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
 
     <!-- PPSSPP -->
     <item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
@@ -2799,6 +2808,9 @@
 
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter" />
+   
+    <!-- Surfshark -->
+    <item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.SttartActivity}" drawable="surfshark" />
 
     <!-- Survival Manual -->
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual" />
@@ -3152,9 +3164,6 @@
 
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
-
-    <!-- Word -->
-    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
 
     <!-- Workplace -->
     <item component="ComponentInfo{com.xerox.mobileprint/com.xerox.mobileprint.HomeAct}" drawable="workplace" />
