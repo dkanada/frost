@@ -1988,6 +1988,7 @@
 
     <!-- QR Scanner -->
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner" />
+    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qrscanner"/>
 
     <!-- QuickDic -->
     <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
