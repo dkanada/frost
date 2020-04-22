@@ -721,6 +721,9 @@
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
+    <!-- EDS Lite -->
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="edslite"/>
+
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail" />
@@ -938,6 +941,9 @@
 
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
+   
+    <!-- Geekttrss -->
+    <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss"/>
 
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
@@ -1321,7 +1327,10 @@
 
     <!-- LibreOffice Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer" />
-
+    
+    <!-- Librera PRO -->
+    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librerapro"/>
+    
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
 
@@ -2084,6 +2093,9 @@
 
     <!-- scale -->
     <scale factor="1.0" />
+    
+    <!-- Scanbot -->
+    <item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanbot"/>
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd" />
@@ -2917,6 +2929,9 @@
 
     <!-- Tiny Scanner -->
     <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner" />
+    
+    <!-- Tiny Tiny RSS -->
+    <item component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}" drawable="tinytinyrss"/>
 
     <!-- Tiny Travel Tracker -->
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
@@ -3097,6 +3112,9 @@
 
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
+    
+    <!-- Voice Recorder -->
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Orange}" drawable="voicerecorder"/>
 
     <!-- VRN eTarif -->
     <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif" />
