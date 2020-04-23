@@ -23,6 +23,15 @@ If Turtl is not working on your device, you can also use [Applications Info](htt
 
 Help with any aspect of the app is much appreciated! **You don't have to know how to code!** If you know how to work with vectors in a program that supports the SVG format. [Inkscape](https://inkscape.org/en/) is recommended but not necessary. Please read the [guide on contributing](CONTRIBUTING.md) before making big changes! It also includes some personal preferences on how to work with Inkscape. If you don't use Inkscape you can just ignore them.
 
+When you bring an icon to Frost try to make it minimal.
+The easiest and most noticeable way to do it is to set an icon free of its background.
+Twitter app is a good example!
+There are two parts: a bird and a circle surrounding it.
+The bird is a center of an icon and the part associated with twitter while the circle is not unique to the platform and can be removed.
+Don't take as a ground rule because there are cases when this background shape is necessary.
+Adobe products are much more recognizable in a square while GitHub official uses background shape as a meaningful part of an icon.
+Currently, some of the existing icons don't follow this rule, we are working on it.
+
 **Note:** I want to accept as many contributions as possible, but will only merge icons that have been manually created using shapes and paths in a vector editing program. I don't think the quality is high enough from tools that automatically generate vector images.
 
 Quick Guide:
