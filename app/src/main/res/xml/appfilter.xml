@@ -1318,6 +1318,7 @@
 
     <!-- Librem Mail -->
     <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.Accounts}" drawable="libremmail" />
+    <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.MessageList}" drawable="libremmail"/>
 
     <!-- Librem Social -->
     <item component="ComponentInfo{one.librem.social/com.keylesspalace.tusky.SplashActivity}" drawable="libremsocial" />
