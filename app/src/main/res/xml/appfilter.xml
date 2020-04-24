@@ -72,6 +72,9 @@
     <!-- Alliant -->
     <item component="ComponentInfo{org.alliant.mobile/alliantmobile.droid.activities.SplashActivity}" drawable="alliant" />
 
+    <!-- Altcoin Prices -->
+    <item component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.activities.LoadingActivity}" drawable="altcoinprices"/>
+
     <!-- Amaze -->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
 
@@ -925,6 +928,9 @@
 
     <!-- Fuel Flash -->
     <item component="ComponentInfo{de.mwwebwork.benzinpreisblitz/de.mwwebwork.benzinpreisblitz.MainActivity}" drawable="fuelflash" />
+
+    <!-- Fruux -->
+    <item component="ComponentInfo{com.fruux.android/org.dmfs.tasks.TaskListActivity}" drawable="fruux"/>
 
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
@@ -2858,6 +2864,9 @@
 
     <!-- Suntimes Alarms -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimesalarms" />
+
+    <!-- Suntimes Calendars -->
+    <item component="ComponentInfo{com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity}" drawable="suntimescalendars"/>
 
     <!-- Suntimes -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
