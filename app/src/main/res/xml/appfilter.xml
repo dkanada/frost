@@ -1290,7 +1290,7 @@
     <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leafpic" />
 
     <!-- LeafPic Revived -->
-    <item component="ComponentInfo{com.alienpants.leafpicrevived/com.alienpants.leafpicrevived.activities.SplashScreen}" drawable="leafpicrevived" />
+    <item component="ComponentInfo{com.alienpants.leafpicrevived/com.alienpants.leafpicrevived.activities.SplashScreen}" drawable="leafpic" />
 
     <!-- LedMote -->
     <item component="ComponentInfo{net.frozenbit.ledmote/net.frozenbit.ledmote.IRActivity}" drawable="ledmote" />
