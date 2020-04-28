@@ -477,7 +477,7 @@
     <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirectcore" />
 
     <!-- comdirect photoTAN -->
-    <item component="ComponentInfo{com.comdirect.phototan/com.vasco.crontosign.phototan.MainActivity}" drawable="comdirectphototan" />
+    <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirectphototan"/>
 
     <!-- comdirect trading -->
     <item component="ComponentInfo{de.comdirect.trading/de.comdirect.trading.MainActivity}" drawable="comdirecttrading" />
