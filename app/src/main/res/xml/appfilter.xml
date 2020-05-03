@@ -3214,6 +3214,9 @@
     <!-- Yandex Maps -->
     <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps" />
 
+    <!-- Yandex Music -->
+    <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="yamusic"/>
+
     <!-- Yandex Navigator -->
     <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi" />
 
