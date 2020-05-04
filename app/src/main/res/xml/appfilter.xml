@@ -1930,8 +1930,8 @@
     <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemongo" />
 
     <!-- Power Ampache -->
-    <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antonioitari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache" />
-    <item component="ComponentInfo{com.antonioitari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.MainActivity}" drawable="powerampache" />
+    <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache" />
+    <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.MainActivity}" drawable="powerampache" />
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter" />
