@@ -68,7 +68,7 @@
     <!-- AliExpress -->
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="aliexpress" />
     <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity}" drawable="aliexpress" />
-    
+
     <!-- Alipay -->
     <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay" />
 
@@ -76,7 +76,7 @@
     <item component="ComponentInfo{org.alliant.mobile/alliantmobile.droid.activities.SplashActivity}" drawable="alliant" />
 
     <!-- Altcoin Prices -->
-    <item component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.activities.LoadingActivity}" drawable="altcoinprices"/>
+    <item component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.activities.LoadingActivity}" drawable="altcoinprices" />
 
     <!-- Amaze -->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
@@ -196,10 +196,10 @@
 
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="soundrecorder" />
-   
+
     <!-- Audio Technica Connect -->
     <item component="ComponentInfo{jp.co.audiotechnica.connect/com.audiotechnica.SplashActivity}" drawable="audiotechnicaconnect" />
-    
+
     <!-- Aurora Droid -->
     <item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}" drawable="auroradroid" />
 
@@ -410,7 +410,7 @@
     <item component="ComponentInfo{com.instructure.candroid/com.instructure.student.activity.LoginActivity}" drawable="canvasstudent" />
 
     <!-- Carnet -->
-    <item component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}" drawable="carnet"/>
+    <item component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}" drawable="carnet" />
 
     <!-- Car Scanner -->
     <item component="ComponentInfo{com.ovz.carscanner/carScannerXamarinForms.Droid.MainActivity}" drawable="carscanner" />
@@ -426,15 +426,15 @@
 
     <!-- C:Geo -->
     <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
-    
-    <!-- Chase -->
-    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.LoginActivity}" drawable="chase" />
 
     <!-- Change Detection -->
     <item component="ComponentInfo{com.bernaferrari.changedetection/com.bernaferrari.changedetection.MainActivity}" drawable="changedetection" />
 
     <!-- Chanu -->
     <item component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}" drawable="chanu" />
+
+    <!-- Chase -->
+    <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.LoginActivity}" drawable="chase" />
 
     <!-- Checkey -->
     <item component="ComponentInfo{info.guardianproject.checkey/info.guardianproject.checkey.MainActivity}" drawable="checkey" />
@@ -496,7 +496,7 @@
     <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirectcore" />
 
     <!-- comdirect photoTAN -->
-    <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirectphototan"/>
+    <item component="ComponentInfo{com.comdirect.phototan/de.comdirect.phototan.activity.start.StartActivity}" drawable="comdirectphototan" />
 
     <!-- comdirect trading -->
     <item component="ComponentInfo{de.comdirect.trading/de.comdirect.trading.MainActivity}" drawable="comdirecttrading" />
@@ -559,7 +559,7 @@
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
     <!-- Currency -->
-    <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency"/>
+    <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency" />
 
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
@@ -675,7 +675,7 @@
 
     <!-- Doodle -->
     <item component="ComponentInfo{com.doodle.android/com.doodle.activities.SplashActivity}" drawable="doodle" />
-    
+
     <!-- Douban -->
     <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban" />
 
@@ -741,11 +741,11 @@
     <!-- Editor -->
     <item component="ComponentInfo{org.billthefarmer.editor/org.billthefarmer.editor.Editor}" drawable="editor" />
 
+    <!-- EDS Lite -->
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="edslite" />
+
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
-
-    <!-- EDS Lite -->
-    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="edslite"/>
 
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
@@ -925,7 +925,7 @@
     <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
 
     <!-- FOSS Browser -->
-    <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="fossbrowser"/>
+    <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="fossbrowser" />
 
     <!-- Freebox Compagnon -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivity}" drawable="freebox" />
@@ -949,11 +949,11 @@
     <!-- Fruit Radar -->
     <item component="ComponentInfo{eu.quelltext.mundraub/eu.quelltext.mundraub.activities.StartupActivity}" drawable="fruitradar" />
 
+    <!-- Fruux -->
+    <item component="ComponentInfo{com.fruux.android/org.dmfs.tasks.TaskListActivity}" drawable="fruux" />
+
     <!-- Fuel Flash -->
     <item component="ComponentInfo{de.mwwebwork.benzinpreisblitz/de.mwwebwork.benzinpreisblitz.MainActivity}" drawable="fuelflash" />
-
-    <!-- Fruux -->
-    <item component="ComponentInfo{com.fruux.android/org.dmfs.tasks.TaskListActivity}" drawable="fruux"/>
 
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
@@ -971,9 +971,9 @@
 
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
-   
+
     <!-- Geekttrss -->
-    <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss"/>
+    <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss" />
 
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
@@ -1233,10 +1233,7 @@
     <!-- KDE Connect -->
     <item component="ComponentInfo{org.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect" />
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect" />
-    
-    <!-- Keep -->
-    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep" />
-    
+
     <!-- Keepass2Android -->
     <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass2android" />
 
@@ -1246,6 +1243,9 @@
     <!-- KeePass DX -->
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.fileselect.FileSelectActivity}" drawable="keepassdx" />
     <item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx" />
+
+    <!-- Keep -->
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep" />
 
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
@@ -1351,7 +1351,7 @@
 
     <!-- Librem Mail -->
     <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.Accounts}" drawable="libremmail" />
-    <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.MessageList}" drawable="libremmail"/>
+    <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.MessageList}" drawable="libremmail" />
 
     <!-- Librem Social -->
     <item component="ComponentInfo{one.librem.social/com.keylesspalace.tusky.SplashActivity}" drawable="libremsocial" />
@@ -1361,10 +1361,10 @@
 
     <!-- LibreOffice Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer" />
-    
+
     <!-- Librera PRO -->
-    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librerapro"/>
-    
+    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librerapro" />
+
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
 
@@ -1471,8 +1471,8 @@
 
     <!-- Mattermost -->
     <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost" />
-    <item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermost"/>
-    <item component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}" drawable="mattermost"/>
+    <item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermost" />
+    <item component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}" drawable="mattermost" />
 
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
@@ -1531,10 +1531,10 @@
 
     <!-- Microsoft Excel -->
     <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
-    
+
     <!-- Microsoft Onedrive -->
     <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
-    
+
     <!-- Microsoft Onenote -->
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote" />
 
@@ -1546,7 +1546,7 @@
 
     <!-- Microsoft Teams -->
     <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
-   
+
     <!-- Microsoft Word -->
     <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
 
@@ -1802,9 +1802,9 @@
 
     <!-- OpenAPK -->
     <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" />
-    
+
     <!-- OpenBoard -->
-    <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard"/>
+    <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" />
 
     <!-- Open Camera -->
     <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera" />
@@ -2049,7 +2049,7 @@
 
     <!-- QR Scanner -->
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner" />
-    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qrscanner"/>
+    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qrscanner" />
 
     <!-- QuickDic -->
     <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
@@ -2148,9 +2148,9 @@
 
     <!-- scale -->
     <scale factor="1.0" />
-    
+
     <!-- Scanbot -->
-    <item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanbot"/>
+    <item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanbot" />
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd" />
@@ -2741,6 +2741,15 @@
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Blue_grey}" drawable="simplenotes" />
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}" drawable="simplenotes" />
 
+    <!-- Simple Search -->
+    <item component="ComponentInfo{de.tobiasbielefeld.searchbar/de.tobiasbielefeld.searchbar.ui.MainActivity}" drawable="simplesearch" />
+
+    <!-- Simple Solitaire Collection -->
+    <item component="ComponentInfo{de.tobiasbielefeld.solitaire/de.tobiasbielefeld.solitaire.ui.GameSelector}" drawable="solitaire" />
+
+    <!-- Simpletask -->
+    <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask" />
+
     <!-- Simple Voicerecorder -->
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Pink}" drawable="simplevoicerecorder" />
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Purple}" drawable="simplevoicerecorder" />
@@ -2780,15 +2789,6 @@
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Brown}" drawable="simplevoicerecorder" />
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Blue_grey}" drawable="simplevoicerecorder" />
     <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Grey_black}" drawable="simplevoicerecorder" />
-
-    <!-- Simple Search -->
-    <item component="ComponentInfo{de.tobiasbielefeld.searchbar/de.tobiasbielefeld.searchbar.ui.MainActivity}" drawable="simplesearch" />
-
-    <!-- Simple Solitaire Collection -->
-    <item component="ComponentInfo{de.tobiasbielefeld.solitaire/de.tobiasbielefeld.solitaire.ui.GameSelector}" drawable="solitaire" />
-
-    <!-- Simpletask -->
-    <item component="ComponentInfo{nl.mpcjanssen.simpletask/nl.mpcjanssen.simpletask.Simpletask}" drawable="simpletask" />
 
     <!-- Simple Weather -->
     <item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.GlobalActivity}" drawable="simpleweather" />
@@ -2906,7 +2906,7 @@
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimesalarms" />
 
     <!-- Suntimes Calendars -->
-    <item component="ComponentInfo{com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity}" drawable="suntimescalendars"/>
+    <item component="ComponentInfo{com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity}" drawable="suntimescalendars" />
 
     <!-- Suntimes -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
@@ -2919,7 +2919,7 @@
 
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter" />
-   
+
     <!-- Surfshark -->
     <item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.SttartActivity}" drawable="surfshark" />
 
@@ -2955,7 +2955,7 @@
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
 
     <!-- Talalarmo -->
-    <item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo"/>
+    <item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo" />
 
     <!-- Tap 'n' Turn -->
     <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapnturn" />
@@ -3031,9 +3031,9 @@
 
     <!-- Tiny Scanner -->
     <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner" />
-    
+
     <!-- Tiny Tiny RSS -->
-    <item component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}" drawable="tinytinyrss"/>
+    <item component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}" drawable="tinytinyrss" />
 
     <!-- Tiny Travel Tracker -->
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
@@ -3122,7 +3122,7 @@
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
     <!-- Tuner -->
-    <item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}" drawable="tuner"/>
+    <item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}" drawable="tuner" />
 
     <!-- Turtl -->
     <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl" />
@@ -3215,7 +3215,7 @@
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice" />
     <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
-    
+
     <!-- VRN eTarif -->
     <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif" />
 
@@ -3237,7 +3237,7 @@
 
     <!-- Waze -->
     <item component="ComponentInfo{com.waze/com.waze.FreeMapAppActivity}" drawable="waze" />
-    
+
     <!-- wdbible -->
     <item component="ComponentInfo{com.aquila.bible/com.wdbible.app.wedevotebible.base.LoadingActivity}" drawable="wdbible" />
 
@@ -3341,7 +3341,7 @@
     <item component="ComponentInfo{ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen}" drawable="yamaps" />
 
     <!-- Yandex Music -->
-    <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="yamusic"/>
+    <item component="ComponentInfo{ru.yandex.music/ru.yandex.music.main.MainScreenActivity}" drawable="yamusic" />
 
     <!-- Yandex Navigator -->
     <item component="ComponentInfo{ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity}" drawable="yanavi" />
