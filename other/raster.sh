@@ -14,7 +14,7 @@ do
   cp -f ${FILE} ${ICON}/${FILE}
   for SIZE in ${SIZES}
   do
-    inkscape --export-png=${NAME}.png --export-width=${SIZE} --export-height=${SIZE} ${NAME}.svg
+    inkscape --export-filename=${NAME}.png --export-width=${SIZE} --export-height=${SIZE} ${NAME}.svg
     case ${SIZE} in
       48)
         mv ${NAME}.png ${EXPORT}/drawable-mdpi/
