@@ -72,6 +72,9 @@
     <!-- Alliant -->
     <item component="ComponentInfo{org.alliant.mobile/alliantmobile.droid.activities.SplashActivity}" drawable="alliant" />
 
+    <!-- Altcoin Prices -->
+    <item component="ComponentInfo{eu.uwot.fabio.altcoinprices/eu.uwot.fabio.altcoinprices.activities.LoadingActivity}" drawable="altcoinprices"/>
+
     <!-- Amaze -->
     <item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze" />
 
@@ -190,7 +193,10 @@
 
     <!-- Audio Recorder -->
     <item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="soundrecorder" />
-
+   
+    <!-- Audio Technica Connect -->
+    <item component="ComponentInfo{jp.co.audiotechnica.connect/com.audiotechnica.SplashActivity}" drawable="audiotechnicaconnect" />
+    
     <!-- Aurora Droid -->
     <item component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.activity.AuroraActivity}" drawable="auroradroid" />
 
@@ -726,6 +732,9 @@
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
+    <!-- EDS Lite -->
+    <item component="ComponentInfo{com.sovworks.edslite/com.sovworks.eds.android.filemanager.activities.FileManagerActivity}" drawable="edslite"/>
+
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail" />
@@ -759,9 +768,6 @@
 
     <!-- Eventyay Attendee -->
     <item component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" drawable="eventyayattendee" />
-
-    <!-- Excel -->
-    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
 
     <!-- Exodus Privacy -->
     <item component="ComponentInfo{org.eu.exodus_privacy.exodusprivacy/org.eu.exodus_privacy.exodusprivacy.MainActivity}" drawable="exodusprivacy" />
@@ -931,6 +937,9 @@
     <!-- Fuel Flash -->
     <item component="ComponentInfo{de.mwwebwork.benzinpreisblitz/de.mwwebwork.benzinpreisblitz.MainActivity}" drawable="fuelflash" />
 
+    <!-- Fruux -->
+    <item component="ComponentInfo{com.fruux.android/org.dmfs.tasks.TaskListActivity}" drawable="fruux"/>
+
     <!-- GadgetBridge -->
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter}" drawable="gadgetbridge" />
     <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" drawable="gadgetbridge" />
@@ -947,6 +956,9 @@
 
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
+   
+    <!-- Geekttrss -->
+    <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss"/>
 
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
@@ -1321,6 +1333,7 @@
 
     <!-- Librem Mail -->
     <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.Accounts}" drawable="libremmail" />
+    <item component="ComponentInfo{one.librem.mail/com.fsck.k9.activity.MessageList}" drawable="libremmail"/>
 
     <!-- Librem Social -->
     <item component="ComponentInfo{one.librem.social/com.keylesspalace.tusky.SplashActivity}" drawable="libremsocial" />
@@ -1330,7 +1343,10 @@
 
     <!-- LibreOffice Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreofficeviewer" />
-
+    
+    <!-- Librera PRO -->
+    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librerapro"/>
+    
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
 
@@ -1491,6 +1507,30 @@
     <!-- MicroG Settings -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivity}" drawable="microgsettings" />
     <item component="ComponentInfo{com.google.android.gms/org.microg.gms.ui.SettingsActivityLauncher}" drawable="microgsettings" />
+
+    <!-- Microsoft Excel -->
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
+    
+    <!-- Microsoft Onedrive -->
+    <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+    
+    <!-- Microsoft Onenote -->
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote" />
+
+    <!-- Microsoft Outlook -->
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
+
+    <!-- Microsoft PowerPoint -->
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
+
+    <!-- Microsoft Teams -->
+    <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams" />
+   
+    <!-- Microsoft Word -->
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
+
+    <!-- Microsoft Your Phone Companion -->
+    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="yourphone" />
 
     <!-- Mi Fit -->
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mifit" />
@@ -1741,6 +1781,9 @@
 
     <!-- OpenAPK -->
     <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" />
+    
+    <!-- OpenBoard -->
+    <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard"/>
 
     <!-- Open Camera -->
     <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="opencamera" />
@@ -1823,9 +1866,6 @@
 
     <!-- OUI.sncf -->
     <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="ouisncf" />
-
-    <!-- Outlook -->
-    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
 
     <!-- Overchan -->
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
@@ -1934,9 +1974,6 @@
 
     <!-- Power Center -->
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="powercenter" />
-
-    <!-- PowerPoint -->
-    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint" />
 
     <!-- PPSSPP -->
     <item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
@@ -2089,6 +2126,9 @@
 
     <!-- scale -->
     <scale factor="1.0" />
+    
+    <!-- Scanbot -->
+    <item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanbot"/>
 
     <!-- Scarlet Notes FD -->
     <item component="ComponentInfo{com.bijoysingh.quicknote/com.maubis.scarlet.base.MainActivity}" drawable="scarletnotesfd" />
@@ -2679,6 +2719,46 @@
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Blue_grey}" drawable="simplenotes" />
     <item component="ComponentInfo{com.simplemobiletools.notes.pro/com.simplemobiletools.notes.pro.activities.SplashActivity.Grey_black}" drawable="simplenotes" />
 
+    <!-- Simple Voicerecorder -->
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Pink}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Purple}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Deep_purple}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Indigo}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Blue}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Light_blue}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Cyan}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Teal}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Green}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Light_green}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Lime}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Yellow}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Amber}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Orange}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Deep_orange}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Brown}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Blue_grey}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Grey_black}" drawable="simplevoicerecorder" />
+
+    <!-- Simple Voicerecorder Pro -->
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Pink}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Purple}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Deep_purple}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Indigo}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Blue}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Light_blue}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Cyan}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Teal}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Green}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Light_green}" drawable="simplecalculator" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Lime}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Yellow}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Amber}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Orange}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Deep_orange}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Brown}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Blue_grey}" drawable="simplevoicerecorder" />
+    <item component="ComponentInfo{com.simplemobiletools.voicerecorder.pro/com.simplemobiletools.voicerecorder.pro.activities.SplashActivity.Grey_black}" drawable="simplevoicerecorder" />
+
     <!-- Simple Search -->
     <item component="ComponentInfo{de.tobiasbielefeld.searchbar/de.tobiasbielefeld.searchbar.ui.MainActivity}" drawable="simplesearch" />
 
@@ -2803,6 +2883,9 @@
     <!-- Suntimes Alarms -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimesalarms" />
 
+    <!-- Suntimes Calendars -->
+    <item component="ComponentInfo{com.forrestguice.suntimescalendars/com.forrestguice.suntimeswidget.calendar.SuntimesCalendarActivity}" drawable="suntimescalendars"/>
+
     <!-- Suntimes -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
 
@@ -2814,6 +2897,9 @@
 
     <!-- Support Center -->
     <item component="ComponentInfo{com.tcl.usercare.bb/com.tcl.usercare.ui.activity.main.MainActivity}" drawable="supportcenter" />
+   
+    <!-- Surfshark -->
+    <item component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.SttartActivity}" drawable="surfshark" />
 
     <!-- Survival Manual -->
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual" />
@@ -2920,6 +3006,9 @@
 
     <!-- Tiny Scanner -->
     <item component="ComponentInfo{com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity_Start}" drawable="tinyscanner" />
+    
+    <!-- Tiny Tiny RSS -->
+    <item component="ComponentInfo{org.fox.tttrss/org.fox.ttrss.LaunchActivity}" drawable="tinytinyrss"/>
 
     <!-- Tiny Travel Tracker -->
     <item component="ComponentInfo{com.rareventure.gps2/com.rareventure.gps2.reviewer.map.OsmMapGpsTrailerReviewerMapActivity}" drawable="tinytraveltracker" />
@@ -3098,7 +3187,7 @@
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice" />
     <item component="ComponentInfo{de.ph1b.audiobook/de.phib.audiobook.features.MainActivity}" drawable="voice" />
-
+    
     <!-- VRN eTarif -->
     <item component="ComponentInfo{com.sevenre.linear/com.sevenre.linear.MainActivity}" drawable="vrnetarif" />
 
@@ -3169,9 +3258,6 @@
     <!-- Wire -->
     <item component="ComponentInfo{com.wire/com.waz.zclient.LaunchActivity}" drawable="wire" />
 
-    <!-- Word -->
-    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
-
     <!-- Workplace -->
     <item component="ComponentInfo{com.xerox.mobileprint/com.xerox.mobileprint.HomeAct}" drawable="workplace" />
 
@@ -3234,9 +3320,6 @@
 
     <!-- Yatse -->
     <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
-
-    <!-- Your Phone Companion -->
-    <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="yourphone" />
 
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
