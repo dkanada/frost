@@ -406,6 +406,9 @@
     <!-- Canvas Student -->
     <item component="ComponentInfo{com.instructure.candroid/com.instructure.student.activity.LoginActivity}" drawable="canvasstudent" />
 
+    <!-- Carnet -->
+    <item component="ComponentInfo{com.spisoft.quicknote/com.spisoft.quicknote.MainActivity}" drawable="carnet"/>
+
     <!-- Car Scanner -->
     <item component="ComponentInfo{com.ovz.carscanner/carScannerXamarinForms.Droid.MainActivity}" drawable="carscanner" />
 
@@ -548,6 +551,9 @@
 
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
+
+    <!-- Currency -->
+    <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency"/>
 
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
@@ -911,6 +917,9 @@
 
     <!-- Forkhub -->
     <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
+
+    <!-- FOSS Browser -->
+    <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="fossbrowser"/>
 
     <!-- Freebox Compagnon -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivity}" drawable="freebox" />
@@ -1453,6 +1462,8 @@
 
     <!-- Mattermost -->
     <item component="ComponentInfo{com.mattermost.rn/com.mattermost.rn.MainActivity}" drawable="mattermost" />
+    <item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermost"/>
+    <item component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}" drawable="mattermost"/>
 
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
@@ -2028,6 +2039,7 @@
 
     <!-- QR Scanner -->
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner" />
+    <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qrscanner"/>
 
     <!-- QuickDic -->
     <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
@@ -2932,6 +2944,9 @@
     <!-- Tachiyomi -->
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
 
+    <!-- Talalarmo -->
+    <item component="ComponentInfo{trikita.talalarmo/trikita.talalarmo.MainActivity}" drawable="talalarmo"/>
+
     <!-- Tap 'n' Turn -->
     <item component="ComponentInfo{com.gabm.screenrotationcontrol/com.gabm.tapandturn.ui.MainActivity}" drawable="tapnturn" />
 
@@ -3095,6 +3110,9 @@
 
     <!-- Tumblr -->
     <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+
+    <!-- Tuner -->
+    <item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}" drawable="tuner"/>
 
     <!-- Turtl -->
     <item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl" />
