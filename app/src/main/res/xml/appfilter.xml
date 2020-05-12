@@ -62,6 +62,9 @@
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
 
+    <!-- ALDI life Musik -->
+    <item component="ComponentInfo{com.rhapsody.alditalk/com.rhapsodycore.SplashScreen}" drawable="napster"/>
+
     <!-- ALDI TALK -->
     <item component="ComponentInfo{de.eplus.mappecc.client.android.alditalk/de.eplus.mappecc.client.android.feature.splashscreen.SplashActivity}" drawable="alditalk" />
 
@@ -221,6 +224,9 @@
 
     <!-- Authenticator (LastPass) -->
     <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="lastpassauthenticator" />
+
+    <!-- AuthPass -->
+    <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="authpass"/>
 
     <!-- Authy -->
     <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" />
@@ -577,6 +583,9 @@
     <!-- DAVdroid -->
     <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davdroid" />
 
+    <!-- Deck -->
+    <item component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.MainActivity}" drawable="deck"/>
+
     <!-- Deco -->
     <item component="ComponentInfo{com.tplink.tpm5/com.tplink.tpm5.view.welcome.WelcomeActivity}" drawable="deco" />
 
@@ -872,6 +881,9 @@
     <!-- Firefox Send -->
     <item component="ComponentInfo{org.mozilla.firefoxsend/org.mozilla.firefoxsend.MainActivity}" drawable="firefoxsend" />
 
+    <!-- FitoTrack -->
+    <item component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}" drawable="fitotrack"/>
+
     <!-- Flatastic -->
     <item component="ComponentInfo{com.flatastic.app/com.flatastic.app.MainActivity}" drawable="flatastic" />
 
@@ -1003,6 +1015,7 @@
 
     <!-- Goodtime -->
     <item component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.TimerActivity}" drawable="goodtime" />
+    <item component="ComponentInfo{com.apps.adrcotfas.goodtime/com.apps.adrcotfas.goodtime.Main.TimerActivity}" drawable="goodtime"/>
 
     <!-- Good Weather -->
     <item component="ComponentInfo{org.asdtm.goodweather/org.asdtm.goodweather.MainActivity}" drawable="goodweather" />
@@ -1646,6 +1659,9 @@
 
     <!-- Music Player GO -->
     <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.MainActivity}" drawable="musicplayergo" />
+
+    <!-- Musik -->
+    <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="musik"/>
 
     <!-- Muzei -->
     <item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
