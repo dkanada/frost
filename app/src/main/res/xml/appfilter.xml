@@ -589,6 +589,9 @@
     <!-- Deco -->
     <item component="ComponentInfo{com.tplink.tpm5/com.tplink.tpm5.view.welcome.WelcomeActivity}" drawable="deco" />
 
+    <!-- DecSync CC -->
+    <item component="ComponentInfo{org.decsync.cc/org.decsync.cc.MainActivity}" drawable="decsynccc"/>
+
     <!-- Deezer -->
     <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="deezer" />
 
@@ -1381,6 +1384,7 @@
 
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
+    <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}" drawable="libretorrent"/>
 
     <!-- lichess -->
     <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
@@ -2048,6 +2052,7 @@
 
     <!-- ProtonVPN -->
     <item component="ComponentInfo{com.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="protonvpn" />
+    <item component="ComponentInfo{ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity}" drawable="protonvpn"/>
 
     <!-- PSLab -->
     <item component="ComponentInfo{io.pslab/io.pslab.activity.SplashActivity}" drawable="pslab" />
@@ -3239,6 +3244,9 @@
     <!-- VSCO -->
     <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity}" drawable="vsco" />
     <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="vsco" />
+
+    <!-- Waistline -->
+    <item component="ComponentInfo{com.waist.line/com.waist.line.MainActivity}" drawable="waistline"/>
 
     <!-- Wallabag -->
     <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.MainActivity}" drawable="wallabagger" />
