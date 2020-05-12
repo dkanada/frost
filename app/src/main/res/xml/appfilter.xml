@@ -1425,6 +1425,9 @@
     <!-- Lite -->
     <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="lite" />
 
+    <!-- Lloyds Bank -->
+    <item component="ComponentInfo{com.grppl.android.shell.CMBlloydsTSB73/com.halifax.halifax.GrappleActivity}" drawable="lloydsbank"/>
+
     <!-- Locker -->
     <item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker" />
 
@@ -2134,6 +2137,9 @@
 
     <!-- RetroArch -->
     <item component="ComponentInfo{com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity}" drawable="retroarch" />
+
+    <!-- Revolut -->
+    <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="revolut"/>
 
     <!-- Revolution -->
     <item component="ComponentInfo{io.mrarm.irc/io.mrarm.irc.MainActivity}" drawable="revolution" />
