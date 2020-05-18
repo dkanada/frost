@@ -469,6 +469,9 @@
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
 
+    <!-- CityZen -->
+    <item component="ComponentInfo{com.cityzen.cityzen/com.cityzen.cityzen.Activities.SplashScreenActivity}" drawable="cityzen"/>
+
     <!-- Clash Royale -->
     <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clashroyale" />
 
@@ -886,6 +889,7 @@
     <!-- Firefox Preview -->
     <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview" />
     <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview" />
+    <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefoxpreview"/>
 
     <!-- Firefox Send -->
     <item component="ComponentInfo{org.mozilla.firefoxsend/org.mozilla.firefoxsend.MainActivity}" drawable="firefoxsend" />
@@ -1007,11 +1011,17 @@
     <!-- GeoGebra Graphing Calculator -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebragraphingcalculator" />
 
+    <!-- Ghost -->
+    <item component="ComponentInfo{org.ghost.android/me.vickychijwani.spectre.view.PostListActivity}" drawable="ghost"/>
+
     <!-- Ghost Commander -->
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander" />
 
     <!-- GitHub -->
     <item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github" />
+
+    <!-- GitNex -->
+    <item component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}" drawable="gitnex"/>
 
     <!-- GMX Mail -->
     <item component="ComponentInfo{de.gmx.mobile.android.mail/com.unitedinternet.portal.ui.HostActivity}" drawable="gmxmail" />
@@ -1651,6 +1661,9 @@
     <!-- MPD -->
     <item component="ComponentInfo{org.musicpd/org.musicpd.Settings}" drawable="mpd" />
 
+    <!-- MPDroid -->
+    <item component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}" drawable="mpdroid"/>
+
     <!-- mpv -->
     <item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
 
@@ -1670,6 +1683,7 @@
     <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="music" />
     <item component="ComponentInfo{com.crdroid.music/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="music" />
+    <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="music"/>
 
     <!-- Musicolet -->
     <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" />
@@ -1831,6 +1845,9 @@
     <!-- Offline Calendar -->
     <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="offlinecalendar" />
 
+    <!-- OKO Light Meter -->
+    <item component="ComponentInfo{com.okacat.lightmeter/com.okacat.lightmeter.ui.activities.SplashActivity}" drawable="okolightmeter"/>
+
     <!-- Om -->
     <item component="ComponentInfo{com.enjoyingfoss.om/com.enjoyingfoss.om.MainActivity}" drawable="om" />
 
@@ -1924,6 +1941,9 @@
 
     <!-- OS Monitor -->
     <item component="ComponentInfo{com.eolwral.osmonitor/com.eolwral.osmonitor.OSMonitor}" drawable="osmonitor" />
+
+    <!-- Otter -->
+    <item component="ComponentInfo{com.github.apognu.otter/com.github.apognu.otter.activities.SplashActivity}" drawable="otter"/>
 
     <!-- OUI.sncf -->
     <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="ouisncf" />
@@ -2178,6 +2198,9 @@
     <!-- Ripple -->
     <item component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}" drawable="ripple" />
 
+    <!-- Rocket.Chat -->
+    <item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocketchat"/>
+
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo" />
 
@@ -2253,6 +2276,9 @@
     <!-- Settings -->
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings" />
+
+    <!-- Session -->
+    <item component="ComponentInfo{network.loki.messenger/network.loki.messenger.RoutingActivity}" drawable="session"/>
 
     <!-- Seven Time -->
     <item component="ComponentInfo{com.codescape.seventime/com.codescape.seventime.MainActivity}" drawable="seventime" />
@@ -2872,6 +2898,7 @@
 
     <!-- Snapseed -->
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed" />
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
 
     <!-- SnooperStopper -->
     <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper" />
