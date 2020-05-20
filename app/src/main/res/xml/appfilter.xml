@@ -633,16 +633,8 @@
     <!-- devRant -->
     <item component="ComponentInfo{com.hexicallabs.devrant/com.hexicallabs.devrant.DevrantActivity}" drawable="devrant" />
 
-    <!-- Dialer2 -->
-    <item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="phone" />
-
     <!-- Dialer for Pebble -->
     <item component="ComponentInfo{com.matejdro.pebbledialer/com.matejdro.pebbledialer.ui.MainActivity}" drawable="pebbledialer" />
-
-    <!-- Dialer -->
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
-    <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
-    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
 
     <!-- Diaspora -->
     <item component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.SplashActivity}" drawable="diaspora" />
@@ -2017,6 +2009,9 @@
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="phone" />
+    <item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="phone" />
 
     <!-- PhoneTrack -->
     <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack" />
@@ -2888,8 +2883,6 @@
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideDefault}" drawable="slidereddit" />
-
-    <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
 
     <!-- Snapchat -->
@@ -3395,7 +3388,7 @@
     <item component="ComponentInfo{com.xabber.androiddev/com.xabber.android.ui.activity.ChatActivity}" drawable="xabber" />
     <item component="ComponentInfo{com.xabber.android/com.xabber.android.ui.activity.ContactList}" drawable="xabber" />
 
-    <!-- XDA Labs --> v
+    <!-- XDA Labs -->
     <item component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}" drawable="xdalabsr" />
 
     <!-- Xposed Installer -->
