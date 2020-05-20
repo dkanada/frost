@@ -1578,6 +1578,7 @@
 
     <!-- Microsoft Onedrive -->
     <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
 
     <!-- Microsoft Onenote -->
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote" />
@@ -1651,6 +1652,7 @@
 
     <!-- Motorola Notifications -->
     <item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.EngageActivity}" drawable="motonotifications" />
+    <item component="ComponentInfo{com.motorola.ccc.notification/com.motorola.engageapp.ui.CardsActivity}" drawable="motonotifications"/>
 
     <!-- Moto Z Market -->
     <item component="ComponentInfo{com.motorola.modstore/com.motorola.modstore.v2.splash.ui.SplashRedirectActivity}" drawable="motomarket" />
