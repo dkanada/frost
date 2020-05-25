@@ -976,6 +976,10 @@
     <!-- Geekttrss -->
     <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss" />
 
+    <!-- Gelli -->
+    <item component="ComponentInfo{com.dkanada.gramophone/com.dkanada.gramophone.ui.activities.SplashActivity}" drawable="gelli" />
+    <item component="ComponentInfo{com.dkanada.gramophone.debug/com.dkanada.gramophone.ui.activities.SplashActivity}" drawable="gelli" />
+
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
@@ -1155,6 +1159,9 @@
 
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+
+    <!-- Hyperdia -->
+    <item component="ComponentInfo{com.hyperdia.android.activity/com.hyperdia.android.activity.P10000}" drawable="bus_circle" />
 
     <!-- Icecat -->
     <item component="ComponentInfo{org.gnu.icecat/org.gnu.icecat.App}" drawable="icecat" />
