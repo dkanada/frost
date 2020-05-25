@@ -195,6 +195,9 @@
     <!-- Audinaut -->
     <item component="ComponentInfo{net.nullsum.audinaut/net.nullsum.audinaut.activity.SubsonicFragmentActivity}" drawable="audinaut" />
 
+    <!-- AudioAnchor -->
+    <item component="ComponentInfo{com.prangesoftwaresolutions.audioanchor/com.prangesoftwaresolutions.audioanchor.MainActivity}" drawable="audioanchor"/>
+
     <!-- AudioFX -->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}" drawable="audiofx" />
@@ -1305,6 +1308,9 @@
     <!-- Kernel Adiutor -->
     <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="adiutor" />
 
+    <!-- Khan Academy -->
+    <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khanacademy"/>
+
     <!-- KHL -->
     <item component="ComponentInfo{ru.zennex.khl/ru.inventos.apps.khl.screens.start.StartActivity}" drawable="khl" />
 
@@ -1642,6 +1648,9 @@
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
 
+    <!-- MobilePay -->
+    <item component="ComponentInfo{dk.danskebank.mobilepay/dk.danskebank.p2p.ui.login.LoginActivity}" drawable="mobilepay"/>
+
     <!-- MOD Pizza -->
     <item component="ComponentInfo{com.punchh.mod/com.punchh.mod.MainActivity}" drawable="modpizza" />
 
@@ -1768,6 +1777,9 @@
     <!-- nebenan.de -->
     <item component="ComponentInfo{de.nebenan.app/de.nebenan.app.ui.main.LaunchActivity}" drawable="nebenande" />
 
+    <!-- NemID -->
+    <item component="ComponentInfo{dk.e_nettet.mobilekey.everyone/th.Zx}" drawable="nemid"/>
+
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
 
@@ -1807,6 +1819,9 @@
 
     <!-- NHBooks -->
     <item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks" />
+
+    <!-- Nordnet -->
+    <item component="ComponentInfo{com.nordnet/com.nordnet.MainActivity}" drawable="nordnet"/>
 
     <!-- NordVPN -->
     <item component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.MainActivity}" drawable="nordvpn" />
@@ -2061,6 +2076,9 @@
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
 
+    <!-- PlantNet -->
+    <item component="ComponentInfo{org.plantnet/org.plantnet.MainActivity}" drawable="plantnet"/>
+
     <!-- Plex -->
     <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
 
@@ -2191,6 +2209,9 @@
 
     <!-- ReGeX -->
     <item component="ComponentInfo{com.phikal.regex/com.phikal.regex.Activities.GameActivity}" drawable="regex" />
+
+    <!-- Rejseplanen -->
+    <item component="ComponentInfo{de.hafas.android.rejseplanen/de.hafas.main.HafasApp}" drawable="rejseplanen"/>
 
     <!-- Remote Desktop -->
     <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.actvities.HomeActivity}" drawable="remotedesktop" />
@@ -3152,6 +3173,9 @@
     <!-- Todo Agenda -->
     <item component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda" />
     <item component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" drawable="todoagenda" />
+
+    <!-- TooGoodToGo -->
+    <item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.SplashActivity}" drawable="toogoodtogo"/>
 
     <!-- Tor Browser -->
     <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="torbrowser" />
