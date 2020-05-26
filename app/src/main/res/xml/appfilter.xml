@@ -1991,6 +1991,9 @@
     <!-- Pocket -->
     <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket" />
 
+    <!-- Pocket Paint [aka Paintroid] -->
+    <item component="ComponentInfo{org.catrobat.paintroid/org.catrobat.paintroid.MainActivity}" drawable="pocketpaint" />
+
     <!-- Podomètre -->
     <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre" />
 
