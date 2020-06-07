@@ -16,7 +16,7 @@
     <item component="ComponentInfo{com.spellsdd5/com.spelldd5.MainActivity}" drawable="spellbook" />
 
     <!-- 7Speaking -->
-    <item component="ComponentInfo{com.sevenspeaking/com.sevenspeaking.ui.IntroActivity}" drawable="7speaking"/>
+    <item component="ComponentInfo{com.sevenspeaking/com.sevenspeaking.ui.IntroActivity}" drawable="speaking"/>
 
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag" />
