@@ -2947,6 +2947,8 @@
     <!-- Slide -->
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slidereddit" />
     <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.SlideDefault}" drawable="slidereddit" />
+
+    <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
 
     <!-- Snapchat -->
