@@ -954,6 +954,9 @@
     <!-- Forest -->
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
 
+    <!-- Fortuneo -->
+    <item component="ComponentInfo{com.fortuneo.android/com.fortuneo.android.activities.SplashScreenActivity}" drawable="fortuneo"/>
+
     <!-- Forkhub -->
     <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
 
