@@ -1573,7 +1573,7 @@
     <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" />
 
     <!-- Mes Comptes - LCL -->
-    <item component="ComponentInfo{fr.lcl.android.customerarea/fr.lcl.android.customerarea.activities.notconnected.SplashScreenActivity}" drawable="mescomptes-lcl" />
+    <item component="ComponentInfo{fr.lcl.android.customerarea/fr.lcl.android.customerarea.activities.notconnected.SplashScreenActivity}" drawable="mescompteslcl" />
 
     <!-- Meshenger -->
     <item component="ComponentInfo{d.d.meshenger/d.d.meshenger.StartActivity}" drawable="meshenger" />
