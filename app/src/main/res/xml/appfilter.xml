@@ -325,6 +325,7 @@
     <!-- Blokada -->
     <item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada" />
     <item component="ComponentInfo{org.blokada.alarm/core.PanelActivity}" drawable="blokada" />
+    <item component="ComponentInfo{org.blokada.origin.alarm/core.PanelActivity}" drawable="blokada"/>
 
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />
@@ -3092,6 +3093,9 @@
     <!-- Syncthing -->
     <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing" />
     <item component="ComponentInfo{net.syncthing.lite/net.syncthing.lite.activities.MainActivity}" drawable="syncthing" />
+    
+    <!-- Syncthing-Fork -->
+    <item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing"/>
 
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />
