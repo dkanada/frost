@@ -21,7 +21,9 @@
         <item>alarmklock</item>
         <item>alditalk</item>
         <item>aliexpress</item>
+        <item>alipay</item>
         <item>alliant</item>
+        <item>altcoinprices</item>
         <item>amaze</item>
         <item>amazonshopping</item>
         <item>amdroid</item>
@@ -57,6 +59,7 @@
         <item>audible</item>
         <item>audinaut</item>
         <item>audiofx</item>
+        <item>audiotechnicaconnect</item>
         <item>auroradroid</item>
         <item>auroraservices</item>
         <item>aurorastore</item>
@@ -117,6 +120,7 @@
         <item>camera</item>
         <item>camscanner</item>
         <item>canvasstudent</item>
+        <item>carnet</item>
         <item>carscanner</item>
         <item>carsmile</item>
         <item>cashapp</item>
@@ -124,6 +128,7 @@
         <item>cgeo</item>
         <item>changedetection</item>
         <item>chanu</item>
+        <item>chase</item>
         <item>checkey</item>
         <item>chefkoch</item>
         <item>chip</item>
@@ -157,6 +162,7 @@
         <item>crontosignswiss</item>
         <item>cryptomator</item>
         <item>cuprumpdf</item>
+        <item>currency</item>
         <item>cythara</item>
         <item>darksky</item>
         <item>daserste</item>
@@ -184,6 +190,7 @@
         <item>dnsfilter</item>
         <item>dnsman</item>
         <item>doodle</item>
+        <item>douban</item>
         <item>downloadnavi</item>
         <item>downloads</item>
         <item>drawer</item>
@@ -205,6 +212,7 @@
         <item>ebay</item>
         <item>echo</item>
         <item>editor</item>
+        <item>edslite</item>
         <item>eduroamcat</item>
         <item>emby</item>
         <item>emerald</item>
@@ -259,6 +267,7 @@
         <item>forecastie</item>
         <item>forest</item>
         <item>forkhub</item>
+        <item>fossbrowser</item>
         <item>freebox</item>
         <item>freemobilenetstat</item>
         <item>freeotpplus</item>
@@ -266,6 +275,7 @@
         <item>frostfacebook</item>
         <item>frost</item>
         <item>fruitradar</item>
+        <item>fruux</item>
         <item>fuelflash</item>
         <item>g2step</item>
         <item>gadgetbridge</item>
@@ -275,6 +285,8 @@
         <item>gcamera</item>
         <item>gdocs</item>
         <item>gdrive</item>
+        <item>geekttrss</item>
+        <item>gelli</item>
         <item>geogebragraphingcalculator</item>
         <item>geogebra</item>
         <item>ghostcommander</item>
@@ -345,6 +357,7 @@
         <item>keepass2android</item>
         <item>keepassdroid</item>
         <item>keepassdx</item>
+        <item>keep</item>
         <item>keychain</item>
         <item>khl</item>
         <item>kik</item>
@@ -380,6 +393,7 @@
         <item>libremsocial</item>
         <item>libremtunnel</item>
         <item>libreofficeviewer</item>
+        <item>librerapro</item>
         <item>libretorrent</item>
         <item>license</item>
         <item>lichess</item>
@@ -508,8 +522,11 @@
         <item>offlinecalendar</item>
         <item>omninotes</item>
         <item>om</item>
+        <item>onedrive</item>
         <item>onelist</item>
+        <item>onenote</item>
         <item>openapk</item>
+        <item>openboard</item>
         <item>opencamera</item>
         <item>openconnect</item>
         <item>opencontacts</item>
@@ -558,6 +575,7 @@
         <item>phone</item>
         <item>phonetrack</item>
         <item>phonograph</item>
+        <item>pin</item>
         <item>pixeldungeon</item>
         <item>pixlr</item>
         <item>plex</item>
@@ -615,6 +633,7 @@
         <item>satstat</item>
         <item>sbbmobile</item>
         <item>sberbank</item>
+        <item>scanbot</item>
         <item>scarletnotesfd</item>
         <item>scrambledexif</item>
         <item>screencam</item>
@@ -659,6 +678,7 @@
         <item>simplenote</item>
         <item>simplesearch</item>
         <item>simpletask</item>
+        <item>simplevoicerecorder</item>
         <item>simpleweather</item>
         <item>sim</item>
         <item>skype</item>
@@ -695,9 +715,11 @@
         <item>stumbler</item>
         <item>sudoku</item>
         <item>suntimesalarms</item>
+        <item>suntimescalendars</item>
         <item>suntimes</item>
         <item>superuser</item>
         <item>supportcenter</item>
+        <item>surfshark</item>
         <item>survivalmanual</item>
         <item>su</item>
         <item>swedbank</item>
@@ -708,10 +730,12 @@
         <item>systemappmover</item>
         <item>systemuituner</item>
         <item>tachiyomi</item>
+        <item>talalarmo</item>
         <item>tapnturn</item>
         <item>tasker</item>
         <item>tasks</item>
         <item>taskwarrior</item>
+        <item>teams</item>
         <item>telegram</item>
         <item>tentenklooni</item>
         <item>terminal</item>
@@ -732,6 +756,7 @@
         <item>tinkoff</item>
         <item>tinykeepass</item>
         <item>tinyscanner</item>
+        <item>tinytinyrss</item>
         <item>tinytraveltracker</item>
         <item>tisseo</item>
         <item>tk</item>
@@ -757,6 +782,7 @@
         <item>trexrunner</item>
         <item>trigger</item>
         <item>tumblr</item>
+        <item>tuner</item>
         <item>turtl</item>
         <item>turtlsync</item>
         <item>tusky</item>
@@ -789,10 +815,12 @@
         <item>voice</item>
         <item>vrnetarif</item>
         <item>vsco</item>
+        <item>wallabagger</item>
         <item>wallpapers</item>
         <item>wand</item>
         <item>waves</item>
         <item>waze</item>
+        <item>wdbible</item>
         <item>wearos</item>
         <item>weather</item>
         <item>webapps</item>
@@ -823,6 +851,7 @@
         <item>yaeda</item>
         <item>yalp</item>
         <item>yamaps</item>
+        <item>yamusic</item>
         <item>yanavi</item>
         <item>yatse</item>
         <item>yaweather</item>
