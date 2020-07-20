@@ -44,7 +44,7 @@
     <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat" />
 
     <!-- Adobe Creative Cloud -->
-    <item component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}" drawable="creativecloud" />
+    <item component="ComponentInfo{com.adobe.cc/com.adobe.cc.SplashScreen}" drawable="adobecreativecloud" />
     
     <!-- Adobe Lightroom -->
     <item component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}" drawable="adobelightroom" />
