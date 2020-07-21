@@ -505,6 +505,8 @@
 
     <!-- ClassySharkexodus -->
     <item component="ComponentInfo{com.oF2pks.classyshark3xodus/com.google.classysharkandroid.activities.MainActivity}" drawable="classysharkexodus" />
+    <item component="ComponentInfo{com.oF2pks.classyshark3xodus/com.oF2pks.applicationsinfo.MainActivity}" drawable="classysharkexodus"/>
+
 
     <!-- Clear Scan -->
     <item component="ComponentInfo{com.indymobileapp.document.scanner/com.notebloc.app.activity.MainActivity}" drawable="clearscan" />
@@ -2622,6 +2624,9 @@
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Brown}" drawable="simplecontacts" />
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Blue_grey}" drawable="simplecontacts" />
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Grey_black}" drawable="simplecontacts" />
+
+    <!-- Simple Dialer -->
+    <item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="phone"/>
 
     <!-- Simple Draw -->
     <item component="ComponentInfo{com.simplemobiletools.draw/com.simplemobiletools.draw.activities.SplashActivity.Pink}" drawable="simpledraw" />
