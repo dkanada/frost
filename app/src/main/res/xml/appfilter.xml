@@ -55,6 +55,9 @@
     <!-- Adobe Rush -->
     <item component="ComponentInfo{com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity}" drawable="adoberush" />
 
+    <!-- Adobe Scan -->
+    <item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobescan"/>
+
     <!-- Adobe XD -->
     <item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobexd" />
 
@@ -596,6 +599,9 @@
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 
+    <!-- CyberGhost -->
+    <item component="ComponentInfo{de.mobileconcepts.cyberghost/de.mobileconcepts.cyberghost.view.launch.LaunchActivity}" drawable="cyberghost"/>
+
     <!-- Cythara -->
     <item component="ComponentInfo{com.github.cythara/com.github.cythara.MainActivity}" drawable="cythara" />
 
@@ -726,6 +732,9 @@
 
     <!-- DSB -->
     <item component="ComponentInfo{dk.dsb.nda.android/dk.dsb.nda.core.SplashActivity}" drawable="dsb" />
+
+    <!-- DS file -->
+    <item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="dsfile"/>
 
     <!-- Dsub -->
     <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
@@ -912,6 +921,7 @@
     <!-- Firefox Preview -->
     <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview" />
     <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.HomeActivity}" drawable="firefoxpreview" />
+    <item component="ComponentInfo{org.mozilla.fenix.nightly/org.mozilla.fenix.nightly.App}" drawable="firefoxpreview"/>
     <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefoxpreview"/>
 
     <!-- Firefox Send -->
@@ -1689,6 +1699,9 @@
 
     <!-- Moonlight -->
     <item component="ComponentInfo{com.limelight/com.limelight.PcView}" drawable="moonlight" />
+    
+    <!-- Moon+ Reader Pro -->
+    <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moonreaderpro"/>
 
     <!-- Morse -->
     <item component="ComponentInfo{rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity}" drawable="morse" />
@@ -2321,6 +2334,9 @@
 
     <!-- ScummVM -->
     <item component="ComponentInfo{org.scummvm.scummvm/org.scummvm.scummvm.MainActivity}" drawable="scummvm" />
+   
+    <!-- SD Maid -->
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sdmaid"/>
 
     <!-- Seafile -->
     <item component="ComponentInfo{com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity}" drawable="seafile" />
