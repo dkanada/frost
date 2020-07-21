@@ -578,6 +578,9 @@
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
+    <!-- CuriosityStream -->
+    <item component="ComponentInfo{com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity}" drawable="curiositystream"/>
+
     <!-- Currency -->
     <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency" />
 
@@ -3385,6 +3388,9 @@
 
     <!-- Wand -->
     <item component="ComponentInfo{com.prounlimited.wand/com.prounlimited.wand.account.ui.SplashScreenActivity}" drawable="wand" />
+
+    <!-- Wash & Go -->
+    <item component="ComponentInfo{com.laundryrestart.wgls/com.digitalsense.android.londris.StartActivity}" drawable="washandgo"/>
 
     <!-- Wave Lines Wallpaper -->
     <item component="ComponentInfo{de.markusfisch.android.wavelines/de.markusfisch.android.wavelines.activity.SplashActivity}" drawable="waves" />
