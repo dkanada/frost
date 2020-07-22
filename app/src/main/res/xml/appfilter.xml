@@ -2799,6 +2799,9 @@
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Blue_grey}" drawable="simpleapplauncher" />
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Grey_black}" drawable="simpleapplauncher" />
 
+    <!-- SimpleLogin --> 
+    <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin"/>
+
     <!-- Simple Music Player -->
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Pink}" drawable="simplemusicplayer" />
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}" drawable="simplemusicplayer" />
