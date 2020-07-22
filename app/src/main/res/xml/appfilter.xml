@@ -393,6 +393,9 @@
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator" />
 
+    <!-- Calculator++ -->
+    <item component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" drawable="calculatorplusplus"/>
+
     <!-- Calendar Color -->
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor" />
 
@@ -529,6 +532,9 @@
 
     <!-- Coinbase -->
     <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase" />
+
+    <!-- Collabora Office -->
+    <item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collaboraoffice"/>
 
     <!-- comdirect core -->
     <item component="ComponentInfo{de.comdirect.app/de.comdirect.core.module.splash.SplashActivity}" drawable="comdirectcore" />
@@ -711,6 +717,9 @@
 
     <!-- Document Viewer -->
     <item component="ComponentInfo{org.sufficientlysecure.viewer/org.ebookdroid.ui.library.RecentActivity}" drawable="book" />
+
+    <!-- Docus -->
+    <item component="ComponentInfo{com.bretahajek.docus/com.bretahajek.docus.MainActivity}" drawable="docus"/>
 
     <!-- Doodle -->
     <item component="ComponentInfo{com.doodle.android/com.doodle.activities.SplashActivity}" drawable="doodle" />
@@ -1033,6 +1042,7 @@
     <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="gallery"/>
 
     <!-- GApps Browser -->
     <item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="browser" />
@@ -1521,6 +1531,9 @@
     <!-- Loyalty Card Keychain -->
     <item component="ComponentInfo{protect.card_locker/protect.card_locker.MainActivity}" drawable="loyaltycardkeychain" />
 
+    <!-- LTE Cleaner -->
+    <item component="ComponentInfo{theredspy15.ltecleanerfoss/theredspy15.ltecleanerfoss.MainActivity}" drawable="ltecleaner"/>
+
     <!-- LuisterBieb -->
     <item component="ComponentInfo{nl.bibliotheek.android.luisterboeken/nl.bibliotheek.android.luisterboeken.activities.SplashActivity}" drawable="luisterbieb" />
 
@@ -1763,6 +1776,7 @@
 
     <!-- Music Player GO -->
     <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.MainActivity}" drawable="musicplayergo" />
+    <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.ui.MainActivity}" drawable="musicplayergo"/>
 
     <!-- Musik -->
     <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="musik"/>
@@ -2116,6 +2130,9 @@
 
     <!-- Pixel Dungeon -->
     <item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon" />
+
+    <!-- PixelLab-->
+    <item component="ComponentInfo{com.imaginstudio.imagetools.pixellab/com.imaginstudio.imagetools.pixellab.MainActivity}" drawable="pixellab"/>
 
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
@@ -3363,6 +3380,7 @@
 
     <!-- UntrackMe -->
     <item component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}" drawable="untrackme" />
+    <item component="ComponentInfo{app.fedilab.nitterizemelite/app.fedilab.nitterizeme.activities.MainActivity}" drawable="untrackme"/>
 
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid" />
