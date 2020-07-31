@@ -718,6 +718,9 @@
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
+    <!-- Element -->
+    <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element"/>
+
     <!-- Email -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{org.dystopia.email/org.dystopia.email.ActivityMain}" drawable="mail" />
