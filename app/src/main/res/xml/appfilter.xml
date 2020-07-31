@@ -2095,7 +2095,10 @@
 
     <!-- Peertube -->
     <item component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}" drawable="peertube" />
-
+    
+    <!-- Pegasus -->
+    <item component="ComponentInfo{org.pegasus_frontend.android/org.pegasus_frontend.android.MainActivity}" drawable="pegasus"/>
+    
     <!-- People -->
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
 
@@ -2642,6 +2645,7 @@
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Brown}" drawable="simplecontacts" />
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Blue_grey}" drawable="simplecontacts" />
     <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Grey_black}" drawable="simplecontacts" />
+    <item component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Red}" drawable="simplecontacts"/>
 
     <!-- Simple Dialer -->
     <item component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" drawable="phone"/>
@@ -3473,6 +3477,9 @@
 
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
+
+    <!-- WhatsApp Web To Go -->
+    <item component="ComponentInfo{io.kuenzler.whatsappwebtogo/io.kuenzler.whatsappwebtogo.MainActivity}" drawable="whatsappwebtogo"/>
 
     <!-- Wiebetaaltwat -->
     <item component="ComponentInfo{nl.wiebetaaltwat.webapp/com.wbw.main.InitActivity}" drawable="wiebetaaltwat" />
