@@ -1331,6 +1331,9 @@
     <!-- Kaltura Device Info -->
     <item component="ComponentInfo{com.oF2pks.kalturadeviceinfos/com.oF2pks.kalturadeviceinfos.MainActivity}" drawable="deviceinfo" />
 
+    <!-- Kamusku -->
+    <item component="ComponentInfo{com.dridev.kamusku/com.dridev.kamusku.DictionaryPage}" drawable="kamusku"/>
+
     <!-- KanaDrill -->
     <item component="ComponentInfo{com.jorgecastillo.kanadrill/com.jorgecastillo.kanadrill.MainActivity}" drawable="kanadrill" />
 
@@ -2238,6 +2241,9 @@
 
     <!-- Quizlet -->
     <item component="ComponentInfo{com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity}" drawable="quizlet" />
+
+    <!-- Quran -->
+    <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quran"/>
 
     <!-- Radiodroid -->
     <item component="ComponentInfo{net.programmierecke.radiodroid2/net.programmierecke.radiodroid2.ActivityMain}" drawable="radiodroid" />
