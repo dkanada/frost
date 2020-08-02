@@ -21,6 +21,9 @@
     <!-- 9gag -->
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag" />
 
+    <!-- Aard 2 -->
+    <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard2"/>
+
     <!-- AcDisplay -->
     <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="acdisplay" />
 
@@ -70,12 +73,18 @@
     <!-- AIMSICD -->
     <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable="aimsicd" />
 
+    <!-- AIMP -->
+    <item component="ComponentInfo{com.aimp.player/com.aimp.player.views.Main.MainActivity}" drawable="aimp"/>
+
     <!-- Airbnb -->
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb" />
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb" />
 
     <!-- Alarm Klock -->
     <item component="ComponentInfo{com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity}" drawable="alarmklock" />
+
+    <!-- Alarmio -->
+    <item component="ComponentInfo{me.jfenn.alarmio/me.jfenn.alarmio.activities.MainActivity}" drawable="alarmio"/>
 
     <!-- ALDI life Musik -->
     <item component="ComponentInfo{com.rhapsody.alditalk/com.rhapsodycore.SplashScreen}" drawable="napster"/>
@@ -161,6 +170,9 @@
 
     <!-- Apex Launcher -->
     <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex" />
+
+    <!-- APK Kit -->
+    <item component="ComponentInfo{com.github.ghmxr.apkextractor/com.github.ghmxr.apkextractor.activities.MainActivity}" drawable="apkkit"/>
 
     <!-- APKGrabber -->
     <item component="ComponentInfo{de.apkgrabber/de.apkgrabber.activity.MainActivity_}" drawable="apkgrabber" />
@@ -847,6 +859,9 @@
     <!-- Expense Manager -->
     <item component="ComponentInfo{at.markushi.expensemanager/at.markushi.expensemanager.activities.HomeActivity}" drawable="markushiexpensemanager" />
 
+    <!-- Explorer -->
+    <item component="ComponentInfo{com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer}" drawable="files"/>
+
     <!-- Export Contacts -->
     <item component="ComponentInfo{am.ed.exportcontacts/am.ed.exportcontacts.Intro}" drawable="exportcontacts" />
 
@@ -900,6 +915,9 @@
 
     <!-- Fennec F-Droid -->
     <item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="fennec" />
+
+    <!-- FFUpdater -->
+    <item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater"/>
 
     <!-- Files -->
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files" />
@@ -2013,6 +2031,9 @@
 
     <!-- OpenVPN -->
     <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn" />
+   
+    <!-- OpenVPN Connect -->
+    <item component="ComponentInfo{net.openvpn.openvpn/net.openvpn.unified.MainActivity}" drawable="openvpnconnect"/>
 
     <!-- Opera -->
     <item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera" />
@@ -2264,6 +2285,7 @@
     <!-- ReadEra -->
     <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
 
+    <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera"/>
     <!-- Reader for Selfoss -->
     <item component="ComponentInfo{apps.amine.bou.readerforselfoss/apps.amine.bou.readerforselfoss.MainActivity}" drawable="readerforselfoss" />
 
@@ -2329,11 +2351,17 @@
     <!-- Rocket.Chat -->
     <item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocketchat"/>
 
+    <!-- Root Explorer -->
+    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="rootexplorer"/>
+
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo" />
 
     <!-- RunnerUp -->
     <item component="ComponentInfo{org.runnerup/org.runnerup.view.MainLayout}" drawable="runnerup" />
+
+    <!-- SAI -->
+    <item component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
 
     <!-- SatStat -->
     <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat" />
@@ -3506,7 +3534,10 @@
 
     <!-- WiFiKeyShare -->
     <item component="ComponentInfo{be.brunoparmentier.wifikeyshare/be.brunoparmentier.wifikeyshare.ui.activities.WifiListActivity}" drawable="wifikeyshare" />
-
+    
+    <!-- Wifi Key View -->
+    <item component="ComponentInfo{wkv.android.evait.com.wifikeyview/wkv.android.evait.com.wifikeyview.MainActivity}" drawable="wifikeyview"/>
+    
     <!-- Wi-Fi Privacy Police -->
     <item component="ComponentInfo{be.uhasselt.privacypolice/be.uhasselt.privacypolice.PreferencesActivity}" drawable="wifiprivacy" />
 
