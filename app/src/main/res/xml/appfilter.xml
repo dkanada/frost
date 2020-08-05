@@ -578,6 +578,9 @@
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
+    <!-- CuriosityStream -->
+    <item component="ComponentInfo{com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity}" drawable="curiositystream"/>
+
     <!-- Currency -->
     <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency" />
 
@@ -2802,6 +2805,9 @@
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Blue_grey}" drawable="simpleapplauncher" />
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Grey_black}" drawable="simpleapplauncher" />
 
+    <!-- SimpleLogin --> 
+    <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin"/>
+
     <!-- Simple Music Player -->
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Pink}" drawable="simplemusicplayer" />
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}" drawable="simplemusicplayer" />
@@ -3391,6 +3397,9 @@
 
     <!-- Wand -->
     <item component="ComponentInfo{com.prounlimited.wand/com.prounlimited.wand.account.ui.SplashScreenActivity}" drawable="wand" />
+
+    <!-- Wash & Go -->
+    <item component="ComponentInfo{com.laundryrestart.wgls/com.digitalsense.android.londris.StartActivity}" drawable="washandgo"/>
 
     <!-- Wave Lines Wallpaper -->
     <item component="ComponentInfo{de.markusfisch.android.wavelines/de.markusfisch.android.wavelines.activity.SplashActivity}" drawable="waves" />
