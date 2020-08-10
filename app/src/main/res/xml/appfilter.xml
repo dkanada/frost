@@ -445,6 +445,8 @@
     <item component="ComponentInfo{com.android.fpcamera3/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera" />
     <item component="ComponentInfo{com.hmdglobal.app.camera/com.hmdglobal.app.camera.CameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{foundation.e.camera/net.sourceforge.opencamera.MainActivity}" drawable="camera"/>
+
 
     <!-- Camera Remote -->
     <item component="ComponentInfo{com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity}" drawable="cameraremote" />
@@ -813,7 +815,6 @@
     
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element"/>
-    
 
     <!-- Eleven -->
     <item component="ComponentInfo{com.ymber.eleven/com.ymber.eleven.ui.activities.HomeActivity}" drawable="eleven"/>
