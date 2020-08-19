@@ -1175,8 +1175,14 @@
     <!-- Google Wear OS -->
     <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wearos" />
 
+    <!-- Google Wifi -->
+    <item component="ComponentInfo{com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity}" drawable="googlewifi" />
+
     <!-- GPS Status -->
     <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
+
+    <!-- Great Courses Plus -->
+    <item component="ComponentInfo{com.tgc.greatcoursesplus/com.teachco.tgcplus.teachcoplus.activities.LoginActivity}" drawable="greatcourses" />
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
@@ -2277,6 +2283,9 @@
 
     <!-- Rocket.Chat -->
     <item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocketchat"/>
+
+    <!-- Roku -->
+    <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.SplashActivity}" drawable="roku" />
 
     <!-- RTS Info -->
     <item component="ComponentInfo{ch.rts.rtsinfo/ch.rts.rtsinfo.MainActivity}" drawable="rtsinfo" />
