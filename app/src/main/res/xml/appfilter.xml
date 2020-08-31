@@ -22,7 +22,7 @@
     <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="gag" />
 
     <!-- Aard 2 -->
-    <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard2"/>
+    <item component="ComponentInfo{itkach.aard2/itkach.aard2.MainActivity}" drawable="aard"/>
 
     <!-- AcDisplay -->
     <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="acdisplay" />
