@@ -824,7 +824,7 @@
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
 
     <!-- Facebook Lite -->
-    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="lite"/>
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebooklite"/>
 
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
@@ -1746,6 +1746,7 @@
 
     <!-- Music Player GO -->
     <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.MainActivity}" drawable="musicplayergo" />
+    <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.ui.MainActivity}" drawable="musicplayergo" />
 
     <!-- Musik -->
     <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="musik"/>
