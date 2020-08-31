@@ -421,6 +421,7 @@
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar" />
     <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="calendar" />
+    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
 
     <!-- Callabike -->
     <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
@@ -617,6 +618,9 @@
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
+    <!-- CuriosityStream -->
+    <item component="ComponentInfo{com.curiosity.curiositystream/com.curiosity.activities.OnboardingActivity}" drawable="curiositystream"/>
+
     <!-- Currency -->
     <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency" />
 
@@ -710,6 +714,9 @@
     <!-- DiskUsage -->
     <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage" />
 
+    <!-- Disney+ -->
+    <item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney" />
+    
     <!-- Disroot -->
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.MainActivity}" drawable="disroot" />
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot" />
@@ -874,6 +881,9 @@
     <!-- Facebook -->
     <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
 
+    <!-- Facebook Lite -->
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebooklite"/>
+
     <!-- Facebook Messenger -->
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
 
@@ -1019,6 +1029,9 @@
 
     <!-- Forest -->
     <item component="ComponentInfo{cc.forestapp/cc.forestapp.activities.PlantView.PlantViewController}" drawable="forest" />
+
+    <!-- Fortuneo -->
+    <item component="ComponentInfo{com.fortuneo.android/com.fortuneo.android.activities.SplashScreenActivity}" drawable="fortuneo "/>
 
     <!-- Forkhub -->
     <item component="ComponentInfo{jp.forkhub/com.github.mobile.ui.user.HomeActivity}" drawable="forkhub" />
@@ -1643,6 +1656,9 @@
     <!-- Mein Vodafone -->
     <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" />
 
+    <!-- Mes Comptes - LCL -->
+    <item component="ComponentInfo{fr.lcl.android.customerarea/fr.lcl.android.customerarea.activities.notconnected.SplashScreenActivity}" drawable="mescompteslcl" />
+
     <!-- Meshenger -->
     <item component="ComponentInfo{d.d.meshenger/d.d.meshenger.StartActivity}" drawable="meshenger" />
 
@@ -1807,7 +1823,7 @@
 
     <!-- Music Player GO -->
     <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.MainActivity}" drawable="musicplayergo" />
-    <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.ui.MainActivity}" drawable="musicplayergo"/>
+    <item component="ComponentInfo{com.iven.musicplayergo/com.iven.musicplayergo.ui.MainActivity}" drawable="musicplayergo" />
 
     <!-- Musik -->
     <item component="ComponentInfo{com.maxfour.music/com.maxfour.music.ui.activities.MainActivity}" drawable="musik"/>
@@ -2900,6 +2916,9 @@
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Blue_grey}" drawable="simpleapplauncher" />
     <item component="ComponentInfo{com.simplemobiletools.applauncher.pro/com.simplemobiletools.applauncher.pro.activities.SplashActivity.Grey_black}" drawable="simpleapplauncher" />
 
+    <!-- SimpleLogin --> 
+    <item component="ComponentInfo{io.simplelogin.android.fdroid/io.simplelogin.android.module.startup.StartupActivity}" drawable="simplelogin"/>
+
     <!-- Simple Music Player -->
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Pink}" drawable="simplemusicplayer" />
     <item component="ComponentInfo{com.simplemobiletools.musicplayer/com.simplemobiletools.musicplayer.activities.SplashActivity.Purple}" drawable="simplemusicplayer" />
@@ -3499,6 +3518,9 @@
 
     <!-- Wand -->
     <item component="ComponentInfo{com.prounlimited.wand/com.prounlimited.wand.account.ui.SplashScreenActivity}" drawable="wand" />
+
+    <!-- Wash & Go -->
+    <item component="ComponentInfo{com.laundryrestart.wgls/com.digitalsense.android.londris.StartActivity}" drawable="washandgo"/>
 
     <!-- Wave Lines Wallpaper -->
     <item component="ComponentInfo{de.markusfisch.android.wavelines/de.markusfisch.android.wavelines.activity.SplashActivity}" drawable="waves" />
