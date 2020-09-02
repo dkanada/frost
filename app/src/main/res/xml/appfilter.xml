@@ -70,6 +70,9 @@
     <!-- AfWall -->
     <item component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}" drawable="afwall" />
 
+    <!-- AIDS -->
+    <item component="ComponentInfo{com.nick80835.add/com.nick80835.add.MainActivity}" drawable="aids"/>
+
     <!-- AIMSICD -->
     <item component="ComponentInfo{com.SecUpwN.AIMSICD/com.secupwn.aimsicd.ui.activities.MainActivity}" drawable="aimsicd" />
 
@@ -389,6 +392,9 @@
 
     <!-- Budget Watch -->
     <item component="ComponentInfo{protect.budgetwatch/protect.budgetwatch.MainActivity}" drawable="budgetwatc" />
+
+    <!-- Buienradar -->
+    <item component="ComponentInfo{com.supportware.Buienradar/nl.rtl.buienradar.ui.splash.SplashActivity}" drawable="buienradar"/>
 
     <!-- Bus 31 -->
     <item component="ComponentInfo{com.thomasgallinari.bus31/com.thomasgallinari.bus31.app.SplashScreenActivity}" drawable="bus_circle" />
@@ -1946,6 +1952,9 @@
     <item component="ComponentInfo{com.blackberry.notes/com.blackberry.notes.ui.list.NotesListActivity}" drawable="notes" />
     <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="notes" />
 
+    <!-- Notification Cron -->
+    <item component="ComponentInfo{com.github.fi3te.notificationcron/com.github.fi3te.notificationcron.ui.MainActivity}" drawable="notificationcron"/>
+
     <!-- Notification Notes -->
     <item component="ComponentInfo{com.khuttun.notificationnotes/com.khuttun.notificationnotes.MainActivity}" drawable="notificationnotes" />
 
@@ -2091,6 +2100,9 @@
 
     <!-- OUI.sncf -->
     <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="ouisncf" />
+
+    <!-- OurHome -->
+    <item component="ComponentInfo{com.getfairshare.ourhome/com.getfairshare.ourhome.MainActivity}" drawable="ourhome"/>
 
     <!-- Overchan -->
     <item component="ComponentInfo{nya.miku.wishmaster/nya.miku.wishmaster.ui.MainActivity}" drawable="overchan" />
@@ -3648,6 +3660,9 @@
 
     <!-- Yatse -->
     <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
+
+    <!-- YetAnotherVideoPlayer -->
+    <item component="ComponentInfo{de.shadow578.yetanothervideoplayer/de.shadow578.yetanothervideoplayer.ui.LaunchActivity}" drawable="yetanothervideoplayer"/>
 
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
