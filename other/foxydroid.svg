@@ -54,7 +54,6 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-284.3)"
      style="display:inline;opacity:1" />
   <g
      inkscape:groupmode="layer"
@@ -62,30 +61,26 @@
      inkscape:label="Capa 2"
      style="display:inline;opacity:1">
     <path
-       transform="translate(0,-284.3)"
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5.8298164,289.33271 3.8419996,1.30293 -0.868626,-4.2596 z"
+       d="M 5.8298164,5.03271 9.671816,6.33564 8.80319,2.07604 Z"
        id="path40"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       transform="translate(0,-284.3)"
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 6.3309469,289.66679 1.65373,5.27858 2.0546351,-3.95893 z"
+       d="m 6.3309469,5.36679 1.65373,5.27858 2.0546351,-3.95893 z"
        id="path42"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       transform="translate(0,-284.3)"
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 7.8173558,295.00011 -4.2905332,-2.15296 2.6466725,-3.09957 z"
+       d="M 7.8173558,10.70011 3.5268226,8.54715 6.1734951,5.44758 Z"
        id="path44"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       transform="translate(0,-284.3)"
        style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.4135975,292.6769 2.6415342,-3.06928 -4.1888742,-0.9349 z"
+       d="M 3.4135975,8.3769 6.0551317,5.30762 1.8662575,4.37272 Z"
        id="path46"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
