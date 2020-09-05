@@ -822,6 +822,7 @@
     
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element"/>
+    <item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element"/>
 
     <!-- Eleven -->
     <item component="ComponentInfo{com.ymber.eleven/com.ymber.eleven.ui.activities.HomeActivity}" drawable="eleven"/>
@@ -1340,6 +1341,8 @@
     <!-- Jellyfin -->
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
 
     <!-- Jitsi Meet -->
     <item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsimeet" />
