@@ -195,6 +195,9 @@
     <!-- Applications Info -->
     <item component="ComponentInfo{com.majeur.applicationsinfo/com.majeur.applicationsinfo.MainActivity}" drawable="applicationsinfo" />
 
+    <!-- Apps -->
+    <item component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}" drawable="eapps"/>
+
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
     <item component="ComponentInfo{com.google.code.appsorganizer/com.google.code.appsorganizer.SplashScreenActivity}" drawable="apps2org" />
@@ -2194,6 +2197,9 @@
     <!-- Pin -->
     <item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="pin" />
 
+    <!-- Pinterest -->
+    <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest"/>
+
     <!-- Pixel Dungeon -->
     <item component="ComponentInfo{com.watabou.pixeldungeon/com.watabou.pixeldungeon.PixelDungeon}" drawable="pixeldungeon" />
 
@@ -3365,6 +3371,7 @@
 
     <!-- TrackerControl --> 
     <item component="ComponentInfo{net.kollnig.missioncontrol.fdroid/eu.faircode.netguard.ActivityMain}" drawable="trackercontrol"/>
+    <item component="ComponentInfo{net.kollnig.missioncontrol/eu.faircode.netguard.ActivityMain}" drawable="trackercontrol"/>
 
     <!-- Track Work Time -->
     <item component="ComponentInfo{org.zephyrsoft.trackworktime/org.zephyrsoft.trackworktime.WorkTimeTrackerActivity}" drawable="trackworktime" />
