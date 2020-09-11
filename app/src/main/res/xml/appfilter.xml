@@ -1508,6 +1508,7 @@
 
     <!-- Lexica -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica" />
+    <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica"/>
 
     <!-- Libreflix -->
     <item component="ComponentInfo{org.libreflix.app/org.libreflix.app.MainActivity}" drawable="libreflix" />
