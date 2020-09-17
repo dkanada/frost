@@ -911,6 +911,9 @@
     <item component="ComponentInfo{cl.coders.faketraveller/cl.coders.faketraveller.MainActivity}" drawable="faketraveller" />
     <item component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}" drawable="faketraveler"/>
 
+    <!-- Fallout Shelter -->
+    <item component="ComponentInfo{com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning}" drawable="falloutshelter"/>
+
     <!-- FastHub -->
     <item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
 
@@ -1015,6 +1018,9 @@
 
     <!-- Flow Free Warps -->
     <item component="ComponentInfo{com.bigduckgames.flowwarps/com.bigduckgames.flow.flow}" drawable="flowfreewarps" />
+
+    <!-- Flym -->
+    <item component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" drawable="flym"/>
 
     <!-- f.lux -->
     <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux" />
@@ -1324,6 +1330,9 @@
     <!-- Imgur -->
     <item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="imgur" />
 
+    <!-- ImgurViewer -->
+    <item component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" drawable="imgurviewer"/>
+
     <!-- Infinity -->
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.MainActivity}" drawable="infinity" />
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.Activity.MainActivity}" drawable="infinity" />
@@ -1333,6 +1342,9 @@
 
     <!-- Instagram -->
     <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+
+    <!-- InstaGrabber -->
+    <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.Main}" drawable="instagrabber"/>
 
     <!-- Island -->
     <item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island" />
@@ -1600,6 +1612,9 @@
     <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk" />
     <item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk" />
 
+    <!-- Ma Livebox -->
+    <item component="ComponentInfo{com.orange.mylivebox.fr/com.orange.mylivebox.fr.gui.startup.StartupActivity}" drawable="malivebox"/>
+
     <!-- M.A.L.P. -->
     <item component="ComponentInfo{org.gateshipone.malp/org.gateshipone.malp.application.activities.SplashActivity}" drawable="malp" />
 
@@ -1692,6 +1707,9 @@
 
     <!-- Metro -->
     <item component="ComponentInfo{ru.yandex.metro/ru.yandex.metro.LaunchActivity}" drawable="metro" />
+
+    <!-- Metro Music player -->
+    <item component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}" drawable="metroplayer"/>
 
     <!-- MGit -->
     <item component="ComponentInfo{com.manichord.mgit/me.sheimi.sgit.RepoListActivity}" drawable="mgit" />
@@ -1886,6 +1904,9 @@
 
     <!-- nebenan.de -->
     <item component="ComponentInfo{de.nebenan.app/de.nebenan.app.ui.main.LaunchActivity}" drawable="nebenande" />
+
+    <!-- Nebulo -->
+    <item component="ComponentInfo{com.frostnerd.smokescreen/com.frostnerd.smokescreen.activity.PinActivity}" drawable="nebulo"/>
 
     <!-- NemID -->
     <item component="ComponentInfo{dk.e_nettet.mobilekey.everyone/th.Zx}" drawable="nemid"/>
@@ -3234,6 +3255,9 @@
     <!-- Syncthing-Fork -->
     <item component="ComponentInfo{com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity}" drawable="syncthing"/>
 
+    <!-- Syphon -->
+    <item component="ComponentInfo{org.tether.tether/org.tether.tether.MainActivity}" drawable="syphon"/>
+
     <!-- /system/ App Mover -->
     <item component="ComponentInfo{de.j4velin.systemappmover/de.j4velin.systemappmover.MoverActivity}" drawable="systemappmover" />
 
@@ -3477,6 +3501,9 @@
     <!-- Urbandroid Sleep -->
     <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="urbandroid" />
 
+    <!-- usageDirect -->
+    <item component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.AppUsageStatisticsActivity}" drawable="usagedirect"/>
+
     <!-- user js updater -->
     <item component="ComponentInfo{de.reckendrees.systems.userjsupdater/de.reckendrees.systems.userjsupdater.MainActivity}" drawable="jsupdater" />
 
@@ -3537,6 +3564,9 @@
 
     <!-- Wand -->
     <item component="ComponentInfo{com.prounlimited.wand/com.prounlimited.wand.account.ui.SplashScreenActivity}" drawable="wand" />
+
+    <!-- Warden -->
+    <item component="ComponentInfo{com.aurora.warden/com.aurora.warden.ui.activities.AuroraActivity}" drawable="warden"/>
 
     <!-- Wash & Go -->
     <item component="ComponentInfo{com.laundryrestart.wgls/com.digitalsense.android.londris.StartActivity}" drawable="washandgo"/>
