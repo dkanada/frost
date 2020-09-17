@@ -2215,6 +2215,9 @@
     <!-- Phonograph -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
 
+    <!-- PicSay Pro -->
+    <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay"/>
+
     <!-- Pin -->
     <item component="ComponentInfo{de.nproth.pin/de.nproth.pin.NoteActivity}" drawable="pin" />
 
