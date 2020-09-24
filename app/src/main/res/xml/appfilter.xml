@@ -275,6 +275,9 @@
     <!-- Auto Updater for Chromium -->
     <item component="ComponentInfo{com.dosse.chromiumautoupdater/com.dosse.chromiumautoupdater.MainActivity}" drawable="chromiumautoupdater" />
 
+    <!-- Avans One -->
+    <item component="ComponentInfo{com.avans.oneapp/com.avans.oneapp.MainActivity}" drawable="avans" />
+
     <!-- Aviasales -->
     <item component="ComponentInfo{ru.aviasales/ru.aviasales.ui.activity.MainActivity}" drawable="aviasales" />
 
@@ -605,6 +608,9 @@
 
     <!-- Conversations -->
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
+
+    <!-- Corona Melder -->
+    <item component="ComponentInfo{nl.rijksoverheid.en/nl.rijksoverheid.en.MainActivity}" drawable="coronamelder" />
 
     <!-- Couchsurfing -->
     <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing" />
@@ -1278,6 +1284,9 @@
     <!-- Hacker's Keyboard -->
     <item component="ComponentInfo{org.pocketworkstation.pckeyboard/org.pocketworkstation.pckeyboard.Main}" drawable="hackerskb" />
 
+    <!-- Happening -->
+    <item component="ComponentInfo{im.happening.android/im.happening.android.AppActivity}" drawable="happening" />
+
     <!-- Hauk -->
     <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk" />
 
@@ -1881,7 +1890,7 @@
     <item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist" />
 
     <!-- My Avans -->
-    <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="myavans" />
+    <item component="ComponentInfo{nl.brianvdbroek.avansapp/nl.brianvdbroek.avansapp.MainActivity}" drawable="avans" />
 
     <!-- My Expenses -->
     <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="myexpenses" />
@@ -2189,6 +2198,9 @@
     <!-- Pebble -->
     <item component="ComponentInfo{com.getpebble.android.basalt/com.getpebble.android.main.activity.MainActivity}" drawable="pebble" />
 
+    <!-- Pedometer -->
+    <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="pedometer" />
+
     <!-- Peertube -->
     <item component="ComponentInfo{net.schueller.peertube/net.schueller.peertube.activity.VideoListActivity}" drawable="peertube" />
     
@@ -2203,6 +2215,9 @@
 
     <!-- Periodical -->
     <item component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" drawable="periodical" />
+
+    <!-- Personal stickers for Whatsapp -->
+    <item component="ComponentInfo{com.dstukalov.walocalstoragestickers/com.dstukalov.walocalstoragestickers.StickerPacksActivity}" drawable="stickermaker" />
 
     <!-- Phone -->
     <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="phone" />
@@ -2262,9 +2277,6 @@
 
     <!-- Pocket Paint [aka Paintroid] -->
     <item component="ComponentInfo{org.catrobat.paintroid/org.catrobat.paintroid.MainActivity}" drawable="pocketpaint" />
-
-    <!-- Podomètre -->
-    <item component="ComponentInfo{de.j4velin.pedometer/de.j4velin.pedometer.ui.Activity_Main}" drawable="podomtre" />
 
     <!-- Pokémon GO -->
     <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemongo" />
@@ -3278,6 +3290,9 @@
 
     <!-- SystemUI Tuner -->
     <item component="ComponentInfo{com.zacharee1.systemuituner/com.zacharee1.systemuituner.LauncherActivity}" drawable="systemuituner" />
+
+    <!-- System usage stats -->
+    <item component="ComponentInfo{godau.fynn.usagedirect.system/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}" drawable="usagedirect" />
 
     <!-- Tachiyomi -->
     <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi" />
