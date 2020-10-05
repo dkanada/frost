@@ -2481,8 +2481,8 @@
     <!-- SAI -->
     <item component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
 
-    <!-- Saisonkalender -->
-    <item component="ComponentInfo{flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity}" drawable="saisonkalender"/>
+    <!-- Seasoncalendar -->
+    <item component="ComponentInfo{flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity}" drawable="seasoncalendar"/>
 
     <!-- SatStat -->
     <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat" />
