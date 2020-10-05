@@ -736,6 +736,9 @@
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.MainActivity}" drawable="disroot" />
     <item component="ComponentInfo{org.disroot.disrootapp/org.disroot.disrootapp.ui.SplashScreenActivity}" drawable="disroot" />
 
+    <!-- Dissembler -->
+    <item component="ComponentInfo{com.ianmaclarty.dissembler/xyz.amulet.AmuletActivity}" drawable="dissembler" />
+
     <!-- DKB-Banking -->
     <item component="ComponentInfo{de.dkb.portalapp/de.dkb.MainActivity}" drawable="dkbbanking" />
 
@@ -794,6 +797,7 @@
     <!-- Duck Duck Go -->
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo" />
+    <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}" drawable="duckduckgo"/>
 
     <!-- Duo -->
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="duo" />
@@ -1786,6 +1790,9 @@
 
     <!-- Mirry -->
     <item component="ComponentInfo{rocks.poopjournal.mirry/rocks.poopjournal.mirry.MainActivity}" drawable="mirry" />
+
+    <!-- Mitch -->
+    <item component="ComponentInfo{ua.gardenapple.itchupdater/ua.gardenapple.itchupdater.ui.MainActivity}" drawable="mitch" />
 
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
