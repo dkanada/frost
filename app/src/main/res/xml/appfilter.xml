@@ -1965,6 +1965,10 @@
     <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.nxbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
     <item component="ComponentInfo{org.schabi.ocbookmarks/org.schabi.ocbookmarks.MainActivity}" drawable="nextcloudbookmarks" />
 
+    <!-- Nextcloud Cookbook -->
+    <item component="ComponentInfo{de.micmun.android.nextcloudcookbook/de.micmun.android.nextcloudcookbook.ui.MainActivity}" drawable="nextcloudcookbook"/>
+    <item component="ComponentInfo{com.nextcloud_cookbook_flutter/com.nextcloud_cookbook_flutter.MainActivity}" drawable="nextcloudcookbook"/>
+
     <!-- Nextcloud -->
     <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
 
@@ -2277,6 +2281,9 @@
     <!-- PlantNet -->
     <item component="ComponentInfo{org.plantnet/org.plantnet.MainActivity}" drawable="plantnet"/>
 
+    <!-- Plees Tracker -->
+    <item component="ComponentInfo{hu.vmiklos.plees_tracker/hu.vmiklos.plees_tracker.MainActivity}" drawable="pleestracker"/>
+
     <!-- Plex -->
     <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex" />
 
@@ -2473,6 +2480,9 @@
 
     <!-- SAI -->
     <item component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai"/>
+
+    <!-- Saisonkalender -->
+    <item component="ComponentInfo{flunzmas.seasoncalendar/flunzmas.seasoncalendar.MainActivity}" drawable="saisonkalender"/>
 
     <!-- SatStat -->
     <item component="ComponentInfo{com.vonglasow.michael.satstat/com.vonglasow.michael.satstat.ui.MainActivity}" drawable="satstat" />
@@ -3222,6 +3232,9 @@
 
     <!-- Spotify -->
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+
+    <!-- Spritpreise -->
+    <item component="ComponentInfo{com.ptvag.android.adacgasprices/com.ptvag.android.adacmap.activity.MainActivity}" drawable="spritpreise"/>
 
     <!-- stadtmobil -->
     <item component="ComponentInfo{de.cantamen.stadtmobil/de.cantamen.stadtmobil.MainActivity}" drawable="stadtmobil" />
