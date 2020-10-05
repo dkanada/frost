@@ -644,6 +644,7 @@
 
     <!-- CyberGhost -->
     <item component="ComponentInfo{de.mobileconcepts.cyberghost/de.mobileconcepts.cyberghost.view.launch.LaunchActivity}" drawable="cyberghost"/>
+    <item component="ComponentInfo{de.mobileconcepts.cyberghost/de.mobileconcepts.cyberghost.view.app.AppActivity}" drawable="cyberghost"/>
 
     <!-- Cythara -->
     <item component="ComponentInfo{com.github.cythara/com.github.cythara.MainActivity}" drawable="cythara" />
@@ -932,6 +933,9 @@
 
     <!-- FastHub-Libre -->
     <item component="ComponentInfo{com.fastaccess.github.libre/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub" />
+
+    <!-- Fast Reset -->
+    <item component="ComponentInfo{au.dja.screenlock.activities/au.dja.fastreset.activities.MainActivity}" drawable="fastreset"/>
 
     <!-- FBReader -->
     <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader" />
@@ -1275,6 +1279,9 @@
 
     <!-- GPS Status -->
     <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
+
+    <!-- gReader Pro -->
+    <item component="ComponentInfo{com.noinnion.android.greader.readerpro/com.noinnion.android.greader.ui.login.LoginActivity}" drawable="greader"/>
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
@@ -2311,6 +2318,9 @@
     <!-- Preview -->
     <item component="ComponentInfo{com.blackberrymobile.aota/com.blackberrymobile.aota.UI.activity.NewMainActivity}" drawable="preview" />
 
+    <!-- Prey -->
+    <item component="ComponentInfo{com.prey/com.prey.activities.LoginActivity}" drawable="prey"/>
+
     <!-- Prezzi Benzina -->
     <item component="ComponentInfo{org.vernazza.androidfuel/it.prezzibenzina.pb3.activities.MainActivity}" drawable="pb" />
 
@@ -2371,6 +2381,9 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
+
+    <!-- Radio France -->
+    <item component="ComponentInfo{com.radiofrance.radio.radiofrance.android/com.radiofrance.radio.radiofrance.android.screen.splash.SplashActivity}" drawable="radiofrance"/>
 
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
