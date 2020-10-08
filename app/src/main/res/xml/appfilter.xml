@@ -1550,6 +1550,9 @@
     <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="line" />
     <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.app.main.LineApplication}" drawable="line" />
 
+    <!-- LINE Webtoon -->
+    <item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="line" />
+
     <!-- LinkedIn -->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
 
