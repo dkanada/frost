@@ -3829,7 +3829,8 @@
     <!-- Yatse -->
     <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
 
-    <!-- Yet Another Call Blocker --> <item component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}" drawable="yetanothercallblocker"/> 
+    <!-- Yet Another Call Blocker -->
+    <item component="ComponentInfo{dummydomain.yetanothercallblocker/dummydomain.yetanothercallblocker.MainActivity}" drawable="yetanothercallblocker"/> 
 
     <!-- YetAnotherVideoPlayer -->
     <item component="ComponentInfo{de.shadow578.yetanothervideoplayer/de.shadow578.yetanothervideoplayer.ui.LaunchActivity}" drawable="yetanothervideoplayer"/>
