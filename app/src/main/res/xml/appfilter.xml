@@ -126,6 +126,9 @@
     <!-- Ameixa Monochrome -->
     <item component="ComponentInfo{org.xphnx.ameixamonochrome/org.xphnx.ameixamonochrome.activities.MainActivity}" drawable="themes" />
 
+    <!-- Among Us -->
+    <item component="ComponentInfo{com.innersloth.spacemafia/com.unity3d.player.UnityPlayerActivity}" drawable="amongus"/>
+
     <!-- Ampere -->
     <item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
 
@@ -197,6 +200,9 @@
 
     <!-- Apps -->
     <item component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}" drawable="eapps"/>
+
+    <!-- App Manager -->
+    <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="appmanager"/>
 
     <!-- Apps2Org -->
     <item component="ComponentInfo{com.google.code.apps2org/com.google.code.apps2org.SplashScreenActivity}" drawable="apps2org" />
@@ -842,6 +848,8 @@
     
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element"/>
+    <item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element"/>
+    <item component="ComponentInfo{im.vector.app/im.vector.app.features.MainActivity}" drawable="element"/>
 
     <!-- Eleven -->
     <item component="ComponentInfo{com.ymber.eleven/com.ymber.eleven.ui.activities.HomeActivity}" drawable="eleven"/>
@@ -1077,6 +1085,9 @@
     <!-- Fossil Hybrid -->
     <item component="ComponentInfo{com.fossil.wearables.fossil/com.portfolio.platform.uirenew.splash.SplashScreenActivity}" drawable="fossilhybrid"/>
 
+    <!-- Foxy Droid -->
+    <item component="ComponentInfo{nya.kitsunyan.foxydroid/nya.kitsunyan.foxydroid.MainActivity}" drawable="foxydroid"/>
+
     <!-- Freebox Compagnon -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivity}" drawable="freebox" />
 
@@ -1277,11 +1288,17 @@
     <!-- Google Wear OS -->
     <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="wearos" />
 
+    <!-- Google Wifi -->
+    <item component="ComponentInfo{com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity}" drawable="googlewifi" />
+
     <!-- GPS Status -->
     <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
 
     <!-- gReader Pro -->
     <item component="ComponentInfo{com.noinnion.android.greader.readerpro/com.noinnion.android.greader.ui.login.LoginActivity}" drawable="greader"/>
+
+    <!-- Great Courses Plus -->
+    <item component="ComponentInfo{com.tgc.greatcoursesplus/com.teachco.tgcplus.teachcoplus.activities.LoginActivity}" drawable="greatcourses" />
 
     <!-- GreenBits -->
     <item component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.PinActivity}" drawable="greenbits" />
@@ -1297,6 +1314,9 @@
 
     <!-- Happening -->
     <item component="ComponentInfo{im.happening.android/im.happening.android.AppActivity}" drawable="happening" />
+
+    <!-- Handy News Reader -->
+    <item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="handynewsreader"/>
 
     <!-- Hauk -->
     <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk" />
@@ -1387,6 +1407,8 @@
     <!-- Jellyfin -->
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{org.jellyfin.mobile.debug/org.jellyfin.mobile.WebappActivity}" drawable="jellyfin" />
 
     <!-- Jitsi Meet -->
     <item component="ComponentInfo{org.jitsi.meet/org.jitsi.meet.MainActivity}" drawable="jitsimeet" />
@@ -1543,6 +1565,7 @@
 
     <!-- Lexica -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.Lexica}" drawable="lexica" />
+    <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica"/>
 
     <!-- Libreflix -->
     <item component="ComponentInfo{org.libreflix.app/org.libreflix.app.MainActivity}" drawable="libreflix" />
@@ -1592,6 +1615,9 @@
     <!-- LINE Lite -->
     <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="line" />
     <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.app.main.LineApplication}" drawable="line" />
+
+    <!-- LINE Webtoon -->
+    <item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="line" />
 
     <!-- LinkedIn -->
     <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linkedin"/>
@@ -2052,6 +2078,9 @@
     <!-- Oeffi Stations -->
     <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffistations" />
 
+    <!-- Office -->
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="office"/>
+
     <!-- Offline Calendar -->
     <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="offlinecalendar" />
 
@@ -2433,6 +2462,9 @@
     <!-- Rejseplanen -->
     <item component="ComponentInfo{de.hafas.android.rejseplanen/de.hafas.main.HafasApp}" drawable="rejseplanen"/>
 
+    <!-- Remixed Dungeon -->
+    <item component="ComponentInfo{com.nyrds.pixeldungeon.ml/com.watabou.pixeldungeon.RemixedDungeon}" drawable="remixeddungeon"/>
+
     <!-- Remote Desktop -->
     <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.actvities.HomeActivity}" drawable="remotedesktop" />
 
@@ -2468,6 +2500,9 @@
 
     <!-- Rocket.Chat -->
     <item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocketchat"/>
+
+    <!-- Roku -->
+    <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.SplashActivity}" drawable="roku" />
 
     <!-- Root Explorer -->
     <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="rootexplorer"/>
@@ -2576,8 +2611,8 @@
     <item component="ComponentInfo{com.jim.sharetocomputer/com.jim.sharetocomputer.MainActivity}" drawable="sharetocomputer" />
 
     <!-- Shattered Pixel Dungeon -->
-    <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="pixeldungeon" />
-    <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="pixeldungeon" />
+    <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.android.AndroidLauncher}" drawable="shatteredpixeldungeon" />
+    <item component="ComponentInfo{com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.ShatteredPixelDungeon}" drawable="shatteredpixeldungeon" />
 
     <!-- Shazam -->
     <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
@@ -2585,6 +2620,9 @@
     <!-- Shelter -->
     <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity}" drawable="shelter" />
     <item component="ComponentInfo{net.typeblog.shelter/net.typeblog.shelter.ui.DummyActivity}" drawable="shelter" />
+
+    <!-- SHIELD TV -->
+    <item component="ComponentInfo{com.nvidia.shield.remote/com.nvidia.shield.remote.MainActivity}" drawable="nvidia" />
 
     <!-- Shopping List -->
     <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
@@ -3156,6 +3194,26 @@
     <!-- Simple Weather -->
     <item component="ComponentInfo{com.a5corp.weather/com.a5corp.weather.GlobalActivity}" drawable="simpleweather" />
 
+    <!-- Simple Thank You -->
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Pink}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Purple}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Deep_purple}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Indigo}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Blue}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Light_blue}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Cyan}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Teal}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Green}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Light_green}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Lime}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Yellow}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Amber}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Orange}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Deep_orange}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Brown}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Blue_grey}" drawable="simplethankyou" />
+    <item component="ComponentInfo{com.simplemobiletools.thankyou/com.simplemobiletools.thankyou.activities.SplashActivity.Grey_black}" drawable="simplethankyou" />
+
     <!-- Sim Toolkit -->
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
@@ -3236,6 +3294,9 @@
 
     <!-- Spritpreise -->
     <item component="ComponentInfo{com.ptvag.android.adacgasprices/com.ptvag.android.adacmap.activity.MainActivity}" drawable="spritpreise"/>
+
+    <!-- Sprouted Pixel Dungeon -->
+    <item component="ComponentInfo{com.github.dachhack.sprout/com.github.dachhack.sprout.ShatteredPixelDungeon}" drawable="sproutedpixeldungeon"/>
 
     <!-- stadtmobil -->
     <item component="ComponentInfo{de.cantamen.stadtmobil/de.cantamen.stadtmobil.MainActivity}" drawable="stadtmobil" />
@@ -3761,6 +3822,9 @@
 
     <!-- Yandex Weather -->
     <item component="ComponentInfo{ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity}" drawable="yaweather" />
+
+    <!-- YAPD / Yet Another Pixel Dungeon -->
+    <item component="ComponentInfo{com.consideredhamster.yetanotherpixeldungeon/com.consideredhamster.yetanotherpixeldungeon.YetAnotherPixelDungeon}" drawable="yapd"/>
 
     <!-- Yatse -->
     <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
