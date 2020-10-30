@@ -3837,6 +3837,9 @@
     <!-- YetAnotherVideoPlayer -->
     <item component="ComponentInfo{de.shadow578.yetanothervideoplayer/de.shadow578.yetanothervideoplayer.ui.LaunchActivity}" drawable="yetanothervideoplayer" />
 
+    <!-- YouMail -->
+    <item component="ComponentInfo{com.youmail.android.vvm/com.youmail.android.vvm.main.VVMMainActivity}" drawable="youmail" />
+    
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
