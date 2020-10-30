@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <g data-name="Layer 1">
+        <rect class="cls-1" x="5" y="7.81" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="12.76" y="7.81" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="7.81" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="28.27" y="7.81" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="36.03" y="7.81" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="5" y="11.36" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="12.76" y="11.36" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="11.36" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="28.27" y="11.36" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="36.03" y="11.36" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="5" y="14.91" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="12.76" y="14.91" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="14.91" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="28.27" y="14.91" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="36.03" y="14.91" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="5" y="18.46" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="18.46" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="28.27" y="18.46" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="36.03" y="18.46" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="5" y="22.01" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="22.01" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="36.03" y="22.01" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="5" y="25.56" width="6.97" height="2.78"/>
+        <rect class="cls-1" x="20.51" y="25.56" width="6.97" height="2.78"/>
+        <polygon class="cls-1" points="24 40.19 16.24 29.1 31.76 29.1"/>
+    </g>
+</svg>
