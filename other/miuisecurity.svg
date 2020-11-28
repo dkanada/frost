@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="miuisecurity.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.7712362"
+     inkscape:cx="25.134399"
+     inkscape:cy="16.236844"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1012"
+     inkscape:window-height="569"
+     inkscape:window-x="4"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:pagecheckerboard="true" />
+  <defs
+     id="defs228" />
+  <metadata
+     id="metadata231">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Capa 2"
+     style="opacity:1">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1.34408629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24,4.4863281 c -2.766136,0 -18.0490312,4.9775703 -18.0490312,4.9775703 C 5.838527,20.28932 6.4939747,30.799082 7.3858126,33.028677 c 1.6053082,3.2998 9.3133144,8.481077 16.3331684,10.520151 6.794535,-1.973625 15.201956,-7.239853 16.679795,-10.520194 0.859893,-2.059747 1.203433,-12.472242 1.088217,-23.5647356 0,0 -14.275138,-4.9775703 -17.486993,-4.9775703 z m -0.01533,7.8593219 v 10.324881 h 5.787657 L 23.984674,36.969665 V 26.644784 h -5.787656 z"
+       id="path275"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>
