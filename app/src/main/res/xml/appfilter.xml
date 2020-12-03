@@ -450,6 +450,9 @@
     <item component="ComponentInfo{com.callrecorder.android/com.callrecorder.android.MainActivity}" drawable="callrecorder" />
     <item component="ComponentInfo{com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity}" drawable="callrecorder" />
 
+    <!-- Calyx VPN -->
+    <item component="ComponentInfo{org.calyxinstitute.vpn/se.leap.bitmaskclient.StartActivity}" drawable="calyxvpn"/>
+
     <!-- Camera -->
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraActivity}" drawable="camera" />
@@ -788,6 +791,9 @@
     <!-- Drinks -->
     <item component="ComponentInfo{fr.masciulli.drinks/fr.masciulli.drinks.ui.activity.MainActivity}" drawable="drinks" />
 
+    <!-- Drive -->
+    <item component="ComponentInfo{com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity}" drawable="dsdrive"/>
+
     <!-- DroidShows -->
     <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="droidshows" />
 
@@ -810,6 +816,7 @@
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LaunchActivity}" drawable="duckduckgo" />
     <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher}" drawable="duckduckgo" />
+    <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.app.launch.LauncherSilhoutte}" drawable="duckduckgo"/>
 
     <!-- Duo -->
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="duo" />
@@ -1040,6 +1047,9 @@
 
     <!-- Floatplane -->
     <item component="ComponentInfo{com.floatplane.floatplane/com.floatplane.floatplane.MainActivity}" drawable="floatplane" />
+
+    <!-- FlorisBoard -->
+    <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
 
     <!-- Flow Free Bridges -->
     <item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flowfreebridges" />
@@ -1652,6 +1662,9 @@
     <!-- Lloyds Bank -->
     <item component="ComponentInfo{com.grppl.android.shell.CMBlloydsTSB73/com.halifax.halifax.GrappleActivity}" drawable="lloydsbank" />
 
+    <!-- LocationPrivacy -->
+    <item component="ComponentInfo{info.guardianproject.locationprivacy/info.guardianproject.locationprivacy.MainActivity}" drawable="locationprivacy"/>
+
     <!-- Locker -->
     <item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker" />
 
@@ -1868,6 +1881,9 @@
     <!-- MoneyWallet -->
     <item component="ComponentInfo{com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity}" drawable="moneywallet" />
 
+    <!-- Monochromatic -->
+    <item component="ComponentInfo{uk.co.richyhbm.monochromatic/uk.co.richyhbm.monochromatic.Activities.MainActivity}" drawable="monochromatic"/>
+
     <!-- Monster -->
     <item component="ComponentInfo{com.jobrapp.jobr/com.jobrapp.jobr.presentation.ui.activity.SplashScreenActivity}" drawable="monster" />
 
@@ -1907,6 +1923,12 @@
 
     <!-- mpv -->
     <item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv" />
+
+    <!-- Mull -->
+    <item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull"/>
+
+    <!-- Mullvad VPN -->
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvadvpn"/>
 
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
@@ -2039,6 +2061,9 @@
     <!-- NHBooks -->
     <item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks" />
 
+    <!-- Nine -->
+    <item component="ComponentInfo{com.ninefolders.hd3/com.ninefolders.hd3.activity.NineActivity}" drawable="nine"/>
+
     <!-- Nordnet -->
     <item component="ComponentInfo{com.nordnet/com.nordnet.MainActivity}" drawable="nordnet" />
 
@@ -2122,6 +2147,9 @@
 
     <!-- one -->
     <item component="ComponentInfo{ch.viseca.visecaone/com.netcetera.visecaone.android.feature.branding.alias_activities.VisecaBrandAliasActivity}" drawable="visecaone" />
+
+    <!-- OONI Probe -->
+    <item component="ComponentInfo{org.openobservatory.ooniprobe/org.openobservatory.ooniprobe.activity.MainActivity}" drawable="ooniprobe"/>
 
     <!-- OpenAPK -->
     <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" />
@@ -2311,6 +2339,9 @@
     <!-- Phone Manager -->
     <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="huaweisystemmanager" />
 
+    <!-- Phone Saver -->
+    <item component="ComponentInfo{link.standen.michael.phonesaver/link.standen.michael.phonesaver.activity.FolderListActivity}" drawable="phonesaver"/>
+
     <!-- PhoneTrack -->
     <item component="ComponentInfo{net.eneiluj.nextcloud.phonetrack/net.eneiluj.nextcloud.phonetrack.android.activity.LogjobsListViewActivity}" drawable="phonetrack" />
 
@@ -2393,6 +2424,9 @@
 
     <!-- primitive ftpd -->
     <item component="ComponentInfo{org.primftpd/org.primftpd.PrimitiveFtpdActivity}" drawable="primitiveftpd" />
+
+    <!-- Privacy -->
+    <item component="ComponentInfo{com.privacy.pay/com.privacy.pay.MainActivity}" drawable="privacy"/>
 
     <!-- Privacy Browser -->
     <item component="ComponentInfo{com.stoutner.privacybrowser.standard/com.stoutner.privacybrowser.standard.MainWebViewActivity}" drawable="privacybrowser" />
@@ -2529,6 +2563,9 @@
     <!-- Ripple -->
     <item component="ComponentInfo{info.guardianproject.ripple/info.guardianproject.ripple.MainActivity}" drawable="ripple" />
 
+    <!-- Riseup VPN -->
+    <item component="ComponentInfo{se.leap.riseupvpn/se.leap.bitmaskclient.StartActivity}" drawable="riseupvpn"/>
+
     <!-- Rocket.Chat -->
     <item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocketchat" />
 
@@ -2615,6 +2652,9 @@
 
     <!-- Semitone -->
     <item component="ComponentInfo{mn.tck.semitone/mn.tck.semitone.MainActivity}" drawable="semitone" />
+
+    <!-- Send Reduced Free -->
+    <item component="ComponentInfo{mobi.omegacentauri.SendReduced/mobi.omegacentauri.SendReduced.Options}" drawable="sendreducedfree"/>
 
     <!-- SensorLab -->
     <item component="ComponentInfo{com.lpellis.sensorlab/com.lpellis.sensorlab.FullscreenActivity}" drawable="sensorlab" />
@@ -3384,6 +3424,9 @@
     <!-- Suntimes -->
     <item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.SuntimesActivity}" drawable="suntimes" />
 
+    <!-- SuperFreezZ -->
+    <item component="ComponentInfo{superfreeze.tool.android/superfreeze.tool.android.userInterface.mainActivity.MainActivity}" drawable="superfreezz"/>
+
     <!-- Supersu -->
     <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="su" />
 
@@ -3496,6 +3539,7 @@
 
     <!-- TimeLimit -->
     <item component="ComponentInfo{io.timelimit.android.open/io.timelimit.android.ui.MainActivity}" drawable="timelimit" />
+    <item component="ComponentInfo{io.timelimit.android.aosp.direct/io.timelimit.android.ui.MainActivity}" drawable="timelimit"/>
 
     <!-- Tinc -->
     <item component="ComponentInfo{org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity}" drawable="tinc" />
@@ -3604,6 +3648,9 @@
 
     <!-- Trex Runner -->
     <item component="ComponentInfo{com.nellyfish.trexrunner/com.nellyfish.trexrunner.MainActivity}" drawable="trexrunner" />
+
+    <!-- Trail Sense -->
+    <item component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.MainActivity}" drawable="trailsense"/>
 
     <!-- Trigger -->
     <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger" />
@@ -3766,6 +3813,9 @@
     <!-- WeChat -->
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
 
+    <!-- Wells Fargo -->
+    <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}" drawable="wellsfargo"/>
+
     <!-- Whatsapp -->
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
 
@@ -3885,6 +3935,9 @@
 
     <!-- YouTube Vanced -->
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+
+    <!-- Yubico Authenticator -->
+    <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.ui.main.MainActivity}" drawable="yubicoauthenticator"/>
 
     <!-- Y.Taxi -->
     <item component="ComponentInfo{ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity}" drawable="ytaxi" />
