@@ -522,6 +522,7 @@
     <item component="ComponentInfo{com.dkanada.chip/com.dkanada.chip.activities.MainActivity}" drawable="chip" />
 
     <!-- Chromium -->
+    <item component="ComponentInfo{org.ungoogled.chromium.stable/com.google.android.apps.chrome.Main}" drawable="chrome"/>
     <item component="ComponentInfo{org.notphenom.swe.browser/org.notphenom.swe.browser.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
 
