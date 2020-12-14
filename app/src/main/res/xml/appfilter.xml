@@ -1150,7 +1150,9 @@
 
     <!-- Gelli -->
     <item component="ComponentInfo{com.dkanada.gramophone/com.dkanada.gramophone.ui.activities.SplashActivity}" drawable="gelli" />
+    <item component="ComponentInfo{com.dkanada.gramophone/com.dkanada.gramophone.activities.SplashActivity}" drawable="gelli" />
     <item component="ComponentInfo{com.dkanada.gramophone.debug/com.dkanada.gramophone.ui.activities.SplashActivity}" drawable="gelli" />
+    <item component="ComponentInfo{com.dkanada.gramophone.debug/com.dkanada.gramophone.activities.SplashActivity}" drawable="gelli" />
 
     <!-- Gello -->
     <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
