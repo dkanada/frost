@@ -219,6 +219,10 @@
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
 
+    <!-- Arcticons -->
+    <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
+    <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
+
     <!-- ArchWiki Viewer -->
     <item component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.MainActivity}" drawable="archwikiviewer" />
 
