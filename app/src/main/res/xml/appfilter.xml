@@ -3906,6 +3906,9 @@
     <!-- zmNinja -->
     <item component="ComponentInfo{com.pliablepixels.zmninja_pro/com.pliablepixels.zmninja_pro.MainActivity}" drawable="zmninja" />
 
+    <!-- Zoo for Zotero -->
+    <item component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}" drawable="zooforzotero"/>
+
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
 
