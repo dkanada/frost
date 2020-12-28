@@ -25,7 +25,7 @@ public class SourceActivity extends BaseActivity {
 
         CenterButton code = new CenterButton(this);
         code.setText(R.string.code);
-        code.setIcon(R.drawable.android);
+        code.setIcon(R.drawable.ic_code);
         code.setOnClickListener((v) -> IntentUtils.openUrl(this, R.string.url_repository));
         baseLayout.addView(code);
 
@@ -33,7 +33,7 @@ public class SourceActivity extends BaseActivity {
         support.setForeground(R.color.textDark);
         support.setBackground(R.color.colorDark);
         support.setText(R.string.support);
-        support.setIcon(R.drawable.android);
+        support.setIcon(R.drawable.ic_favorite);
         support.setOnClickListener((v) -> IntentUtils.openUrl(this, R.string.url_support));
         baseLayout.addView(support);
     }

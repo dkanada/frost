@@ -1,8 +1,6 @@
 package com.dkanada.icecons.views;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.view.Gravity;
 import android.widget.ImageView;
@@ -10,9 +8,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.appcompat.widget.LinearLayoutCompat;
+import androidx.core.content.res.ResourcesCompat;
 
 import com.dkanada.icecons.R;
-import com.dkanada.icecons.utils.ImageUtils;
 import com.dkanada.icecons.utils.ScreenUtils;
 
 public class CenterButton extends LinearLayoutCompat {
@@ -56,11 +54,7 @@ public class CenterButton extends LinearLayoutCompat {
     }
 
     public void setIcon(int resId) {
-        float scale = ScreenUtils.densityScale(context);
-        int size = Math.round(48 * scale);
-
-        Bitmap bitmap = ImageUtils.bitmapLoad(context.getResources(), resId, size, size);
-        Drawable drawable = new BitmapDrawable(getResources(), bitmap);
+        Drawable drawable = ResourcesCompat.getDrawable(context.getResources(), resId, null);
 
         imageView.setImageDrawable(drawable);
     }
