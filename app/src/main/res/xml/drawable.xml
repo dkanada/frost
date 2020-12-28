@@ -168,6 +168,7 @@
     <item drawable="comicscreen" />
     <item drawable="commons" />
     <item drawable="commonvoice" />
+    <item drawable="compass" />
     <item drawable="contacts" />
     <item drawable="contenttransfer" />
     <item drawable="controlloid" />
@@ -381,6 +382,7 @@
     <item drawable="hangouts" />
     <item drawable="happening" />
     <item drawable="hauk" />
+    <item drawable="hbomax" />
     <item drawable="hearth" />
     <item drawable="hellotalk" />
     <item drawable="herecomesthebus" />
@@ -393,6 +395,7 @@
     <item drawable="hulu" />
     <item drawable="icecat" />
     <item drawable="icsdroid" />
+    <item drawable="idagio" />
     <item drawable="identiconizer" />
     <item drawable="ifood" />
     <item drawable="imagepipe" />
@@ -526,6 +529,7 @@
     <item drawable="microchip" />
     <item drawable="microgsettings" />
     <item drawable="mifit" />
+    <item drawable="mimusic" />
     <item drawable="mindustry" />
     <item drawable="minecraft" />
     <item drawable="minesweeper" />
@@ -534,6 +538,9 @@
     <item drawable="minminguard" />
     <item drawable="mirry" />
     <item drawable="mitch" />
+    <item drawable="miuisecurity" />
+    <item drawable="miuiweather" />
+    <item drawable="mivideo" />
     <item drawable="mixplorer" />
     <item drawable="mobilepay" />
     <item drawable="modpizza" />
@@ -750,10 +757,12 @@
     <item drawable="sbbmobile" />
     <item drawable="sberbank" />
     <item drawable="scanbot" />
+    <item drawable="scanner" />
     <item drawable="scarletnotesfd" />
     <item drawable="scrambledexif" />
     <item drawable="screencam" />
     <item drawable="screencast" />
+    <item drawable="screenrecorder" />
     <item drawable="screeps" />
     <item drawable="scummvm" />
     <item drawable="sdmaid" />
@@ -770,6 +779,7 @@
     <item drawable="seventime" />
     <item drawable="sgit" />
     <item drawable="shadowsocks" />
+    <item drawable="shareme" />
     <item drawable="sharetoclipboard" />
     <item drawable="sharetocomputer" />
     <item drawable="shatteredpixeldungeon" />
@@ -996,6 +1006,7 @@
     <item drawable="yaweather" />
     <item drawable="yetanothercallblocker" />
     <item drawable="yetanothervideoplayer" />
+    <item drawable="youmail" />
     <item drawable="yourphone" />
     <item drawable="youtube" />
     <item drawable="ytaxi" />

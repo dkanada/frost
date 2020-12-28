@@ -168,6 +168,7 @@
         <item>comicscreen</item>
         <item>commons</item>
         <item>commonvoice</item>
+        <item>compass</item>
         <item>contacts</item>
         <item>contenttransfer</item>
         <item>controlloid</item>
@@ -381,6 +382,7 @@
         <item>hangouts</item>
         <item>happening</item>
         <item>hauk</item>
+        <item>hbomax</item>
         <item>hearth</item>
         <item>hellotalk</item>
         <item>herecomesthebus</item>
@@ -393,6 +395,7 @@
         <item>hulu</item>
         <item>icecat</item>
         <item>icsdroid</item>
+        <item>idagio</item>
         <item>identiconizer</item>
         <item>ifood</item>
         <item>imagepipe</item>
@@ -526,6 +529,7 @@
         <item>microchip</item>
         <item>microgsettings</item>
         <item>mifit</item>
+        <item>mimusic</item>
         <item>mindustry</item>
         <item>minecraft</item>
         <item>minesweeper</item>
@@ -534,6 +538,9 @@
         <item>minminguard</item>
         <item>mirry</item>
         <item>mitch</item>
+        <item>miuisecurity</item>
+        <item>miuiweather</item>
+        <item>mivideo</item>
         <item>mixplorer</item>
         <item>mobilepay</item>
         <item>modpizza</item>
@@ -750,10 +757,12 @@
         <item>sbbmobile</item>
         <item>sberbank</item>
         <item>scanbot</item>
+        <item>scanner</item>
         <item>scarletnotesfd</item>
         <item>scrambledexif</item>
         <item>screencam</item>
         <item>screencast</item>
+        <item>screenrecorder</item>
         <item>screeps</item>
         <item>scummvm</item>
         <item>sdmaid</item>
@@ -770,6 +779,7 @@
         <item>seventime</item>
         <item>sgit</item>
         <item>shadowsocks</item>
+        <item>shareme</item>
         <item>sharetoclipboard</item>
         <item>sharetocomputer</item>
         <item>shatteredpixeldungeon</item>
@@ -996,6 +1006,7 @@
         <item>yaweather</item>
         <item>yetanothercallblocker</item>
         <item>yetanothervideoplayer</item>
+        <item>youmail</item>
         <item>yourphone</item>
         <item>youtube</item>
         <item>ytaxi</item>
