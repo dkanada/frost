@@ -16,8 +16,8 @@ import com.dkanada.icecons.utils.ScreenUtils;
 import java.util.ArrayList;
 
 public class WallpaperActivity extends BaseActivity {
-    private ArrayList<LinearLayout> layoutList = new ArrayList<>();
-    private ArrayList<ImageView> imageList = new ArrayList<>();
+    private final ArrayList<LinearLayout> layoutList = new ArrayList<>();
+    private final ArrayList<ImageView> imageList = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -19,10 +19,9 @@ import java.io.IOException;
 import androidx.core.content.ContextCompat;
 
 public class WallpaperSetActivity extends BaseActivity {
+    Bitmap wallpaper;
 
     float scale;
-
-    Bitmap wallpaper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
