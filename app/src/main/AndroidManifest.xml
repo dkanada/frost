@@ -35,6 +35,7 @@
 
         <activity android:name="com.dkanada.icecons.activities.WallpaperActivity" />
         <activity android:name="com.dkanada.icecons.activities.WallpaperSetActivity" />
+        <activity android:name="com.dkanada.icecons.activities.SourceActivity" />
         <activity android:name="com.dkanada.icecons.activities.LicenseActivity" />
         <activity android:name="com.dkanada.icecons.activities.IconActivity" />
 
