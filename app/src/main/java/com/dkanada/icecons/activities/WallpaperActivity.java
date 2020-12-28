@@ -57,7 +57,7 @@ public class WallpaperActivity extends BaseActivity {
 
         String[] wallpapers = getResources().getStringArray(R.array.wallpapers);
         for (int i = 0; i < wallpapers.length; i++) {
-            if ((i % width) == 0) {
+            if (i % width == 0) {
                 layoutList.add((i / width), new LinearLayout(this));
                 layoutList.get(i / width).setOrientation(LinearLayout.HORIZONTAL);
                 layoutList.get(i / width).setGravity(Gravity.START);
@@ -65,6 +65,7 @@ public class WallpaperActivity extends BaseActivity {
 
                 baseLayout.addView(layoutList.get(i / width));
             }
+
             imageList.add(i, new ImageView(this));
             imageList.get(i).setLayoutParams(imageParams);
             imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);

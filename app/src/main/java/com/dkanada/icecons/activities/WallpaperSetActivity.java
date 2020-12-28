@@ -31,6 +31,7 @@ public class WallpaperSetActivity extends BaseActivity {
         int imageId = intent.getIntExtra("image", 0);
         int screenWidth = ScreenUtils.width(getApplicationContext());
         int screenHeight = ScreenUtils.height(getApplicationContext());
+
         wallpaper = ImageUtils.bitmapLoad(getApplicationContext().getResources(), imageId, screenWidth, screenHeight);
         scale = ScreenUtils.densityScale(getApplicationContext());
 

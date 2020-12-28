@@ -57,7 +57,7 @@ public class ImageUtils {
         return Bitmap.createScaledBitmap(rawBitmap, width, height, true);
     }
 
-    // calc sample size for scaled resource loading
+    // calculate sample size for scaled resource loading
     private static int sampleSize(float scale) {
         int size = 1;
         while (scale < 0.5f) {
