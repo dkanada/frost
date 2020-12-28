@@ -32,10 +32,12 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
         <activity android:name="com.dkanada.icecons.activities.WallpaperActivity" />
         <activity android:name="com.dkanada.icecons.activities.WallpaperSetActivity" />
         <activity android:name="com.dkanada.icecons.activities.LicenseActivity" />
         <activity android:name="com.dkanada.icecons.activities.IconActivity" />
+
     </application>
 
 </manifest>
