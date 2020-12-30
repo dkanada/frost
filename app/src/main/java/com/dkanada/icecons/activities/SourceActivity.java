@@ -16,12 +16,17 @@ public class SourceActivity extends BaseActivity {
     }
 
     private void createLayout() {
+        LinearLayout frameLayout = new LinearLayout(this);
+        frameLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
+        frameLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
+        frameLayout.setGravity(Gravity.CENTER);
+        setContentView(frameLayout);
+
         LinearLayout baseLayout = new LinearLayout(this);
         baseLayout.setOrientation(LinearLayout.VERTICAL);
-        baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT));
-        baseLayout.setGravity(Gravity.CENTER);
-        baseLayout.setBackgroundColor(getResources().getColor(R.color.colorLight));
-        setContentView(baseLayout);
+        baseLayout.setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.MATCH_PARENT));
+        baseLayout.setGravity(Gravity.START);
+        frameLayout.addView(baseLayout);
 
         CenterButton code = new CenterButton(this);
         code.setText(R.string.code);
@@ -30,8 +35,6 @@ public class SourceActivity extends BaseActivity {
         baseLayout.addView(code);
 
         CenterButton support = new CenterButton(this);
-        support.setForeground(R.color.textDark);
-        support.setBackground(R.color.colorDark);
         support.setText(R.string.support);
         support.setIcon(R.drawable.ic_favorite);
         support.setOnClickListener((v) -> IntentUtils.openUrl(this, R.string.url_support));

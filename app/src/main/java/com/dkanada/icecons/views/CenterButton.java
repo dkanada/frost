@@ -3,6 +3,7 @@ package com.dkanada.icecons.views;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.view.Gravity;
+import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -24,7 +25,7 @@ public class CenterButton extends LinearLayoutCompat {
         super(context);
 
         float scale = ScreenUtils.densityScale(context);
-        int padding = Math.round(16 * scale);
+        int padding = Math.round(24 * scale);
 
         this.context = context;
         this.button = new LinearLayout(context);
@@ -45,7 +46,7 @@ public class CenterButton extends LinearLayoutCompat {
         setForeground(R.color.textLight);
         setBackground(R.color.colorLight);
         setLayoutParams(new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
-        setGravity(Gravity.CENTER);
+        setGravity(Gravity.CENTER_VERTICAL);
         addView(button);
     }
 
@@ -55,8 +56,16 @@ public class CenterButton extends LinearLayoutCompat {
 
     public void setIcon(int resId) {
         Drawable drawable = ResourcesCompat.getDrawable(context.getResources(), resId, null);
+        ViewGroup.LayoutParams params = imageView.getLayoutParams();
+
+        float scale = ScreenUtils.densityScale(context);
+        int size = Math.round(48 * scale);
+
+        params.width = size;
+        params.height = size;
 
         imageView.setImageDrawable(drawable);
+        imageView.setLayoutParams(params);
     }
 
     public void setForeground(int resId) {
@@ -71,7 +80,7 @@ public class CenterButton extends LinearLayoutCompat {
     }
 
     public void disableIcon() {
-        int padding = textView.getPaddingLeft() * 4;
+        int padding = textView.getPaddingLeft() * 2;
 
         textView.setPadding(padding, padding, padding, padding);
         imageView.setImageDrawable(null);
