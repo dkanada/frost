@@ -1045,6 +1045,9 @@
     <!-- Floatplane -->
     <item component="ComponentInfo{com.floatplane.floatplane/com.floatplane.floatplane.MainActivity}" drawable="floatplane" />
 
+    <!-- FlorisBoard -->
+    <item component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" drawable="florisboard"/>
+
     <!-- Flow Free Bridges -->
     <item component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flow.flow}" drawable="flowfreebridges" />
 
