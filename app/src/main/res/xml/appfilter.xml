@@ -2377,6 +2377,9 @@
     <!-- Posidon Launcher -->
     <item component="ComponentInfo{posidon.launcher/posidon.launcher.Main}" drawable="posidonlauncher" />
 
+    <!-- Post & DHL -->
+    <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.MainActivity}" drawable="postdhl"/>
+
     <!-- Power Ampache -->
     <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache" />
     <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.MainActivity}" drawable="powerampache" />
