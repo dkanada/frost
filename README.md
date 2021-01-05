@@ -14,7 +14,7 @@ There are over **1000 icons!**, as well as a few **4K wallpapers** included. Sub
 This app doesn't have an icon request feature, so you'll have to do the following steps.
 
 1. **Install [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit)** which can extract the icons and class names of your apps.
-2. **Grant the storage access permission to Turtl** in your system settings, this will allow it to save the zip file. (Only required in Android 6 "Marshmallow" or newer, older versions grant this permission on installation).
+2. **Grant the storage access permission to Turtl** in your system settings, this will allow it to save the zip file (Only required in Android 6 "Marshmallow" or newer, older versions grant this permission on installation).
 3. **Open Turtl** and follow the process to save the new zip file to your phone.
 4. **[Make an issue](https://github.com/dkanada/frost/issues/new)** titled "Icon Request" and attach the zip file.
 
