@@ -350,6 +350,9 @@
 
     <!-- Blocker -->
     <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker" />
+    
+    <!-- Blocket -->
+    <item component="ComponentInfo{se.appcorn.Blocket/se.blocket.activities.MainActivity}" drawable="blocket"/>
 
     <!-- Blockinger -->
     <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger" />
@@ -596,6 +599,9 @@
 
     <!-- Compass -->
     <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
+    
+    <!-- Connect -->
+    <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect"/>
 
     <!-- ConnectBot -->
     <item component="ComponentInfo{org.connectbot/org.connectbot.ConsoleActivity}" drawable="shell" />
@@ -1204,6 +1210,7 @@
     <!-- Google Camera -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="gcamera" />
     <item component="ComponentInfo{com.google.android.CameraRedmi5Plus/com.android.camera.CameraLauncher}" drawable="gcamera" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera.Urnyx/com.android.camera.CameraLauncher}" drawable="camera"/>
 
     <!-- Google Chrome -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
@@ -3266,6 +3273,9 @@
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
+    
+    <!-- Skolschema -->
+    <item component="ComponentInfo{com.potatiz.skolschema/com.potatiz.skolschema.MainActivity}" drawable="skolschema"/>
 
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype" />
@@ -3308,6 +3318,12 @@
     <!-- Sonos -->
     <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
     <item component="ComponentInfo{com.sonos.acr2/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
+    
+    <!-- SOS Alarm -->
+    <item component="ComponentInfo{se.sos.soslive/se.sos.soslive.activities.SplashActivity}" drawable="sosalarm"/>
+    
+    <!-- Sound+ -->
+    <item component="ComponentInfo{com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity}" drawable="sound"/>
 
     <!-- Soundcloud -->
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.MainActivity}" drawable="soundcloud" />
@@ -3366,6 +3382,9 @@
 
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
+    
+    <!-- Strava -->
+    <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava"/>
 
     <!-- Street­Complete -->
     <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete" />
@@ -3408,6 +3427,7 @@
 
     <!-- Swedbank -->
     <item component="se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity" drawable="swedbank" />
+    <item component="ComponentInfo{se.swedbank.mobil/se.swedbank.mobilbank.general.SplashActivity}" drawable="swedbank"/>
 
     <!-- SwiftKey -->
     <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="swiftkey" />
@@ -3689,6 +3709,7 @@
 
     <!-- Vasttrafik To Go -->
     <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik" />
+    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/se.vasttrafik.togo.core.MainActivity}" drawable="vsttrafik"/>
 
     <!-- Vector Pinball -->
     <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball" />
