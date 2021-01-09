@@ -1130,6 +1130,9 @@
     <!-- FreeOTP+ -->
     <item component="ComponentInfo{org.liberty.android.freeotpplus/org.fedorahosted.freeotp.ui.MainActivity}" drawable="freeotpplus" />
 
+    <!-- Freezer -->
+    <item component="ComponentInfo{f.f.freezer/f.f.freezer.MainActivity}" drawable="freezer" />
+
     <!-- Frost Facebook-->
     <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook" />
 
