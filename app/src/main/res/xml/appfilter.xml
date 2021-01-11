@@ -354,7 +354,7 @@
 
     <!-- Blocker -->
     <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker" />
-    
+
     <!-- Blocket -->
     <item component="ComponentInfo{se.appcorn.Blocket/se.blocket.activities.MainActivity}" drawable="blocket"/>
 
@@ -606,7 +606,7 @@
 
     <!-- Compass -->
     <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
-    
+
     <!-- Connect -->
     <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect"/>
 
@@ -869,6 +869,10 @@
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
+    <!-- raiffeisenbank -->
+    <!-- eKonto -->
+    <item component="ComponentInfo{cz.rb.app.smartphonebanking/com.zentity.rbcz.activity.RootActivity}" drawable="raiffeisenbank"/>
+
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element" />
     <item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element" />
@@ -1105,6 +1109,7 @@
 
     <!-- Fortuneo -->
     <item component="ComponentInfo{com.fortuneo.android/com.fortuneo.android.activities.SplashScreenActivity}" drawable="fortuneo " />
+    <item component="ComponentInfo{com.fortuneo.android/com.fortuneo.android.activities.EntryActivity}" drawable="fortuneo"/>
 
     <!-- FOSS Browser -->
     <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="fossbrowser" />
@@ -1120,6 +1125,9 @@
 
     <!-- Freebox -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivityLauncher}" drawable="freebox2" />
+
+    <!-- FreeDCam -->
+    <item component="ComponentInfo{troop.com.freedcam/freed.cam.ActivityFreeDcamMain}" drawable="camera"/>
 
     <!-- Free Mobile Netstat -->
     <item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="freemobilenetstat" />
@@ -1354,7 +1362,7 @@
 
     <!-- Hauk -->
     <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk" />
-    
+
     <!-- HBO Max -->
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="hbomax" />
 
@@ -1397,9 +1405,12 @@
 
     <!-- Idagio -->
     <item component="ComponentInfo{com.idagio.app/com.idagio.app.features.onboarding.IntroActivityBase}" drawable="idagio" />
-    
+
     <!-- Identiconizer -->
     <item component="ComponentInfo{com.germainz.identiconizer/com.germainz.identiconizer.IdenticonsSettings}" drawable="identiconizer" />
+
+    <!-- iFixit -->
+    <item component="ComponentInfo{com.dozuki.ifixit/com.dozuki.ifixit.ui.topic.TopicActivity}" drawable="ifixit"/>
 
     <!-- iFood -->
     <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
@@ -1567,6 +1578,9 @@
     <!-- Kuroba -->
     <item component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}" drawable="kuroba" />
 
+    <!-- La Banque Postale -->
+    <item component="ComponentInfo{com.fullsix.android.labanquepostale.accountaccess/com.fullsix.android.labanquepostale.accountaccess.BanquePostale}" drawable="labanquepostale"/>
+
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
 
@@ -1610,7 +1624,7 @@
 
     <!-- Libby -->
     <item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
-    
+
     <!-- Libreflix -->
     <item component="ComponentInfo{org.libreflix.app/org.libreflix.app.MainActivity}" drawable="libreflix" />
 
@@ -1889,6 +1903,9 @@
 
     <!-- MiXplorer -->
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
+
+    <!-- MMT-365 -->
+    <item component="ComponentInfo{com.mmt.applications.chronometer/com.mmt.applications.chronometer.ScreenSplash}" drawable="mmt-365"/>
 
     <!-- MobilePay -->
     <item component="ComponentInfo{dk.danskebank.mobilepay/dk.danskebank.p2p.ui.login.LoginActivity}" drawable="mobilepay" />
@@ -2481,6 +2498,12 @@
 
     <!-- QR Plugin for Keepass2android -->
     <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
+
+    <!-- QR & Barcode Scanner -->
+    <item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="qrscanner"/>
+
+    <!-- QR Code -->
+    <item component="ComponentInfo{com.mauriciogior.openqrcode/com.mauriciogior.openqrcode.MainActivity}" drawable="qrcode"/>
 
     <!-- QR Scanner -->
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner" />
@@ -3320,7 +3343,7 @@
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
-    
+
     <!-- Skolschema -->
     <item component="ComponentInfo{com.potatiz.skolschema/com.potatiz.skolschema.MainActivity}" drawable="skolschema"/>
 
@@ -3365,10 +3388,10 @@
     <!-- Sonos -->
     <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
     <item component="ComponentInfo{com.sonos.acr2/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
-    
+
     <!-- SOS Alarm -->
     <item component="ComponentInfo{se.sos.soslive/se.sos.soslive.activities.SplashActivity}" drawable="sosalarm"/>
-    
+
     <!-- Sound+ -->
     <item component="ComponentInfo{com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity}" drawable="sound"/>
 
@@ -3429,7 +3452,7 @@
 
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
-    
+
     <!-- Strava -->
     <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava"/>
 
@@ -3964,7 +3987,7 @@
 
     <!-- YouMail -->
     <item component="ComponentInfo{com.youmail.android.vvm/com.youmail.android.vvm.main.VVMMainActivity}" drawable="youmail" />
-    
+
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
