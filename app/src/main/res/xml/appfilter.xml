@@ -869,6 +869,9 @@
     <!-- Eduroam CAT -->
     <item component="ComponentInfo{uk.ac.swansea.eduroamcat/uk.ac.swansea.eduroamcat.eduroamCAT}" drawable="eduroamcat" />
 
+    <!-- eKonto -->
+    <item component="ComponentInfo{cz.rb.app.smartphonebanking/com.zentity.rbcz.activity.RootActivity}" drawable="raiffeisenbank"/>
+
     <!-- Element -->
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element" />
     <item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element" />
@@ -1901,7 +1904,7 @@
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" />
 
     <!-- MMT-365 -->
-    <item component="ComponentInfo{com.mmt.applications.chronometer/com.mmt.applications.chronometer.ScreenSplash}" drawable="mmt-365"/>
+    <item component="ComponentInfo{com.mmt.applications.chronometer/com.mmt.applications.chronometer.ScreenSplash}" drawable="mmt365"/>
 
     <!-- MobilePay -->
     <item component="ComponentInfo{dk.danskebank.mobilepay/dk.danskebank.p2p.ui.login.LoginActivity}" drawable="mobilepay" />
@@ -2493,10 +2496,10 @@
     <item component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}" drawable="qksms" />
 
     <!-- QR & Barcode Scanner -->
-    <item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="qrscanner"/>
+    <item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="qrcode"/>
 
     <!-- QR Code -->
-    <item component="ComponentInfo{com.mauriciogior.openqrcode/com.mauriciogior.openqrcode.MainActivity}" drawable="qrcode"/>
+    <item component="ComponentInfo{com.mauriciogior.openqrcode/com.mauriciogior.openqrcode.MainActivity}" drawable="qrscanner"/>
 
     <!-- QR Plugin for Keepass2android -->
     <item component="ComponentInfo{keepass2android.plugin.qr/keepass2android.plugin.qr.MainActivity}" drawable="qrforkeepass" />
@@ -2525,10 +2528,6 @@
 
     <!-- Radio -->
     <item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
-
-    <!-- raiffeisenbank -->
-    <!-- eKonto -->
-    <item component="ComponentInfo{cz.rb.app.smartphonebanking/com.zentity.rbcz.activity.RootActivity}" drawable="raiffeisenbank"/>
 
     <!-- Railway station photos -->
     <item component="ComponentInfo{de.bahnhoefe.deutschlands.bahnhofsfotos/de.bahnhoefe.deutschlands.bahnhofsfotos.MainActivity}" drawable="railwaystationphotos" />
