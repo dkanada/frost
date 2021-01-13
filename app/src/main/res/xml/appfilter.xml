@@ -276,6 +276,9 @@
     <!-- Authenticator (LastPass) -->
     <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="lastpassauthenticator" />
 
+    <!-- Authenticator -->
+    <item component="ComponentInfo{me.jmh.authenticatorpro/crc646be539cf0a2d8609.MainActivity}" drawable="authenticator"/>
+
     <!-- AuthPass -->
     <item component="ComponentInfo{design.codeux.authpass.fdroid/design.codeux.authpass.MainActivity}" drawable="authpass" />
 
@@ -636,6 +639,9 @@
 
     <!-- Corona Melder -->
     <item component="ComponentInfo{nl.rijksoverheid.en/nl.rijksoverheid.en.MainActivity}" drawable="coronamelder" />
+
+    <!-- Corona Tracing -->
+    <item component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="coronatracing"/>
 
     <!-- Couchsurfing -->
     <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing" />
@@ -1825,6 +1831,9 @@
     <!-- Microsoft Excel -->
     <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel" />
 
+    <!-- Microsoft Launcher -->
+    <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoftlauncher"/>
+    
     <!-- Microsoft Onedrive -->
     <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
@@ -2028,6 +2037,9 @@
 
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster" />
+
+    <!-- Neato -->
+    <item component="ComponentInfo{com.neatorobotics.android/com.neatorobotics.android.app.splashscreen.SplashScreenActivity}" drawable="neato"/>
 
     <!-- nebenan.de -->
     <item component="ComponentInfo{de.nebenan.app/de.nebenan.app.ui.main.LaunchActivity}" drawable="nebenande" />
@@ -2416,6 +2428,9 @@
 
     <!-- Posidon Launcher -->
     <item component="ComponentInfo{posidon.launcher/posidon.launcher.Main}" drawable="posidonlauncher" />
+
+    <!-- Post & DHL -->
+    <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.MainActivity}" drawable="postdhl"/>
 
     <!-- Power Ampache -->
     <item component="ComponentInfo{com.antoniotari.reactiveampacheapp/com.antoniotari.reactiveampacheapp.ui.activities.SplashActivity}" drawable="powerampache" />
@@ -3989,6 +4004,9 @@
 
     <!-- zmNinja -->
     <item component="ComponentInfo{com.pliablepixels.zmninja_pro/com.pliablepixels.zmninja_pro.MainActivity}" drawable="zmninja" />
+
+    <!-- Zoo for Zotero -->
+    <item component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}" drawable="zooforzotero"/>
 
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
