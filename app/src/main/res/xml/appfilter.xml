@@ -357,7 +357,7 @@
 
     <!-- Blocker -->
     <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker" />
-    
+
     <!-- Blocket -->
     <item component="ComponentInfo{se.appcorn.Blocket/se.blocket.activities.MainActivity}" drawable="blocket"/>
 
@@ -609,7 +609,7 @@
 
     <!-- Compass -->
     <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
-    
+
     <!-- Connect -->
     <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect"/>
 
@@ -655,6 +655,9 @@
     <!-- Cpu-Z -->
     <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
 
+    <!-- Creditas -->
+    <item component="ComponentInfo{cz.creditas.mb/cz.creditas.mb.UnsecuredMainActivity}" drawable="creditas"/>
+
     <!-- CrontoSign Swiss -->
     <item component="ComponentInfo{com.cronto.crontosign.swiss/com.vasco.crontosign.phototan.MainActivity}" drawable="crontosignswiss" />
 
@@ -669,6 +672,9 @@
 
     <!-- Currency -->
     <item component="ComponentInfo{org.billthefarmer.currency/org.billthefarmer.currency.Main}" drawable="currency" />
+
+    <!-- Curve -->
+    <item component="ComponentInfo{com.imaginecurve.curve.prd/com.imaginecurve.curve.startup.launch.LaunchActivity}" drawable="curve"/>
 
     <!-- Cyanogenmod Browser -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
@@ -862,6 +868,9 @@
 
     <!-- Ebay Kleinanzeigen -->
     <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebaykleinanzeigen" />
+
+    <!-- EBT.art -->
+    <item component="ComponentInfo{com.reactiveebt/com.reactiveebt.MainActivity}" drawable="ebtart"/>
 
     <!-- Echo -->
     <item component="ComponentInfo{eu.mrogalski.saidit/eu.mrogalski.saidit.SaidItActivity}" drawable="echo" />
@@ -1126,6 +1135,8 @@
 
     <!-- Freebox -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivityLauncher}" drawable="freebox2" />
+    <!-- FreeDCam Viewer -->
+    <item component="ComponentInfo{troop.com.freedcam/freed.viewer.ActivityFreeDviewer}" drawable="freedcamviewer"/>
 
     <!-- Free Mobile Netstat -->
     <item component="ComponentInfo{org.pixmob.freemobile.netstat/org.pixmob.freemobile.netstat.ui.Netstat}" drawable="freemobilenetstat" />
@@ -1360,7 +1371,7 @@
 
     <!-- Hauk -->
     <item component="ComponentInfo{info.varden.hauk/info.varden.hauk.ui.MainActivity}" drawable="hauk" />
-    
+
     <!-- HBO Max -->
     <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="hbomax" />
 
@@ -1403,7 +1414,7 @@
 
     <!-- Idagio -->
     <item component="ComponentInfo{com.idagio.app/com.idagio.app.features.onboarding.IntroActivityBase}" drawable="idagio" />
-    
+
     <!-- Identiconizer -->
     <item component="ComponentInfo{com.germainz.identiconizer/com.germainz.identiconizer.IdenticonsSettings}" drawable="identiconizer" />
 
@@ -1616,7 +1627,7 @@
 
     <!-- Libby -->
     <item component="ComponentInfo{com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main}" drawable="libby" />
-    
+
     <!-- Libreflix -->
     <item component="ComponentInfo{org.libreflix.app/org.libreflix.app.MainActivity}" drawable="libreflix" />
 
@@ -1732,6 +1743,9 @@
     <!-- MAPS.ME -->
     <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="mapsme" />
 
+    <!-- Mapy.cz -->
+    <item component="ComponentInfo{cz.seznam.mapy/cz.seznam.mapy.MapActivity}" drawable="mapycz"/>
+
     <!-- Markers -->
     <item component="ComponentInfo{org.dsandler.apps.markers/com.google.android.apps.markers.MarkersActivity}" drawable="markers" />
 
@@ -1742,7 +1756,7 @@
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
 
     <!-- Material Islands -->
-    <item component="ComponentInfo{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity_}" drawable="materialislands" />
+    <item component="{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity_}" drawable="materialislands" />
 
     <!-- Materialistic -->
     <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="materialistic" />
@@ -1833,7 +1847,7 @@
 
     <!-- Microsoft Launcher -->
     <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoftlauncher"/>
-    
+
     <!-- Microsoft Onedrive -->
     <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
@@ -2034,6 +2048,7 @@
 
     <!-- N26 -->
     <item component="ComponentInfo{de.number26.android/de.number26.machete.android.ui.landing.LandingActivity}" drawable="n26" />
+    <item component="ComponentInfo{de.number26.android/de.number26.machete.android.refactor.presentation.settings.customize_icon.launch_aliases.TealActivityLauncher}" drawable="n26"/>
 
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster" />
@@ -2169,6 +2184,9 @@
     <!-- Offline Calendar -->
     <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="offlinecalendar" />
 
+    <!-- OkcAgent -->
+    <item component="ComponentInfo{org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity}" drawable="okcagent"/>
+
     <!-- OKO Light Meter -->
     <item component="ComponentInfo{com.okacat.lightmeter/com.okacat.lightmeter.ui.activities.SplashActivity}" drawable="okolightmeter" />
 
@@ -2303,6 +2321,9 @@
     <!-- Packlist -->
     <item component="ComponentInfo{com.nbossard.packlist/com.nbossard.packlist.gui.MainActivity}" drawable="packlist" />
 
+    <!-- Pády -->
+    <item component="ComponentInfo{com.pascalheitz.pady/com.pascalheitz.pady.MainActivity}" drawable="pady"/>
+
     <!-- Pairs -->
     <item component="ComponentInfo{jp.eure.android.pairs/jp.eure.android.pairs.presentation.launcher.SplashActivity}" drawable="simplethankyou" />
 
@@ -2383,6 +2404,9 @@
 
     <!-- PicSay Pro -->
     <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay" />
+
+    <!-- PID Lítačka -->
+    <item component="ComponentInfo{cz.dpp.praguepublictransport/cz.dpp.praguepublictransport.activities.GuideActivity}" drawable="pidlitacka"/>
 
     <!-- Pimple_Popper -->
     <item component="ComponentInfo{rocks.poopjournal.pimplepopper/com.godot.game.GodotApp}" drawable="pimple_popper" />
@@ -2527,6 +2551,9 @@
 
     <!-- Rainy Mood -->
     <item component="ComponentInfo{com.TailoredMusic.RainyMoodFree/com.TailoredMusic.RainyMood.MainActivity}" drawable="rainymood" />
+
+    <!-- RB Key -->
+    <item component="ComponentInfo{cz.rb.app.mtoken/io.getlime.android.mtoken.ui.main.MainActivity}" drawable="rbkey"/>
 
     <!-- ReadEra -->
     <item component="ComponentInfo{org.readera/com.readera.MainActivity}" drawable="readera" />
@@ -3335,7 +3362,7 @@
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sim" />
-    
+
     <!-- Skolschema -->
     <item component="ComponentInfo{com.potatiz.skolschema/com.potatiz.skolschema.MainActivity}" drawable="skolschema"/>
 
@@ -3380,10 +3407,10 @@
     <!-- Sonos -->
     <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
     <item component="ComponentInfo{com.sonos.acr2/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
-    
+
     <!-- SOS Alarm -->
     <item component="ComponentInfo{se.sos.soslive/se.sos.soslive.activities.SplashActivity}" drawable="sosalarm"/>
-    
+
     <!-- Sound+ -->
     <item component="ComponentInfo{com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity}" drawable="sound"/>
 
@@ -3439,12 +3466,15 @@
     <!-- Steam -->
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam" />
 
+    <!-- Stellarium -->
+    <item component="ComponentInfo{com.noctuasoftware.stellarium_free/com.noctuasoftware.stellarium_free.Stellarium}" drawable="stellarium" />
+
     <!-- StepStone -->
     <item component="ComponentInfo{com.stepstone.borowf01/com.stepstone.base.presentation.splash.view.SCSplashActivity}" drawable="stepstone" />
 
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
-    
+
     <!-- Strava -->
     <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava"/>
 
@@ -3701,11 +3731,14 @@
     <!-- Trail Sense -->
     <item component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.MainActivity}" drawable="trailsense"/>
 
+    <!-- Tricount -->
+    <item component="ComponentInfo{com.tribab.tricount.android/com.tribab.tricount.android.view.activity.SplashActivity}" drawable="tricount"/>
+
     <!-- Trigger -->
     <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger" />
 
     <!-- Tumblr -->
-    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
+    <item component="ComponentInfo{com.tumblr/com.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
     <!-- Tuner -->
     <item component="ComponentInfo{org.billthefarmer.tuner/org.billthefarmer.tuner.MainActivity}" drawable="tuner" />
@@ -3979,7 +4012,7 @@
 
     <!-- YouMail -->
     <item component="ComponentInfo{com.youmail.android.vvm/com.youmail.android.vvm.main.VVMMainActivity}" drawable="youmail" />
-    
+
     <!-- YouTube -->
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
 
@@ -4005,8 +4038,12 @@
     <!-- zmNinja -->
     <item component="ComponentInfo{com.pliablepixels.zmninja_pro/com.pliablepixels.zmninja_pro.MainActivity}" drawable="zmninja" />
 
+    <!-- Zonky -->
+    <item component="ComponentInfo{cz.zonky/cz.zonky.app.AppActivity}" drawable="zonky"/>
+
     <!-- Zoo for Zotero -->
     <item component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}" drawable="zooforzotero"/>
+
 
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
