@@ -1578,7 +1578,7 @@
     <item component="ComponentInfo{com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity}" drawable="kuroba" />
 
     <!-- La Banque Postale -->
-    <item component="ComponentInfo{com.fullsix.android.labanquepostale.accountaccess/com.fullsix.android.labanquepostale.accountaccess.BanquePostale}" drawable="labanquepostale"/>
+    <item component="ComponentInfo{com.fullsix.android.labanquepostale.accountaccess/com.fullsix.android.labanquepostale.accountaccess.BanquePostale}" drawable="banquepostale"/>
 
     <!-- LabCoat -->
     <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="gitlab" />
