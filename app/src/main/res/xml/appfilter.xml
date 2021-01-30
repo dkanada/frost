@@ -581,7 +581,7 @@
     <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
 
     <!-- Coinbase -->
-    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase" />
+    <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.MainActivity}" drawable="coinbase" />
 
     <!-- Collabora Office -->
     <item component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" drawable="collaboraoffice" />
