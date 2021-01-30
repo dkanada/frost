@@ -1001,6 +1001,9 @@
     <!-- FFUpdater -->
     <item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater" />
 
+    <!-- Fidelity -->
+    <item component="ComponentInfo{com.fidelity.android/com.fidelity.android.activity.AppConfigLoaderActivity}" drawable="fidelity"/>
+
     <!-- Files -->
     <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="files" />
     <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files" />
@@ -1176,6 +1179,9 @@
 
     <!-- Geekttrss -->
     <item component="ComponentInfo{com.geekorum.ttrss.free/com.geekorum.ttrss.MainActivity}" drawable="geekttrss" />
+
+    <!-- GEICO Mobile -->
+    <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoapppresentation.splash.mvvm.view.AceSplashActivity}" drawable="geicomobile"/>
 
     <!-- Gelli -->
     <item component="ComponentInfo{com.dkanada.gramophone/com.dkanada.gramophone.ui.activities.SplashActivity}" drawable="gelli" />
@@ -1525,6 +1531,9 @@
 
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
+
+    <!-- Kindle -->
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle"/>
 
     <!-- KinoPoisk -->
     <item component="ComponentInfo{ru.kinopoisk/ru.kinopoisk.presentation.screen.main.MainActivity}" drawable="kinopoisk" />
@@ -2445,6 +2454,9 @@
     <!-- Practice Hub -->
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainActivity}" drawable="practicehub" />
     <item component="ComponentInfo{com.proch.practicehub/com.proch.practicehub.MainScreen}" drawable="practicehub" />
+
+    <!-- PredictWind -->
+    <item component="ComponentInfo{com.predictwind.mobile.android/com.predictwind.mobile.android.intro.SplashActivity}" drawable="predictwind"/>
 
     <!-- Presence Publisher -->
     <item component="ComponentInfo{org.ostrya.presencepublisher/org.ostrya.presencepublisher.MainActivity}" drawable="presencepublisher" />
@@ -3985,6 +3997,9 @@
 
     <!-- YouTube Vanced -->
     <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+
+    <!-- YT Studio -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity}" drawable="ytstudio"/>
 
     <!-- Yubico Authenticator -->
     <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.ui.main.MainActivity}" drawable="yubicoauthenticator"/>
