@@ -885,6 +885,7 @@
     <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element" />
     <item component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" drawable="element" />
     <item component="ComponentInfo{im.vector.app/im.vector.app.features.MainActivity}" drawable="element" />
+    <item component="ComponentInfo{im.vector.app.debug/im.vector.app.features.Alias}" drawable="element" />
 
     <!-- Eleven -->
     <item component="ComponentInfo{com.ymber.eleven/com.ymber.eleven.ui.activities.HomeActivity}" drawable="eleven" />
@@ -3375,6 +3376,7 @@
 
     <!-- Slack -->
     <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack" />
+    <item component="ComponentInfo{com.Slack/slack.app.ui.HomeActivity}" drawable="slack" />
 
     <!-- Sleep Cycle -->
     <item component="ComponentInfo{com.northcube.sleepcycle/com.northcube.sleepcycle.LauncherActivity}" drawable="sleepcycle" />
