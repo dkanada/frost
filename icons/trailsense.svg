@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:#fff;fill-rule:evenodd;}.b{fill:none;stroke:#fff;stroke-miterlimit:10;}</style>
+    </defs>
+    <path class="a" d="M24,2A22,22,0,1,0,46,24,22,22,0,0,0,24,2Zm0,38.71L19,24,24,7.29,29,24Z"/>
+    <line class="b" x1="19.01" x2="28.99" y1="24" y2="24"/>
+</svg>

@@ -62,8 +62,10 @@
         <item>apps2org</item>
         <item>apps2sd</item>
         <item>appspackagesinfo</item>
+        <item>arbeitszeitkonto</item>
         <item>arbetsfor</item>
         <item>archwikiviewer</item>
+        <item>arcticons</item>
         <item>asteroidossync</item>
         <item>atomic</item>
         <item>audible</item>
@@ -75,6 +77,7 @@
         <item>auroraservices</item>
         <item>aurorastore</item>
         <item>authenticate</item>
+        <item>authenticator</item>
         <item>authpass</item>
         <item>authy</item>
         <item>avans</item>
@@ -83,6 +86,7 @@
         <item>bandsintown</item>
         <item>bankid</item>
         <item>bankieren</item>
+        <item>banquepostale</item>
         <item>banque</item>
         <item>barcode</item>
         <item>batterycalibration</item>
@@ -102,6 +106,7 @@
         <item>blackberrylauncher</item>
         <item>blackboard</item>
         <item>blocker</item>
+        <item>blocket</item>
         <item>blockinger</item>
         <item>blogger</item>
         <item>blokada</item>
@@ -131,6 +136,7 @@
         <item>calendar</item>
         <item>callabike</item>
         <item>callrecorder</item>
+        <item>calyxvpn</item>
         <item>cameraremote</item>
         <item>cameraroll</item>
         <item>camera</item>
@@ -169,11 +175,13 @@
         <item>commons</item>
         <item>commonvoice</item>
         <item>compass</item>
+        <item>connect</item>
         <item>contacts</item>
         <item>contenttransfer</item>
         <item>controlloid</item>
         <item>conversations</item>
         <item>coronamelder</item>
+        <item>coronatracing</item>
         <item>couchsurfing</item>
         <item>cozydrive</item>
         <item>cpustats</item>
@@ -226,6 +234,7 @@
         <item>droidshows</item>
         <item>dropbox</item>
         <item>dsb</item>
+        <item>dsdrive</item>
         <item>dsfile</item>
         <item>dsub</item>
         <item>dtekbyblackberry</item>
@@ -297,6 +306,7 @@
         <item>flinkster</item>
         <item>flipboard</item>
         <item>floatplane</item>
+        <item>florisboard</item>
         <item>flowfreebridges</item>
         <item>flowfreehexes</item>
         <item>flowfree</item>
@@ -323,6 +333,7 @@
         <item>freemobilenetstat</item>
         <item>freeotpplus</item>
         <item>freeotp</item>
+        <item>freezer</item>
         <item>frostfacebook</item>
         <item>frost</item>
         <item>fruitradar</item>
@@ -397,6 +408,7 @@
         <item>icsdroid</item>
         <item>idagio</item>
         <item>identiconizer</item>
+        <item>ifixit</item>
         <item>ifood</item>
         <item>imagepipe</item>
         <item>imagingedgemobile</item>
@@ -459,6 +471,7 @@
         <item>lens</item>
         <item>letterboxd</item>
         <item>lexica</item>
+        <item>libby</item>
         <item>libreflix</item>
         <item>libremchat</item>
         <item>libremmail</item>
@@ -483,6 +496,7 @@
         <item>lite</item>
         <item>lloydsbank</item>
         <item>lnsfrskringar</item>
+        <item>locationprivacy</item>
         <item>locker</item>
         <item>loop</item>
         <item>loyaltycardkeychain</item>
@@ -528,6 +542,7 @@
         <item>mgit</item>
         <item>microchip</item>
         <item>microgsettings</item>
+        <item>microsoftlauncher</item>
         <item>mifit</item>
         <item>mimusic</item>
         <item>mindustry</item>
@@ -542,10 +557,12 @@
         <item>miuiweather</item>
         <item>mivideo</item>
         <item>mixplorer</item>
+        <item>mmt365</item>
         <item>mobilepay</item>
         <item>modpizza</item>
         <item>money</item>
         <item>moneywallet</item>
+        <item>monochromatic</item>
         <item>monster</item>
         <item>moonlight</item>
         <item>moonreaderpro</item>
@@ -559,6 +576,9 @@
         <item>mpdroid</item>
         <item>mpd</item>
         <item>mpv</item>
+        <item>mull</item>
+        <item>mullvadvpn</item>
+        <item>mumla</item>
         <item>mupdf</item>
         <item>musicolet</item>
         <item>musicpiped</item>
@@ -569,6 +589,7 @@
         <item>mx</item>
         <item>myandroidtools</item>
         <item>myapplist</item>
+        <item>mycelium</item>
         <item>myexpenses</item>
         <item>mymail</item>
         <item>myneomabs</item>
@@ -577,6 +598,7 @@
         <item>myuu</item>
         <item>n26</item>
         <item>napster</item>
+        <item>neato</item>
         <item>nebenande</item>
         <item>nebulo</item>
         <item>nemid</item>
@@ -594,6 +616,7 @@
         <item>nfctasks</item>
         <item>nfctools</item>
         <item>nhbooks</item>
+        <item>nine</item>
         <item>nordnet</item>
         <item>nordvpn</item>
         <item>nos</item>
@@ -622,6 +645,7 @@
         <item>onedrive</item>
         <item>onelist</item>
         <item>onenote</item>
+        <item>ooniprobe</item>
         <item>openapk</item>
         <item>openboard</item>
         <item>opencamera</item>
@@ -675,6 +699,7 @@
         <item>pep</item>
         <item>periodical</item>
         <item>permissionchecker</item>
+        <item>phonesaver</item>
         <item>phone</item>
         <item>phonetrack</item>
         <item>phonograph</item>
@@ -695,6 +720,7 @@
         <item>podomtre</item>
         <item>pokemongo</item>
         <item>posidonlauncher</item>
+        <item>postdhl</item>
         <item>powerampache</item>
         <item>powerpoint</item>
         <item>ppsspp</item>
@@ -705,12 +731,14 @@
         <item>primitiveftpd</item>
         <item>privacybrowser</item>
         <item>privacyshade</item>
+        <item>privacy</item>
         <item>privatelocation</item>
         <item>protonmail</item>
         <item>protonvpn</item>
         <item>pslab</item>
         <item>puzzles</item>
         <item>qksms</item>
+        <item>qrcode</item>
         <item>qrforkeepass</item>
         <item>qrscanner</item>
         <item>qr</item>
@@ -721,6 +749,7 @@
         <item>radiodroid</item>
         <item>radiofrance</item>
         <item>radio</item>
+        <item>raiffeisenbank</item>
         <item>railwaystationphotos</item>
         <item>rainymood</item>
         <item>raspberry</item>
@@ -747,6 +776,7 @@
         <item>ring</item>
         <item>riot</item>
         <item>ripple</item>
+        <item>riseupvpn</item>
         <item>rocketchat</item>
         <item>roku</item>
         <item>rootexplorer</item>
@@ -771,6 +801,7 @@
         <item>seasoncalendar</item>
         <item>secusosolitaire</item>
         <item>semitone</item>
+        <item>sendreducedfree</item>
         <item>sensorlab</item>
         <item>sensorreadout</item>
         <item>seriesguide</item>
@@ -813,6 +844,7 @@
         <item>simplevoicerecorder</item>
         <item>simpleweather</item>
         <item>sim</item>
+        <item>skolschema</item>
         <item>skype</item>
         <item>skytube</item>
         <item>slack2</item>
@@ -827,7 +859,9 @@
         <item>solidexplorer</item>
         <item>solitaire</item>
         <item>sonos</item>
+        <item>sosalarm</item>
         <item>soundrecorder</item>
+        <item>sound</item>
         <item>sovcombank</item>
         <item>sparkasse</item>
         <item>sparss</item>
@@ -847,6 +881,7 @@
         <item>stepstone</item>
         <item>stickermaker</item>
         <item>stocard</item>
+        <item>strava</item>
         <item>streetcomplete</item>
         <item>stumbler</item>
         <item>sudoku</item>
@@ -854,6 +889,7 @@
         <item>suntimesalarms</item>
         <item>suntimescalendars</item>
         <item>suntimes</item>
+        <item>superfreezz</item>
         <item>superuser</item>
         <item>supportcenter</item>
         <item>surfshark</item>
@@ -910,6 +946,7 @@
         <item>trackbook</item>
         <item>trackercontrol</item>
         <item>trackworktime</item>
+        <item>trailsense</item>
         <item>trainline</item>
         <item>transdroid</item>
         <item>transdrone</item>
@@ -972,6 +1009,7 @@
         <item>webapps</item>
         <item>webopac</item>
         <item>wechat</item>
+        <item>wellsfargo</item>
         <item>whatsapp</item>
         <item>whatsappwebtogo</item>
         <item>wiebetaaldwat</item>
@@ -1010,10 +1048,12 @@
         <item>yourphone</item>
         <item>youtube</item>
         <item>ytaxi</item>
+        <item>yubicoauthenticator</item>
         <item>zapp</item>
         <item>zarchiver</item>
         <item>zeronet</item>
         <item>zmninja</item>
+        <item>zooforzotero</item>
         <item>zoysii</item>
     </string-array>
 </resources>
