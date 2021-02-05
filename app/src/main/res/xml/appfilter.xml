@@ -219,6 +219,9 @@
     <!-- Arbetsformedlingen Mina Sidor -->
     <item component="ComponentInfo{se.arbetsformedlingen.minasidor/se.arbetsformedlingen.minasidor.ui.login.LoginActivity}" drawable="arbetsfor" />
 
+    <!-- Arbeitszeitkonto -->
+    <item component="ComponentInfo{askanimus.arbeitszeiterfassung2/askanimus.arbeitszeiterfassung2.MainActivity}" drawable="arbeitszeitkonto"/>
+
     <!-- Arcticons -->
     <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
     <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
@@ -1975,6 +1978,9 @@
 
     <!-- Mullvad VPN -->
     <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvadvpn"/>
+
+    <!-- Mumla -->
+    <item component="ComponentInfo{se.lublin.mumla/se.lublin.mumla.app.MumlaActivity}" drawable="mumla"/>
 
     <!-- MuPDF Mini -->
     <item component="ComponentInfo{com.artifex.mupdf.mini/com.artifex.mupdf.mini.LibraryActivity}" drawable="mupdf" />
