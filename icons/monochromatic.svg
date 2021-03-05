@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:#fff;}</style>
+    </defs>
+    <polygon class="a" points="24 5 24 24 43 43 43 24 43 5"/>
+    <polygon class="a" points="24 43 24 24 5 43"/>
+</svg>

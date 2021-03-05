@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:#fff;}</style>
+    </defs>
+    <rect class="a" x="5" y="35.34" width="8.47" height="6.29" rx=".9"/>
+    <rect class="a" x="34.53" y="35.34" width="8.47" height="6.29" rx=".9"/>
+    <rect class="a" x="14.82" y="35.34" width="18.44" height="6.29" rx=".9"/>
+    <rect class="a" x="36.71" y="27.1" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="28.78" y="27.1" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="20.85" y="27.1" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="12.93" y="27.1" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="5" y="27.1" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="36.71" y="18.86" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="28.78" y="18.86" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="20.85" y="18.86" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="12.93" y="18.86" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="5" y="18.86" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="36.71" y="10.62" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="28.78" y="10.62" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="20.85" y="10.62" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="12.93" y="10.62" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="5" y="10.62" width="6.29" height="6.29" rx=".9"/>
+    <rect class="a" x="5" y="6.37" width="11.07" height="2.26" rx="1.13"/>
+    <rect class="a" x="18.51" y="6.37" width="11.07" height="2.26" rx="1.13"/>
+    <rect class="a" x="31.93" y="6.37" width="11.07" height="2.26" rx="1.13"/>
+</svg>

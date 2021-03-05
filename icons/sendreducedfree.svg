@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>.a{fill:#fff;}.b,.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-miterlimit:10;}.b{stroke-width:1.21px;}.c{stroke-width:1.17px;}</style>
+    </defs>
+    <ellipse class="a" cx="24" cy="23.76" rx="12.37" ry="3.54"/>
+    <line class="b" x1="11.63" x2="36.37" y1="17.17" y2="17.17"/>
+    <line class="b" x1="11.63" x2="36.37" y1="4.5" y2="4.5"/>
+    <line class="b" x1="11.63" x2="36.37" y1="10.87" y2="10.87"/>
+    <path class="c" d="m27.21 43.5a7 7 0 0 0-6.42 0"/>
+    <path class="c" d="m30 37.5a14 14 0 0 0-12 0"/>
+    <path class="c" d="m32.66 31.75a20.69 20.69 0 0 0-17.32 0"/>
+</svg>
