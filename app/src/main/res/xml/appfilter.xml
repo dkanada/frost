@@ -1783,6 +1783,9 @@
     <item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermost" />
     <item component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}" drawable="mattermost" />
 
+    <!-- Mediapart -->
+    <item component="ComponentInfo{com.mediapart.app/com.mediapartmobileapp.MainActivity}" drawable="mediapart"/>
+
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
 
@@ -1851,7 +1854,7 @@
 
     <!-- Microsoft Launcher -->
     <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.Launcher}" drawable="microsoftlauncher"/>
-    
+
     <!-- Microsoft Onedrive -->
     <item component="ComponentInfo{com.microsoft.office.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" />
