@@ -1756,7 +1756,7 @@
     <item component="ComponentInfo{com.lyndir.masterpassword/com.lyndir.masterpassword.EmergencyActivity}" drawable="masterpassword" />
 
     <!-- Material Islands -->
-    <item component="{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity_}" drawable="materialislands" />
+    <item component="ComponentInfo{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity_}" drawable="materialislands" />
 
     <!-- Materialistic -->
     <item component="ComponentInfo{io.github.hidroh.materialistic/io.github.hidroh.materialistic.LauncherActivity}" drawable="materialistic" />
@@ -3738,6 +3738,7 @@
     <item component="ComponentInfo{com.example.trigger/com.example.trigger.MainActivity}" drawable="trigger" />
 
     <!-- Tumblr -->
+    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr" />
     <item component="ComponentInfo{com.tumblr/com.ui.activity.JumpoffActivity}" drawable="tumblr" />
 
     <!-- Tuner -->
@@ -4043,7 +4044,6 @@
 
     <!-- Zoo for Zotero -->
     <item component="ComponentInfo{com.mickstarify.zooforzotero/com.mickstarify.zooforzotero.MainActivity}" drawable="zooforzotero"/>
-
 
     <!-- Zoysii -->
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
