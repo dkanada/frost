@@ -141,6 +141,9 @@
     <!-- andOTP -->
     <item component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity}" drawable="andotp" />
 
+    <!-- Android Customization -->
+    <item component="ComponentInfo{com.android.customization/com.android.customization.picker.CustomizationPickerActivity}" drawable="androidcustomization" />
+
     <!-- Android Keyboard -->
     <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="aospkeyboard" />
 
