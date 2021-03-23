@@ -1143,6 +1143,7 @@
 
     <!-- Freebox -->
     <item component="ComponentInfo{fr.freebox.android.compagnon/fr.freebox.android.compagnon.MainFreeboxActivityLauncher}" drawable="freebox2" />
+
     <!-- FreeDCam Viewer -->
     <item component="ComponentInfo{troop.com.freedcam/freed.viewer.ActivityFreeDviewer}" drawable="freedcamviewer"/>
 
