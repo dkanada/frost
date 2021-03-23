@@ -187,11 +187,13 @@
     <item drawable="cpustats" />
     <item drawable="cpuz" />
     <item drawable="creditagricole" />
+    <item drawable="creditas" />
     <item drawable="crontosignswiss" />
     <item drawable="cryptomator" />
     <item drawable="cuprumpdf" />
     <item drawable="curiositystream" />
     <item drawable="currency" />
+    <item drawable="curve" />
     <item drawable="cyberghost" />
     <item drawable="cythara" />
     <item drawable="darksky" />
@@ -249,6 +251,7 @@
     <item drawable="easyxkcd" />
     <item drawable="ebaykleinanzeigen" />
     <item drawable="ebay" />
+    <item drawable="ebtart" />
     <item drawable="echo" />
     <item drawable="editor" />
     <item drawable="edslite" />
@@ -288,6 +291,7 @@
     <item drawable="feedlyclassic" />
     <item drawable="fennec" />
     <item drawable="ffupdater" />
+    <item drawable="fidelity" />
     <item drawable="files" />
     <item drawable="finanzassistent" />
     <item drawable="finddevice" />
@@ -330,6 +334,7 @@
     <item drawable="foxydroid" />
     <item drawable="freebox2" />
     <item drawable="freebox" />
+    <item drawable="freedcamviewer" />
     <item drawable="freemobilenetstat" />
     <item drawable="freeotpplus" />
     <item drawable="freeotp" />
@@ -349,6 +354,7 @@
     <item drawable="gdocs" />
     <item drawable="gdrive" />
     <item drawable="geekttrss" />
+    <item drawable="geicomobile" />
     <item drawable="gelli" />
     <item drawable="geogebragraphingcalculator" />
     <item drawable="geogebra" />
@@ -445,6 +451,7 @@
     <item drawable="khanacademy" />
     <item drawable="khl" />
     <item drawable="kik" />
+    <item drawable="kindle" />
     <item drawable="kinopoisk" />
     <item drawable="kinoteatr" />
     <item drawable="kiss" />
@@ -511,6 +518,7 @@
     <item drawable="mapsme" />
     <item drawable="maps" />
     <item drawable="map" />
+    <item drawable="mapycz" />
     <item drawable="markers" />
     <item drawable="markor" />
     <item drawable="markushiexpensemanager" />
@@ -523,6 +531,7 @@
     <item drawable="matlog" />
     <item drawable="mattermost" />
     <item drawable="mediafire" />
+    <item drawable="mediapart" />
     <item drawable="meditationassistant" />
     <item drawable="meetup" />
     <item drawable="megafon" />
@@ -639,6 +648,7 @@
     <item drawable="oeffistations" />
     <item drawable="office" />
     <item drawable="offlinecalendar" />
+    <item drawable="okcagent" />
     <item drawable="okolightmeter" />
     <item drawable="omninotes" />
     <item drawable="om" />
@@ -681,6 +691,7 @@
     <item drawable="owncloud" />
     <item drawable="oxdrive" />
     <item drawable="packlist" />
+    <item drawable="pady" />
     <item drawable="pairz" />
     <item drawable="palmcalc2019" />
     <item drawable="passandroid" />
@@ -704,6 +715,7 @@
     <item drawable="phonetrack" />
     <item drawable="phonograph" />
     <item drawable="picsay" />
+    <item drawable="pidlitacka" />
     <item drawable="pimplepopper" />
     <item drawable="pin" />
     <item drawable="pintrest" />
@@ -725,6 +737,7 @@
     <item drawable="powerpoint" />
     <item drawable="ppsspp" />
     <item drawable="practicehub" />
+    <item drawable="predictwind" />
     <item drawable="presencepublisher" />
     <item drawable="preview" />
     <item drawable="prey" />
@@ -753,6 +766,7 @@
     <item drawable="railwaystationphotos" />
     <item drawable="rainymood" />
     <item drawable="raspberry" />
+    <item drawable="rbkey" />
     <item drawable="readera" />
     <item drawable="readerforselfoss" />
     <item drawable="recorder" />
@@ -878,6 +892,7 @@
     <item drawable="starbucks" />
     <item drawable="starkeverben" />
     <item drawable="steam" />
+    <item drawable="stelarium" />
     <item drawable="stepstone" />
     <item drawable="stickermaker" />
     <item drawable="stocard" />
@@ -957,6 +972,7 @@
     <item drawable="trello" />
     <item drawable="trenord" />
     <item drawable="trexrunner" />
+    <item drawable="tricount" />
     <item drawable="trigger" />
     <item drawable="tumblr" />
     <item drawable="tuner" />
@@ -973,7 +989,9 @@
     <item drawable="twrp" />
     <item drawable="uber" />
     <item drawable="ulogger" />
+    <item drawable="ultrasonic" />
     <item drawable="unciv" />
+    <item drawable="underlords" />
     <item drawable="unifiednlp" />
     <item drawable="unimainz" />
     <item drawable="unitconverterultimate" />
@@ -991,6 +1009,7 @@
     <item drawable="viper" />
     <item drawable="visecaone" />
     <item drawable="vivaldi" />
+    <item drawable="vk" />
     <item drawable="vlc" />
     <item drawable="voice" />
     <item drawable="vrnetarif" />
@@ -1048,11 +1067,13 @@
     <item drawable="yourphone" />
     <item drawable="youtube" />
     <item drawable="ytaxi" />
+    <item drawable="ytstudio" />
     <item drawable="yubicoauthenticator" />
     <item drawable="zapp" />
     <item drawable="zarchiver" />
     <item drawable="zeronet" />
     <item drawable="zmninja" />
+    <item drawable="zonky" />
     <item drawable="zooforzotero" />
     <item drawable="zoysii" />
 </resources>

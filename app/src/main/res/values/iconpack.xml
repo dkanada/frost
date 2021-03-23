@@ -187,11 +187,13 @@
         <item>cpustats</item>
         <item>cpuz</item>
         <item>creditagricole</item>
+        <item>creditas</item>
         <item>crontosignswiss</item>
         <item>cryptomator</item>
         <item>cuprumpdf</item>
         <item>curiositystream</item>
         <item>currency</item>
+        <item>curve</item>
         <item>cyberghost</item>
         <item>cythara</item>
         <item>darksky</item>
@@ -249,6 +251,7 @@
         <item>easyxkcd</item>
         <item>ebaykleinanzeigen</item>
         <item>ebay</item>
+        <item>ebtart</item>
         <item>echo</item>
         <item>editor</item>
         <item>edslite</item>
@@ -288,6 +291,7 @@
         <item>feedlyclassic</item>
         <item>fennec</item>
         <item>ffupdater</item>
+        <item>fidelity</item>
         <item>files</item>
         <item>finanzassistent</item>
         <item>finddevice</item>
@@ -330,6 +334,7 @@
         <item>foxydroid</item>
         <item>freebox2</item>
         <item>freebox</item>
+        <item>freedcamviewer</item>
         <item>freemobilenetstat</item>
         <item>freeotpplus</item>
         <item>freeotp</item>
@@ -349,6 +354,7 @@
         <item>gdocs</item>
         <item>gdrive</item>
         <item>geekttrss</item>
+        <item>geicomobile</item>
         <item>gelli</item>
         <item>geogebragraphingcalculator</item>
         <item>geogebra</item>
@@ -445,6 +451,7 @@
         <item>khanacademy</item>
         <item>khl</item>
         <item>kik</item>
+        <item>kindle</item>
         <item>kinopoisk</item>
         <item>kinoteatr</item>
         <item>kiss</item>
@@ -511,6 +518,7 @@
         <item>mapsme</item>
         <item>maps</item>
         <item>map</item>
+        <item>mapycz</item>
         <item>markers</item>
         <item>markor</item>
         <item>markushiexpensemanager</item>
@@ -523,6 +531,7 @@
         <item>matlog</item>
         <item>mattermost</item>
         <item>mediafire</item>
+        <item>mediapart</item>
         <item>meditationassistant</item>
         <item>meetup</item>
         <item>megafon</item>
@@ -639,6 +648,7 @@
         <item>oeffistations</item>
         <item>office</item>
         <item>offlinecalendar</item>
+        <item>okcagent</item>
         <item>okolightmeter</item>
         <item>omninotes</item>
         <item>om</item>
@@ -681,6 +691,7 @@
         <item>owncloud</item>
         <item>oxdrive</item>
         <item>packlist</item>
+        <item>pady</item>
         <item>pairz</item>
         <item>palmcalc2019</item>
         <item>passandroid</item>
@@ -704,6 +715,7 @@
         <item>phonetrack</item>
         <item>phonograph</item>
         <item>picsay</item>
+        <item>pidlitacka</item>
         <item>pimplepopper</item>
         <item>pin</item>
         <item>pintrest</item>
@@ -725,6 +737,7 @@
         <item>powerpoint</item>
         <item>ppsspp</item>
         <item>practicehub</item>
+        <item>predictwind</item>
         <item>presencepublisher</item>
         <item>preview</item>
         <item>prey</item>
@@ -753,6 +766,7 @@
         <item>railwaystationphotos</item>
         <item>rainymood</item>
         <item>raspberry</item>
+        <item>rbkey</item>
         <item>readera</item>
         <item>readerforselfoss</item>
         <item>recorder</item>
@@ -878,6 +892,7 @@
         <item>starbucks</item>
         <item>starkeverben</item>
         <item>steam</item>
+        <item>stelarium</item>
         <item>stepstone</item>
         <item>stickermaker</item>
         <item>stocard</item>
@@ -957,6 +972,7 @@
         <item>trello</item>
         <item>trenord</item>
         <item>trexrunner</item>
+        <item>tricount</item>
         <item>trigger</item>
         <item>tumblr</item>
         <item>tuner</item>
@@ -973,7 +989,9 @@
         <item>twrp</item>
         <item>uber</item>
         <item>ulogger</item>
+        <item>ultrasonic</item>
         <item>unciv</item>
+        <item>underlords</item>
         <item>unifiednlp</item>
         <item>unimainz</item>
         <item>unitconverterultimate</item>
@@ -991,6 +1009,7 @@
         <item>viper</item>
         <item>visecaone</item>
         <item>vivaldi</item>
+        <item>vk</item>
         <item>vlc</item>
         <item>voice</item>
         <item>vrnetarif</item>
@@ -1048,11 +1067,13 @@
         <item>yourphone</item>
         <item>youtube</item>
         <item>ytaxi</item>
+        <item>ytstudio</item>
         <item>yubicoauthenticator</item>
         <item>zapp</item>
         <item>zarchiver</item>
         <item>zeronet</item>
         <item>zmninja</item>
+        <item>zonky</item>
         <item>zooforzotero</item>
         <item>zoysii</item>
     </string-array>
