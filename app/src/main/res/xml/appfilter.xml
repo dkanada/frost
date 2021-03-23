@@ -457,7 +457,7 @@
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
     <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
     
-    <!-- Calendar dyamic icons -->
+    <!-- Calendar Dynamic Icons -->
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
@@ -2874,7 +2874,7 @@
     <item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue_grey}" drawable="simplecalendar" />
     <item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="simplecalendar" />
 
-    <!-- Simple Calendar Dynamic icon -->
+    <!-- Simple Calendar Dynamic Icon -->
     <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Pink}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Purple}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Deep_purple}" prefix="calendar" />
@@ -2894,7 +2894,7 @@
     <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Blue_grey}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Grey_black}" prefix="calendar" />
 
-    <!-- Simple Calendar Pro Dynamic icon -->
+    <!-- Simple Calendar Pro Dynamic Icon -->
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Pink}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Purple}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Deep_purple}" prefix="calendar" />
