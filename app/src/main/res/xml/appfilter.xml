@@ -3835,6 +3835,9 @@
     <!-- UnCiv -->
     <item component="ComponentInfo{com.unciv.app/com.unciv.app.AndroidLauncher}" drawable="unciv" />
 
+    <!-- Underlords -->
+    <item component="ComponentInfo{com.valvesoftware.underlords/com.valvesoftware.underlords.applauncher}" drawable="underlords" />
+
     <!-- Unified Nlp -->
     <item component="ComponentInfo{com.google.android.gms/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
     <item component="ComponentInfo{org.microg.nlp/org.microg.nlp.ui.SettingsLauncherActivity}" drawable="unifiednlp" />
