@@ -1808,6 +1808,9 @@
     <item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermost" />
     <item component="ComponentInfo{com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity}" drawable="mattermost" />
 
+    <!-- Mediapart -->
+    <item component="ComponentInfo{com.mediapart.app/com.mediapartmobileapp.MainActivity}" drawable="mediapart"/>
+
     <!-- Mediafire -->
     <item component="ComponentInfo{com.mediafire.android/com.mediafire.android.ui.authentication.AuthenticationActivity}" drawable="mediafire" />
 
