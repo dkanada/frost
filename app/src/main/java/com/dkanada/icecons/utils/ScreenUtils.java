@@ -3,7 +3,6 @@ package com.dkanada.icecons.utils;
 import android.content.Context;
 
 public class ScreenUtils {
-
     public static boolean isPortrait(Context context) {
         return context.getResources().getDisplayMetrics().widthPixels < context.getResources().getDisplayMetrics().heightPixels;
     }

@@ -5,7 +5,7 @@ An icon pack forked from [ICEcons](https://github.com/1C3/ICEcons) with the goal
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90">](https://f-droid.org/packages/com.dkanada.icecons)
 
 Frost includes support for Trebuchet, KISS, Nova, Apex, Holo, ZenUI, ADW, and many more launchers.
-There are over **800 icons**, as well as a few **4K wallpapers** included. Submitting icon requests helps a lot, but maintaining the project (as you may imagine) takes a lot of time and effort, so please be patient about adding new icons. Contributions for new icons are always welcome, and no experience with programming is necessary.
+There are over **1000 icons!**, as well as a few **4K wallpapers** included. Submitting icon requests helps a lot, but maintaining the project (as you may imagine) takes a lot of time and effort, so please be patient about adding new icons. Contributions for new icons are always welcome, and no experience with programming is necessary.
 
 <img src='https://raw.githubusercontent.com/dkanada/frost/master/metadata/en-US/screenshots.png'>
 
@@ -14,8 +14,9 @@ There are over **800 icons**, as well as a few **4K wallpapers** included. Submi
 This app doesn't have an icon request feature, so you'll have to do the following steps.
 
 1. **Install [Turtl](https://f-droid.org/packages/org.xphnx.iconsubmit)** which can extract the icons and class names of your apps.
-2. **Open Turtl** and follow the process to save the new zip file to your phone.
-3. **[Make an issue](https://github.com/dkanada/frost/issues/new)** titled "Icon Request" and attach the zip file.
+2. **Grant the storage access permission to Turtl** in your system settings, this will allow it to save the zip file (Only required in Android 6 "Marshmallow" or newer, older versions grant this permission on installation).
+3. **Open Turtl** and follow the process to save the new zip file to your phone.
+4. **[Make an issue](https://github.com/dkanada/frost/issues/new)** titled "Icon Request" and attach the zip file.
 
 If Turtl is not working on your device, you can also use [Applications Info](https://f-droid.org/packages/com.majeur.applicationsinfo) or any equivalent app to collect the **package name** of the app ($PACKAGE_NAME) and the **main activity name** of the app ($ACTIVITY_NAME) launchable in Applications Info with no errors. Work is being done to simplify this process.
 

@@ -8,12 +8,11 @@ import com.dkanada.icecons.interfaces.BitmapListener;
 import com.dkanada.icecons.utils.ImageUtils;
 
 public class BitmapLoadTask extends AsyncTask<Integer, Void, Bitmap> {
-
-    private BitmapListener bitmapListener;
-    private Resources resources;
-    private int resId;
-    private int width;
-    private int height;
+    private final BitmapListener bitmapListener;
+    private final Resources resources;
+    private final int resId;
+    private final int width;
+    private final int height;
 
     public BitmapLoadTask(Resources resources, int resId, int width, int height, BitmapListener bitmapListener) {
         this.resources = resources;
@@ -23,9 +22,9 @@ public class BitmapLoadTask extends AsyncTask<Integer, Void, Bitmap> {
         this.bitmapListener = bitmapListener;
     }
 
-    // decode image in background
     @Override
     protected Bitmap doInBackground(Integer... parameters) {
+        // decode image in background
         return ImageUtils.bitmapLoad(resources, resId, width, height);
     }
 
