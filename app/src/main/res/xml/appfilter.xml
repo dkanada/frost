@@ -509,6 +509,9 @@
     <!-- Cash App -->
     <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="cashapp" />
 
+    <!-- Celsius Wallet -->
+    <item component="ComponentInfo{network.celsius.wallet/network.celsius.wallet.SplashActivity}" drawable="celsius" />
+
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
 
