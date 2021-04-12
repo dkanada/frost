@@ -2056,6 +2056,9 @@
     <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}" drawable="myandroidtools" />
     <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainDarkActivity}" drawable="myandroidtools" />
 
+    <!-- Mycelium -->
+    <item component="ComponentInfo{com.mycelium.wallet/com.mycelium.wallet.activity.StartupActivity}" drawable="mycelium"/>
+
     <!-- My App List -->
     <item component="ComponentInfo{com.projectsexception.myapplist.open/com.projectsexception.myapplist.MainActivity}" drawable="myapplist" />
 
