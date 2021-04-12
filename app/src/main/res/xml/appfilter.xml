@@ -2475,6 +2475,9 @@
 
     <!-- Plumble -->
     <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble" />
+    
+    <!-- pMetro -->
+    <item component="ComponentInfo{com.utyf.pmetro/com.utyf.pmetro.MapActivity}" drawable="pmetro" />
 
     <!-- Pocket Casts -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocketcasts" />
