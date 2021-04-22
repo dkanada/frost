@@ -2818,6 +2818,9 @@
     <!-- Shopping List -->
     <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
 
+    <!-- Shopping List -->
+    <item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="shoppinglist"/>
+
     <!-- Shrug ¯\_(ツ)_/¯ -->
     <item component="ComponentInfo{com.codebutler.shrug/com.codebutler.shrug.MainActivity}" drawable="shrug" />
 
