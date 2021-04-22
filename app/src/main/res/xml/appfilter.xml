@@ -1556,6 +1556,9 @@
     <!-- KHL -->
     <item component="ComponentInfo{ru.zennex.khl/ru.inventos.apps.khl.screens.start.StartActivity}" drawable="khl" />
 
+    <!-- Kid3 -->
+    <item component="ComponentInfo{net.sourceforge.kid3/net.sourceforge.kid3.Kid3Activity}" drawable="kid3"/>
+
     <!-- Kik -->
     <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik" />
 
