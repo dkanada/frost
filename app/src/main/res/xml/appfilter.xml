@@ -3413,6 +3413,9 @@
     <!-- Skolschema -->
     <item component="ComponentInfo{com.potatiz.skolschema/com.potatiz.skolschema.MainActivity}" drawable="skolschema" />
 
+    <!-- Sky Map -->
+    <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="skymap"/>
+
     <!-- Skype -->
     <item component="ComponentInfo{com.skype.raider/com.skype4life.MainActivity}" drawable="skype" />
 
