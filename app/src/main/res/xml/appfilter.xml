@@ -638,6 +638,9 @@
     <!-- Controlloid -->
     <item component="ComponentInfo{com.controlloid/com.controlloid.MainActivity}" drawable="controlloid" />
 
+    <!-- Conv6ations -->
+    <item component="ComponentInfo{eu.sum7.conversations/eu.sum7.conversations.ui.ConversationActivity}" drawable="conv6ations"/>
+
     <!-- Conversations -->
     <item component="ComponentInfo{eu.siacs.conversations/eu.siacs.conversations.ui.ConversationActivity}" drawable="conversations" />
 
