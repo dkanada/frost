@@ -1972,6 +1972,9 @@
     <!-- Money Balance -->
     <item component="ComponentInfo{ivl.android.moneybalance/ivl.android.moneybalance.CalculationListActivity}" drawable="money" />
 
+    <!-- Money Manager Ex -->
+    <item component="ComponentInfo{com.money.manager.ex/com.money.manager.ex.home.MainActivity}" drawable="moneymanagerex"/>
+
     <!-- MoneyWallet -->
     <item component="ComponentInfo{com.oriondev.moneywallet/com.oriondev.moneywallet.ui.activity.LauncherActivity}" drawable="moneywallet" />
 
