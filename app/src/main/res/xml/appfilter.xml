@@ -165,6 +165,9 @@
     <!-- AntennaPod -->
     <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity}" drawable="antennapod" />
 
+    <!-- Antimine -->
+    <item component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.splash.SplashActivity}" drawable="antimine"/>
+
     <!-- Antox -->
     <item component="ComponentInfo{chat.tox.antox/chat.tox.antox.SplashActivity}" drawable="antox" />
 
