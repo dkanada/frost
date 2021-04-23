@@ -1690,6 +1690,9 @@
     <!-- Librera PRO -->
     <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librerapro" />
 
+    <!-- LibreSpeed -->
+    <item component="ComponentInfo{com.dosse.speedtest/com.fdossena.speedtest.ui.MainActivity}" drawable="librespeed"/>
+
     <!-- Libretorrent -->
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.MainActivity}" drawable="libretorrent" />
     <item component="ComponentInfo{org.proninyaroslav.libretorrent/org.proninyaroslav.libretorrent.ui.main.MainActivity}" drawable="libretorrent" />
