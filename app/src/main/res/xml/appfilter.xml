@@ -1746,6 +1746,9 @@
     <!-- Locker -->
     <item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker" />
 
+    <!-- Look4Sat -->
+    <item component="ComponentInfo{com.rtbishop.look4sat/com.rtbishop.look4sat.ui.Look4SatActivity}" drawable="look4sat"/>
+
     <!-- Loop Habit Tracker -->
     <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
 
