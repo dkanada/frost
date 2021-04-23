@@ -3470,6 +3470,9 @@
     <!-- Solid Explorer -->
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solidexplorer" />
 
+    <!-- SolitaireCG -->
+    <item component="ComponentInfo{net.sourceforge.solitaire_cg/net.sourceforge.solitaire_cg.SolitaireCG}" drawable="solitairecg"/>
+
     <!-- Sonos -->
     <item component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
     <item component="ComponentInfo{com.sonos.acr2/com.sonos.acr.SonosLaunchActivity}" drawable="sonos" />
