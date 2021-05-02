@@ -652,6 +652,7 @@
 
     <!-- Corona Tracing -->
     <item component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="coronatracing" />
+    <item component="ComponentInfo{de.corona.tracing/de.rki.coronawarnapp.ui.launcher.LauncherActivity}" drawable="coronatracing" />
 
     <!-- Couchsurfing -->
     <item component="ComponentInfo{com.couchsurfing.mobile.android/com.couchsurfing.mobile.ui.WelcomeActivity}" drawable="couchsurfing" />
