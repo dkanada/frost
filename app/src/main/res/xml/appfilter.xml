@@ -1364,6 +1364,9 @@
     <!-- GPS Status -->
     <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gpsstatus" />
 
+    <!-- GPSTest -->
+    <item component="ComponentInfo{com.android.gpstest.osmdroid/com.android.gpstest.GpsTestActivity}" drawable="gpstest"/>
+
     <!-- gReader Pro -->
     <item component="ComponentInfo{com.noinnion.android.greader.readerpro/com.noinnion.android.greader.ui.login.LoginActivity}" drawable="greader" />
 
