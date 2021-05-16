@@ -400,6 +400,9 @@
     <!-- Book Reader -->
     <item component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" drawable="bookreader" />
 
+    <!-- Boxcryptor -->
+    <item component="ComponentInfo{com.boxcryptor2.android/boxcryptor.legacy.mvvm.presession.PreSessionActivity}" drawable="boxcryptor" />
+
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
 
@@ -1496,6 +1499,9 @@
 
     <!-- Island -->
     <item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island" />
+
+    <!-- ISS-Detektor -->
+    <item component="ComponentInfo{com.runar.issdetector/com.runar.issdetector.SplashActivity}" drawable="iss-detektor" />
 
     <!-- Itaú light -->
     <item component="ComponentInfo{com.itau.applight/br.com.itau.applight.presentation.splash.SplashActivity}" drawable="itualight" />
