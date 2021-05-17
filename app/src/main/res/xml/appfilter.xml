@@ -560,6 +560,9 @@
     <!-- Cinelog -->
     <item component="ComponentInfo{com.ulicae.cinelog/com.ulicae.cinelog.android.activities.MainActivity}" drawable="cinelog" />
 
+    <!-- Circuit Trainer -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlycircuittraining/org.secuso.privacyfriendlycircuittraining.activities.SplashActivity}" drawable="circuittrainer" />
+
     <!-- Citymapper -->
     <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
 
@@ -677,6 +680,9 @@
 
     <!-- Creditas -->
     <item component="ComponentInfo{cz.creditas.mb/cz.creditas.mb.UnsecuredMainActivity}" drawable="creditas" />
+
+    <!-- Cronograma -->
+    <item component="ComponentInfo{com.asdoi.timetable/com.ulan.timetable.activities.MainActivity}" drawable="cronograma" />
 
     <!-- CrontoSign Swiss -->
     <item component="ComponentInfo{com.cronto.crontosign.swiss/com.vasco.crontosign.phototan.MainActivity}" drawable="crontosignswiss" />
