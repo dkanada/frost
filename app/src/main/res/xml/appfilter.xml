@@ -39,6 +39,9 @@
     <!-- Activity Launcher -->
     <item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="android" />
 
+    <!-- Actual -->
+    <item component="ComponentInfo{com.shiftreset.actual/com.actual.MainActivity}" drawable="actual" />
+
     <!-- AdAway -->
     <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
     <item component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}" drawable="adaway" />
@@ -1422,6 +1425,12 @@
     <!-- HelloTalk -->
     <item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk" />
 
+    <!-- Helm -->
+    <item component="ComponentInfo{com.thehelm.helm/com.thehelm.helm.activity.SplashActivity}" drawable="helm" />
+
+    <!-- Helm Sync -->
+    <item component="ComponentInfo{com.thehelm.sync/at.bitfire.davdroid.ui.AccountsActivity}" drawable="helmsync" />
+
     <!-- Here Comes the Bus -->
     <item component="ComponentInfo{com.synovia.herecomesthebus/com.synovia.herecomesthebus.MainActivity}" drawable="herecomesthebus" />
 
@@ -2195,6 +2204,9 @@
 
     <!-- Nine -->
     <item component="ComponentInfo{com.ninefolders.hd3/com.ninefolders.hd3.activity.NineActivity}" drawable="nine" />
+
+    <!-- Noice -->
+    <item component="ComponentInfo{com.github.ashutoshgngwr.noice/com.github.ashutoshgngwr.noice.MainActivity}" drawable="noice" />
 
     <!-- Nordnet -->
     <item component="ComponentInfo{com.nordnet/com.nordnet.MainActivity}" drawable="nordnet" />
@@ -3706,6 +3718,9 @@
 
     <!-- Telegram -->
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+
+    <!-- Terminal Emulator -->
+    <item component="ComponentInfo{com.termoneplus/com.termoneplus.TermActivity}" drawable="terminalemulator" />
 
     <!-- Terminal Emulator -->
     <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="androidterm" />
