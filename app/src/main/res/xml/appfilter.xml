@@ -690,6 +690,9 @@
     <!-- Cryptomator -->
     <item component="ComponentInfo{org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity}" drawable="cryptomator" />
 
+    <!-- Cuberite -->
+    <item component="ComponentInfo{org.cuberite.android/org.cuberite.android.MainActivity}" drawable="cuberite" />
+
     <!-- CuprumPDF -->
     <item component="ComponentInfo{org.ninthfloor.copperpdf/co.copperhead.pdfviewer.PdfViewer}" drawable="cuprumpdf" />
 
@@ -1437,6 +1440,9 @@
     <!-- Helm Sync -->
     <item component="ComponentInfo{com.thehelm.sync/at.bitfire.davdroid.ui.AccountsActivity}" drawable="helmsync" />
 
+    <!-- Hendroid -->
+    <item component="ComponentInfo{org.nonononoki.hendroid/me.devsaki.hentoid.activities.SplashActivity}" drawable="hendroid" />
+
     <!-- Here Comes the Bus -->
     <item component="ComponentInfo{com.synovia.herecomesthebus/com.synovia.herecomesthebus.MainActivity}" drawable="herecomesthebus" />
 
@@ -2049,6 +2055,9 @@
     <!-- Movie DB -->
     <item component="ComponentInfo{org.notabug.lifeuser.moviedb/org.notabug.lifeuser.moviedb.activity.MainActivity}" drawable="moviedb" />
 
+    <!-- Mozc for Android -->
+    <item component="ComponentInfo{org.mozc.android.inputmethod.japanese/org.mozc.android.inputmethod.japanese.LauncherActivity}" drawable="mozcforandroid" />
+
     <!-- MPD -->
     <item component="ComponentInfo{org.musicpd/org.musicpd.Settings}" drawable="mpd" />
 
@@ -2151,6 +2160,9 @@
 
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster" />
+
+    <!-- NClientV2 -->
+    <item component="ComponentInfo{com.dar.nclientv2/com.dar.nclientv2.PINActivity}" drawable="nclientv2" />
 
     <!-- Neato -->
     <item component="ComponentInfo{com.neatorobotics.android/com.neatorobotics.android.app.splashscreen.SplashScreenActivity}" drawable="neato" />
