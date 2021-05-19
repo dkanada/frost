@@ -1424,6 +1424,9 @@
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
 
+    <!-- Humpback -->
+    <item component="ComponentInfo{com.humpback/com.humpback.MainActivity}" drawable="humpback" />
+
     <!-- Hyperdia -->
     <item component="ComponentInfo{com.hyperdia.android.activity/com.hyperdia.android.activity.P10000}" drawable="bus_circle" />
 
