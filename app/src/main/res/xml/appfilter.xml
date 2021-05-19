@@ -352,6 +352,9 @@
     <!-- Birthday Adapter -->
     <item component="ComponentInfo{org.birthdayadapter/org.birthdayadapter.ui.BaseActivity}" drawable="birthdayadapter" />
 
+    <!-- BirthDayDroid -->
+    <item component="ComponentInfo{com.tmendes.birthdaydroid/com.tmendes.birthdaydroid.MainActivity}" drawable="birthdaydroid" />
+
     <!-- Bitcoin -->
     <item component="ComponentInfo{com.btcontract.wallet/com.btcontract.wallet.MainActivity}" drawable="bitcoin" />
     <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin" />
@@ -532,6 +535,9 @@
 
     <!-- Change Detection -->
     <item component="ComponentInfo{com.bernaferrari.changedetection/com.bernaferrari.changedetection.MainActivity}" drawable="changedetection" />
+
+    <!-- Changelog -->
+    <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
 
     <!-- Changelog -->
     <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
@@ -1262,6 +1268,9 @@
 
     <!-- GeoGebra Graphing Calculator -->
     <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="geogebragraphingcalculator" />
+
+    <!-- Gestion des Ports -->
+    <item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="portauthority" />
 
     <!-- Ghost Commander -->
     <item component="ComponentInfo{com.ghostsq.commander/com.ghostsq.commander.FileCommander}" drawable="ghostcommander" />
@@ -2258,6 +2267,9 @@
     <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="notes" />
     <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="notes" />
 
+    <!-- Notes -->
+    <item component="ComponentInfo{com.potatoproject.notes/com.potatoproject.notes.MainActivity}" drawable="potatoprojectnotes" />
+
     <!-- Notification Cron -->
     <item component="ComponentInfo{com.github.fi3te.notificationcron/com.github.fi3te.notificationcron.ui.MainActivity}" drawable="notificationcron" />
 
@@ -2282,6 +2294,9 @@
 
     <!-- oandbackup -->
     <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup" />
+
+    <!-- OAndBackupX -->
+    <item component="ComponentInfo{com.machiav3lli.backup/ com.machiav3lli.backup.activities.SplashActivity}" drawable="oandbackupx" />
 
     <!-- OctoDroid -->
     <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
@@ -2342,6 +2357,7 @@
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
     <item component="ComponentInfo{org.openfoodfacts.scanner/openfoodfacts.github.scrachx.openfood.views.MainActivity}" drawable="openfoodfacts" />
     <item component="ComponentInfo{org.openfoodfacts.scanner/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" />
+    <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.features.splash.SplashActivity}" drawable="openfoodfacts" />
 
     <!-- Open Keychain -->
     <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="keychain" />
@@ -3541,6 +3557,9 @@
 
     <!-- Slide -->
     <item component="ComponentInfo{trikita.slide/trikita.slide.ui.MainActivity}" drawable="slide" />
+
+    <!-- SmartPack -->
+    <item component="ComponentInfo{com.smartpack.kernelmanager/com.smartpack.kernelmanager.activities.StartActivity}" drawable="smartpack" />
 
     <!-- Snapchat -->
     <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" />
