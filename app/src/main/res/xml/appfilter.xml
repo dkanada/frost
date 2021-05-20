@@ -1537,7 +1537,7 @@
     <item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island" />
 
     <!-- ISS-Detektor -->
-    <item component="ComponentInfo{com.runar.issdetector/com.runar.issdetector.SplashActivity}" drawable="iss-detektor" />
+    <item component="ComponentInfo{com.runar.issdetector/com.runar.issdetector.SplashActivity}" drawable="issdetektor" />
 
     <!-- Itaú light -->
     <item component="ComponentInfo{com.itau.applight/br.com.itau.applight.presentation.splash.SplashActivity}" drawable="itualight" />
@@ -2929,7 +2929,7 @@
     <item component="ComponentInfo{com.woefe.shoppinglist/com.woefe.shoppinglist.activity.MainActivity}" drawable="shoppinglist" />
 
     <!-- Shopping List -->
-    <item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="shopping-list" />
+    <item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="secusoshoppinglist" />
 
     <!-- Shrug ¯\_(ツ)_/¯ -->
     <item component="ComponentInfo{com.codebutler.shrug/com.codebutler.shrug.MainActivity}" drawable="shrug" />
