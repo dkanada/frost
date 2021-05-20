@@ -320,6 +320,7 @@
     <item component="ComponentInfo{nl.asnbank.asnbankieren/com.service2media.m2active.client.android.M2ActiveClient}" drawable="bankieren" />
 
     <!-- Banque -->
+    <item component="ComponentInfo{com.caisseepargne.android.mobilebanking/com.caisseepargne.android.mobilebanking.activities.ADashBoard}" drawable="banque" />
     <item component="ComponentInfo{com.caisseepargne.android.mobilebanking/com.caisseepargne.android.mobilebanking.features.main.MainActivity}" drawable="banque" />
 
     <!-- Barcode Scanner -->
@@ -411,6 +412,9 @@
 
     <!-- Boxcryptor -->
     <item component="ComponentInfo{com.boxcryptor2.android/boxcryptor.legacy.mvvm.presession.PreSessionActivity}" drawable="boxcryptor" />
+
+    <!-- Brackeys IDE -->
+    <item component="ComponentInfo{com.brackeys.ui/com.brackeys.ui.feature.main.activities.MainActivity}" drawable="brackeyside" />
 
     <!-- Brave Browser -->
     <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" />
