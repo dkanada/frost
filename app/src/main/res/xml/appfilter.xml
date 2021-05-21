@@ -1248,6 +1248,9 @@
     <!-- GApps Browser -->
     <item component="ComponentInfo{com.tobykurien.google_news/com.tobykurien.google_news.GoogleNewsActivity}" drawable="browser" />
 
+    <!-- Gardine -->
+    <item component="ComponentInfo{by.yauhenl.gardine/by.yauhenl.gardine.MainActivity}" drawable="gardine" />
+
     <!-- GasFlow -->
     <item component="ComponentInfo{com.mridang.speedo/com.mridang.speedo.SettingsActivity}" drawable="gasflow" />
 
