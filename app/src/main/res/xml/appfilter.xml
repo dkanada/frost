@@ -2980,6 +2980,7 @@
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Brown}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue_grey}" prefix="calendar" />
     <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" prefix="calendar" />
+
     <!-- Simple Camera -->
     <item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Pink}" drawable="simplecamera" />
     <item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity.Purple}" drawable="simplecamera" />
