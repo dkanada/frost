@@ -141,6 +141,9 @@
     <!-- andOTP -->
     <item component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity}" drawable="andotp" />
 
+    <!-- Android Customization -->
+    <item component="ComponentInfo{com.android.customization/com.android.customization.picker.CustomizationPickerActivity}" drawable="androidcustomization" />
+
     <!-- Android Keyboard -->
     <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="aospkeyboard" />
 
@@ -1262,8 +1265,10 @@
 
     <!-- Google Camera -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="gcamera" />
+    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="gcamera" />
     <item component="ComponentInfo{com.google.android.CameraRedmi5Plus/com.android.camera.CameraLauncher}" drawable="gcamera" />
     <item component="ComponentInfo{com.google.android.GoogleCamera.Urnyx/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="gcamera" />
 
     <!-- Google Chrome -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
@@ -1418,6 +1423,9 @@
 
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+
+    <!-- Humpback -->
+    <item component="ComponentInfo{com.humpback/com.humpback.MainActivity}" drawable="humpback" />
 
     <!-- Hyperdia -->
     <item component="ComponentInfo{com.hyperdia.android.activity/com.hyperdia.android.activity.P10000}" drawable="bus_circle" />
@@ -3919,6 +3927,7 @@
 
     <!-- Wallabag -->
     <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.MainActivity}" drawable="wallabagger" />
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.SplashActivity}" drawable="wallabagger" />
 
     <!-- Wallpapers -->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers" />
