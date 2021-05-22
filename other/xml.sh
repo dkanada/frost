@@ -18,7 +18,7 @@ do
   FILE=${DIR##*/}
   NAME=${FILE%.*}
   printf "${ICPACK_PRE}${NAME}${ICPACK_SUF}" >> iconpack.xml
-  printf "${DRAWABLE_PRE}${NAME}${DRAWABLE_SUF}" >> drawable.xml 
+  printf "${DRAWABLE_PRE}${NAME}${DRAWABLE_SUF}" >> drawable.xml
   printf "${CODE_PRE}${NAME}${CODE_SUF}" >> code.xml
 done
 

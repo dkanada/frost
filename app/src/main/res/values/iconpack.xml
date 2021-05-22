@@ -9,6 +9,7 @@
         <item>acrobat</item>
         <item>actiondash</item>
         <item>actionlauncher</item>
+        <item>actual</item>
         <item>adaway</item>
         <item>adbmanager</item>
         <item>adiutor</item>
@@ -38,6 +39,7 @@
         <item>ampere</item>
         <item>an2linux</item>
         <item>andotp</item>
+        <item>androidcustomization</item>
         <item>androidrun</item>
         <item>android</item>
         <item>androidterm</item>
@@ -46,6 +48,7 @@
         <item>anexplorer</item>
         <item>ankidroid</item>
         <item>antennapod</item>
+        <item>antimine</item>
         <item>antox</item>
         <item>anydesk</item>
         <item>anysoftkeyboard</item>
@@ -80,6 +83,7 @@
         <item>authenticator</item>
         <item>authpass</item>
         <item>authy</item>
+        <item>autotools</item>
         <item>avans</item>
         <item>aviasales</item>
         <item>bandcamp</item>
@@ -96,9 +100,11 @@
         <item>beats</item>
         <item>bestiary</item>
         <item>bible</item>
+        <item>biglybt</item>
         <item>bikelocation</item>
         <item>binaryeye</item>
         <item>birthdayadapter</item>
+        <item>birthdaydroid</item>
         <item>bitcoin</item>
         <item>bitwarden</item>
         <item>blablaalt</item>
@@ -116,6 +122,8 @@
         <item>booking</item>
         <item>bookreader</item>
         <item>book</item>
+        <item>boxcryptor</item>
+        <item>brackeyside</item>
         <item>brave</item>
         <item>briar</item>
         <item>bring</item>
@@ -131,6 +139,37 @@
         <item>cabinet</item>
         <item>calculatorplusplus</item>
         <item>calculator</item>
+        <item>calendar10</item>
+        <item>calendar11</item>
+        <item>calendar12</item>
+        <item>calendar13</item>
+        <item>calendar14</item>
+        <item>calendar15</item>
+        <item>calendar16</item>
+        <item>calendar17</item>
+        <item>calendar18</item>
+        <item>calendar19</item>
+        <item>calendar1</item>
+        <item>calendar20</item>
+        <item>calendar21</item>
+        <item>calendar22</item>
+        <item>calendar23</item>
+        <item>calendar24</item>
+        <item>calendar25</item>
+        <item>calendar26</item>
+        <item>calendar27</item>
+        <item>calendar28</item>
+        <item>calendar29</item>
+        <item>calendar2</item>
+        <item>calendar30</item>
+        <item>calendar31</item>
+        <item>calendar3</item>
+        <item>calendar4</item>
+        <item>calendar5</item>
+        <item>calendar6</item>
+        <item>calendar7</item>
+        <item>calendar8</item>
+        <item>calendar9</item>
         <item>calendarcolor</item>
         <item>calendarimportexport</item>
         <item>calendar</item>
@@ -147,8 +186,10 @@
         <item>carsmile</item>
         <item>cashapp</item>
         <item>casper</item>
+        <item>celsius</item>
         <item>cgeo</item>
         <item>changedetection</item>
+        <item>changelog</item>
         <item>chanu</item>
         <item>chase</item>
         <item>checkey</item>
@@ -158,6 +199,7 @@
         <item>chromiumautoupdater</item>
         <item>chubbyclick</item>
         <item>cinelog</item>
+        <item>circuittrainer</item>
         <item>citymapper</item>
         <item>cityzen</item>
         <item>clashroyale</item>
@@ -179,6 +221,7 @@
         <item>contacts</item>
         <item>contenttransfer</item>
         <item>controlloid</item>
+        <item>conv6ations</item>
         <item>conversations</item>
         <item>coronamelder</item>
         <item>coronatracing</item>
@@ -188,8 +231,10 @@
         <item>cpuz</item>
         <item>creditagricole</item>
         <item>creditas</item>
+        <item>cronograma</item>
         <item>crontosignswiss</item>
         <item>cryptomator</item>
+        <item>cuberite</item>
         <item>cuprumpdf</item>
         <item>curiositystream</item>
         <item>currency</item>
@@ -230,6 +275,7 @@
         <item>douban</item>
         <item>downloadnavi</item>
         <item>downloads</item>
+        <item>drastic</item>
         <item>drawer</item>
         <item>drinks</item>
         <item>drive</item>
@@ -293,6 +339,8 @@
         <item>ffupdater</item>
         <item>fidelity</item>
         <item>files</item>
+        <item>filmstaden</item>
+        <item>financemanager</item>
         <item>finanzassistent</item>
         <item>finddevice</item>
         <item>fireflyiiimobile</item>
@@ -349,6 +397,7 @@
         <item>gadgetbridge</item>
         <item>gag</item>
         <item>gallery</item>
+        <item>gardine</item>
         <item>gasflow</item>
         <item>gcamera</item>
         <item>gdocs</item>
@@ -387,6 +436,7 @@
         <item>gplaystore</item>
         <item>gplay</item>
         <item>gpsstatus</item>
+        <item>gpstest</item>
         <item>greader</item>
         <item>greatcourses</item>
         <item>greenbits</item>
@@ -402,6 +452,9 @@
         <item>hbomax</item>
         <item>hearth</item>
         <item>hellotalk</item>
+        <item>helm</item>
+        <item>helmsync</item>
+        <item>hendroid</item>
         <item>herecomesthebus</item>
         <item>here</item>
         <item>holo</item>
@@ -410,6 +463,7 @@
         <item>hub</item>
         <item>hue</item>
         <item>hulu</item>
+        <item>humpback</item>
         <item>icecat</item>
         <item>icsdroid</item>
         <item>idagio</item>
@@ -425,6 +479,7 @@
         <item>instagrabber</item>
         <item>instagram</item>
         <item>island</item>
+        <item>issdetektor</item>
         <item>itualight</item>
         <item>ivi</item>
         <item>jamendo</item>
@@ -450,6 +505,7 @@
         <item>keychain</item>
         <item>khanacademy</item>
         <item>khl</item>
+        <item>kid3</item>
         <item>kik</item>
         <item>kindle</item>
         <item>kinopoisk</item>
@@ -486,6 +542,7 @@
         <item>libremtunnel</item>
         <item>libreofficeviewer</item>
         <item>librerapro</item>
+        <item>librespeed</item>
         <item>libretorrent</item>
         <item>license</item>
         <item>lichess</item>
@@ -505,6 +562,7 @@
         <item>lnsfrskringar</item>
         <item>locationprivacy</item>
         <item>locker</item>
+        <item>look4sat</item>
         <item>loop</item>
         <item>loyaltycardkeychain</item>
         <item>ltecleaner</item>
@@ -569,6 +627,7 @@
         <item>mmt365</item>
         <item>mobilepay</item>
         <item>modpizza</item>
+        <item>moneymanagerex</item>
         <item>money</item>
         <item>moneywallet</item>
         <item>monochromatic</item>
@@ -582,6 +641,7 @@
         <item>motonotifications</item>
         <item>moto</item>
         <item>moviedb</item>
+        <item>mozcforandroid</item>
         <item>mpdroid</item>
         <item>mpd</item>
         <item>mpv</item>
@@ -598,8 +658,10 @@
         <item>mx</item>
         <item>myandroidtools</item>
         <item>myapplist</item>
+        <item>myboy</item>
         <item>mycelium</item>
         <item>myexpenses</item>
+        <item>myfiles</item>
         <item>mymail</item>
         <item>myneomabs</item>
         <item>mysplash</item>
@@ -607,6 +669,7 @@
         <item>myuu</item>
         <item>n26</item>
         <item>napster</item>
+        <item>nclientv2</item>
         <item>neato</item>
         <item>nebenande</item>
         <item>nebulo</item>
@@ -626,6 +689,7 @@
         <item>nfctools</item>
         <item>nhbooks</item>
         <item>nine</item>
+        <item>noice</item>
         <item>nordnet</item>
         <item>nordvpn</item>
         <item>nos</item>
@@ -641,6 +705,7 @@
         <item>nubank</item>
         <item>nvidia</item>
         <item>oandbackup</item>
+        <item>oandbackupx</item>
         <item>octodroid</item>
         <item>odyssey</item>
         <item>oeffidirections</item>
@@ -721,18 +786,23 @@
         <item>pintrest</item>
         <item>pixeldungeon</item>
         <item>pixellab</item>
+        <item>pixiv</item>
         <item>pixlr</item>
         <item>plantnet</item>
         <item>pleestracker</item>
         <item>plex</item>
         <item>plumble</item>
+        <item>pmetro</item>
         <item>pocketcasts</item>
         <item>pocketpaint</item>
         <item>pocket</item>
+        <item>podcastaddict</item>
         <item>podomtre</item>
         <item>pokemongo</item>
+        <item>portauthority</item>
         <item>posidonlauncher</item>
         <item>postdhl</item>
+        <item>potatoprojectnotes</item>
         <item>powerampache</item>
         <item>powerpoint</item>
         <item>ppsspp</item>
@@ -763,6 +833,7 @@
         <item>radiofrance</item>
         <item>radio</item>
         <item>raiffeisenbank</item>
+        <item>railplanner</item>
         <item>railwaystationphotos</item>
         <item>rainymood</item>
         <item>raspberry</item>
@@ -795,6 +866,7 @@
         <item>roku</item>
         <item>rootexplorer</item>
         <item>rtsinfo</item>
+        <item>ruler</item>
         <item>runnerup</item>
         <item>sai</item>
         <item>satstat</item>
@@ -813,6 +885,7 @@
         <item>seafile</item>
         <item>sealnote</item>
         <item>seasoncalendar</item>
+        <item>secusoshoppinglist</item>
         <item>secusosolitaire</item>
         <item>semitone</item>
         <item>sendreducedfree</item>
@@ -833,6 +906,7 @@
         <item>shelter</item>
         <item>shoppinglist</item>
         <item>shrug</item>
+        <item>shuttle</item>
         <item>sieben</item>
         <item>signal</item>
         <item>silence</item>
@@ -848,6 +922,7 @@
         <item>simplefilemanager</item>
         <item>simpleflashlight</item>
         <item>simplegallery</item>
+        <item>simplekeyboard</item>
         <item>simplelogin</item>
         <item>simplemusicplayer</item>
         <item>simplenotes</item>
@@ -858,7 +933,9 @@
         <item>simplevoicerecorder</item>
         <item>simpleweather</item>
         <item>sim</item>
+        <item>sknetrafiken</item>
         <item>skolschema</item>
+        <item>skymap</item>
         <item>skype</item>
         <item>skytube</item>
         <item>slack2</item>
@@ -866,17 +943,20 @@
         <item>sleepcycle</item>
         <item>slidereddit</item>
         <item>slide</item>
+        <item>smartpack</item>
         <item>snapchat</item>
         <item>snapseed</item>
         <item>snooperstopper</item>
         <item>sokoban</item>
         <item>solidexplorer</item>
+        <item>solitairecg</item>
         <item>solitaire</item>
         <item>sonos</item>
         <item>sosalarm</item>
         <item>soundrecorder</item>
         <item>sound</item>
         <item>sovcombank</item>
+        <item>spacelaunchnow</item>
         <item>sparkasse</item>
         <item>sparss</item>
         <item>speaking</item>
@@ -891,8 +971,9 @@
         <item>standardnotes</item>
         <item>starbucks</item>
         <item>starkeverben</item>
+        <item>steamchat</item>
         <item>steam</item>
-        <item>stelarium</item>
+        <item>stellarium</item>
         <item>stepstone</item>
         <item>stickermaker</item>
         <item>stocard</item>
@@ -910,6 +991,7 @@
         <item>surfshark</item>
         <item>survivalmanual</item>
         <item>su</item>
+        <item>sweb</item>
         <item>swedbank</item>
         <item>swiftkey</item>
         <item>swish</item>
@@ -927,6 +1009,7 @@
         <item>teams</item>
         <item>telegram</item>
         <item>tentenklooni</item>
+        <item>terminalemulator</item>
         <item>terminal</item>
         <item>termux</item>
         <item>themes</item>
@@ -961,6 +1044,7 @@
         <item>trackbook</item>
         <item>trackercontrol</item>
         <item>trackworktime</item>
+        <item>trafictransportsparisiens</item>
         <item>trailsense</item>
         <item>trainline</item>
         <item>transdroid</item>
@@ -995,6 +1079,7 @@
         <item>unifiednlp</item>
         <item>unimainz</item>
         <item>unitconverterultimate</item>
+        <item>units</item>
         <item>untrackme</item>
         <item>urbandroid</item>
         <item>usagedirect</item>
@@ -1063,6 +1148,7 @@
         <item>yaweather</item>
         <item>yetanothercallblocker</item>
         <item>yetanothervideoplayer</item>
+        <item>ynab</item>
         <item>youmail</item>
         <item>yourphone</item>
         <item>youtube</item>

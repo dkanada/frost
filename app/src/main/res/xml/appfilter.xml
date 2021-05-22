@@ -144,6 +144,9 @@
     <!-- andOTP -->
     <item component="ComponentInfo{org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity}" drawable="andotp" />
 
+    <!-- Android Customization -->
+    <item component="ComponentInfo{com.android.customization/com.android.customization.picker.CustomizationPickerActivity}" drawable="androidcustomization" />
+
     <!-- Android Keyboard -->
     <item component="ComponentInfo{com.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="aospkeyboard" />
 
@@ -466,17 +469,30 @@
     <!-- Calendar Color -->
     <item component="ComponentInfo{ch.ihdg.calendarcolor/ch.ihdg.calendarcolor.CalendarListActivity}" drawable="calendarcolor" />
 
+    <!-- Calendar dynamic icons -->
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+    <calendar component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar" />
+
     <!-- Calendar Import-Export -->
     <item component="ComponentInfo{org.sufficientlysecure.ical/org.sufficientlysecure.ical.ui.MainActivity}" drawable="calendarimportexport" />
 
     <!-- Calendar -->
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar" />
-    <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="calendar" />
-    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{org.sufficientlysecure.localcalendar/org.sufficientlysecure.localcalendar.ui.MainActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{org.lineageos.etar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
+    <item component="ComponentInfo{foundation.e.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar31" />
 
     <!-- Callabike -->
     <item component="ComponentInfo{de.bahn.callabike/com.andience.core.ui.StartupActivity}" drawable="callabike" />
@@ -534,14 +550,14 @@
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
 
+    <!-- Celsius Wallet -->
+    <item component="ComponentInfo{network.celsius.wallet/network.celsius.wallet.SplashActivity}" drawable="celsius" />
+
     <!-- C:Geo -->
     <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
 
     <!-- Change Detection -->
     <item component="ComponentInfo{com.bernaferrari.changedetection/com.bernaferrari.changedetection.MainActivity}" drawable="changedetection" />
-
-    <!-- Changelog -->
-    <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
 
     <!-- Changelog -->
     <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
@@ -755,7 +771,7 @@
     <!-- default -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
-    <item component=":CALENDAR" drawable="calendar" />
+    <item component=":CALENDAR" drawable="calendar31" />
     <item component=":CAMERA" drawable="camera" />
     <item component=":CLOCK" drawable="clock" />
     <item component=":CONTACTS" drawable="contacts" />
@@ -971,9 +987,6 @@
 
     <!-- ES File Explorer -->
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
-
-    <!-- Etar -->
-    <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" drawable="etar" />
 
     <!-- EteSync -->
     <item component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" drawable="etesync" />
@@ -1313,13 +1326,12 @@
     <!-- Google Calculator -->
     <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="calculator" />
 
-    <!-- Google Calendar -->
-    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-
     <!-- Google Camera -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="gcamera" />
+    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="gcamera" />
     <item component="ComponentInfo{com.google.android.CameraRedmi5Plus/com.android.camera.CameraLauncher}" drawable="gcamera" />
     <item component="ComponentInfo{com.google.android.GoogleCamera.Urnyx/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="gcamera" />
 
     <!-- Google Chrome -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
@@ -1486,6 +1498,9 @@
 
     <!-- Hulu -->
     <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+
+    <!-- Humpback -->
+    <item component="ComponentInfo{com.humpback/com.humpback.MainActivity}" drawable="humpback" />
 
     <!-- Hyperdia -->
     <item component="ComponentInfo{com.hyperdia.android.activity/com.hyperdia.android.activity.P10000}" drawable="bus_circle" />
@@ -2151,6 +2166,9 @@
     <!-- My Boy! -->
     <item component="ComponentInfo{com.fastemulator.gba/com.fastemulator.gba.MainActivity}" drawable="myboy" />
 
+    <!-- Mycelium -->
+    <item component="ComponentInfo{com.mycelium.wallet/com.mycelium.wallet.activity.StartupActivity}" drawable="mycelium" />
+
     <!-- My Expenses -->
     <item component="ComponentInfo{org.totschnig.myexpenses/org.totschnig.myexpenses.activity.SplashActivity}" drawable="myexpenses" />
 
@@ -2566,6 +2584,9 @@
     <!-- PixelLab-->
     <item component="ComponentInfo{com.imaginstudio.imagetools.pixellab/com.imaginstudio.imagetools.pixellab.MainActivity}" drawable="pixellab" />
 
+    <!-- Pixiv -->
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv" />
+
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
 
@@ -2580,6 +2601,9 @@
 
     <!-- Plumble -->
     <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble" />
+
+    <!-- pMetro -->
+    <item component="ComponentInfo{com.utyf.pmetro/com.utyf.pmetro.MapActivity}" drawable="pmetro" />
 
     <!-- Pocket Casts -->
     <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocketcasts" />
@@ -2997,6 +3021,26 @@
     <item component="ComponentInfo{com.simplemobiletools.calculcator.pro/com.simplemobiletools.calculcator.pro.activities.SplashActivity.Blue_grey}" drawable="simplecalculator" />
     <item component="ComponentInfo{com.simplemobiletools.calculcator.pro/com.simplemobiletools.calculcator.pro.activities.SplashActivity.Grey_black}" drawable="simplecalculator" />
 
+    <!-- Simple Calendar Dynamic icon -->
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Pink}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Purple}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Deep_purple}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Indigo}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Blue}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Light_blue}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Cyan}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Teal}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Green}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Light_green}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Lime}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Yellow}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Amber}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Orange}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Deep_orange}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Brown}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Blue_grey}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Grey_black}" prefix="calendar" />
+
     <!-- Simple Calendar -->
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Pink}" drawable="simplecalendar" />
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Purple}" drawable="simplecalendar" />
@@ -3016,6 +3060,26 @@
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Brown}" drawable="simplecalendar" />
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Blue_grey}" drawable="simplecalendar" />
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity.Grey_black}" drawable="simplecalendar" />
+
+    <!-- Simple Calendar Pro Dynamic icon -->
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Pink}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Purple}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Deep_purple}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Indigo}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_blue}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Cyan}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Teal}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Green}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Light_green}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Lime}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Yellow}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Amber}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Orange}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Deep_orange}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Brown}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Blue_grey}" prefix="calendar" />
+    <calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" prefix="calendar" />
 
     <!-- Simple Calendar Pro -->
     <item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Pink}" drawable="simplecalendar" />
@@ -4072,6 +4136,7 @@
 
     <!-- Wallabag -->
     <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.MainActivity}" drawable="wallabagger" />
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.SplashActivity}" drawable="wallabagger" />
 
     <!-- Wallpapers -->
     <item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="wallpapers" />
