@@ -13,12 +13,12 @@ printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <string-array n
 printf '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <version>1</version>\n' > drawable.xml
 printf '    private Integer[] mImages = {\n' > code.xml
 
-for DIR in $(find ${SVGDIR} -name "*.svg" | sort)
+for DIR in $(find ${SVGDIR} -name "*.svg" | sort -V)
 do
   FILE=${DIR##*/}
   NAME=${FILE%.*}
   printf "${ICPACK_PRE}${NAME}${ICPACK_SUF}" >> iconpack.xml
-  printf "${DRAWABLE_PRE}${NAME}${DRAWABLE_SUF}" >> drawable.xml 
+  printf "${DRAWABLE_PRE}${NAME}${DRAWABLE_SUF}" >> drawable.xml
   printf "${CODE_PRE}${NAME}${CODE_SUF}" >> code.xml
 done
 
