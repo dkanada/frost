@@ -562,9 +562,6 @@
     <!-- Changelog -->
     <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
 
-    <!-- Changelog -->
-    <item component="ComponentInfo{com.bytehamster.changelog/com.bytehamster.changelog.Main}" drawable="changelog" />
-
     <!-- Chanu -->
     <item component="ComponentInfo{com.chanapps.four.activity/com.chanapps.four.activity.StartupActivity}" drawable="chanu" />
 
