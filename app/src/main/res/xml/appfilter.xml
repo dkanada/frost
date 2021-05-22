@@ -2474,6 +2474,9 @@
 
     <!-- PixelLab-->
     <item component="ComponentInfo{com.imaginstudio.imagetools.pixellab/com.imaginstudio.imagetools.pixellab.MainActivity}" drawable="pixellab" />
+    
+    <!-- Pixiv -->
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv" />
 
     <!-- Pixlr -->
     <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
