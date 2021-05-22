@@ -19,6 +19,9 @@ do
       "<!--")
         printf "\n$line" >> twofilter.xml
         ;;
+      "<cal")
+        printf " $line" >> twofilter.xml
+        ;;
       "<ite")
         printf " $line" >> twofilter.xml
         ;;
