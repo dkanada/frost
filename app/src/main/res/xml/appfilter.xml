@@ -515,6 +515,9 @@
     <!-- Casper -->
     <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
 
+    <!-- Celsius Wallet -->
+    <item component="ComponentInfo{network.celsius.wallet/network.celsius.wallet.SplashActivity}" drawable="celsius" />
+
     <!-- C:Geo -->
     <item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="cgeo" />
 
