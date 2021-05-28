@@ -4335,4 +4335,31 @@
     <!-- μlogger -->
     <item component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}" drawable="ulogger" />
 
+    <!-- Bluetooth Keyboard & Mouse -->
+    <item component="ComponentInfo{io.appground.blek/io.appground.blek.MainActivity}" drawable="bluetoothkeyboardmouse" />
+
+    <!-- Elementary -->
+    <item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary" />
+
+    <!-- Equate -->
+    <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
+
+    <!-- Kleine Wettervorschau Deutschland -->
+    <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
+
+    <!-- MultiVNC -->
+    <item component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}" drawable="multivnc" />
+
+    <!-- MyFRITZ! -->
+    <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz" />
+
+    <!-- Shader Editor -->
+    <item component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.SplashActivity}" drawable="shadereditor" />
+
+    <!-- SlimSocial -->
+    <item component="ComponentInfo{it.rignanese.leo.slimfacebook/it.rignanese.leo.slimfacebook.MainActivity}" drawable="slimsocial" />
+
+    <!-- SuperTuxKart -->
+    <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
+
 </resources>
