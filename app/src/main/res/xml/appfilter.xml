@@ -4377,4 +4377,15 @@
     <!-- F-Droid Classic -->
     <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
 
+    <!-- ActiveBuilding -->
+    <item component="ComponentInfo{com.activebuilding.residents/com.activebuilding.residents.MainActivity}" drawable="activebuilding" />
+
+    <!-- Best Buy -->
+    <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
+
+    <!-- To Do -->
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
+
+    <!-- SomaFM -->
+    <item component="ComponentInfo{com.dgmltn.radiomg.somafm/com.dgmltn.radiomg.Launcher}" drawable="somafm" />
 </resources>
