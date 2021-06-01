@@ -4388,4 +4388,14 @@
 
     <!-- SomaFM -->
     <item component="ComponentInfo{com.dgmltn.radiomg.somafm/com.dgmltn.radiomg.Launcher}" drawable="somafm" />
+
+    <!-- Bing -->
+    <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity}" drawable="bing" />
+
+    <!-- MasterMindy -->
+    <item component="ComponentInfo{eth.matteljay.mastermindy/eth.matteljay.mastermindy.MainActivity}" drawable="mastermindy" />
+
+    <!-- Weather -->
+    <item component="ComponentInfo{nl.implode.weer/nl.implode.weer.SettingsActivity}" drawable="weatherwidget" />
+
 </resources>
