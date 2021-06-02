@@ -4398,4 +4398,19 @@
     <!-- Weather -->
     <item component="ComponentInfo{nl.implode.weer/nl.implode.weer.SettingsActivity}" drawable="weatherwidget" />
 
+    <!-- Vanced Manager -->
+    <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
+
+    <!-- Gitter -->
+    <item component="ComponentInfo{im.gitter.gitter/im.gitter.gitter.activities.StartActivity}" drawable="gitter" />
+
+    <!-- SoundHound -->
+    <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
+
+    <!-- QField -->
+    <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+
+    <!-- Fitbit Coach -->
+    <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
+
 </resources>
