@@ -4413,4 +4413,16 @@
     <!-- Fitbit Coach -->
     <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
 
+    <!-- WhatsDeleted -->
+    <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
+
+    <!-- Wrong PIN Shutdown -->
+    <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
+
+    <!-- DarQ -->
+    <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
+
+    <!-- MeinMagenta -->
+    <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
+
 </resources>
