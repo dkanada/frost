@@ -4344,6 +4344,9 @@
     <!-- Auto Airplane Mode -->
     <item component="ComponentInfo{org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity}" drawable="autoairplanemode" />
 
+    <!-- Banking4 -->
+    <item component="ComponentInfo{subsembly.banking/subsembly.superwallet.StartActivity}" drawable="banking4" />
+
     <!-- Best Buy -->
     <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
 
@@ -4386,6 +4389,9 @@
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
 
+    <!-- Logische Selbstverteidigung -->
+    <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logischeselbstverteidigung" />
+
     <!-- MasterMindy -->
     <item component="ComponentInfo{eth.matteljay.mastermindy/eth.matteljay.mastermindy.MainActivity}" drawable="mastermindy" />
 
@@ -4404,6 +4410,9 @@
     <!-- React -->
     <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
 
+    <!-- SecureGo -->
+    <item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego" />
+
     <!-- Shader Editor -->
     <item component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.SplashActivity}" drawable="shadereditor" />
 
@@ -4418,6 +4427,9 @@
 
     <!-- SuperTuxKart -->
     <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
+
+    <!-- TAN2go -->
+    <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
 
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
@@ -4436,5 +4448,4 @@
 
     <!-- Yuzu Browser -->
     <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzubrowser" />
-
 </resources>
