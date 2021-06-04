@@ -4335,8 +4335,35 @@
     <!-- μlogger -->
     <item component="ComponentInfo{net.fabiszewski.ulogger/net.fabiszewski.ulogger.MainActivity}" drawable="ulogger" />
 
+    <!-- ActiveBuilding -->
+    <item component="ComponentInfo{com.activebuilding.residents/com.activebuilding.residents.MainActivity}" drawable="activebuilding" />
+
+    <!-- Anuto TD -->
+    <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anutotd" />
+
+    <!-- Auto Airplane Mode -->
+    <item component="ComponentInfo{org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity}" drawable="autoairplanemode" />
+
+    <!-- Best Buy -->
+    <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
+
+    <!-- Bing -->
+    <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity}" drawable="bing" />
+
     <!-- Bluetooth Keyboard & Mouse -->
     <item component="ComponentInfo{io.appground.blek/io.appground.blek.MainActivity}" drawable="bluetoothkeyboardmouse" />
+
+    <!-- Car Report -->
+    <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport" />
+
+    <!-- Dal -->
+    <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
+
+    <!-- Dal -->
+    <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
+
+    <!-- DarQ -->
+    <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
     <!-- Elementary -->
     <item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary" />
@@ -4344,8 +4371,29 @@
     <!-- Equate -->
     <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
 
+    <!-- F-Droid Classic -->
+    <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
+
+    <!-- Fitbit Coach -->
+    <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
+
+    <!-- Geburtstagskalender -->
+    <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
+
+    <!-- Gitter -->
+    <item component="ComponentInfo{im.gitter.gitter/im.gitter.gitter.activities.StartActivity}" drawable="gitter" />
+
+    <!-- Image & Video Date Fixer -->
+    <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
+
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
+
+    <!-- MasterMindy -->
+    <item component="ComponentInfo{eth.matteljay.mastermindy/eth.matteljay.mastermindy.MainActivity}" drawable="mastermindy" />
+
+    <!-- MeinMagenta -->
+    <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
 
     <!-- MultiVNC -->
     <item component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}" drawable="multivnc" />
@@ -4353,65 +4401,35 @@
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz" />
 
+    <!-- QField -->
+    <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+
+    <!-- React -->
+    <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
+
     <!-- Shader Editor -->
     <item component="ComponentInfo{de.markusfisch.android.shadereditor/de.markusfisch.android.shadereditor.activity.SplashActivity}" drawable="shadereditor" />
 
     <!-- SlimSocial -->
     <item component="ComponentInfo{it.rignanese.leo.slimfacebook/it.rignanese.leo.slimfacebook.MainActivity}" drawable="slimsocial" />
 
-    <!-- SuperTuxKart -->
-    <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
-
-    <!-- Yuzu Browser -->
-    <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzubrowser" />
-
-    <!-- React -->
-    <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
-
-    <!-- Anuto TD -->
-    <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anutotd" />
-
-    <!-- Car Report -->
-    <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport" />
-
-    <!-- F-Droid Classic -->
-    <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
-
-    <!-- ActiveBuilding -->
-    <item component="ComponentInfo{com.activebuilding.residents/com.activebuilding.residents.MainActivity}" drawable="activebuilding" />
-
-    <!-- Best Buy -->
-    <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
-
-    <!-- To Do -->
-    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
-
     <!-- SomaFM -->
     <item component="ComponentInfo{com.dgmltn.radiomg.somafm/com.dgmltn.radiomg.Launcher}" drawable="somafm" />
-
-    <!-- Bing -->
-    <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity}" drawable="bing" />
-
-    <!-- MasterMindy -->
-    <item component="ComponentInfo{eth.matteljay.mastermindy/eth.matteljay.mastermindy.MainActivity}" drawable="mastermindy" />
-
-    <!-- Weather -->
-    <item component="ComponentInfo{nl.implode.weer/nl.implode.weer.SettingsActivity}" drawable="weatherwidget" />
-
-    <!-- Vanced Manager -->
-    <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
-
-    <!-- Gitter -->
-    <item component="ComponentInfo{im.gitter.gitter/im.gitter.gitter.activities.StartActivity}" drawable="gitter" />
 
     <!-- SoundHound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 
-    <!-- QField -->
-    <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+    <!-- SuperTuxKart -->
+    <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
 
-    <!-- Fitbit Coach -->
-    <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
+    <!-- To Do -->
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
+
+    <!-- Vanced Manager -->
+    <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
+
+    <!-- Weather -->
+    <item component="ComponentInfo{nl.implode.weer/nl.implode.weer.SettingsActivity}" drawable="weatherwidget" />
 
     <!-- WhatsDeleted -->
     <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
@@ -4419,10 +4437,7 @@
     <!-- Wrong PIN Shutdown -->
     <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
 
-    <!-- DarQ -->
-    <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
-
-    <!-- MeinMagenta -->
-    <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
+    <!-- Yuzu Browser -->
+    <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzubrowser" />
 
 </resources>
