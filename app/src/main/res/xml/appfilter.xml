@@ -4359,9 +4359,6 @@
     <!-- Dal -->
     <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
 
-    <!-- Dal -->
-    <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
-
     <!-- DarQ -->
     <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
