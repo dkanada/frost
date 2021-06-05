@@ -4350,6 +4350,9 @@
     <!-- Best Buy -->
     <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
 
+    <!-- Binance -->
+    <item component="ComponentInfo{com.binance.dev/com.binance.dev.SplashActivity}" drawable="binance" />
+
     <!-- Bing -->
     <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.main.SplashActivity}" drawable="bing" />
 
@@ -4358,6 +4361,9 @@
 
     <!-- Car Report -->
     <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport" />
+
+    <!-- Contacts Sync -->
+    <item component="ComponentInfo{com.lb.contacts_sync/com.lb.contacts_sync.activities.main.MainActivity}" drawable="contactssync" />
 
     <!-- Dal -->
     <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
@@ -4404,11 +4410,17 @@
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz" />
 
+    <!-- Prayer Times -->
+    <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
+
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
 
     <!-- React -->
     <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
+
+    <!-- Roku Remote -->
+    <item component="ComponentInfo{roid.spikesroid.roku_tv_remote/roid.spikesroid.roku_tv_remote.MainActivity}" drawable="rokuremote" />
 
     <!-- SecureGo -->
     <item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego" />
@@ -4448,4 +4460,5 @@
 
     <!-- Yuzu Browser -->
     <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzubrowser" />
+
 </resources>
