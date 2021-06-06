@@ -4338,6 +4338,12 @@
     <!-- ActiveBuilding -->
     <item component="ComponentInfo{com.activebuilding.residents/com.activebuilding.residents.MainActivity}" drawable="activebuilding" />
 
+    <!-- Adobe Fill & Sign -->
+    <item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobefillsign" />
+
+    <!-- Andronix -->
+    <item component="ComponentInfo{studio.com.techriz.andronix/studio.com.techriz.andronix.AppClasses.Splash}" drawable="andronix" />
+
     <!-- Anuto TD -->
     <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anutotd" />
 
@@ -4383,11 +4389,17 @@
     <!-- Fitbit Coach -->
     <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
 
+    <!-- FiSSH -->
+    <item component="ComponentInfo{ro.ioanm.fissh/ro.ioanm.fissh.MainActivity}" drawable="fissh" />
+
     <!-- Geburtstagskalender -->
     <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
 
     <!-- Gitter -->
     <item component="ComponentInfo{im.gitter.gitter/im.gitter.gitter.activities.StartActivity}" drawable="gitter" />
+
+    <!-- GitTouch -->
+    <item component="ComponentInfo{io.github.pd4d10.gittouch/io.github.pd4d10.gittouch.MainActivity}" drawable="gittouch" />
 
     <!-- Image & Video Date Fixer -->
     <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
