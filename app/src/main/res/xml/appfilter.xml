@@ -4347,6 +4347,9 @@
     <!-- Anuto TD -->
     <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anutotd" />
 
+    <!-- Authenticator -->
+    <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="azureauthenticator" />
+
     <!-- Auto Airplane Mode -->
     <item component="ComponentInfo{org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity}" drawable="autoairplanemode" />
 
@@ -4401,6 +4404,9 @@
     <!-- GitTouch -->
     <item component="ComponentInfo{io.github.pd4d10.gittouch/io.github.pd4d10.gittouch.MainActivity}" drawable="gittouch" />
 
+    <!-- GroupMe -->
+    <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="groupme" />
+
     <!-- Image & Video Date Fixer -->
     <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
 
@@ -4421,6 +4427,12 @@
 
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz" />
+
+    <!-- News -->
+    <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
+
+    <!-- News -->
+    <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="news" />
 
     <!-- Prayer Times -->
     <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
