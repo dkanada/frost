@@ -4356,6 +4356,9 @@
     <!-- Banking4 -->
     <item component="ComponentInfo{subsembly.banking/subsembly.superwallet.StartActivity}" drawable="banking4" />
 
+    <!-- Barinsta -->
+    <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}" drawable="barinsta" />
+
     <!-- Best Buy -->
     <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="bestbuy" />
 
@@ -4380,11 +4383,17 @@
     <!-- DarQ -->
     <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
+    <!-- Elegant Teleprompter -->
+    <item component="ComponentInfo{com.ayman.elegantteleprompter/com.ayman.elegantteleprompter.main_ui.MainActivity}" drawable="elegantteleprompter" />
+
     <!-- Elementary -->
     <item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary" />
 
     <!-- Equate -->
     <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
+
+    <!-- Exodus -->
+    <item component="ComponentInfo{exodusmovement.exodus/exodusmovement.exodus.MainActivity}" drawable="exodus" />
 
     <!-- F-Droid Classic -->
     <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
@@ -4410,6 +4419,9 @@
     <!-- Image & Video Date Fixer -->
     <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
 
+    <!-- Keepa -->
+    <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
 
@@ -4434,6 +4446,12 @@
     <!-- News -->
     <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="appreactornews" />
 
+    <!-- OpenCV Manager -->
+    <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
+
+    <!-- Pi-hole Droid -->
+    <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="pi-holedroid" />
+
     <!-- Prayer Times -->
     <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
 
@@ -4455,6 +4473,9 @@
     <!-- SlimSocial -->
     <item component="ComponentInfo{it.rignanese.leo.slimfacebook/it.rignanese.leo.slimfacebook.MainActivity}" drawable="slimsocial" />
 
+    <!-- SofaScore -->
+    <item component="ComponentInfo{com.sofascore.results/com.sofascore.results.main.StartActivity}" drawable="sofascore" />
+
     <!-- SomaFM -->
     <item component="ComponentInfo{com.dgmltn.radiomg.somafm/com.dgmltn.radiomg.Launcher}" drawable="somafm" />
 
@@ -4469,6 +4490,9 @@
 
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
+
+    <!-- Transmission Remote -->
+    <item component="ComponentInfo{net.yupol.transmissionremote.app/net.yupol.transmissionremote.app.MainActivity}" drawable="transmissionremote" />
 
     <!-- Vanced Manager -->
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
