@@ -4432,7 +4432,7 @@
     <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
 
     <!-- News -->
-    <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="news" />
+    <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="appreactornews" />
 
     <!-- Prayer Times -->
     <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
