@@ -4383,6 +4383,9 @@
     <!-- DarQ -->
     <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
+    <!-- Documents -->
+    <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.login.SplashActivity}" drawable="documents" />
+
     <!-- Elegant Teleprompter -->
     <item component="ComponentInfo{com.ayman.elegantteleprompter/com.ayman.elegantteleprompter.main_ui.MainActivity}" drawable="elegantteleprompter" />
 
@@ -4391,6 +4394,9 @@
 
     <!-- Equate -->
     <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
+
+    <!-- EtchDroid -->
+    <item component="ComponentInfo{eu.depau.etchdroid/eu.depau.etchdroid.ui.activities.StartActivity}" drawable="etchdroid" />
 
     <!-- Exodus -->
     <item component="ComponentInfo{exodusmovement.exodus/exodusmovement.exodus.MainActivity}" drawable="exodus" />
@@ -4433,6 +4439,9 @@
 
     <!-- MeinMagenta -->
     <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
+
+    <!-- Motion Eye -->
+    <item component="ComponentInfo{com.jairaj.janglegmail.motioneye/com.jairaj.janglegmail.motioneye.activities.LoadingScreenActivity}" drawable="motioneye" />
 
     <!-- MultiVNC -->
     <item component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}" drawable="multivnc" />
