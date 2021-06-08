@@ -4341,8 +4341,14 @@
     <!-- Adobe Fill & Sign -->
     <item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobefillsign" />
 
+    <!-- Agenda Lite -->
+    <item component="ComponentInfo{com.franco.agenda.free/a.b}" drawable="agendalite" />
+
     <!-- Andronix -->
     <item component="ComponentInfo{studio.com.techriz.andronix/studio.com.techriz.andronix.AppClasses.Splash}" drawable="andronix" />
+
+    <!-- AnonAddy -->
+    <item component="ComponentInfo{host.stjin.anonaddy/host.stjin.anonaddy.ui.SplashActivity}" drawable="anonaddy" />
 
     <!-- Anuto TD -->
     <item component="ComponentInfo{ch.logixisland.anuto/ch.logixisland.anuto.view.game.GameActivity}" drawable="anutotd" />
@@ -4410,6 +4416,9 @@
     <!-- FiSSH -->
     <item component="ComponentInfo{ro.ioanm.fissh/ro.ioanm.fissh.MainActivity}" drawable="fissh" />
 
+    <!-- Flow -->
+    <item component="ComponentInfo{com.microsoft.flow/com.microsoft.flow.MainActivity}" drawable="flow" />
+
     <!-- Geburtstagskalender -->
     <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
 
@@ -4422,8 +4431,14 @@
     <!-- GroupMe -->
     <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="groupme" />
 
+    <!-- Haven -->
+    <item component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}" drawable="haven" />
+
     <!-- Image & Video Date Fixer -->
     <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
+
+    <!-- iNaturalist -->
+    <item component="ComponentInfo{org.inaturalist.android/org.inaturalist.android.ObservationListActivity.inaturalist}" drawable="inaturalist" />
 
     <!-- Keepa -->
     <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
@@ -4459,7 +4474,7 @@
     <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
 
     <!-- Pi-hole Droid -->
-    <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="pi-holedroid" />
+    <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="piholedroid" />
 
     <!-- Prayer Times -->
     <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
@@ -4472,6 +4487,9 @@
 
     <!-- Roku Remote -->
     <item component="ComponentInfo{roid.spikesroid.roku_tv_remote/roid.spikesroid.roku_tv_remote.MainActivity}" drawable="rokuremote" />
+
+    <!-- RoomMate -->
+    <item component="ComponentInfo{com.roommate.android/com.roommate.android.ui.intro.SplashActivity}" drawable="roommate" />
 
     <!-- SecureGo -->
     <item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego" />
@@ -4506,14 +4524,26 @@
     <!-- Vanced Manager -->
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
 
+    <!-- VR Media Player -->
+    <item component="ComponentInfo{com.xojot.vrplayer/com.xojot.vrplayer.MainActivity}" drawable="vrmediaplayer" />
+
+    <!-- Watomatic -->
+    <item component="ComponentInfo{com.parishod.watomatic/com.parishod.watomatic.activity.main.MainActivity}" drawable="watomatic" />
+
     <!-- Weather -->
     <item component="ComponentInfo{nl.implode.weer/nl.implode.weer.SettingsActivity}" drawable="weatherwidget" />
+
+    <!-- Website Monitor -->
+    <item component="ComponentInfo{com.manimarank.websitemonitor/com.manimarank.websitemonitor.ui.splash.SplashActivity}" drawable="websitemonitor" />
 
     <!-- WhatsDeleted -->
     <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
 
     <!-- Wrong PIN Shutdown -->
     <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
+
+    <!-- Yaga -->
+    <item component="ComponentInfo{com.github.vauvenal5.yaga/com.github.vauvenal5.yaga.MainActivity}" drawable="yaga" />
 
     <!-- Yuzu Browser -->
     <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.browser.BrowserActivity}" drawable="yuzubrowser" />
