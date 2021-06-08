@@ -4456,7 +4456,7 @@
     <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
 
     <!-- Motion Eye -->
-    <item component="ComponentInfo{com.jairaj.janglegmail.motioneye/com.jairaj.janglegmail.motioneye.activities.LoadingScreenActivity}" drawable="motioneye" />
+    <item component="ComponentInfo{com.jairaj.janglegmail.motioneye/com.jairaj.janglegmail.motioneye.activities.LoadingScreenActivity}" drawable="motioneyeapp" />
 
     <!-- MultiVNC -->
     <item component="ComponentInfo{com.coboltforge.dontmind.multivnc/com.coboltforge.dontmind.multivnc.MainMenuActivity}" drawable="multivnc" />
