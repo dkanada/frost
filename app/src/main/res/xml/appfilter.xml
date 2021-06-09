@@ -4381,6 +4381,9 @@
     <!-- Car Report -->
     <item component="ComponentInfo{me.kuehle.carreport/me.kuehle.carreport.gui.MainActivity}" drawable="carreport" />
 
+    <!-- Clima -->
+    <item component="ComponentInfo{co.prestosole.clima/co.appbrewery.clima.MainActivity}" drawable="clima" />
+
     <!-- Contacts Sync -->
     <item component="ComponentInfo{com.lb.contacts_sync/com.lb.contacts_sync.activities.main.MainActivity}" drawable="contactssync" />
 
@@ -4390,8 +4393,14 @@
     <!-- DarQ -->
     <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
+    <!-- Dawn -->
+    <item component="ComponentInfo{me.thanel.dank/me.saket.dank.Launcher}" drawable="dawn" />
+
     <!-- Desmos -->
     <item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
+
+    <!-- DetoxDroid -->
+    <item component="ComponentInfo{com.flx_apps.digitaldetox/com.flx_apps.digitaldetox.MainActivity_}" drawable="detoxdroid" />
 
     <!-- Documents -->
     <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.login.SplashActivity}" drawable="documents" />
@@ -4416,6 +4425,9 @@
 
     <!-- Exodus -->
     <item component="ComponentInfo{exodusmovement.exodus/exodusmovement.exodus.MainActivity}" drawable="exodus" />
+
+    <!-- Family Link -->
+    <item component="ComponentInfo{com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.home.HomeActivityV2}" drawable="familylink" />
 
     <!-- F-Droid Classic -->
     <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
@@ -4459,8 +4471,14 @@
     <!-- KeepOn -->
     <item component="ComponentInfo{fr.twentynine.keepon/fr.twentynine.keepon.ui.SplashScreen}" drawable="keepon" />
 
+    <!-- Kickstarter -->
+    <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
+
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
+
+    <!-- KoBoCollect -->
+    <item component="ComponentInfo{org.koboc.collect.android/org.odk.collect.android.activities.SplashScreenActivity}" drawable="kobocollect" />
 
     <!-- Logische Selbstverteidigung -->
     <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logischeselbstverteidigung" />
@@ -4498,6 +4516,9 @@
     <!-- OpenCV Manager -->
     <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
 
+    <!-- Oto Music -->
+    <item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="otomusic" />
+
     <!-- Pi-hole Droid -->
     <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="piholedroid" />
 
@@ -4513,8 +4534,14 @@
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
 
+    <!-- RaspController -->
+    <item component="ComponentInfo{it.Ettore.raspcontroller/it.Ettore.raspcontroller.activity.ActivityStart}" drawable="raspcontroller" />
+
     <!-- React -->
     <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
+
+    <!-- rinex ON -->
+    <item component="ComponentInfo{com.eu.nsl.rinexON/com.eu.nsl.app.rinexON.SplashActivity}" drawable="rinexon" />
 
     <!-- Roku Remote -->
     <item component="ComponentInfo{roid.spikesroid.roku_tv_remote/roid.spikesroid.roku_tv_remote.MainActivity}" drawable="rokuremote" />
@@ -4539,6 +4566,9 @@
 
     <!-- SoundHound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
+
+    <!-- STUDIUM.UniCT -->
+    <item component="ComponentInfo{unict.cea.studium/unict.cea.studium.SplashScreen}" drawable="studiumunict" />
 
     <!-- SuperTuxKart -->
     <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
