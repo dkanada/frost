@@ -2757,6 +2757,7 @@
 
     <!-- Reddit -->
     <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="reddit" />
+    <item component="ComponentInfo{com.reddit.frontpage/launcher.default}" drawable="reddit" />
 
     <!-- Reddit Sync -->
     <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="redditsync" />
@@ -4389,8 +4390,17 @@
     <!-- DarQ -->
     <item component="ComponentInfo{com.kieronquinn.app.darq/com.kieronquinn.app.darq.activities.MainActivity}" drawable="darq" />
 
+    <!-- Desmos -->
+    <item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
+
     <!-- Documents -->
     <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.login.SplashActivity}" drawable="documents" />
+
+    <!-- DroidCam -->
+    <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="droidcam" />
+
+    <!-- DropTicket -->
+    <item component="ComponentInfo{com.atono.dropticket/com.atono.dropticket.store.StoreActivity}" drawable="dropticket" />
 
     <!-- Elegant Teleprompter -->
     <item component="ComponentInfo{com.ayman.elegantteleprompter/com.ayman.elegantteleprompter.main_ui.MainActivity}" drawable="elegantteleprompter" />
@@ -4434,6 +4444,9 @@
     <!-- Haven -->
     <item component="ComponentInfo{org.havenapp.main/org.havenapp.main.ListActivity}" drawable="haven" />
 
+    <!-- Headi -->
+    <item component="ComponentInfo{com.headi.app/com.headi.app.MainActivity}" drawable="headi" />
+
     <!-- Image & Video Date Fixer -->
     <item component="ComponentInfo{eu.duong.imagedatefixer/eu.duong.imagedatefixer.activities.MainActivity}" drawable="imagevideodatefixer" />
 
@@ -4442,6 +4455,9 @@
 
     <!-- Keepa -->
     <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
+
+    <!-- KeepOn -->
+    <item component="ComponentInfo{fr.twentynine.keepon/fr.twentynine.keepon.ui.SplashScreen}" drawable="keepon" />
 
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
@@ -4455,6 +4471,9 @@
     <!-- MeinMagenta -->
     <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
 
+    <!-- Mi Store -->
+    <item component="ComponentInfo{com.mi.global.shop/com.mi.global.shopcomponents.activity.LaunchActivity}" drawable="mistore" />
+
     <!-- Motion Eye -->
     <item component="ComponentInfo{com.jairaj.janglegmail.motioneye/com.jairaj.janglegmail.motioneye.activities.LoadingScreenActivity}" drawable="motioneyeapp" />
 
@@ -4463,6 +4482,12 @@
 
     <!-- MyFRITZ! -->
     <item component="ComponentInfo{de.avm.android.myfritz2/de.avm.android.one.activities.StartActivity}" drawable="myfritz" />
+
+    <!-- MyTIM -->
+    <item component="ComponentInfo{it.telecomitalia.centodiciannove/it.tim.mytim.SplashActivity}" drawable="mytim" />
+
+    <!-- NC Passwords -->
+    <item component="ComponentInfo{de.jbservices.nc_passwords_app/de.jbservices.nc_passwords_app.MainActivity}" drawable="ncpasswords" />
 
     <!-- News -->
     <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
@@ -4476,8 +4501,14 @@
     <!-- Pi-hole Droid -->
     <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="piholedroid" />
 
+    <!-- Piwigo -->
+    <item component="ComponentInfo{org.piwigo.android/org.piwigo.ui.launcher.LauncherActivity}" drawable="piwigo" />
+
     <!-- Prayer Times -->
     <item component="ComponentInfo{com.metinkale.prayer/com.metinkale.prayer.aliasEN}" drawable="prayertimes" />
+
+    <!-- Pro Expense -->
+    <item component="ComponentInfo{com.arduia.expense/com.arduia.expense.ui.MainActivity}" drawable="proexpense" />
 
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
