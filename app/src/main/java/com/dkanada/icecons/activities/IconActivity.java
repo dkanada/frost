@@ -1,80 +1,67 @@
 package com.dkanada.icecons.activities;
 
-import android.graphics.Rect;
 import android.os.Bundle;
-import android.view.Gravity;
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.ScrollView;
+import android.text.Editable;
+import android.text.TextWatcher;
+import android.widget.EditText;
+import android.widget.GridView;
 
 import com.dkanada.icecons.R;
-import com.dkanada.icecons.utils.ImageUtils;
-import com.dkanada.icecons.utils.ScreenUtils;
+import com.dkanada.icecons.adapters.IconAdapter;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class IconActivity extends BaseActivity {
-    private final ArrayList<LinearLayout> layoutList = new ArrayList<>();
-    private final ArrayList<ImageView> imageList = new ArrayList<>();
+    private final IconAdapter mAdapter = new IconAdapter(R.layout.grid_item);
+    private String[] mImages;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if (ScreenUtils.isPortrait(getApplicationContext())) {
-            createLayout(7);
-        } else {
-            createLayout(12);
-        }
-    }
+        setContentView(R.layout.icon_grid);
 
-    private void createLayout(int width) {
-        float scale = ScreenUtils.densityScale(getApplicationContext());
-        int margin = 16 * Math.round(scale);
+        mImages = getResources().getStringArray(R.array.icon_pack);
 
-        LinearLayout.LayoutParams baseParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.MATCH_PARENT);
-        LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-        LinearLayout.LayoutParams containerParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-        LinearLayout.LayoutParams imageParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT, 1f);
-
-        ScrollView baseScroller = new ScrollView(this);
-        baseScroller.setLayoutParams(baseParams);
-        baseScroller.setBackgroundColor(getResources().getColor(R.color.colorPrimary));
-        setContentView(baseScroller);
-        baseScroller.setVisibility(View.VISIBLE);
-
-        // display width hack
-        Rect windowRect = new Rect();
-        baseScroller.getWindowVisibleDisplayFrame(windowRect);
-        int windowWidth = windowRect.right - windowRect.left;
-
-        LinearLayout baseLayout = new LinearLayout(this);
-        baseLayout.setOrientation(LinearLayout.VERTICAL);
-        baseLayout.setLayoutParams(layoutParams);
-        baseLayout.setPadding(margin, margin, 0, 0);
-        baseScroller.addView(baseLayout);
-
-        String[] images = getResources().getStringArray(R.array.icon_pack);
-        for (int i = 0; i < images.length; i++) {
-            if (i % width == 0) {
-                layoutList.add((i / width), new LinearLayout(this));
-                layoutList.get(i / width).setOrientation(LinearLayout.HORIZONTAL);
-                layoutList.get(i / width).setGravity(Gravity.START);
-                layoutList.get(i / width).setLayoutParams(containerParams);
-
-                baseLayout.addView(layoutList.get(i / width));
+        EditText searchBar = findViewById(R.id.searchBar);
+        searchBar.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
             }
 
-            imageList.add(i, new ImageView(this));
-            imageList.get(i).setLayoutParams(imageParams);
-            imageList.get(i).setScaleType(ImageView.ScaleType.FIT_XY);
-            imageList.get(i).setPadding(0, 0, margin, margin);
-            imageList.get(i).setAdjustViewBounds(true);
+            @Override
+            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+                mAdapter.clearList();
+                if (charSequence.length() == 0) {
+                    mAdapter.newLoadAsyncList(() -> {
+                        ArrayList<String> imageList = new ArrayList<>(mImages.length);
+                        Collections.addAll(imageList, mImages);
+                        return imageList;
+                    }).execute();
+                } else {
+                    String searchString = charSequence.toString().toLowerCase();
+                    mAdapter.newLoadAsyncList(() -> {
+                        ArrayList<String> imageList = new ArrayList<>(mImages.length);
+                        for (String s : mImages) {
+                            if (s.contains(searchString)) {
+                                imageList.add(s);
+                            }
+                        }
+                        return imageList;
+                    }).execute();
+                }
+            }
 
-            final int resId = getResources().getIdentifier(images[i], "drawable", getPackageName());
-            ImageUtils.bitmapLoadAsync(imageList.get(i), getApplicationContext().getResources(), resId, (windowWidth / width) - (margin * width + margin) / width, (windowWidth / width) - (margin * width + margin) / width);
+            @Override
+            public void afterTextChanged(Editable editable) {
+            }
 
-            layoutList.get(i / width).addView(imageList.get(i));
-        }
+        });
+
+        GridView gridView = findViewById(R.id.iconGrid);
+        gridView.setAdapter(mAdapter);
+
+        // call onTextChanged
+        searchBar.setText(null);
     }
 }
