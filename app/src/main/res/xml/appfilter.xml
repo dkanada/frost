@@ -4480,6 +4480,9 @@
     <!-- KoBoCollect -->
     <item component="ComponentInfo{org.koboc.collect.android/org.odk.collect.android.activities.SplashScreenActivity}" drawable="kobocollect" />
 
+    <!-- LBRY -->
+    <item component="ComponentInfo{io.lbry.browser/io.lbry.browser.MainActivity}" drawable="lbry" />
+
     <!-- Logische Selbstverteidigung -->
     <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logischeselbstverteidigung" />
 
@@ -4576,6 +4579,9 @@
     <!-- TAN2go -->
     <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
 
+    <!-- Tape Measure -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlytapemeasure/org.secuso.privacyfriendlycameraruler.SplashActivity}" drawable="tapemeasure" />
+
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
 
@@ -4596,6 +4602,9 @@
 
     <!-- Website Monitor -->
     <item component="ComponentInfo{com.manimarank.websitemonitor/com.manimarank.websitemonitor.ui.splash.SplashActivity}" drawable="websitemonitor" />
+
+    <!-- Web Video Caster -->
+    <item component="ComponentInfo{com.instantbits.cast.webvideo/com.instantbits.cast.webvideo.SplashActivity}" drawable="webvideocaster" />
 
     <!-- WhatsDeleted -->
     <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
