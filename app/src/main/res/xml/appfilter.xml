@@ -4544,11 +4544,17 @@
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
 
+    <!-- Quran For My Android -->
+    <item component="ComponentInfo{com.frrahat.quransimple/com.frrahat.quransimple.MainActivity}" drawable="quranformyandroid" />
+
     <!-- RaspController -->
     <item component="ComponentInfo{it.Ettore.raspcontroller/it.Ettore.raspcontroller.activity.ActivityStart}" drawable="raspcontroller" />
 
     <!-- React -->
     <item component="ComponentInfo{io.github.engsergiu.react/io.github.engsergiu.react.MainActivity}" drawable="react" />
+
+    <!-- Reckoning Skills -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlyrecknoningskills/org.secuso.privacyfriendlyreckoningskills.activities.SplashActivity}" drawable="reckoningskills" />
 
     <!-- rinex ON -->
     <item component="ComponentInfo{com.eu.nsl.rinexON/com.eu.nsl.app.rinexON.SplashActivity}" drawable="rinexon" />
@@ -4558,6 +4564,9 @@
 
     <!-- RoomMate -->
     <item component="ComponentInfo{com.roommate.android/com.roommate.android.ui.intro.SplashActivity}" drawable="roommate" />
+
+    <!-- SatOrbit -->
+    <item component="ComponentInfo{sil.satorbit/sil.satorbit.ActivityStartUp}" drawable="satorbit" />
 
     <!-- SecureGo -->
     <item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego" />
@@ -4571,6 +4580,9 @@
     <!-- SofaScore -->
     <item component="ComponentInfo{com.sofascore.results/com.sofascore.results.main.StartActivity}" drawable="sofascore" />
 
+    <!-- Solex -->
+    <item component="ComponentInfo{com.fognl.solex/com.fognl.solex.SolexMainActivity}" drawable="solex" />
+
     <!-- SomaFM -->
     <item component="ComponentInfo{com.dgmltn.radiomg.somafm/com.dgmltn.radiomg.Launcher}" drawable="somafm" />
 
@@ -4583,11 +4595,14 @@
     <!-- SuperTuxKart -->
     <item component="ComponentInfo{org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity}" drawable="supertuxkart" />
 
-    <!-- TAN2go -->
-    <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
+    <!-- Sygic -->
+    <item component="ComponentInfo{com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity}" drawable="sygic" />
 
     <!-- Tape Measure -->
     <item component="ComponentInfo{org.secuso.privacyfriendlytapemeasure/org.secuso.privacyfriendlycameraruler.SplashActivity}" drawable="tapemeasure" />
+
+    <!-- TAN2go -->
+    <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
 
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
@@ -4615,6 +4630,9 @@
 
     <!-- WhatsDeleted -->
     <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
+
+    <!-- Wookiee -->
+    <item component="ComponentInfo{com.sharkhead.android.wookiee/com.sharkhead.android.wookiee.WookieeActivity}" drawable="wookiee" />
 
     <!-- Wrong PIN Shutdown -->
     <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
