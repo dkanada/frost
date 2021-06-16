@@ -4424,6 +4424,9 @@
     <!-- Elementary -->
     <item component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" drawable="elementary" />
 
+    <!-- Emerald Dialer -->
+    <item component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}" drawable="emeralddialer" />
+
     <!-- Equate -->
     <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
 
@@ -4525,6 +4528,9 @@
 
     <!-- OpenCV Manager -->
     <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
+
+    <!-- OpenBeautyFacts -->
+    <item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openbeautyfacts" />
 
     <!-- Oto Music -->
     <item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="otomusic" />
