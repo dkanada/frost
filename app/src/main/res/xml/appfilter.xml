@@ -237,6 +237,9 @@
     <!-- Arcticons -->
     <item component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
     <item component="ComponentInfo{com.donnnno.arcticons.debug/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons" />
+    
+    <!-- Ariane -->
+    <item component="ComponentInfo{oppen.gemini.ariane/oppen.ariane.ui.GemActivity}" drawable="ariane" />
 
     <!-- AsteroidOS Sync -->
     <item component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" drawable="asteroidossync" />
@@ -880,6 +883,9 @@
 
     <!-- Drive -->
     <item component="ComponentInfo{com.synology.dsdrive/com.synology.dsdrive.activity.SplashActivity}" drawable="dsdrive" />
+    
+    <!-- DroidCam -->
+    <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="droidcam" />
 
     <!-- DroidShows -->
     <item component="ComponentInfo{nl.asymmetrics.droidshows/nl.asymmetrics.droidshows.DroidShows}" drawable="droidshows" />
@@ -1731,6 +1737,9 @@
 
     <!-- LedMote -->
     <item component="ComponentInfo{net.frozenbit.ledmote/net.frozenbit.ledmote.IRActivity}" drawable="ledmote" />
+    
+    <!-- lemmur -->
+    <item component="ComponentInfo{com.krawieck.lemmur/com.krawieck.lemmur.MainActivity}" drawable="lemmur" />
 
     <!-- Lens -->
     <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="lens" />
@@ -2250,6 +2259,9 @@
 
     <!-- Nextcloud Talk -->
     <item component="ComponentInfo{com.nextcloud.talk2/com.nextcloud.talk.activities.MainActivity}" drawable="nextcloudtalk" />
+    
+    <!-- Nextory -->
+    <item component="ComponentInfo{com.gtl.nextory/com.gtl.nextory.login.LoginActivity}" drawable="nextory" />
 
     <!-- Nfc Tasks -->
     <item component="ComponentInfo{com.wakdev.nfctasks/com.wakdev.nfctasks.MainActivity}" drawable="nfctasks" />
@@ -4084,9 +4096,8 @@
     <!-- Vanilla Music -->
     <item component="ComponentInfo{ch.blinkenlights.android.vanilla/ch.blinkenlights.android.vanilla.LibraryActivity}" drawable="vanillamusic" />
 
-    <!-- Vasttrafik To Go -->
-    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/md570e4086799b98a2b624e58e3e3cdb240.SplashScreenActivity}" drawable="vasttrafik" />
-    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/se.vasttrafik.togo.core.MainActivity}" drawable="vsttrafik" />
+    <!-- Västtrafik -->
+    <item component="ComponentInfo{com.vaesttrafik.vaesttrafik/se.vasttrafik.togo.core.MainActivity}" drawable="vasttrafik" />
 
     <!-- Vector Pinball -->
     <item component="ComponentInfo{com.dozingcatsoftware.bouncy/com.dozingcatsoftware.bouncy.BouncyActivity}" drawable="vectorpinball" />
@@ -4115,6 +4126,9 @@
 
     <!-- VK -->
     <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk" />
+    
+    <!-- Vklass -->
+    <item component="ComponentInfo{com.softronic.vklass.android/se.bbhstockholm.vklass.ui.MainActivity}" drawable="vklass" />
 
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
