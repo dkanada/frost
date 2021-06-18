@@ -4415,6 +4415,9 @@
     <!-- DroidCam -->
     <item component="ComponentInfo{com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam}" drawable="droidcam" />
 
+    <!-- Dronecast -->
+    <item component="ComponentInfo{com.droneforecast.app/com.droneforecast.app.SplashScreenActivity}" drawable="dronecast" />
+
     <!-- DropTicket -->
     <item component="ComponentInfo{com.atono.dropticket/com.atono.dropticket.store.StoreActivity}" drawable="dropticket" />
 
@@ -4454,6 +4457,9 @@
     <!-- Geburtstagskalender -->
     <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
 
+    <!-- Geohash Droid -->
+    <item component="ComponentInfo{net.exclaimindustries.geohashdroid/net.exclaimindustries.geohashdroid.activities.CentralMap}" drawable="geohashdroid" />
+
     <!-- Gitter -->
     <item component="ComponentInfo{im.gitter.gitter/im.gitter.gitter.activities.StartActivity}" drawable="gitter" />
 
@@ -4492,6 +4498,9 @@
 
     <!-- LBRY -->
     <item component="ComponentInfo{io.lbry.browser/io.lbry.browser.MainActivity}" drawable="lbry" />
+
+    <!-- Linksys -->
+    <item component="ComponentInfo{com.cisco.connect.cloud/com.cisco.connect.cloud.MainActivity}" drawable="linksys" />
 
     <!-- Logische Selbstverteidigung -->
     <item component="ComponentInfo{za.co.lukestonehm.logicaldefence/za.co.lukestonehm.logicaldefence.MainActivity}" drawable="logischeselbstverteidigung" />
@@ -4535,6 +4544,9 @@
     <!-- Oto Music -->
     <item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="otomusic" />
 
+    <!-- Photo Editor -->
+    <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photoeditor" />
+
     <!-- Pi-hole Droid -->
     <item component="ComponentInfo{friimaind.piholedroid/friimaind.piholedroid.MainActivity}" drawable="piholedroid" />
 
@@ -4549,6 +4561,9 @@
 
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+
+    <!-- QuickSupport -->
+    <item component="ComponentInfo{com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity}" drawable="quicksupport" />
 
     <!-- Quran For My Android -->
     <item component="ComponentInfo{com.frrahat.quransimple/com.frrahat.quransimple.MainActivity}" drawable="quranformyandroid" />
@@ -4610,6 +4625,9 @@
     <!-- TAN2go -->
     <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
 
+    <!-- TeamViewer -->
+    <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
+
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
 
@@ -4636,6 +4654,9 @@
 
     <!-- WhatsDeleted -->
     <item component="ComponentInfo{com.gmail.anubhavdas54.whatsdeleted/com.gmail.anubhavdas54.whatsdeleted.MainActivity}" drawable="whatsdeleted" />
+
+    <!-- Wolfram Alpha -->
+    <item component="ComponentInfo{com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity}" drawable="wolframalpha" />
 
     <!-- Wookiee -->
     <item component="ComponentInfo{com.sharkhead.android.wookiee/com.sharkhead.android.wookiee.WookieeActivity}" drawable="wookiee" />
