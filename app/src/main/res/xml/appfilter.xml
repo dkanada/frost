@@ -4529,6 +4529,9 @@
     <!-- MyTIM -->
     <item component="ComponentInfo{it.telecomitalia.centodiciannove/it.tim.mytim.SplashActivity}" drawable="mytim" />
 
+    <!-- NCalc+ -->
+    <item component="ComponentInfo{com.duy.calculator.free/com.duy.ncalc.calculator.ScientificCalculatorActivity}" drawable="ncalcplus" />
+
     <!-- NC Passwords -->
     <item component="ComponentInfo{de.jbservices.nc_passwords_app/de.jbservices.nc_passwords_app.MainActivity}" drawable="ncpasswords" />
 
