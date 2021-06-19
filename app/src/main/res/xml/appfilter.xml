@@ -1130,6 +1130,9 @@
     <!-- FitoTrack -->
     <item component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.activity.LauncherActivity}" drawable="fitotrack" />
 
+    <!-- FIXED Smart -->
+    <item component="ComponentInfo{cz.recall.fixed/cz.recall.fixed.MainActivity}" drawable="fixedsmart"/>
+
     <!-- Flashy -->
     <item component="ComponentInfo{rocks.poopjournal.flashy/com.poopjournal.flashy.MainActivity}" drawable="flashy" />
 
@@ -1175,6 +1178,9 @@
     <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="radio" />
     <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="radio" />
     <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="radio" />
+
+    <!-- Focal -->
+    <item component="ComponentInfo{fr.xplod.focal/org.cyanogenmod.focal.CameraActivity}" drawable="focal"/>
 
     <!-- Foobar2000 -->
     <item component="ComponentInfo{com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity}" drawable="foobar2000" />
@@ -2448,6 +2454,9 @@
     <!-- Osmand Telegram -->
     <item component="ComponentInfo{net.osmand.telegram/net.osmand.telegram.ui.MainActivity}" drawable="osmandtelegram" />
 
+    <!-- OSM Dashboard for OpenTracks -->
+    <item component="ComponentInfo{de.storchp.opentracks.osmplugin/de.storchp.opentracks.osmplugin.MainActivity}" drawable="osmdashboardforopentracks"/>
+
     <!-- OS Monitor -->
     <item component="ComponentInfo{com.eolwral.osmonitor/com.eolwral.osmonitor.OSMonitor}" drawable="osmonitor" />
 
@@ -2601,6 +2610,9 @@
 
     <!-- Plumble -->
     <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble" />
+
+    <!-- PlusMinusTimesDivide -->
+    <item component="ComponentInfo{eu.lavarde.pmtd/eu.lavarde.pmtd.TrainingRoundActivity}" drawable="plusminustimesdivide"/>
 
     <!-- pMetro -->
     <item component="ComponentInfo{com.utyf.pmetro/com.utyf.pmetro.MapActivity}" drawable="pmetro" />
@@ -2974,6 +2986,9 @@
     <!-- Signal -->
     <item component="ComponentInfo{org.libresignal/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal" />
+
+    <!-- Signature -->
+    <item component="ComponentInfo{com.atoll.signature/com.streamunlimited.streamsdkdemo.ui.devicebrowsing.DeviceOverviewActivity}" drawable="signature"/>
 
     <!-- Silence -->
     <item component="ComponentInfo{org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity}" drawable="silence" />
