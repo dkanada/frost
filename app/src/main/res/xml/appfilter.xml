@@ -4481,6 +4481,9 @@
     <!-- iNaturalist -->
     <item component="ComponentInfo{org.inaturalist.android/org.inaturalist.android.ObservationListActivity.inaturalist}" drawable="inaturalist" />
 
+    <!-- iWant TFC -->
+    <item component="ComponentInfo{com.absi.tfctv/com.absi.tfctv.SplashActivity}" drawable="iwanttfc" />
+
     <!-- Keepa -->
     <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
 
