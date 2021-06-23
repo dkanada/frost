@@ -4352,6 +4352,9 @@
     <!-- Agenda Lite -->
     <item component="ComponentInfo{com.franco.agenda.free/a.b}" drawable="agendalite" />
 
+    <!-- Airyware Tuner -->
+    <item component="ComponentInfo{airyware.tuner/md566cfa66c1c25ece8b9c2c018d56efa79.qp}" drawable="airywaretuner" />
+
     <!-- Andronix -->
     <item component="ComponentInfo{studio.com.techriz.andronix/studio.com.techriz.andronix.AppClasses.Splash}" drawable="andronix" />
 
@@ -4430,6 +4433,9 @@
     <!-- Emerald Dialer -->
     <item component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}" drawable="emeralddialer" />
 
+    <!-- Enki -->
+    <item component="ComponentInfo{com.enki.insights/com.enki.insights.MainActivity}" drawable="enki" />
+
     <!-- Equate -->
     <item component="ComponentInfo{com.llamacorp.equate/com.llamacorp.equate.view.CalcActivity}" drawable="equate" />
 
@@ -4445,11 +4451,11 @@
     <!-- F-Droid Classic -->
     <item component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" drawable="fdroidclassic" />
 
-    <!-- Fitbit Coach -->
-    <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
-
     <!-- FiSSH -->
     <item component="ComponentInfo{ro.ioanm.fissh/ro.ioanm.fissh.MainActivity}" drawable="fissh" />
+
+    <!-- Fitbit Coach -->
+    <item component="ComponentInfo{com.fitstar.pt/com.fitstar.pt.ui.onboarding.SplashActivity}" drawable="fitbitcoach" />
 
     <!-- Flow -->
     <item component="ComponentInfo{com.microsoft.flow/com.microsoft.flow.MainActivity}" drawable="flow" />
@@ -4536,16 +4542,16 @@
     <item component="ComponentInfo{de.jbservices.nc_passwords_app/de.jbservices.nc_passwords_app.MainActivity}" drawable="ncpasswords" />
 
     <!-- News -->
-    <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
-
-    <!-- News -->
     <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="appreactornews" />
 
-    <!-- OpenCV Manager -->
-    <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
+    <!-- News -->
+    <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
 
     <!-- OpenBeautyFacts -->
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openbeautyfacts" />
+
+    <!-- OpenCV Manager -->
+    <item component="ComponentInfo{org.opencv.engine/org.opencv.engine.manager.ManagerActivity}" drawable="opencvmanager" />
 
     <!-- Oto Music -->
     <item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="otomusic" />
@@ -4616,6 +4622,9 @@
     <!-- SoundHound -->
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound" />
 
+    <!-- Streaming -->
+    <item component="ComponentInfo{com.microsoft.xcloud/com.microsoft.xcloud.MainActivity}" drawable="streaming" />
+
     <!-- STUDIUM.UniCT -->
     <item component="ComponentInfo{unict.cea.studium/unict.cea.studium.SplashScreen}" drawable="studiumunict" />
 
@@ -4625,11 +4634,11 @@
     <!-- Sygic -->
     <item component="ComponentInfo{com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity}" drawable="sygic" />
 
-    <!-- Tape Measure -->
-    <item component="ComponentInfo{org.secuso.privacyfriendlytapemeasure/org.secuso.privacyfriendlycameraruler.SplashActivity}" drawable="tapemeasure" />
-
     <!-- TAN2go -->
     <item component="ComponentInfo{com.starfinanz.mobile.android.dkbpushtan/com.starfinanz.mobile.android.dkbpushtan.DKBPushTan}" drawable="tan2go" />
+
+    <!-- Tape Measure -->
+    <item component="ComponentInfo{org.secuso.privacyfriendlytapemeasure/org.secuso.privacyfriendlycameraruler.SplashActivity}" drawable="tapemeasure" />
 
     <!-- TeamViewer -->
     <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
@@ -4669,6 +4678,9 @@
 
     <!-- Wrong PIN Shutdown -->
     <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
+
+    <!-- Xbox -->
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox" />
 
     <!-- Yaga -->
     <item component="ComponentInfo{com.github.vauvenal5.yaga/com.github.vauvenal5.yaga.MainActivity}" drawable="yaga" />
