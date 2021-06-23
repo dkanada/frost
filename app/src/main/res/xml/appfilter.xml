@@ -1229,6 +1229,9 @@
     <!-- Freezer -->
     <item component="ComponentInfo{f.f.freezer/f.f.freezer.MainActivity}" drawable="freezer" />
 
+    <!-- Fritter -->
+    <item component="ComponentInfo{com.jonjomckay.fritter/com.jonjomckay.fritter.MainActivity}" drawable="fritter" />
+
     <!-- Frost Facebook-->
     <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook" />
 
