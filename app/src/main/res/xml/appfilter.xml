@@ -4346,6 +4346,9 @@
     <!-- ActiveBuilding -->
     <item component="ComponentInfo{com.activebuilding.residents/com.activebuilding.residents.MainActivity}" drawable="activebuilding" />
 
+    <!-- ADM -->
+    <item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm" />
+
     <!-- Adobe Fill & Sign -->
     <item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobefillsign" />
 
@@ -4397,6 +4400,9 @@
     <!-- Contacts Sync -->
     <item component="ComponentInfo{com.lb.contacts_sync/com.lb.contacts_sync.activities.main.MainActivity}" drawable="contactssync" />
 
+    <!-- Converge Xperience -->
+    <item component="ComponentInfo{com.convergeict.android/com.convergeict.android.MainActivity}" drawable="convergexperience" />
+
     <!-- Dal -->
     <item component="ComponentInfo{xyz.ivaniskandar.bluemoon/xyz.ivaniskandar.bluemoon.activity.MainActivity}" drawable="dal" />
 
@@ -4411,6 +4417,9 @@
 
     <!-- DetoxDroid -->
     <item component="ComponentInfo{com.flx_apps.digitaldetox/com.flx_apps.digitaldetox.MainActivity_}" drawable="detoxdroid" />
+
+    <!-- DLive -->
+    <item component="ComponentInfo{io.dlive/io.dlive.activity.SplashActivity}" drawable="dlive" />
 
     <!-- Documents -->
     <item component="ComponentInfo{com.onlyoffice.documents/app.editors.manager.ui.activities.login.SplashActivity}" drawable="documents" />
@@ -4459,6 +4468,9 @@
 
     <!-- Flow -->
     <item component="ComponentInfo{com.microsoft.flow/com.microsoft.flow.MainActivity}" drawable="flow" />
+
+    <!-- FL Studio Mobile -->
+    <item component="ComponentInfo{com.imageline.FLM/com.imageline.FLM.FLMActivity}" drawable="flstudiomobile" />
 
     <!-- Geburtstagskalender -->
     <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
