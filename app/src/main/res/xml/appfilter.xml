@@ -4421,6 +4421,9 @@
     <!-- DetoxDroid -->
     <item component="ComponentInfo{com.flx_apps.digitaldetox/com.flx_apps.digitaldetox.MainActivity_}" drawable="detoxdroid" />
 
+    <!-- DHL Express -->
+    <item component="ComponentInfo{com.dhl.exp.dhlmobile/com.dhl.exp.dhlmobile.MainActivity}" drawable="dhlexpress" />
+
     <!-- DLive -->
     <item component="ComponentInfo{io.dlive/io.dlive.activity.SplashActivity}" drawable="dlive" />
 
@@ -4547,8 +4550,14 @@
     <!-- MasterMindy -->
     <item component="ComponentInfo{eth.matteljay.mastermindy/eth.matteljay.mastermindy.MainActivity}" drawable="mastermindy" />
 
+    <!-- Math -->
+    <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="math" />
+
     <!-- MeinMagenta -->
     <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
+
+    <!-- Merlin -->
+    <item component="ComponentInfo{com.labs.merlinbirdid.app/com.labs.merlinbirdid.app.SplashScreenActivity}" drawable="merlin" />
 
     <!-- Mi Store -->
     <item component="ComponentInfo{com.mi.global.shop/com.mi.global.shopcomponents.activity.LaunchActivity}" drawable="mistore" />
@@ -4576,6 +4585,9 @@
 
     <!-- News -->
     <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
+
+    <!-- NPR One -->
+    <item component="ComponentInfo{org.npr.one/org.npr.one.StartActivity}" drawable="nprone" />
 
     <!-- Omlet Arcade -->
     <item component="ComponentInfo{mobisocial.arcade/mobisocial.arcade.sdk.activity.ArcadeSignInActivity}" drawable="omletarcade" />
@@ -4606,6 +4618,9 @@
 
     <!-- QField -->
     <item component="ComponentInfo{ch.opengis.qfield/ch.opengis.qfield.QFieldActivity}" drawable="qfield" />
+
+    <!-- QGroundControl -->
+    <item component="ComponentInfo{org.mavlink.qgroundcontrol/org.mavlink.qgroundcontrol.QGCActivity}" drawable="qgroundcontrol" />
 
     <!-- QuickSupport -->
     <item component="ComponentInfo{com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity}" drawable="quicksupport" />
@@ -4676,14 +4691,23 @@
     <!-- TeamViewer -->
     <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
 
+    <!-- TerraGenesis -->
+    <item component="ComponentInfo{com.alexanderwinn.TerraGenesis/com.tiltingpoint.android.TiltingPointUnityActivity}" drawable="terragenesis" />
+
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
 
     <!-- Transmission Remote -->
     <item component="ComponentInfo{net.yupol.transmissionremote.app/net.yupol.transmissionremote.app.MainActivity}" drawable="transmissionremote" />
 
+    <!-- UPS -->
+    <item component="ComponentInfo{com.ups.mobile.android/crc6466778ac8e5630834.SplashActivity}" drawable="ups" />
+
     <!-- Vanced Manager -->
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
+
+    <!-- Video Transcoder -->
+    <item component="ComponentInfo{protect.videoeditor/protect.videotranscoder.activity.MainActivity}" drawable="videotranscoder" />
 
     <!-- VR Media Player -->
     <item component="ComponentInfo{com.xojot.vrplayer/com.xojot.vrplayer.MainActivity}" drawable="vrmediaplayer" />
