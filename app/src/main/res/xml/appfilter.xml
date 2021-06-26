@@ -4358,6 +4358,9 @@
     <!-- Airyware Tuner -->
     <item component="ComponentInfo{airyware.tuner/md566cfa66c1c25ece8b9c2c018d56efa79.qp}" drawable="airywaretuner" />
 
+    <!-- Anchor -->
+    <item component="ComponentInfo{fm.anchor.android/anchor.MainActivity}" drawable="anchor" />
+
     <!-- Andronix -->
     <item component="ComponentInfo{studio.com.techriz.andronix/studio.com.techriz.andronix.AppClasses.Splash}" drawable="andronix" />
 
@@ -4472,6 +4475,9 @@
     <!-- FL Studio Mobile -->
     <item component="ComponentInfo{com.imageline.FLM/com.imageline.FLM.FLMActivity}" drawable="flstudiomobile" />
 
+    <!-- Foxit PDF -->
+    <item component="ComponentInfo{com.foxit.mobile.pdf.lite/com.fuxin.app.frame.AppActivity}" drawable="foxitpdf" />
+
     <!-- Geburtstagskalender -->
     <item component="ComponentInfo{saschpe.contactevents/saschpe.birthdays.app.MainActivity}" drawable="geburtstagskalender" />
 
@@ -4499,8 +4505,14 @@
     <!-- iNaturalist -->
     <item component="ComponentInfo{org.inaturalist.android/org.inaturalist.android.ObservationListActivity.inaturalist}" drawable="inaturalist" />
 
+    <!-- iPrint&Scan -->
+    <item component="ComponentInfo{com.brother.mfc.brprint/com.brother.mfc.brprint.v2.ui.top.SplashActivity}" drawable="iprintscan" />
+
     <!-- iWant TFC -->
     <item component="ComponentInfo{com.absi.tfctv/com.absi.tfctv.SplashActivity}" drawable="iwanttfc" />
+
+    <!-- Just Eat -->
+    <item component="ComponentInfo{com.justeat.app.it/com.justeat.splash.ui.SplashActivity}" drawable="justeat" />
 
     <!-- Keepa -->
     <item component="ComponentInfo{com.keepa.mobile/com.tns.NativeScriptActivity}" drawable="keepa" />
@@ -4508,8 +4520,14 @@
     <!-- KeepOn -->
     <item component="ComponentInfo{fr.twentynine.keepon/fr.twentynine.keepon.ui.SplashScreen}" drawable="keepon" />
 
+    <!-- Keybase -->
+    <item component="ComponentInfo{io.keybase.ossifrage/io.keybase.ossifrage.MainActivity}" drawable="keybase" />
+
     <!-- Kickstarter -->
     <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
+
+    <!-- KineMaster -->
+    <item component="ComponentInfo{com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity}" drawable="kinemaster" />
 
     <!-- Kleine Wettervorschau Deutschland -->
     <item component="ComponentInfo{de.kaffeemitkoffein.tinyweatherforecastgermany/de.kaffeemitkoffein.tinyweatherforecastgermany.WelcomeActivity}" drawable="kleinewettervorschaudeutschland" />
@@ -4558,6 +4576,9 @@
 
     <!-- News -->
     <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
+
+    <!-- Omlet Arcade -->
+    <item component="ComponentInfo{mobisocial.arcade/mobisocial.arcade.sdk.activity.ArcadeSignInActivity}" drawable="omletarcade" />
 
     <!-- OpenBeautyFacts -->
     <item component="ComponentInfo{openfoodfacts.github.scrachx.openbeauty/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openbeautyfacts" />
