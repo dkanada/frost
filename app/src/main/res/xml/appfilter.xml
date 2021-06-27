@@ -4553,6 +4553,9 @@
     <!-- Math -->
     <item component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}" drawable="math" />
 
+    <!-- Mediaset Play -->
+    <item component="ComponentInfo{it.fabbricadigitale.android.videomediaset/com.mediaset.mediasetplay.ui.main.MainActivity}" drawable="mediasetplay" />
+
     <!-- MeinMagenta -->
     <item component="ComponentInfo{de.telekom.android.customercenter/de.telekom.android.customercenter.ui.activities.MainActivity}" drawable="meinmagenta" />
 
@@ -4585,6 +4588,9 @@
 
     <!-- News -->
     <item component="ComponentInfo{com.microsoft.amp.apps.bingnews/microsoft.msn.news.android.activities.LaunchActivity}" drawable="msnews" />
+
+    <!-- Nova7 -->
+    <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova7" />
 
     <!-- NPR One -->
     <item component="ComponentInfo{org.npr.one/org.npr.one.StartActivity}" drawable="nprone" />
@@ -4688,11 +4694,17 @@
     <!-- Tape Measure -->
     <item component="ComponentInfo{org.secuso.privacyfriendlytapemeasure/org.secuso.privacyfriendlycameraruler.SplashActivity}" drawable="tapemeasure" />
 
+    <!-- Tasks -->
+    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="gtasks" />
+
     <!-- TeamViewer -->
     <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
 
     <!-- TerraGenesis -->
     <item component="ComponentInfo{com.alexanderwinn.TerraGenesis/com.tiltingpoint.android.TiltingPointUnityActivity}" drawable="terragenesis" />
+
+    <!-- Tether -->
+    <item component="ComponentInfo{com.tplink.tether/com.tplink.tether.WelcomeActivity}" drawable="tether" />
 
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo" />
@@ -4708,6 +4720,9 @@
 
     <!-- Video Transcoder -->
     <item component="ComponentInfo{protect.videoeditor/protect.videotranscoder.activity.MainActivity}" drawable="videotranscoder" />
+
+    <!-- Vigilante -->
+    <item component="ComponentInfo{com.crazylegend.vigilante/com.crazylegend.vigilante.MainActivity}" drawable="vigilante" />
 
     <!-- VR Media Player -->
     <item component="ComponentInfo{com.xojot.vrplayer/com.xojot.vrplayer.MainActivity}" drawable="vrmediaplayer" />
@@ -4733,11 +4748,17 @@
     <!-- Wookiee -->
     <item component="ComponentInfo{com.sharkhead.android.wookiee/com.sharkhead.android.wookiee.WookieeActivity}" drawable="wookiee" />
 
+    <!-- WordReference -->
+    <item component="ComponentInfo{com.wordreference/com.wordreference.MainApp}" drawable="wordreference" />
+
     <!-- Wrong PIN Shutdown -->
     <item component="ComponentInfo{org.nuntius35.wrongpinshutdown/org.nuntius35.wrongpinshutdown.MainActivity}" drawable="wrongpinshutdown" />
 
     <!-- Xbox -->
     <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox" />
+
+    <!-- XDA Developers -->
+    <item component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}" drawable="xdadevelopers" />
 
     <!-- Yaga -->
     <item component="ComponentInfo{com.github.vauvenal5.yaga/com.github.vauvenal5.yaga.MainActivity}" drawable="yaga" />
