@@ -885,6 +885,12 @@
     <!-- DHL Express -->
     <item component="ComponentInfo{com.dhl.exp.dhlmobile/com.dhl.exp.dhlmobile.MainActivity}" drawable="dhlexpress" />
 
+    <!-- DHL Paket -->
+    <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.MainActivity}" drawable="dhlpaket" />
+
+    <!-- Diaguard -->
+    <item component="ComponentInfo{com.faltenreich.diaguard/com.faltenreich.diaguard.feature.navigation.MainActivity}" drawable="diaguard" />
+
     <!-- Dialer for Pebble -->
     <item component="ComponentInfo{com.matejdro.pebbledialer/com.matejdro.pebbledialer.ui.MainActivity}" drawable="pebbledialer" />
 
@@ -2009,6 +2015,7 @@
     <item component="ComponentInfo{com.cisco.connect.cloud/com.cisco.connect.cloud.MainActivity}" drawable="linksys" />
 
     <!-- Linphone -->
+    <item component="ComponentInfo{org.linphone/org.linphone.activities.LinphoneLauncherActivity}" drawable="linphone" />
     <item component="ComponentInfo{org.linphone/org.linphone.LinphoneLauncherActivity}" drawable="linphone" />
 
     <!-- Linux Command Library -->
@@ -4740,6 +4747,9 @@
 
     <!-- YNAB -->
     <item component="ComponentInfo{com.youneedabudget.evergreen.app/ynab.app.start.StartActivity}" drawable="ynab" />
+
+    <!-- Yoroi -->
+    <item component="ComponentInfo{com.emurgo/com.emurgo.SplashActivity}" drawable="yoroi" />
 
     <!-- YouMail -->
     <item component="ComponentInfo{com.youmail.android.vvm/com.youmail.android.vvm.main.VVMMainActivity}" drawable="youmail" />
