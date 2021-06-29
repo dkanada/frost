@@ -464,6 +464,9 @@
     <!-- Book Reader -->
     <item component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" drawable="bookreader" />
 
+    <!-- Boursorama Banque -->
+    <item component="ComponentInfo{com.boursorama.android.clients/com.boursorama.android.clients.app.splash.SplashActivity_}" drawable="boursoramabanque" />
+
     <!-- Boxcryptor -->
     <item component="ComponentInfo{com.boxcryptor2.android/boxcryptor.legacy.mvvm.presession.PreSessionActivity}" drawable="boxcryptor" />
 
@@ -2408,6 +2411,9 @@
 
     <!-- My Boy! -->
     <item component="ComponentInfo{com.fastemulator.gba/com.fastemulator.gba.MainActivity}" drawable="myboy" />
+
+    <!-- myCANAL -->
+    <item component="ComponentInfo{com.canal.android.canal/com.canal.ui.mobile.MainActivity}" drawable="mycanal" />
 
     <!-- Mycelium -->
     <item component="ComponentInfo{com.mycelium.wallet/com.mycelium.wallet.activity.StartupActivity}" drawable="mycelium" />
