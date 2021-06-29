@@ -3161,6 +3161,9 @@
     <!-- SAI -->
     <item component="ComponentInfo{com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai" />
 
+    <!-- Samsung Health -->
+    <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsunghealth" />
+
     <!-- SatOrbit -->
     <item component="ComponentInfo{sil.satorbit/sil.satorbit.ActivityStartUp}" drawable="satorbit" />
 
