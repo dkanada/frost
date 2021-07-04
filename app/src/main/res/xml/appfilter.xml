@@ -2877,6 +2877,9 @@
     <!-- Photo Editor -->
     <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photoeditor" />
 
+    <!-- Piano Partner 2 -->
+    <item component="ComponentInfo{jp.co.roland.PianoPartner2/jp.co.roland.quattro.MainActivity}" drawable="pianopartner2" />
+
     <!-- PicSay Pro -->
     <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay" />
 
