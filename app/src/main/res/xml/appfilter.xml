@@ -864,6 +864,9 @@
     <!-- Degiro -->
     <item component="ComponentInfo{nl.degiro.trader/nl.degiro.trader.MainActivity}" drawable="degiro" />
 
+    <!-- Deliveries -->
+    <item component="ComponentInfo{de.orrs.deliveries/de.orrs.deliveries.LaunchActivity}" drawable="deliveries" />
+
     <!-- Dell Mobile Connect -->
     <item component="ComponentInfo{com.screenovate.dell.mobileconnect/com.screenovate.bluephone.MainActivity}" drawable="dellconnect" />
 
@@ -2178,6 +2181,9 @@
     <!-- Meshenger -->
     <item component="ComponentInfo{d.d.meshenger/d.d.meshenger.StartActivity}" drawable="meshenger" />
 
+    <!-- Meshtastic -->
+    <item component="ComponentInfo{com.geeksville.mesh/com.geeksville.mesh.MainActivity}" drawable="meshtastic" />
+
     <!-- Messages -->
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages" />
@@ -2601,6 +2607,9 @@
     <!-- Nubank -->
     <item component="ComponentInfo{com.nu.production/com.nu.activity.main.InitialActivity}" drawable="nubank" />
 
+    <!-- nzb360 -->
+    <item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
+
     <!-- oandbackup -->
     <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="oandbackup" />
 
@@ -2609,6 +2618,9 @@
 
     <!-- OctoDroid -->
     <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="octodroid" />
+
+    <!-- OctoRemote -->
+    <item component="ComponentInfo{com.kabacon.octoremote/com.kabacon.octoremote.view.activity.MainActivity}" drawable="octoremote" />
 
     <!-- Odyssey -->
     <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey" />
@@ -4126,6 +4138,9 @@
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
 
+    <!-- Storm Radar -->
+    <item component="ComponentInfo{com.twc.radar/com.wunderground.android.radar.ui.splash.SplashScreenActivity}" drawable="stormradar" />
+
     <!-- Strava -->
     <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava" />
 
@@ -4415,6 +4430,9 @@
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.liberario.activities.MainActivity}" drawable="transportr" />
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MainActivity}" drawable="transportr" />
     <item component="ComponentInfo{de.grobox.liberario/de.grobox.transportr.map.MapActivity}" drawable="transportr" />
+
+    <!-- Treble Info -->
+    <item component="ComponentInfo{tk.hack5.treblecheck/tk.hack5.treblecheck.ScrollingActivity}" drawable="trebleinfo" />
 
     <!-- TrebleShot -->
     <item component="ComponentInfo{com.genonbeta.TrebleShot/com.genonbeta.TrebleShot.activity.HomeActivity}" drawable="trebleshot" />
