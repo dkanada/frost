@@ -340,6 +340,9 @@
     <!-- Avans One -->
     <item component="ComponentInfo{com.avans.oneapp/com.avans.oneapp.MainActivity}" drawable="avans" />
 
+    <!-- Aves -->
+    <item component="ComponentInfo{deckers.thibault.aves/deckers.thibault.aves.MainActivity}" drawable="aves" />
+
     <!-- Aviasales -->
     <item component="ComponentInfo{ru.aviasales/ru.aviasales.ui.activity.MainActivity}" drawable="aviasales" />
 
@@ -844,6 +847,9 @@
 
     <!-- DecSync CC -->
     <item component="ComponentInfo{org.decsync.cc/org.decsync.cc.MainActivity}" drawable="decsyncc" />
+
+    <!-- DeepL -->
+    <item component="ComponentInfo{com.example.deeplviewer/com.example.deeplviewer.MainActivity}" drawable="deepl" />
 
     <!-- Deezer -->
     <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="deezer" />
@@ -3043,6 +3049,9 @@
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.SplashActivity}" drawable="qrscanner" />
     <item component="ComponentInfo{com.secuso.privacyFriendlyCodeScanner/com.secuso.privacyfriendlycodescanner.qrscanner.ui.activities.SplashActivity}" drawable="qrscanner" />
 
+    <!-- Quick Bible -->
+    <item component="ComponentInfo{yuku.alkitab.kjv/yuku.alkitab.base.IsiActivity}" drawable="quickbible" />
+
     <!-- QuickDic -->
     <item component="ComponentInfo{de.reimardoeffinger.quickdic/com.hughes.android.dictionary.DictionaryManagerActivity}" drawable="quickdic" />
 
@@ -3338,6 +3347,9 @@
 
     <!-- Shopping List -->
     <item component="ComponentInfo{privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist.ui.main.SplashActivity}" drawable="secusoshoppinglist" />
+
+    <!-- Showly 2.0 -->
+    <item component="ComponentInfo{com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity}" drawable="showly20" />
 
     <!-- Shrug ¯\_(ツ)_/¯ -->
     <item component="ComponentInfo{com.codebutler.shrug/com.codebutler.shrug.MainActivity}" drawable="shrug" />
@@ -4140,6 +4152,9 @@
 
     <!-- Stocard -->
     <item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
+
+    <!-- Stocks Widget -->
+    <item component="ComponentInfo{com.github.premnirmal.tickerwidget/com.github.premnirmal.ticker.home.SplashActivity}" drawable="stockswidget" />
 
     <!-- Storm Radar -->
     <item component="ComponentInfo{com.twc.radar/com.wunderground.android.radar.ui.splash.SplashScreenActivity}" drawable="stormradar" />
