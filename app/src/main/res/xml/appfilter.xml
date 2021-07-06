@@ -521,7 +521,6 @@
     <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.xlythe.calculator.material/com.xlythe.calculator.material.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.tct.calculator.bb/com.tct.calculator.Calculator}" drawable="calculator" />
-    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator" />
 
@@ -2831,6 +2830,7 @@
 
     <!-- Pdf Viewer Plus -->
     <item component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.MainActivity_}" drawable="pdfviewerplus" />
+    <item component="ComponentInfo{com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias}" drawable="pdfviewerplus" />
 
     <!-- Pebble -->
     <item component="ComponentInfo{com.getpebble.android.basalt/com.getpebble.android.main.activity.MainActivity}" drawable="pebble" />
