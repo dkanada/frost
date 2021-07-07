@@ -276,11 +276,13 @@
     <!-- Aurora Services -->
     <item component="ComponentInfo{com.aurora.services/com.aurora.services.activity.AuroraActivity}" drawable="auroraservices" />
     <item component="ComponentInfo{com.aurora.services/com.aurora.services.activities.AuroraActivity}" drawable="auroraservices" />
+    <item component="ComponentInfo{com.aurora.services/com.aurora.services.view.ui.activities.AuroraActivity}" drawable="auroraservices" />
 
     <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurorastore" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurorastore" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurorastore" />
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="aurorastore" />
 
     <!-- Authenticate -->
     <item component="ComponentInfo{secureauth.android.token/secureauth.android.token.TokenList}" drawable="authenticate" />
