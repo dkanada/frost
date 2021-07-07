@@ -101,6 +101,9 @@
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb" />
     <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity}" drawable="airbnb" />
 
+    <!-- Airtable -->
+    <item component="ComponentInfo{com.formagrid.airtable/com.formagrid.airtable.activity.HomescreenActivity}" drawable="airtable" />
+
     <!-- Airyware Tuner -->
     <item component="ComponentInfo{airyware.tuner/md566cfa66c1c25ece8b9c2c018d56efa79.qp}" drawable="airywaretuner" />
 
@@ -1295,6 +1298,9 @@
 
     <!-- Flinkster -->
     <item component="ComponentInfo{de.bahn.flinkster/de.bahn.flinkster.StartupActivity}" drawable="flinkster" />
+
+    <!-- FlipaClip -->
+    <item component="ComponentInfo{com.vblast.flipaclip/com.vblast.flipaclip.ActivitySplash}" drawable="flipaclip" />
 
     <!-- Flipboard -->
     <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
@@ -2497,6 +2503,9 @@
 
     <!-- NemID -->
     <item component="ComponentInfo{dk.e_nettet.mobilekey.everyone/th.Zx}" drawable="nemid" />
+
+    <!-- NEO LMS -->
+    <item component="ComponentInfo{com.edu20.NEOLMS/com.edu20.NEOLMS.MainActivity}" drawable="neolms" />
 
     <!-- Netflix -->
     <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
@@ -4298,6 +4307,9 @@
     <!-- Terminal -->
     <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal" />
 
+    <!-- Termius -->
+    <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity}" drawable="termius" />
+
     <!-- Termux:Boot -->
     <item component="ComponentInfo{com.termux.boot/com.termux.boot.BootActivity}" drawable="termux" />
 
@@ -4599,6 +4611,9 @@
     <!-- VLC -->
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" />
     <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+
+    <!-- VNC Viewer -->
+    <item component="ComponentInfo{com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity}" drawable="vncviewer" />
 
     <!-- Voice -->
     <item component="ComponentInfo{de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity}" drawable="voice" />
