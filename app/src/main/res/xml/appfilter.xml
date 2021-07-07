@@ -4061,6 +4061,9 @@
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed" />
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
 
+    <!-- Snippet -->
+    <item component="ComponentInfo{uk.co.barbuzz.snippet/uk.co.barbuzz.snippet.ui.intro.SnippetIntroActivity}" drawable="snippet" />
+
     <!-- SnooperStopper -->
     <item component="ComponentInfo{cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity}" drawable="snooperstopper" />
 
