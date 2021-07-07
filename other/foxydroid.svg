@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="clipPath2001">
+            <path d="m71.94 39.035-0.66685 19.998-17.715-12.617z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0"/>
+        </clipPath>
+        <clipPath id="clipPath2009">
+            <path d="m55.84 50.096 16.465 12.107-16.473 16.533z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0"/>
+        </clipPath>
+        <clipPath id="clipPath2017">
+            <path d="m53.84 49.914-0.0078 28.883-18.182-17.627z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0"/>
+        </clipPath>
+        <clipPath id="clipPath2025">
+            <path d="m33.705 37.098 19.186 11.053-17.953 11.107z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0"/>
+        </clipPath>
+    </defs>
+    <path transform="matrix(.81693 -.25758 .25758 .81693 -32.09 -7.9325)" d="m51.638 46.276 20.466 14.579 2.4979-26.367z" clip-path="url(#clipPath2001)" fill="#fff"/>
+    <path transform="matrix(.81693 -.25758 .25758 .81693 -32.09 -7.9325)" d="m54.832 81.158 19.002-19.072-18.994-13.966z" clip-path="url(#clipPath2009)" fill="#fff" stroke="#000" stroke-width=".1"/>
+    <path transform="matrix(.81693 -.25758 .25758 .81693 -32.09 -7.9325)" d="m54.832 81.158-20.798-20.164 20.806-12.874z" clip-path="url(#clipPath2017)" fill="#fff" stroke="#000" stroke-width=".1"/>
+    <path transform="matrix(.81693 -.25758 .25758 .81693 -32.09 -7.9325)" d="m32.604 35.31 1.4289 25.684 20.806-12.874z" clip-path="url(#clipPath2025)" fill="#fff" stroke="#000" stroke-width=".1"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m17.32 23.402v9.5449h-1.3887v7.8066h5.2051v-17.352h-3.8164z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m21.396 23.402v17.352h5.207v-7.8066h-1.3887v-9.5449h-3.8184z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m28.252 23.402v9.5449h-1.3887v7.8066h5.2051v-7.8066h-1.3672v-9.5449h-2.4492z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m33.738 23.402v9.5449h-1.4102v7.8066h5.207v-7.8066h-1.3457v-9.5449h-2.4512z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m39.227 23.402v9.5449h-1.4316v7.8066h5.2051v-17.352h-3.7734z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m11.832 23.402v9.5449h-1.3672v7.8066h5.207v-7.8066h-1.3887v-9.5449h-2.4512z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m5 23.402v17.352h5.2051v-7.8066h-1.4102v-9.5449h-3.7949z" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m6.893 20.53-2.489e-4 -12.999h20.134c4.1447 0 4.2153 7.4103 0 7.4103h-13.213v2.307h16.219" fill="none" stroke="#fff" stroke-width="1.25"/>
+    <path d="m9.752 20.53 1.678e-4 -10.342h17.135v1.9574h-13.049c-4.0857 0.27025-4.0857 7.7599 0 7.7599h16.265" fill="none" stroke="#fff" stroke-width="1.25"/>
+    <path d="m41.438 19.905h-7.7994c3.3731-2.5677 7.4041-6.4455 7.5718-9.1187 0.1987-3.1686-4.0624-4.7468-7.5718-1.8884" fill="none" stroke="#fff" stroke-width="1.25"/>
+</svg>
