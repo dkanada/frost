@@ -349,6 +349,9 @@
     <!-- Aviasales -->
     <item component="ComponentInfo{ru.aviasales/ru.aviasales.ui.activity.MainActivity}" drawable="aviasales" />
 
+    <!-- B4UFLY -->
+    <item component="ComponentInfo{gov.faa.b4ufly2/gov.faa.b4ufly2.ui.start.SplashActivity}" drawable="b4ufly" />
+
     <!-- Bandcamp -->
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" />
     <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
@@ -1491,6 +1494,9 @@
     <!-- Goblim -->
     <item component="ComponentInfo{fr.mobdev.goblim/fr.mobdev.goblim.activity.HistoryActivity}" drawable="goblim" />
 
+    <!-- GO -->
+    <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="go" />
+
     <!-- Golden 1 -->
     <item component="ComponentInfo{com.golden1.mobilebanking/nz.co.mcom.phone.shared.activities.MobilitiActivity}" drawable="goldenone" />
 
@@ -1630,6 +1636,9 @@
 
     <!-- GrowTracker -->
     <item component="ComponentInfo{me.anon.grow/me.anon.grow.BootActivity}" drawable="growtracker" />
+
+    <!-- Guardian -->
+    <item component="ComponentInfo{com.altitudeangel.guardian/crc6491718922274746ad.SplashActivity}" drawable="guardian" />
 
     <!-- Guide du tri : recycling info-->
     <item component="ComponentInfo{fr.ecoemballage.guidedutri/fr.ecoemballage.guidedutri.activities.SplashActivity}" drawable="recyclelocation" />
@@ -2483,6 +2492,9 @@
     <!-- Napster -->
     <item component="ComponentInfo{com.rhapsody.napster/com.rhapsodycore.SplashScreen}" drawable="napster" />
 
+    <!-- Navigator -->
+    <item component="ComponentInfo{com.mapfactor.navigator/com.mapfactor.navigator.map.MapActivity}" drawable="navigator" />
+
     <!-- NCalc+ -->
     <item component="ComponentInfo{com.duy.calculator.free/com.duy.ncalc.calculator.ScientificCalculatorActivity}" drawable="ncalcplus" />
 
@@ -2635,6 +2647,9 @@
 
     <!-- OctoRemote -->
     <item component="ComponentInfo{com.kabacon.octoremote/com.kabacon.octoremote.view.activity.MainActivity}" drawable="octoremote" />
+
+    <!-- ODK Collect -->
+    <item component="ComponentInfo{org.odk.collect.android/org.odk.collect.android.activities.SplashScreenActivity}" drawable="odkcollect" />
 
     <!-- Odyssey -->
     <item component="ComponentInfo{org.gateshipone.odyssey/org.gateshipone.odyssey.activities.OdysseySplashActivity}" drawable="odyssey" />
