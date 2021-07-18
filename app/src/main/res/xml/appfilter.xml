@@ -934,6 +934,9 @@
     <!-- Discord -->
     <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
 
+    <!-- Discourse -->
+    <item component="ComponentInfo{com.discourse/com.discourse.MainActivity}" drawable="discourse" />
+
     <!-- DiskUsage -->
     <item component="ComponentInfo{com.google.android.diskusage/com.google.android.diskusage.SelectActivity}" drawable="diskusage" />
 
@@ -1467,6 +1470,9 @@
     <!-- Geohash Droid -->
     <item component="ComponentInfo{net.exclaimindustries.geohashdroid/net.exclaimindustries.geohashdroid.activities.CentralMap}" drawable="geohashdroid" />
 
+    <!-- Geo++ RINEX Logger -->
+    <item component="ComponentInfo{de.geopp.rinexlogger/de.geopp.android.rinexlogger.MainActivity}" drawable="georinexlogger" />
+
     <!-- Gestion des Ports -->
     <item component="ComponentInfo{com.aaronjwood.portauthority.free/com.aaronjwood.portauthority.activity.MainActivity}" drawable="portauthority" />
 
@@ -1750,6 +1756,9 @@
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.MainActivity}" drawable="infinity" />
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.Activity.MainActivity}" drawable="infinity" />
     <item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity" />
+
+    <!-- Informed Delivery -->
+    <item component="ComponentInfo{com.usps.myusps_mobile_app_android/com.optimo.myusps_mobile_app_android.activity.CPHomeScreenActivity}" drawable="informeddelivery" />
 
     <!-- Instacart -->
     <item component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}" drawable="instacart" />
@@ -2620,6 +2629,9 @@
     <!-- Nova Launcher -->
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova" />
     <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova" />
+
+    <!-- NPR News -->
+    <item component="ComponentInfo{org.npr.android.news/org.npr.android.news.NewsListActivity}" drawable="nprnews" />
 
     <!-- NPR One -->
     <item component="ComponentInfo{org.npr.one/org.npr.one.StartActivity}" drawable="nprone" />
@@ -4566,6 +4578,9 @@
     <!-- Units -->
     <item component="ComponentInfo{info.staticfree.android.units/info.staticfree.android.units.Units}" drawable="units" />
 
+    <!-- Uno Calc -->
+    <item component="ComponentInfo{uno.platform.calculator/crc6475c7b1887409e297.MainActivity}" drawable="unocalc" />
+
     <!-- UntrackMe -->
     <item component="ComponentInfo{app.fedilab.nitterizeme/app.fedilab.nitterizeme.activities.MainActivity}" drawable="untrackme" />
     <item component="ComponentInfo{app.fedilab.nitterizemelite/app.fedilab.nitterizeme.activities.MainActivity}" drawable="untrackme" />
@@ -4581,6 +4596,9 @@
 
     <!-- user js updater -->
     <item component="ComponentInfo{de.reckendrees.systems.userjsupdater/de.reckendrees.systems.userjsupdater.MainActivity}" drawable="jsupdater" />
+
+    <!-- USPS Mobile -->
+    <item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="uspsmobile" />
 
     <!-- Vanced Manager -->
     <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vancedmanager" />
