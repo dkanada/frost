@@ -2747,6 +2747,9 @@
     <!-- Open Note Scanner -->
     <item component="ComponentInfo{com.todobom.opennotescanner/com.todobom.opennotescanner.OpenNoteScannerActivity}" drawable="opennotescanner" />
 
+    <!-- OpenPetFoodFacts -->
+    <item component="ComponentInfo{org.openpetfoodfacts.scanner/openfoodfacts.github.scrachx.openfood.features.splash.SplashActivity}" drawable="openpetfoodfacts" />
+
     <!-- openScale -->
     <item component="ComponentInfo{com.health.openscale/com.health.openscale.gui.MainActivity}" drawable="openscale" />
 
@@ -3014,6 +3017,9 @@
 
     <!-- PredictWind -->
     <item component="ComponentInfo{com.predictwind.mobile.android/com.predictwind.mobile.android.intro.SplashActivity}" drawable="predictwind" />
+
+    <!-- Prepaid-Guthaben -->
+    <item component="ComponentInfo{com.github.muellerma.prepaidbalance/com.github.muellerma.prepaidbalance.ui.MainActivity}" drawable="prepaidguthaben" />
 
     <!-- Presence Publisher -->
     <item component="ComponentInfo{org.ostrya.presencepublisher/org.ostrya.presencepublisher.MainActivity}" drawable="presencepublisher" />
