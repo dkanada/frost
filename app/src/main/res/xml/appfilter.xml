@@ -42,6 +42,9 @@
     <!-- Activity Launcher -->
     <item component="ComponentInfo{de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity}" drawable="android" />
 
+    <!-- ActivityWatch -->
+    <item component="ComponentInfo{net.activitywatch.android/net.activitywatch.android.MainActivity}" drawable="activitywatch" />
+
     <!-- Actual -->
     <item component="ComponentInfo{com.shiftreset.actual/com.actual.MainActivity}" drawable="actual" />
 
@@ -530,6 +533,9 @@
     <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator" />
 
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}" drawable="calculator" />
+
     <!-- Calculator++ -->
     <item component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" drawable="calculatorplusplus" />
 
@@ -751,6 +757,9 @@
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts" />
+
+    <!-- Contacts -->
+    <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contactscircle" />
 
     <!-- Contacts Sync -->
     <item component="ComponentInfo{com.lb.contacts_sync/com.lb.contacts_sync.activities.main.MainActivity}" drawable="contactssync" />
@@ -2907,6 +2916,9 @@
     <item component="ComponentInfo{org.dnaq.dialer2/org.dnaq.dialer2.DialerActivity}" drawable="phone" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone" />
 
+    <!-- Phone -->
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phonedial" />
+
     <!-- Phone Manager -->
     <item component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}" drawable="huaweisystemmanager" />
 
@@ -4320,6 +4332,7 @@
     <!-- Tasks -->
     <item component="ComponentInfo{com.blackberry.tasks/com.blackberry.tasks.ui.list.TasksListActivity}" drawable="tasks" />
     <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity}" drawable="tasks" />
+    <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Red}" drawable="tasks" />
     <item component="ComponentInfo{foundation.e.tasks/org.dmfs.tasks.TaskListActivity}" drawable="tasks" />
 
     <!-- Tasks -->
@@ -4380,6 +4393,9 @@
 
     <!-- TIDAL -->
     <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal" />
+
+    <!-- TikTok -->
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
 
     <!-- Timber -->
     <item component="ComponentInfo{naman14.timber/com.naman14.timber.activities.MainActivity}" drawable="timber" />
@@ -4627,6 +4643,9 @@
 
     <!-- Viber -->
     <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber" />
+
+    <!-- Video -->
+    <item component="ComponentInfo{com.sony.tvsideview.videoph/com.sony.tvsideview.MainActivity}" drawable="video" />
 
     <!-- Video Transcoder -->
     <item component="ComponentInfo{protect.videoeditor/protect.videotranscoder.activity.MainActivity}" drawable="videotranscoder" />

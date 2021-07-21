@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m36.236 5.0007c-7.0323 0.057499-13.902 3.8958-14.594 4.291l-0.0078-0.00781a32.627 32.627 0 0 0-0.12109 0.076172c-0.01018 0.00589-0.14258 0.076172-0.14258 0.076172s0.0097 0.00974 0.0098 0.00977a32.627 32.627 0 0 0-11.938 11.961c-1.77e-5 -1.8e-5 -0.00781-0.0078-0.00781-0.0078s-0.10332 0.19656-0.11719 0.2207a32.627 32.627 0 0 0-0.11328 0.19336l0.00781 0.0078c-0.61958 1.1005-4.7104 8.642-4.1621 15.922 0 0 0.035306 1.1062 1.2461 1.2793h7.8164s1.9452 0.20768 2.1191-1.627c0.21791-2.324 1.0195-5.7988 1.0195-5.7988s0.57302-1.7107-0.5332-2.7773c-0.47906-0.46192-1.9531-1.9672-3.3184-3.3613 1.2923-2.5835 2.9718-4.9715 5.0156-7.0137a27.022 27.022 0 0 1 7.0215-5.0352c1.3903 1.3615 2.8907 2.8326 3.3516 3.3105 1.0676 1.1062 2.7773 0.5332 2.7773 0.5332s3.4748-0.80358 5.7988-1.0215c1.8355-0.17397 1.6289-2.1172 1.6289-2.1172v-7.8184c-0.17485-1.2125-1.2793-1.248-1.2793-1.248-0.49073-0.036904-0.98502-0.05091-1.4785-0.046875z" fill="#fff"/>
+    <rect x="28" y="28" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="33.769" y="28" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="39.538" y="28" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="28" y="33.769" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="33.769" y="33.769" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="39.538" y="33.769" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="28" y="39.538" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="33.769" y="39.538" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect x="39.538" y="39.538" width="3.4615" height="3.4615" fill="#fff" style="paint-order:stroke markers fill"/>
+</svg>
