@@ -1616,6 +1616,9 @@
     <!-- KaQui -->
     <item component="ComponentInfo{org.kaqui/org.kaqui.MainActivity}" drawable="kaqui" />
 
+    <!-- Karty -->
+    <item component="ComponentInfo{com.casperise.karty/com.casperise.karty.MainActivity}" drawable="karty"/>
+
     <!-- KDE Connect -->
     <item component="ComponentInfo{org.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect" />
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kdeconnect" />
@@ -1776,6 +1779,9 @@
 
     <!-- lichess -->
     <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
+
+    <!-- Liftago -->
+    <item component="ComponentInfo{com.adleritech.app.liftago.passenger/com.adleritech.app.liftago.passenger.activity.PassengerLauncherActivity}" drawable="liftago"/>
 
     <!-- Light House -->
     <item component="ComponentInfo{com.bananadevelopment.lighthouse/md54c141cce6222f129d1b82da10b59cd89.SplashActivity}" drawable="lighthouse" />
@@ -2684,6 +2690,9 @@
 
     <!-- PSLab -->
     <item component="ComponentInfo{io.pslab/io.pslab.activity.SplashActivity}" drawable="pslab" />
+
+    <!-- Pubtran -->
+    <item component="ComponentInfo{cz.fhejl.pubtran/cz.fhejl.pubtran.activity.MainActivity}" drawable="pubtran"/>
 
     <!-- Public Services Portal of the Russian Federation -->
     <item component="ComponentInfo{ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen}" drawable="gosuslugi" />
@@ -3775,6 +3784,9 @@
 
     <!-- Survival Manual -->
     <item component="ComponentInfo{org.ligi.survivalmanual/org.ligi.survivalmanual.ui.MainActivity}" drawable="survivalmanual" />
+
+    <!-- Suunto -->
+    <item component="ComponentInfo{com.stt.android.suunto/com.stt.android.launcher.ProxyActivity}" drawable="suunto"/>
 
     <!-- SWeb -->
     <item component="ComponentInfo{landau.sweb/landau.sweb.MainActivity}" drawable="sweb" />
