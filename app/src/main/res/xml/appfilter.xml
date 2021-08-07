@@ -440,6 +440,9 @@
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
 
+    <!-- Bubble (Level) -->
+    <item component="ComponentInfo{net.androgames.level/net.androgames.level.Level}" drawable="bubblelevel" />
+
     <!-- Budget Watch -->
     <item component="ComponentInfo{protect.budgetwatch/protect.budgetwatch.MainActivity}" drawable="budgetwatc" />
 
