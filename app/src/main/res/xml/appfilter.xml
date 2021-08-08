@@ -251,7 +251,7 @@
     <item component="ComponentInfo{net.nullsum.audinaut/net.nullsum.audinaut.activity.SubsonicFragmentActivity}" drawable="audinaut" />
 
     <!-- AudioAnchor -->
-    <item component="ComponentInfo{com.prangesoftwaresolutions.audioanchor/com.prangesoftwaresolutions.audioanchor.MainActivity}" drawable="audioanchor" />
+    <item component="ComponentInfo{com.prangesoftwaresolutions.audioanchor/com.prangesoftwaresolutions.audioanchor.activities.MainActivity}" drawable="audioanchor" />
 
     <!-- AudioFX -->
     <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="audiofx" />
