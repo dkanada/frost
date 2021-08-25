@@ -2,12 +2,14 @@ package com.dkanada.icecons.views;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
+import android.os.Build;
 import android.view.Gravity;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.widget.LinearLayoutCompat;
 import androidx.core.content.res.ResourcesCompat;
 
@@ -34,6 +36,7 @@ public class CenterButton extends LinearLayoutCompat {
         this.textView = new TextView(context);
 
         textView.setTextSize(24);
+        textView.setAutoSizeTextTypeWithDefaults(TextView.AUTO_SIZE_TEXT_TYPE_UNIFORM);
         textView.setPadding(padding, padding, padding, padding);
 
         button.addView(imageView);
