@@ -8,6 +8,7 @@
 
     <!-- 2048 -->
     <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="a2048" />
+    <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="a2048b"/>
 
     <!-- 2050 -->
     <item component="ComponentInfo{org.mattvchandler.a2050/org.mattvchandler.a2050.MainActivity}" drawable="a2050" />
@@ -393,6 +394,7 @@
     <item component="ComponentInfo{org.blokada.alarm/core.MainActivity}" drawable="blokada" />
     <item component="ComponentInfo{org.blokada.alarm/core.PanelActivity}" drawable="blokada" />
     <item component="ComponentInfo{org.blokada.origin.alarm/core.PanelActivity}" drawable="blokada" />
+    <item component="ComponentInfo{org.blokada.origin.alarm/ui.MainActivity}" drawable="blokada"/>
 
     <!-- Blue Minimal -->
     <item component="ComponentInfo{de.baumann.thema/de.baumann.thema.MainActivity}" drawable="blueminimal" />

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <mask id="m">
+        <rect width="48" height="48" fill="#fff"/>
+        <text x="2" y="32" fill="black" font-family="arial" font-size="20">2048</text>
+    </mask>
+    <rect width="48" height="48" rx="5" ry="5" fill="#fff" mask="url(#m)"/>
+</svg>
