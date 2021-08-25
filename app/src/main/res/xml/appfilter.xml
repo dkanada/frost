@@ -2441,6 +2441,9 @@
     <!-- Organ Trail: Director's Cut -->
     <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
 
+    <!-- Organic Maps -->
+    <item component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="organicmaps" />
+
     <!-- Orgzly -->
     <item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly" />
 
