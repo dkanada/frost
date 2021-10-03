@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m24 2a22 22 0 0 0-20.326 13.58 22 22 0 0 0 4.7695 23.977 22 22 0 0 0 23.977 4.7695 22 22 0 0 0 13.58-20.326h-22v-22zm-9 9.748h2v3.252h3.252v2h-3.252v3.252h-2v-3.252h-3.252v-2h3.252v-3.252zm-1.2988 16.539 2.2988 2.2988 2.2988-2.2988 1.4141 1.4141-2.2988 2.2988 2.2988 2.2988-1.4141 1.4141-2.2988-2.2988-2.2988 2.2988-1.4141-1.4141 2.2988-2.2988-2.2988-2.2988 1.4141-1.4141zm14.047 2.7129h8.5039v2h-8.5039v-2z" fill="#fff"/>
+    <path d="m27.748 13v2h8.5039v-2zm0 4v2h8.5039v-2z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

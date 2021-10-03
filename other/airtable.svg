@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <rect transform="matrix(.86603 .5 -.86603 .5 0 0)" x="17.614" y="-8.8961" width="21.932" height="21.932" rx="2.1932" fill="#fff" style="paint-order:stroke markers fill"/>
+    <rect transform="matrix(.86603 -.5 0 1 0 0)" x="27.777" y="41.275" width="20.8" height="16.449" rx="2.1932" fill="#fff" style="paint-order:stroke markers fill"/>
+    <path d="m5.206 17.747c-0.15716 0.41031-0.25487 0.82988-0.25487 1.2251v12.062c0 1.215 0.84751 1.7041 1.8997 1.0966l11.581-6.6844-12.746-7.3591c-0.18242-0.10533-0.32669-0.22475-0.47975-0.34054z" fill="#fff" style="paint-order:stroke markers fill"/>
+</svg>
