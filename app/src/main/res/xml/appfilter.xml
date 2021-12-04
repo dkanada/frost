@@ -440,6 +440,9 @@
     <!-- Bubble -->
     <item component="ComponentInfo{com.nkanaev.comics/com.nkanaev.comics.activity.MainActivity}" drawable="bubble" />
 
+    <!-- Bubble (Level) -->
+    <item component="ComponentInfo{net.androgames.level/net.androgames.level.Level}" drawable="bubblelevel" />
+
     <!-- Budget Watch -->
     <item component="ComponentInfo{protect.budgetwatch/protect.budgetwatch.MainActivity}" drawable="budgetwatc" />
 
@@ -1228,6 +1231,9 @@
 
     <!-- Freezer -->
     <item component="ComponentInfo{f.f.freezer/f.f.freezer.MainActivity}" drawable="freezer" />
+
+    <!-- Fritter -->
+    <item component="ComponentInfo{com.jonjomckay.fritter/com.jonjomckay.fritter.MainActivity}" drawable="fritter" />
 
     <!-- Frost Facebook-->
     <item component="ComponentInfo{com.pitchedapps.frost/com.pitchedapps.frost.StartActivity}" drawable="frostfacebook" />
@@ -2434,6 +2440,9 @@
 
     <!-- Organ Trail: Director's Cut -->
     <item component="ComponentInfo{com.hatsproductions.OrganTrail/com.mikamikem.AndroidUnity.AndroidUnityActivity}" drawable="organtrail" />
+
+    <!-- Organic Maps -->
+    <item component="ComponentInfo{app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity}" drawable="organicmaps" />
 
     <!-- Orgzly -->
     <item component="ComponentInfo{com.orgzly/com.orgzly.android.ui.MainActivity}" drawable="orgzly" />
@@ -4162,6 +4171,9 @@
     <!-- Weather -->
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="weather" />
+
+    <!-- Weather (Beowulf) -->
+    <item component="ComponentInfo{de.beowulf.wetter/de.beowulf.wetter.LaunchActivity}" drawable="weatherbeowulf" />
 
     <!-- WebApps -->
     <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps" />
