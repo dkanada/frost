@@ -4172,6 +4172,9 @@
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.MainActivity}" drawable="weather" />
     <item component="ComponentInfo{de.baumann.weather/de.baumann.weather.helper.SplashActivity}" drawable="weather" />
 
+    <!-- Weather (Beowulf) -->
+    <item component="ComponentInfo{de.beowulf.wetter/de.beowulf.wetter.LaunchActivity}" drawable="weatherbeowulf" />
+
     <!-- WebApps -->
     <item component="ComponentInfo{com.tobykurien.webapps/com.tobykurien.webapps.activity.MainActivity}" drawable="webapps" />
 
