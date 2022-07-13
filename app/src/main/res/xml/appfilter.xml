@@ -650,7 +650,7 @@
     <item component="ComponentInfo{com.viewer.comicscreen/com.viewer.comicscreen.ListActivity}" drawable="comicscreen" />
 
     <!-- Commons -->
-    <item component="fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity" drawable="commons" />
+    <item component="ComponentInfo{fr.free.nrw.commons/fr.free.nrw.commons.auth.LoginActivity}" drawable="commons" />
 
     <!-- Common Voice -->
     <item component="ComponentInfo{org.commonvoice.saverio/org.commonvoice.saverio.MainActivity}" drawable="commonvoice" />
@@ -923,9 +923,6 @@
 
     <!-- Easy xkcd -->
     <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easyxkcd" />
-
-    <!-- Easy XKCD -->
-    <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity" drawable="easyxkcd" />
 
     <!-- eBay -->
     <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}" drawable="ebay" />
@@ -2277,7 +2274,7 @@
     <item component="ComponentInfo{nl.nos.app/nl.nos.app.activity.RedirectActivity}" drawable="nos" />
 
     <!-- Nosurf for Reddit -->
-    <item component="ComponentInfo{com.aaronhalbert.nosurfforreddit/com.aaronhalbert.nosurfforreddit.MainActivity" drawable="nosurfforreddit" />
+    <item component="ComponentInfo{com.aaronhalbert.nosurfforreddit/com.aaronhalbert.nosurfforreddit.MainActivity}" drawable="nosurfforreddit" />
 
     <!-- Notable -->
     <item component="ComponentInfo{com.blackberry.jot/com.blackberry.jot.MainActivity}" drawable="notable" />
@@ -3738,7 +3735,7 @@
     <item component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" drawable="streetcomplete" />
 
     <!-- Stumbler -->
-    <item component="org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity" drawable="stumbler" />
+    <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="stumbler" />
 
     <!-- Subsonic -->
     <item component="ComponentInfo{net.sourceforge.subsonic.androidapp/net.sourceforge.subsonic.androidapp.activity.MainActivity}" drawable="dsub" />
@@ -3780,7 +3777,7 @@
     <item component="ComponentInfo{landau.sweb/landau.sweb.MainActivity}" drawable="sweb" />
 
     <!-- Swedbank -->
-    <item component="se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity" drawable="swedbank" />
+    <item component="ComponentInfo{se.swedbank.mobil/se.swedbank.mobilbank.general.StartActivity}" drawable="swedbank" />
     <item component="ComponentInfo{se.swedbank.mobil/se.swedbank.mobilbank.general.SplashActivity}" drawable="swedbank" />
 
     <!-- SwiftKey -->
@@ -3940,10 +3937,10 @@
     <item component="ComponentInfo{com.michgauz.velotoulouse.view/com.michgauz.velibco.view.GlobalActivity}" drawable="bikelocation" />
 
     <!-- Tower Collector -->
-    <item component="ComponentInfo{info.zamojski.soft.towercollector/info.zamojski.soft.towercollector.SplashActivity" drawable="towercollector" />
+    <item component="ComponentInfo{info.zamojski.soft.towercollector/info.zamojski.soft.towercollector.SplashActivity}" drawable="towercollector" />
 
     <!-- TowerJumper -->
-    <item component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot" drawable="towerjumper" />
+    <item component="ComponentInfo{org.pipoypipagames.towerjumper/org.godotengine.godot.Godot}" drawable="towerjumper" />
 
     <!-- Trackbook -->
     <item component="ComponentInfo{org.y20k.trackbook/org.y20k.trackbook.MainActivity}" drawable="trackbook" />
